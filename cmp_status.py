@@ -16,5 +16,5 @@ try:
     df["BgName"] = df["BgName"].str.rstrip(";,")
     df.sort_values(["x", "y"])
 except KeyError:
-    print("All CMP customers may just have power right now!"
+    print("All CMP customers may just have power right now!")
 df.to_csv("cmp_outages.csv", index=False)
