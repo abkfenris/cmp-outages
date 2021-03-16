@@ -11,8 +11,10 @@ for feature in j["features"]:
     rows.append({**feature["attributes"], **feature["geometry"]})
 
 df = pd.DataFrame(rows)
-df = df.drop(["OBJECTID", "NumServed", "PercentOut", "Company"], axis=1)
-df["BgName"] = df["BgName"].str.rstrip(";,")
-df.sort_values(["x", "y"])
-
+try:
+    df = df.drop(["OBJECTID", "NumServed", "PercentOut", "Company"], axis=1)
+    df["BgName"] = df["BgName"].str.rstrip(";,")
+    df.sort_values(["x", "y"])
+except KeyError:
+    print("All CMP customers may just have power right now!"
 df.to_csv("cmp_outages.csv", index=False)
