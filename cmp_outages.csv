@@ -1,12 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-STOCKTON SPRINGS,17,Assessing,Assessing,,Investigating,Investigating,-7659760.104090005,5550298.116491122
-STOCKTON SPRINGS,10,Assessing,Assessing,,Investigating,Investigating,-7659827.596545632,5549038.3064004835
-SACO,77,Assessing,Assessing,,Investigating,Investigating,-7842921.304732638,5389205.390709226
 SACO,55,Assessing,Assessing,,Investigating,Investigating,-7841094.47835957,5388301.321445409
-VASSALBORO,24,Assessing,Assessing,,Investigating,Investigating,-7755684.95515959,5542937.715415905
-ACTON,11,Assessing,Assessing,,Investigating,Investigating,-7895091.76347456,5382950.498651631
-BELMONT,15,Assessing,Assessing,,Investigating,Investigating,-7694234.794090919,5523933.389701885
-NORTHPORT,5,Assessing,Assessing,,Investigating,Investigating,-7676983.218509786,5519071.268923937
+PROSPECT; STOCKTON SPRINGS,56,Assessing,Assessing,,Investigating,Investigating,-7659669.488849172,5552087.051161948
+ACTON,11,Assessing,Assessing,,Assessing,Investigating,-7895091.762773777,5382950.492996366
 CHINA,270,6/30/2021 6:00:00 PM,6/30/2021 6:00:00 PM,,Assessing,Investigating,-7738970.162189239,5539495.067742779
 "PALERMO,LIBERTY,FREEDOM",197,6/30/2021 7:45:00 PM,6/30/2021 7:45:00 PM,,Assessing,Tree,-7727982.149163892,5533138.829217486
 BELGRADE,73,Assessing,Assessing,,Assessing,Investigating,-7776125.257417143,5535491.2269609785
@@ -15,7 +10,6 @@ LOVELL,13,6/30/2021 7:45:00 PM,6/30/2021 7:45:00 PM,,Assessing,Investigating,-78
 JAY,35,Assessing,Assessing,,Assessing,Investigating,-7823031.973569409,5551336.256788968
 "SO BERWICK,YORK",66,Assessing,Assessing,,Assessing,Investigating,-7872373.781227891,5348369.43258049
 BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7892294.281684138,5358339.969066956
-BIDDEFORD,45,Assessing,Assessing,,Assessing,Investigating,-7843938.241460425,5387615.765374969
 BUXTON,27,Assessing,Assessing,,Assessing,Investigating,-7852676.209232855,5411118.5837123385
 "SCARBOROUGH,SACO",36,Assessing,Assessing,,Assessing,Investigating,-7838970.442169724,5400093.6666461015
 CUMBERLAND,6,Assessing,Assessing,,Assessing,Investigating,-7822878.152271436,5432210.885243155
@@ -30,7 +24,7 @@ BIDDEFORD,36,Assessing,Assessing,,Assessing,Investigating,-7843300.1359219095,53
 SACO,205,Assessing,Assessing,,Assessing,Investigating,-7844260.845305001,5388709.927858163
 SACO,26,Assessing,Assessing,,Assessing,Investigating,-7843703.390752655,5390109.973364221
 SACO,28,Assessing,Assessing,,Assessing,Investigating,-7844332.63527155,5390290.345204432
-WELLS,46,Assessing,Assessing,,Assessing,Investigating,-7858062.3360276725,5353810.89837726
+SACO,77,Assessing,Assessing,,Assessing,Investigating,-7842921.304532414,5389205.388914877
 SCARBOROUGH,3,Assessing,Assessing,,Assessing,Investigating,-7824632.3804731965,5400772.111366922
 SCARBOROUGH,71,Assessing,Assessing,,Assessing,Investigating,-7824763.59276111,5400937.692589413
 PORTLAND,74,Assessing,Assessing,,Assessing,Investigating,-7826003.536037525,5414342.988755697
@@ -54,8 +48,10 @@ LEBANON,563,Assessing,Assessing,,Assessing,Investigating,-7897668.007496454,5372
 LEBANON,35,Assessing,Assessing,,Assessing,Investigating,-7894504.073774941,5372987.7832996305
 "LEBANNON,LEBANON",2,Assessing,Assessing,,Assessing,Investigating,-7892297.042374638,5373342.579077954
 LEBANON,18,Assessing,Assessing,,Assessing,Investigating,-7894184.597932062,5363618.174741115
+NORTHPORT,5,Assessing,Assessing,,Assessing,Investigating,-7676983.217308443,5519071.269203921
 ISLESBORO,2,Assessing,Assessing,,Assessing,Investigating,-7670730.501695459,5522218.63725384
 BELFAST,2,Assessing,Assessing,,Assessing,Investigating,-7686035.540191255,5534512.195870639
+BELMONT,15,Assessing,Assessing,,Assessing,Investigating,-7694234.79949697,5523933.396004794
 SEARSMONT,59,Assessing,Assessing,,Assessing,Investigating,-7701750.757569048,5521181.133479559
 MONROE,24,Assessing,Assessing,,Assessing,Investigating,-7690320.872982773,5564432.664765062
 MONROE,50,Assessing,Assessing,,Assessing,Investigating,-7690274.942565155,5564172.5252836505
@@ -63,7 +59,7 @@ MONROE,50,Assessing,Assessing,,Assessing,Investigating,-7690274.942565155,556417
 "JACKSON,DIXMONT",43,Assessing,Assessing,,Crew Assigned,Investigating,-7695269.013265848,5561478.020128909
 BUCKSPORT,72,Assessing,Assessing,,Assessing,Investigating,-7657976.015360356,5554602.936291729
 "VERONA,VERONA ISLAND",83,Assessing,Assessing,,Assessing,Investigating,-7657544.273839682,5553342.782470573
-VERONA,142,Assessing,Assessing,,Assessing,Investigating,-7658207.838178505,5551797.662291099
+VERONA,18,Assessing,Assessing,,Assessing,Investigating,-7658429.731280661,5551303.342485703
 VERONA,3,Assessing,Assessing,,Assessing,Investigating,-7657671.200329779,5553736.974858621
 ORLAND,69,Assessing,Assessing,,Assessing,Investigating,-7655057.785996927,5554025.645546563
 BUCKSPORT,23,Assessing,Assessing,,Assessing,Investigating,-7658090.518542962,5555725.447771273
@@ -73,7 +69,6 @@ ORLAND,20,Assessing,Assessing,,Assessing,Investigating,-7642954.329468639,555063
 "PENOBSCOT,ORLAND",185,Assessing,Assessing,,Assessing,Investigating,-7643097.909401731,5546415.954363577
 ORLAND,52,Assessing,Assessing,,Assessing,Investigating,-7648294.481295966,5552079.194356205
 "PENOBSCOT,CASTINE",106,Assessing,Assessing,,Assessing,Investigating,-7652085.41091912,5538248.657307519
-BURNHAM,11,Assessing,Assessing,,Assessing,Investigating,-7717657.689364931,5569714.016461133
 DIXMONT,2,6/30/2021 5:15:00 PM,6/30/2021 5:15:00 PM,,Assessing,Investigating,-7694552.850444726,5574803.609068693
 "OAKLAND,WATERVILLE",52,Assessing,Assessing,,Assessing,Investigating,-7761949.833488337,5545929.233441223
 FRANKFORT,39,Assessing,Assessing,,Assessing,Investigating,-7666968.00309992,5557675.322045441
@@ -83,6 +78,7 @@ DIXMONT,130,Assessing,Assessing,,Assessing,Investigating,-7698973.826084022,5571
 DIXMONT,14,Assessing,Assessing,,Assessing,Investigating,-7699516.118963374,5572526.914305603
 FREEDOM,17,Assessing,Assessing,,Assessing,Investigating,-7719543.8645771025,5538633.725674254
 VASSALBORO,2,Assessing,Assessing,,Assessing,Investigating,-7756241.525822454,5541869.176496302
+VASSALBORO,24,Assessing,Assessing,,Assessing,Investigating,-7755684.950654546,5542937.708819124
 VASSALBORO,11,Assessing,Assessing,,Assessing,Investigating,-7752656.069820373,5539888.894508998
 VASSALBORO,14,Assessing,Assessing,,Assessing,Investigating,-7750247.984246425,5541066.70109536
 THE FORKS PLT,50,6/30/2021 5:30:00 PM,6/30/2021 5:30:00 PM,,Assessing,Investigating,-7785099.200256028,5662862.446031237
