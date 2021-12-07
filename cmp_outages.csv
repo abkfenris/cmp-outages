@@ -1,5 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WEST BATH,40,Assessing,Assessing,,Investigating,Investigating,-7777144.106986295,5442998.212010058
+WALDOBORO,17,Assessing,Assessing,,Investigating,Investigating,-7725615.391855602,5477855.579443373
+SCARBOROUGH,13,Assessing,Assessing,,Investigating,Investigating,-7825443.773701686,5401377.084787731
 UPTON,72,Assessing,Assessing,,Assessing,Investigating,-7904920.260759518,5573497.85046173
 UPTON,6,Assessing,Assessing,,Assessing,Investigating,-7904940.91057632,5573239.533625325
 UPTON,3,Assessing,Assessing,,Assessing,Investigating,-7907102.23410814,5575086.419294646
@@ -34,6 +35,7 @@ CUSHING,1,Assessing,Assessing,,Assessing,Investigating,-7714434.767508108,546112
 WALDOBORO,3,Assessing,Assessing,,Assessing,Investigating,-7722894.169435075,5472107.834776561
 "WAYNE,READFIELD",28,Assessing,Assessing,,Assessing,Investigating,-7795791.31493274,5523676.498862598
 ARROWSIC,41,Assessing,Assessing,,Assessing,Investigating,-7767192.825648557,5448273.625279464
+WEST BATH,40,Assessing,Assessing,,Assessing,Investigating,-7777144.10908865,5442998.2167303795
 WEST BATH,9,Assessing,Assessing,,Assessing,Investigating,-7777179.363955335,5448004.692804742
 BELGRADE,1,Assessing,Assessing,,Assessing,Investigating,-7781364.999138602,5535353.811534434
 ROCKPORT,1,Assessing,Assessing,,Assessing,Investigating,-7690278.248766341,5487692.162857315
@@ -45,10 +47,8 @@ WINDHAM,11,Assessing,Assessing,,Assessing,Investigating,-7829225.656397099,54366
 NEW GLOUCESTER,13,Assessing,Assessing,,Assessing,Investigating,-7831069.307605019,5458932.204773855
 "NEW GLOUCESTER,POLAND",41,Assessing,Assessing,,Assessing,Investigating,-7835328.335649221,5464734.373541338
 GRAY,51,Assessing,Assessing,,Assessing,Investigating,-7838675.579180144,5448203.298353343
-SEBAGO,123,Assessing,Assessing,,Assessing,Investigating,-7861506.88388764,5452289.502385867
 BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7882507.862404141,5349402.100658067
 SO BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7880226.681195529,5350279.218076721
-BERWICK,338,Assessing,Assessing,,Assessing,Investigating,-7889134.010362561,5357755.110906651
 "BUXTON,GORHAM",678,Assessing,Assessing,,Assessing,Investigating,-7857816.609344593,5415868.393471138
 WESTBROOK,1,Assessing,Assessing,,Assessing,Investigating,-7830336.0349299675,5415660.740407103
 CUMBERLAND,5,Assessing,Assessing,,Assessing,Investigating,-7826722.504099024,5434997.289046501
@@ -67,7 +67,6 @@ LIMINGTON,37,Assessing,Assessing,,Assessing,Investigating,-7871695.366864948,542
 "LIMINGTON,WINDHAM",325,Assessing,Assessing,,Assessing,Investigating,-7871275.057842582,5423481.422262382
 LIMINGTON,165,Assessing,Assessing,,Assessing,Investigating,-7865779.081074271,5432715.700284171
 STANDISH,6,Assessing,Assessing,,Assessing,Investigating,-7845601.72197308,5437334.999009404
-PORTLAND,2743,Assessing,Assessing,,Assessing,Investigating,-7823097.674319274,5410404.367663338
 PORTLAND,21,Assessing,Assessing,,Assessing,Investigating,-7822696.668105781,5412094.44169513
 "SANFORD,BRUNSWICK",84,Assessing,Assessing,,Assessing,Investigating,-7873989.02704336,5373993.479141878
 NO BERWICK,41,Assessing,Assessing,,Assessing,Investigating,-7877313.060491346,5357702.860123901
@@ -80,7 +79,7 @@ HOLLIS,24,Assessing,Assessing,,Assessing,Investigating,-7860531.680579064,540332
 HOLLIS,83,Assessing,Assessing,,Assessing,Investigating,-7855563.213440728,5405525.954321315
 BUXTON,38,Assessing,Assessing,,Assessing,Investigating,-7846630.737122272,5410959.542843274
 WINDHAM,6,Assessing,Assessing,,Assessing,Investigating,-7841297.420346564,5430709.293759719
-WINDHAM,6,12/7/2021 3:00:00 AM,12/7/2021 3:00:00 AM,,Assessing,Investigating,-7835200.941635747,5431034.272626655
+WINDHAM,6,Assessing,Assessing,,Assessing,Investigating,-7835200.941635747,5431034.272626655
 KITTERY,8,Assessing,Assessing,,Assessing,Investigating,-7869929.550290377,5325002.385998215
 KITTERY,95,Assessing,Assessing,,Assessing,Investigating,-7868289.112873723,5324840.346903176
 YORK,1987,Assessing,Assessing,,Assessing,Investigating,-7867995.863991082,5334605.13095032
@@ -103,7 +102,7 @@ CLINTON,2,Assessing,Assessing,,Assessing,Investigating,-7737312.882117778,556571
 ST ALBANS,17,Assessing,Assessing,,Assessing,Investigating,-7723377.930489934,5610990.701638175
 NEW VINEYARD,5,Assessing,Assessing,,Assessing,Investigating,-7811676.261216551,5588539.561766702
 "PALMYRA,NEWPORT",65,Assessing,Assessing,,Assessing,Investigating,-7716226.499293912,5602762.435986621
-"STRONG,PHILLIPS,FREEMAN,AVON",87,Assessing,Assessing,,Assessing,Investigating,-7817085.074808504,5594297.081946472
+MADRID,16,Assessing,Assessing,,Assessing,Investigating,-7835086.594227517,5607502.810900351
 "PROSPECT,STOCKTON SPRINGS",11,Assessing,Assessing,,Assessing,Investigating,-7671884.884790013,5546986.688282259
 SEARSPORT,3,Assessing,Assessing,,Assessing,Investigating,-7677841.746604233,5539405.8143355
 FREEDOM,45,Assessing,Assessing,,Assessing,Investigating,-7717545.256700199,5545939.4125428805
