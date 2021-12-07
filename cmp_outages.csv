@@ -1,12 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-BUCKSPORT,208,Assessing,Assessing,,Investigating,Investigating,-7660583.422368204,5559053.633978341
-EMBDEN,70,Assessing,Assessing,,Investigating,Investigating,-7785055.0703540305,5602946.704360791
-BUCKSPORT,20,Assessing,Assessing,,Investigating,Investigating,-7662527.066815322,5563603.919697169
-EMBDEN,21,Assessing,Assessing,,Investigating,Investigating,-7785592.557153123,5606210.494807741
-EMBDEN,24,Assessing,Assessing,,Investigating,Investigating,-7781450.927232324,5604909.833612732
-UPTON,72,Assessing,Assessing,,Assessing,Investigating,-7904920.260759518,5573497.85046173
-UPTON,6,Assessing,Assessing,,Assessing,Investigating,-7904940.91057632,5573239.533625325
-UPTON,3,Assessing,Assessing,,Assessing,Investigating,-7907102.23410814,5575086.419294646
+EDGECOMB,27,Assessing,Assessing,,Investigating,Investigating,-7751224.19047774,5459032.831439133
+BUCKSPORT,308,Assessing,Assessing,,Investigating,Investigating,-7659757.996230324,5556791.819690524
 SOUTHPORT,7,Assessing,Assessing,,Assessing,Investigating,-7755136.713320574,5440088.87792847
 SOUTHPORT,98,Assessing,Assessing,,Assessing,Investigating,-7756523.353419333,5438226.503251188
 BOOTHBAY,1,Assessing,Assessing,,Assessing,Investigating,-7747217.210993754,5444447.942830779
@@ -25,7 +19,6 @@ EDGECOMB,9,Assessing,Assessing,,Assessing,Investigating,-7751576.782793439,54616
 GARDINER,18,Assessing,Assessing,,Assessing,Investigating,-7765644.160067508,5492342.257971694
 "WINTHROP,READFIELD",29,Assessing,Assessing,,Assessing,Investigating,-7781003.923225791,5516678.6582409525
 VASSALBORO,45,Assessing,Assessing,,Assessing,Investigating,-7755856.983840133,5527969.197097084
-OWLS HEAD,15,Assessing,Assessing,,Assessing,Investigating,-7691379.91094153,5478077.3188806595
 OWLS HEAD,209,Assessing,Assessing,,Assessing,Investigating,-7691194.107640742,5474847.630551151
 ROCKLAND,6,Assessing,Assessing,,Assessing,Investigating,-7693657.99758588,5480570.697529694
 ALNA,9,Assessing,Assessing,,Assessing,Investigating,-7751183.735890137,5483394.5671075815
@@ -47,14 +40,13 @@ ROCKLAND,21,Assessing,Assessing,,Assessing,Investigating,-7695701.756608033,5488
 BELGRADE,18,Assessing,Assessing,,Assessing,Investigating,-7773923.023988019,5542014.13393869
 BRIDGTON,29,Assessing,Assessing,,Assessing,Investigating,-7871059.398619056,5465012.322506454
 AUBURN,455,Assessing,Assessing,,Assessing,Investigating,-7815112.627016971,5486332.223357418
-"GRAY,NEW GLOUCESTER,DURHAM,POWNAL",2212,12/7/2021 5:00:00 AM,12/7/2021 5:00:00 AM,,Assessing,Investigating,-7828900.570173583,5446491.412674954
 WINDHAM,11,Assessing,Assessing,,Assessing,Investigating,-7829225.656397099,5436671.016807908
 "GRAY,WINDHAM",144,Assessing,Assessing,,Assessing,Investigating,-7828678.064685881,5439434.249346724
 NEW GLOUCESTER,13,Assessing,Assessing,,Assessing,Investigating,-7831069.307605019,5458932.204773855
 "LOVELL,STONEHAM,STOW",354,Assessing,Assessing,,Assessing,Investigating,-7891756.241165168,5489434.155022378
+WEST PARIS,27,Assessing,Assessing,,Assessing,Investigating,-7854601.635685519,5511524.1141785225
 BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7882507.862404141,5349402.100658067
 SO BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7880226.681195529,5350279.218076721
-"BUXTON,GORHAM",678,Assessing,Assessing,,Assessing,Investigating,-7857816.609344593,5415868.393471138
 WESTBROOK,1,Assessing,Assessing,,Assessing,Investigating,-7830336.0349299675,5415660.740407103
 CUMBERLAND,5,Assessing,Assessing,,Assessing,Investigating,-7826722.504099024,5434997.289046501
 CUMBERLAND,2,Assessing,Assessing,,Assessing,Investigating,-7820437.038323294,5430601.853885474
@@ -104,19 +96,16 @@ SEARSMONT,8,Assessing,Assessing,,Assessing,Investigating,-7705484.647037592,5524
 "BUCKSPORT,ORLAND,CASTINE,PENOBSCOT",3951,Assessing,Assessing,,Assessing,Investigating,-7659723.397398055,5556654.527165359
 "PITTSFIELD,BURNHAM",44,Assessing,Assessing,,Assessing,Investigating,-7725867.768983635,5581958.848649097
 CLINTON,2,Assessing,Assessing,,Assessing,Investigating,-7737312.882117778,5565715.355414189
-LONG POND TWP,4,Assessing,Assessing,,Assessing,Investigating,-7803355.396377373,5720198.059012147
-NEW VINEYARD,5,Assessing,Assessing,,Assessing,Investigating,-7811676.261216551,5588539.561766702
-MADRID,16,Assessing,Assessing,,Assessing,Investigating,-7835086.594227517,5607502.810900351
 "PROSPECT,STOCKTON SPRINGS",11,Assessing,Assessing,,Assessing,Investigating,-7671884.884790013,5546986.688282259
 SEARSPORT,3,Assessing,Assessing,,Assessing,Investigating,-7677841.746604233,5539405.8143355
+FREEMAN,20,Assessing,Assessing,,Assessing,Investigating,-7808877.811642726,5612315.360054084
 INDUSTRY,63,Assessing,Assessing,,Assessing,Investigating,-7800469.906164367,5577578.98238095
 FREEDOM,45,Assessing,Assessing,,Assessing,Investigating,-7717545.256700199,5545939.4125428805
 KNOX,95,Assessing,Assessing,,Assessing,Investigating,-7707857.778181187,5546636.162120646
-EMBDEN,270,Assessing,Assessing,,Assessing,Investigating,-7785668.365718362,5606548.778203752
+"EMBDEN,ANSON,WINDHAM",886,Assessing,Assessing,,Assessing,Investigating,-7777951.275585446,5611592.344715973
 BENTON,4,Assessing,Assessing,,Assessing,Investigating,-7742697.584017466,5555224.459831924
 ROME,35,Assessing,Assessing,,Assessing,Investigating,-7775230.493658041,5552888.563642281
-"RANGELEY,MAGALLOWAY PLT,DAVIS,STETSONTOWN,LINCOLN PLT,ADAMSTOWN,LOWER CUPSUPTIC",272,Assessing,Assessing,,Assessing,Investigating,-7877790.788091948,5616458.493540162
-MAGALLOWAY PLT,76,Assessing,Assessing,,Assessing,Investigating,-7907984.830746545,5605382.269301347
+RANGELEY,1,Assessing,Assessing,,Assessing,Investigating,-7871724.1318664355,5618340.270402709
 "CARRABASSETT VAL,CARRABASSETT VALLEY",37,Assessing,Assessing,,Assessing,Investigating,-7820056.770926239,5633402.189386817
 LINCOLNVILLE,2,Assessing,Assessing,,Assessing,Investigating,-7692593.059622256,5508758.564480311
 LEBANON,1,Assessing,Assessing,,Assessing,Investigating,-7891481.938792529,5369065.051209328
