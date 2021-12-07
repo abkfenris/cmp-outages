@@ -1,7 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PORTLAND,188,Assessing,Assessing,,Investigating,Investigating,-7825185.53541227,5414531.850284122
+CORNISH,26,Assessing,Assessing,,Investigating,Investigating,-7881535.0713960575,5433592.5697019
 SOUTHPORT,7,Assessing,Assessing,,Assessing,Investigating,-7755136.713320574,5440088.87792847
-SOUTHPORT,98,Assessing,Assessing,,Assessing,Investigating,-7756523.353419333,5438226.503251188
 BOOTHBAY,1,Assessing,Assessing,,Assessing,Investigating,-7747217.210993754,5444447.942830779
 BRISTOL,42,Assessing,Assessing,,Assessing,Investigating,-7739481.9646355305,5450061.652263656
 "BRISTOL,BREMEN",87,Assessing,Assessing,,Assessing,Investigating,-7732226.850369663,5457946.364254905
@@ -32,6 +31,7 @@ CUSHING,1,Assessing,Assessing,,Assessing,Investigating,-7714434.767508108,546112
 WALDOBORO,3,Assessing,Assessing,,Assessing,Investigating,-7722894.169435075,5472107.834776561
 WALDOBORO,17,Assessing,Assessing,,Assessing,Investigating,-7725615.396560869,5477855.581394418
 "WAYNE,READFIELD",28,Assessing,Assessing,,Assessing,Investigating,-7795791.31493274,5523676.498862598
+WOOLWICH,6,Assessing,Assessing,,Assessing,Investigating,-7764911.332690952,5457113.029337723
 ARROWSIC,41,Assessing,Assessing,,Assessing,Investigating,-7767192.825648557,5448273.625279464
 WEST BATH,9,Assessing,Assessing,,Assessing,Investigating,-7777179.363955335,5448004.692804742
 MT VERNON,12,Assessing,Assessing,,Assessing,Investigating,-7789401.910100595,5538808.474213608
@@ -43,6 +43,7 @@ WINDHAM,11,Assessing,Assessing,,Assessing,Investigating,-7829225.656397099,54366
 WEST PARIS,27,Assessing,Assessing,,Assessing,Investigating,-7854601.635685519,5511524.1141785225
 BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7882507.862404141,5349402.100658067
 SO BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7880226.681195529,5350279.218076721
+PORTLAND,188,Assessing,Assessing,,Assessing,Investigating,-7825185.538115296,5414531.851944987
 WESTBROOK,1,Assessing,Assessing,,Assessing,Investigating,-7830336.0349299675,5415660.740407103
 CUMBERLAND,5,Assessing,Assessing,,Assessing,Investigating,-7826722.504099024,5434997.289046501
 CUMBERLAND,2,Assessing,Assessing,,Assessing,Investigating,-7820437.038323294,5430601.853885474
@@ -89,14 +90,13 @@ BUCKSPORT,308,Assessing,Assessing,,Assessing,Investigating,-7659757.995529542,55
 CLINTON,2,Assessing,Assessing,,Assessing,Investigating,-7737312.882117778,5565715.355414189
 "PROSPECT,STOCKTON SPRINGS",11,Assessing,Assessing,,Assessing,Investigating,-7671884.884790013,5546986.688282259
 SEARSPORT,3,Assessing,Assessing,,Assessing,Investigating,-7677841.746604233,5539405.8143355
-FREEMAN,20,Assessing,Assessing,,Assessing,Investigating,-7808877.811642726,5612315.360054084
 FREEDOM,45,Assessing,Assessing,,Assessing,Investigating,-7717545.256700199,5545939.4125428805
 KNOX,95,Assessing,Assessing,,Assessing,Investigating,-7707857.778181187,5546636.162120646
 BENTON,4,Assessing,Assessing,,Assessing,Investigating,-7742697.584017466,5555224.459831924
 ROME,35,Assessing,Assessing,,Assessing,Investigating,-7775230.493658041,5552888.563642281
 "MAGALLOWAY PLT,DAVIS,RANGELEY PLT,STETSONTOWN,LINCOLN PLT,RANGLEY,ADAMSTOWN,LOWER CUPSUPTIC,RANGELY",1906,Assessing,Assessing,,Assessing,Investigating,-7863402.699291696,5615566.019630154
-"EUSTIS,COBURN GORE",914,Assessing,Assessing,,Assessing,Investigating,-7841311.724860007,5643525.25125837
-"COPLIN PLT,EUSTIS,WYMAN",339,Assessing,Assessing,,Assessing,Investigating,-7831747.176457287,5637573.951036998
 LINCOLNVILLE,2,Assessing,Assessing,,Assessing,Investigating,-7692593.059622256,5508758.564480311
 LEBANON,1,Assessing,Assessing,,Assessing,Investigating,-7891481.938792529,5369065.051209328
+SOUTHPORT,2,Assessing,Assessing,,Assessing,Tree,-7757276.1403399585,5439341.058822225
+ROME,1,12/7/2021 12:00:00 PM,12/7/2021 12:00:00 PM,,Assessing,Investigating,-7775565.7323469175,5559788.133389451
 ROCKLAND,9,Assessing,Assessing,,Assessing,Investigating,-7693642.412839257,5483665.375607513
