@@ -1,5 +1,4 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-CORNISH,26,Assessing,Assessing,,Investigating,Investigating,-7881535.0713960575,5433592.5697019
 SOUTHPORT,7,Assessing,Assessing,,Assessing,Investigating,-7755136.713320574,5440088.87792847
 BOOTHBAY,1,Assessing,Assessing,,Assessing,Investigating,-7747217.210993754,5444447.942830779
 BRISTOL,42,Assessing,Assessing,,Assessing,Investigating,-7739481.9646355305,5450061.652263656
@@ -69,6 +68,7 @@ NO BERWICK,7,Assessing,Assessing,,Assessing,Investigating,-7880805.620399248,536
 WELLS,217,Assessing,Assessing,,Assessing,Investigating,-7870824.57013616,5363651.632792559
 ALFRED,12,Assessing,Assessing,,Assessing,Investigating,-7869450.9098678995,5381168.356325929
 "YORK,OGUNQUIT",663,Assessing,Assessing,,Assessing,Investigating,-7861562.788571128,5342192.900001914
+YORK,29,12/7/2021 6:30:00 AM,12/7/2021 6:30:00 AM,,Assessing,Investigating,-7860129.472119698,5337835.921126053
 HOLLIS,24,Assessing,Assessing,,Assessing,Investigating,-7860531.680579064,5403321.621712446
 HOLLIS,83,Assessing,Assessing,,Assessing,Investigating,-7855563.213440728,5405525.954321315
 WINDHAM,6,Assessing,Assessing,,Assessing,Investigating,-7841297.420346564,5430709.293759719
@@ -77,6 +77,7 @@ KITTERY,8,Assessing,Assessing,,Assessing,Investigating,-7869929.550290377,532500
 KITTERY,95,Assessing,Assessing,,Assessing,Investigating,-7868289.112873723,5324840.346903176
 YORK,1987,Assessing,Assessing,,Assessing,Investigating,-7867995.863991082,5334605.13095032
 BALDWIN,5,Assessing,Assessing,,Assessing,Investigating,-7873249.810013794,5438225.916847645
+CORNISH,26,Assessing,Assessing,,Assessing,Investigating,-7881535.0747998655,5433592.5697019
 CORNISH,76,Assessing,Assessing,,Assessing,Investigating,-7880988.774334159,5433581.836124371
 LEBANON,15,Assessing,Assessing,,Assessing,Investigating,-7891143.004366401,5369074.668701001
 NORTHPORT,2,Assessing,Assessing,,Assessing,Investigating,-7680111.562089291,5517498.817097204
@@ -84,17 +85,17 @@ NORTHPORT,2,Assessing,Assessing,,Assessing,Investigating,-7680111.562089291,5517
 "LINCOLNVILLE,CAMDEN",22,Assessing,Assessing,,Assessing,Investigating,-7692157.355165201,5507505.744699963
 NORTHPORT,2,Assessing,Assessing,,Assessing,Investigating,-7677555.688871852,5523867.874436958
 SEARSMONT,8,Assessing,Assessing,,Assessing,Investigating,-7705484.647037592,5524712.993635719
-BUCKSPORT,308,Assessing,Assessing,,Assessing,Investigating,-7659757.995529542,5556791.827000221
-"BUCKSPORT,ORLAND,CASTINE,PENOBSCOT",3951,Assessing,Assessing,,Assessing,Investigating,-7659723.397398055,5556654.527165359
 "PITTSFIELD,BURNHAM",44,Assessing,Assessing,,Assessing,Investigating,-7725867.768983635,5581958.848649097
 CLINTON,2,Assessing,Assessing,,Assessing,Investigating,-7737312.882117778,5565715.355414189
+BEAVER COVE PLT,183,Assessing,Assessing,,Assessing,Investigating,-7741805.948260065,5707366.079735103
 "PROSPECT,STOCKTON SPRINGS",11,Assessing,Assessing,,Assessing,Investigating,-7671884.884790013,5546986.688282259
 SEARSPORT,3,Assessing,Assessing,,Assessing,Investigating,-7677841.746604233,5539405.8143355
+INDUSTRY,4,Assessing,Assessing,,Assessing,Investigating,-7793938.5244937455,5586339.139537133
 FREEDOM,45,Assessing,Assessing,,Assessing,Investigating,-7717545.256700199,5545939.4125428805
 KNOX,95,Assessing,Assessing,,Assessing,Investigating,-7707857.778181187,5546636.162120646
+EMBDEN,270,Assessing,Assessing,,Assessing,Investigating,-7785668.365718362,5606548.778203752
 BENTON,4,Assessing,Assessing,,Assessing,Investigating,-7742697.584017466,5555224.459831924
 ROME,35,Assessing,Assessing,,Assessing,Investigating,-7775230.493658041,5552888.563642281
-"MAGALLOWAY PLT,DAVIS,RANGELEY PLT,STETSONTOWN,LINCOLN PLT,RANGLEY,ADAMSTOWN,LOWER CUPSUPTIC,RANGELY",1906,Assessing,Assessing,,Assessing,Investigating,-7863402.699291696,5615566.019630154
 LINCOLNVILLE,2,Assessing,Assessing,,Assessing,Investigating,-7692593.059622256,5508758.564480311
 LEBANON,1,Assessing,Assessing,,Assessing,Investigating,-7891481.938792529,5369065.051209328
 SOUTHPORT,2,Assessing,Assessing,,Assessing,Tree,-7757276.1403399585,5439341.058822225
