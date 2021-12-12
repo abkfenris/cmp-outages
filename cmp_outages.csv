@@ -1,13 +1,16 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 UPTON,187,Assessing,Assessing,,Assessing,Investigating,-7907386.32143472,5574086.293924706
-BOOTHBAY HBR,26,Assessing,Assessing,,Assessing,Investigating,-7748051.194311112,5443794.378400013
+"BOOTHBAY HBR,BOOTHBAY HARBOR",1003,Assessing,Assessing,,Assessing,Investigating,-7749850.562545678,5444019.525682658
 BOOTHBAY HBR,1,Assessing,Assessing,,Assessing,Investigating,-7750792.10286963,5440138.44764984
 "BOOTHBAY HBR,BOOTHBAY HARBOR",59,Assessing,Assessing,,Assessing,Investigating,-7753669.143924078,5443009.655867905
 ROCKPORT,68,Assessing,Assessing,,Assessing,Investigating,-7690041.984275878,5495065.383096953
+"WINDSOR,WHITEFIELD",18,Assessing,Assessing,,Assessing,Investigating,-7747850.6077609565,5508059.510931261
+CHINA,2,Assessing,Assessing,,Assessing,Investigating,-7734044.875790346,5529865.614953363
 WINTHROP,23,Assessing,Assessing,,Assessing,Investigating,-7791855.903767169,5510211.354206531
 READFIELD,1,Assessing,Assessing,,Assessing,Investigating,-7789888.3540588785,5528097.245700622
-READFIELD,21,Assessing,Assessing,,Assessing,Investigating,-7794256.352692138,5526451.122354369
 ROCKLAND,21,Assessing,Assessing,,Assessing,Investigating,-7695701.756608033,5488988.2425362645
+FRYEBURG,62,Assessing,Assessing,,Assessing,Investigating,-7896932.530754015,5469254.524061157
+BROWNFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7893405.817913009,5455804.810709859
 GRAY,6,Assessing,Assessing,,Assessing,Investigating,-7830293.477488289,5444259.762908632
 PORTLAND,1145,Assessing,Assessing,,Assessing,Investigating,-7822210.424571869,5413063.232027911
 PORTLAND,287,Assessing,Assessing,,Assessing,Investigating,-7822209.867948744,5413063.308968808
@@ -15,9 +18,10 @@ PORTLAND,913,Assessing,Assessing,,Assessing,Investigating,-7822212.639851799,541
  ,1,Assessing,Assessing,,Assessing,Investigating,-7822213.808660245,5413064.601603618
 FALMOUTH,5,Assessing,Assessing,,Assessing,Investigating,-7828524.555136903,5428310.501972598
 LIMERICK,5,Assessing,Assessing,,Assessing,Investigating,-7876299.997399966,5420658.485533438
-"STANDISH,SEBAGO,BALDWIN",2064,Assessing,Assessing,,Assessing,Investigating,-7875023.296474555,5435792.049752981
 "PARSONSFIELD,PARSONFIELD",69,Assessing,Assessing,,Crew Assigned,Investigating,-7891496.521717643,5432053.7316267975
-"LINCOLNVILLE,CAMDEN",201,Assessing,Assessing,,Assessing,Investigating,-7689760.646527367,5507699.937614259
+WINTERPORT,7,Assessing,Assessing,,Assessing,Investigating,-7680889.21784977,5566595.165619227
 "MOOSE RIVER,DENNISTOWN",13,Assessing,Assessing,,Assessing,Investigating,-7821860.235746798,5724206.892978457
-NO BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7885296.237499911,5370616.3917196
-YORK,1,Assessing,Assessing,,Assessing,Investigating,-7862124.061397908,5338827.931902146
+RANGELEY,1,Assessing,Assessing,,Assessing,Investigating,-7872125.917252187,5614691.803140651
+WELD,19,Assessing,Assessing,,Assessing,Investigating,-7839754.0534972735,5574671.64339059
+NO BERWICK,1,Assessing,Assessing,,Crew Assigned,Investigating,-7885296.237499911,5370616.3917196
+YORK,1,Assessing,Assessing,,Crew Assigned,Investigating,-7862124.061397908,5338827.931902146
