@@ -1,11 +1,14 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+COBURN GORE,1,Assessing,Assessing,,Assessing,Investigating,-7881810.123007446,5681420.876500434
 "BOOTHBAY HBR,BOOTHBAY HARBOR",1003,Assessing,Assessing,,Assessing,Investigating,-7749850.562545678,5444019.525682658
 BOOTHBAY HBR,1,Assessing,Assessing,,Assessing,Investigating,-7750792.10286963,5440138.44764984
 BOOTHBAY,154,Assessing,Assessing,,Assessing,Investigating,-7756284.628774815,5447802.338320934
+HARPSWELL,93,Assessing,Assessing,,Assessing,Investigating,-7785358.78615405,5433079.348457706
 "BOWDOIN,SABATTUS",6,Assessing,Assessing,,Assessing,Investigating,-7795240.327920592,5473288.490971101
 READFIELD,1,Assessing,Assessing,,Assessing,Investigating,-7789888.3540588785,5528097.245700622
 JAY,208,Assessing,Assessing,,Assessing,Investigating,-7809749.62130546,5540719.429957522
 "CAPE ELIZABETH,SO PORTLAND",2095,Assessing,Assessing,,Assessing,Investigating,-7819841.412239152,5403225.797739333
+YARMOUTH,36,Assessing,Assessing,,Assessing,Investigating,-7812880.326128294,5434134.598197497
  ,1,Assessing,Assessing,,Assessing,Investigating,-7822213.808660245,5413064.601603618
 LIMERICK,5,Assessing,Assessing,,Assessing,Investigating,-7876299.997399966,5420658.485533438
 PARSONSFIELD,11,Assessing,Assessing,,Assessing,Investigating,-7889489.242032929,5425854.2888600165
@@ -20,8 +23,9 @@ SEBAGO,12,Assessing,Assessing,,Assessing,Investigating,-7862760.152080866,544695
 PORTER,96,Assessing,Assessing,,Assessing,Investigating,-7892447.390484487,5441921.452484618
 WINTERPORT,7,Assessing,Assessing,,Assessing,Investigating,-7680889.21784977,5566595.165619227
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7675332.126565735,5591030.636486731
-SKOWHEGAN,33,Assessing,Assessing,,Assessing,Investigating,-7761720.571036435,5577601.793063688
+JACKMAN,17,Assessing,Assessing,,Assessing,Investigating,-7815681.514167745,5720168.6124163205
 RANGELEY PLT,2,Assessing,Assessing,,Assessing,Investigating,-7879382.545412809,5606825.697958773
+"CARRABASSETT VAL,CARRABASSETT VALLEY",138,Assessing,Assessing,,Assessing,Investigating,-7820262.400321694,5634377.905897499
 NO BERWICK,1,Assessing,Assessing,,Crew Assigned,Investigating,-7885296.237499911,5370616.3917196
 SACO,8,Assessing,Assessing,,Crew Assigned,Investigating,-7835254.798026235,5383007.272484275
 YORK,1,Assessing,Assessing,,Crew Assigned,Investigating,-7863872.668006476,5336370.551639986
