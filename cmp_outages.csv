@@ -1,41 +1,68 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-BIDDEFORD,85,Assessing,Assessing,,Investigating,Investigating,-7837889.046682437,5383698.619949084
-BIDDEFORD,15,Assessing,Assessing,,Investigating,Investigating,-7841633.623615258,5386701.764441933
-SO BERWICK,2,Assessing,Assessing,,Investigating,Investigating,-7872352.959919107,5346385.738387483
-TOPSHAM,21,Assessing,Assessing,,Investigating,Investigating,-7790932.152357329,5454635.772544091
-SO BERWICK; ELIOT; YORK; SOUTH BERWICK,398,Assessing,Assessing,,Investigating,Investigating,-7879888.818168792,5344229.144190965
-ELIOT,59,Assessing,Assessing,,Investigating,Investigating,-7882138.352149357,5332978.317138737
-BIDDEFORD,69,Assessing,Assessing,,Investigating,Investigating,-7841544.87346233,5386749.174761129
-BIDDEFORD,92,Assessing,Assessing,,Investigating,Investigating,-7842549.704237897,5386635.023160649
-BIDDEFORD,52,Assessing,Assessing,,Investigating,Investigating,-7841199.64769324,5386109.235460359
-BIDDEFORD,47,Assessing,Assessing,,Investigating,Investigating,-7837743.132336045,5379314.18851225
-BIDDEFORD,5,Assessing,Assessing,,Investigating,Investigating,-7834295.526853164,5377998.034649482
-BIDDEFORD,11,Assessing,Assessing,,Investigating,Investigating,-7837155.117071965,5383329.466796615
-BIDDEFORD,16,Assessing,Assessing,,Investigating,Investigating,-7845278.2448509,5384225.280598626
-SO BERWICK; YORK,30,Assessing,Assessing,,Investigating,Investigating,-7872415.223020638,5346356.795361128
-BIDDEFORD,21,Assessing,Assessing,,Investigating,Investigating,-7841071.81108429,5386081.955396145
-BIDDEFORD,21,Assessing,Assessing,,Investigating,Investigating,-7838455.499708286,5384116.354333919
-SO BERWICK,7,Assessing,Assessing,,Investigating,Investigating,-7874821.207742752,5346677.425793403
-BIDDEFORD,117,Assessing,Assessing,,Investigating,Investigating,-7835278.740829426,5381786.877459074
-PORTLAND,29,Assessing,Assessing,,Investigating,Investigating,-7820527.736657148,5416857.386140675
-BIDDEFORD,3,Assessing,Assessing,,Investigating,Investigating,-7840568.246459971,5385801.8497600835
-GEORGETOWN,17,Assessing,Assessing,,Investigating,Investigating,-7761954.05891857,5440927.195168353
-WESTBROOK; BUXTON; SCARBOROUGH; GORHAM; SO PORTLAND,1458,Assessing,Assessing,,Investigating,Investigating,-7832363.747688843,5411620.686962788
-GR CHEB IS,9,Assessing,Assessing,,Investigating,Investigating,-7805486.256606513,5423611.596913188
-BIDDEFORD,48,Assessing,Assessing,,Investigating,Investigating,-7842830.799414856,5387238.407633348
-CAPE ELIZABETH,71,Assessing,Assessing,,Investigating,Investigating,-7818439.915408755,5408153.987466045
-SQUIRREL ISLAND,128,Assessing,Assessing,,Assessing,Investigating,-7751234.7536028195,5436591.815533256
+BRUNSWICK,50,Assessing,Assessing,,Investigating,Investigating,-7788209.264772708,5452326.569919259
+BRUNSWICK,561,Assessing,Assessing,,Investigating,Investigating,-7787526.019601827,5452283.9966905825
+ELIOT,2,Assessing,Assessing,,Investigating,Investigating,-7884126.850709205,5334834.564404752
+ELIOT,17,Assessing,Assessing,,Investigating,Investigating,-7882851.216477928,5335804.688566993
+GORHAM,10,Assessing,Assessing,,Investigating,Investigating,-7835386.514979103,5416557.794622061
+ELIOT,13,Assessing,Assessing,,Investigating,Investigating,-7882719.295096204,5334221.999870361
+GORHAM,19,Assessing,Assessing,,Investigating,Investigating,-7836637.07604178,5416476.63647141
+BIDDEFORD,1486,Assessing,Assessing,,Investigating,Investigating,-7842454.208533545,5387279.064598516
+DRESDEN,8,Assessing,Assessing,,Investigating,Investigating,-7761646.625256525,5483195.840866009
+GR CHEB IS,49,Assessing,Assessing,,Investigating,Investigating,-7803620.358293673,5427488.630757885
+ELIOT,16,Assessing,Assessing,,Investigating,Investigating,-7883566.689426759,5338229.132316252
+DRESDEN,13,Assessing,Assessing,,Investigating,Investigating,-7764067.405241456,5477617.377681607
+KITTERY,29,Assessing,Assessing,,Investigating,Investigating,-7866433.3033549655,5325827.906614558
+DRESDEN,21,Assessing,Assessing,,Investigating,Investigating,-7762690.216623324,5482265.202798879
+DRESDEN,81,Assessing,Assessing,,Investigating,Investigating,-7762466.879804971,5480200.304928698
+DRESDEN,6,Assessing,Assessing,,Investigating,Investigating,-7761805.5046168305,5483015.878628195
+DRESDEN; WOOLWICH,54,Assessing,Assessing,,Investigating,Investigating,-7763038.96293354,5480415.619986552
+ELIOT,68,Assessing,Assessing,,Investigating,Investigating,-7882109.32925917,5333886.036606856
+ELIOT,25,Assessing,Assessing,,Investigating,Investigating,-7884229.800958684,5337788.891551459
+ELIOT,168,Assessing,Assessing,,Investigating,Investigating,-7883043.794763087,5335801.598017727
+WESTBROOK,104,Assessing,Assessing,,Investigating,Investigating,-7834968.250145147,5416697.914465766
+DRESDEN; WOOLWICH,362,Assessing,Assessing,,Investigating,Investigating,-7764360.6242907,5477230.640178518
+DRESDEN,6,Assessing,Assessing,,Investigating,Investigating,-7761462.770336887,5484363.093138803
+SQUIRREL ISLAND,128,1/18/2022 6:00:00 PM,1/18/2022 6:00:00 PM,,Assessing,Investigating,-7751234.7536028195,5436591.815533256
+SOUTHPORT,68,Assessing,Assessing,,Assessing,Investigating,-7756089.352068855,5436887.30454364
+SOUTHPORT,11,Assessing,Assessing,,Assessing,Investigating,-7755167.960701008,5440886.933354704
 BOOTHBAY,2,Assessing,Assessing,,Assessing,Investigating,-7746788.341488207,5440523.517060656
+BOOTHBAY,32,1/17/2022 11:45:00 AM,1/17/2022 11:45:00 AM,,Assessing,Investigating,-7746907.397667749,5449839.122477389
 SO BRISTOL,14,Assessing,Assessing,,Assessing,Investigating,-7742211.084396874,5447699.316994626
+GR CHEB IS,9,Assessing,Assessing,,Assessing,Investigating,-7805486.251801133,5423611.594142365
+SO THOMASTON,10,Assessing,Assessing,,Assessing,Investigating,-7694866.882693675,5465341.5483941445
 BOWDOIN,2,Assessing,Assessing,,Assessing,Investigating,-7786776.929719925,5465704.120796967
+GEORGETOWN,17,Assessing,Assessing,,Assessing,Investigating,-7761954.063623839,5440927.200581622
+BRUNSWICK,4,Assessing,Assessing,,Assessing,Investigating,-7788402.8176489,5452689.22075197
 BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7884448.762278799,5356815.131940555
+"SO BERWICK,YORK,SOUTH BERWICK",477,Assessing,Assessing,,Assessing,Investigating,-7878635.090761491,5349136.285784776
+CAPE ELIZABETH,71,Assessing,Assessing,,Assessing,Investigating,-7818439.911003822,5408153.994934752
+PORTLAND,29,Assessing,Assessing,,Assessing,Investigating,-7820527.741462528,5416857.391678271
+BIDDEFORD,15,Assessing,Assessing,,Assessing,Investigating,-7841633.627419514,5386701.757818449
+BIDDEFORD,96,Assessing,Assessing,,Assessing,Investigating,-7837889.051287594,5383698.624363307
 BIDDEFORD,301,Assessing,Assessing,,Assessing,Investigating,-7835010.006389912,5381950.726796248
+BIDDEFORD,117,Assessing,Assessing,,Assessing,Investigating,-7835278.74283167,5381786.880217389
+BIDDEFORD,5,Assessing,Assessing,,Assessing,Investigating,-7834295.524550592,5377998.037820259
+BIDDEFORD,43,Assessing,Assessing,,Assessing,Investigating,-7830929.434621737,5380055.442439043
+BIDDEFORD,29,Assessing,Assessing,,Assessing,Investigating,-7831657.441802239,5379867.158821203
+BIDDEFORD,34,Assessing,Assessing,,Assessing,Investigating,-7838733.587718827,5384757.547522702
+BIDDEFORD,30,Assessing,Assessing,,Assessing,Investigating,-7840346.907678361,5385729.0033658715
+BIDDEFORD,3,Assessing,Assessing,,Assessing,Investigating,-7840568.244257505,5385801.847828424
+BIDDEFORD,13,Assessing,Assessing,,Assessing,Investigating,-7840928.35168613,5385894.1163067855
+BIDDEFORD,21,Assessing,Assessing,,Assessing,Investigating,-7841071.809082047,5386081.954706247
+BIDDEFORD,52,Assessing,Assessing,,Assessing,Investigating,-7841199.648394029,5386109.23408056
+BIDDEFORD,92,Assessing,Assessing,,Assessing,Investigating,-7842549.708943166,5386635.028404207
+BIDDEFORD,69,Assessing,Assessing,,Assessing,Investigating,-7841544.872461206,5386749.169931479
+BIDDEFORD,48,Assessing,Assessing,,Assessing,Investigating,-7842830.801817546,5387238.403769426
 KENNEBUNKPORT,3,Assessing,Assessing,,Assessing,Investigating,-7841276.258456514,5370028.585635748
 KENNEBUNKPORT,16,Assessing,Assessing,,Assessing,Investigating,-7841572.223579901,5370798.988786573
 KENNEBUNKPORT,10,Assessing,Assessing,,Assessing,Investigating,-7842955.535252593,5368904.647846147
-SO BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7869069.885523466,5353622.121418776
-"SO BERWICK,SOUTH BERWICK",41,1/17/2022 9:45:00 AM,1/17/2022 9:45:00 AM,,Repairs in Progress,Investigating,-7868034.4918337,5352240.74382938
-WELLS,886,Assessing,Assessing,,Assessing,Investigating,-7866445.66219028,5358744.351053263
+BIDDEFORD,60,Assessing,Assessing,,Assessing,Investigating,-7845546.874873527,5384765.003037052
+GORHAM,22,Assessing,Assessing,,Assessing,Investigating,-7837124.7205440365,5417792.67341436
+GORHAM,6,Assessing,Assessing,,Assessing,Investigating,-7835319.964377856,5416951.709922959
+"GORHAM,WESTBROOK",759,Assessing,Assessing,,Assessing,Investigating,-7835708.291297288,5415736.037479516
+SANFORD,10,Assessing,Assessing,,Assessing,Investigating,-7881586.660248108,5383107.0132651515
+SO BERWICK,46,1/17/2022 12:00:00 PM,1/17/2022 12:00:00 PM,,Repairs in Progress,Investigating,-7869069.885523466,5353622.121418776
+"SO BERWICK,ELIOT,YORK,SOUTH BERWICK",398,Assessing,Assessing,,Assessing,Investigating,-7879888.815365654,5344229.137185609
 SO BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7877568.61657812,5342610.905508916
 YORK,63,Assessing,Assessing,,Assessing,Investigating,-7873807.687639762,5339359.713803743
 "ELIOT,YORK",16,Assessing,Assessing,,Assessing,Investigating,-7874052.913362032,5334955.322854979
@@ -48,13 +75,15 @@ YORK,9,Assessing,Assessing,,Assessing,Investigating,-7875469.375946103,5340111.7
 YORK,18,Assessing,Assessing,,Assessing,Investigating,-7876040.066415634,5341308.64982326
 SO BERWICK,5,Assessing,Assessing,,Assessing,Investigating,-7876892.740356544,5342200.626870005
 SO BERWICK,17,Assessing,Assessing,,Assessing,Investigating,-7878310.316086746,5343021.629761056
-"SO PORTLAND,SOUTH PORTLAND",91,Assessing,Assessing,,Assessing,Investigating,-7828869.233693405,5410086.667113419
+"WESTBROOK,BUXTON,SCARBOROUGH,GORHAM,SO PORTLAND",1458,Assessing,Assessing,,Assessing,Investigating,-7832363.752894675,5411620.692497233
+YORK,3,Assessing,Assessing,,Assessing,Investigating,-7860894.559910744,5340783.810414004
 YORK,42,Assessing,Assessing,,Assessing,Investigating,-7859960.878784912,5339209.698632967
 "HOLLIS,DAYTON,HOLLIS CENTER",1601,Assessing,Assessing,,Assessing,Investigating,-7854000.131921501,5405564.207238532
 "ELIOT,KITTERY",126,Assessing,Assessing,,Assessing,Investigating,-7875901.106254224,5333887.394001239
 ELIOT,2,Assessing,Assessing,,Assessing,Investigating,-7879677.341727751,5335961.249557465
 ELIOT,5,Assessing,Assessing,,Assessing,Investigating,-7879765.751699855,5335999.110053679
+ELIOT,13,Assessing,Assessing,,Assessing,Investigating,-7881916.978528746,5337158.318890637
+ELIOT,59,Assessing,Assessing,,Assessing,Investigating,-7882138.348545325,5332978.317413125
 KITTERY,2,Assessing,Assessing,,Assessing,Investigating,-7870751.667023486,5327896.196348664
 YORK,18,Assessing,Assessing,,Assessing,Investigating,-7868644.97905441,5336792.12662554
-CLINTON,1,Assessing,Assessing,,Assessing,Investigating,-7737190.731173744,5567306.192421542
 BOOTHBAY HBR,1,Assessing,Assessing,,Assessing,Investigating,-7749423.6634459365,5439996.035659354
