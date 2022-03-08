@@ -1,9 +1,9 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 LEBANON,5,Assessing,Assessing,,Investigating,Investigating,-7887207.131784288,5376802.499108554
-ELLIOTSVILLE; WILLIMANTIC,25,Assessing,Assessing,,Investigating,Investigating,-7728841.700704048,5678543.438675175
-DOVER-FOXCROFT,13,Assessing,Assessing,,Investigating,Investigating,-7710132.0531584965,5654830.411860342
-LITCHFIELD,11,Assessing,Assessing,,Investigating,Investigating,-7787134.614136062,5497408.604419749
-LEBANON,21,Assessing,Assessing,,Investigating,Investigating,-7885860.785693363,5378083.597149374
+LEBANON,25,Assessing,Assessing,,Investigating,Investigating,-7887370.120645049,5376510.576417079
+LEBANON,33,Assessing,Assessing,,Investigating,Investigating,-7887453.135577579,5376206.310433367
+SANFORD; LEBANON,44,Assessing,Assessing,,Investigating,Investigating,-7885189.736875909,5377281.91339733
+RUMFORD,16,Assessing,Assessing,,Investigating,Investigating,-7868910.86150121,5550331.135318317
 BOOTHBAY,1,Assessing,Assessing,,Assessing,Investigating,-7752561.60406902,5447337.145355193
 "PITTSTON,ALNA,DRESDEN,WISCASSET,BRUNSWICK,WOOLWICH",1898,Assessing,Assessing,,Assessing,Investigating,-7755822.730794955,5469933.868789344
 DRESDEN,4,Assessing,Assessing,,Assessing,Investigating,-7760446.174390591,5479988.770526989
@@ -31,6 +31,7 @@ JAY,9,Assessing,Assessing,,Assessing,Investigating,-7817975.575094788,5554284.85
 "LEWISTON,BOWDOIN,SABATTUS,WALES,GREENE,LISBON",2506,Assessing,Assessing,,Assessing,Investigating,-7807997.463721692,5481197.384129426
 "WOODSTOCK,SUMNER,GREENWOOD,WEST PARIS",525,Assessing,Assessing,,Assessing,Investigating,-7854641.465774016,5516668.776285334
 "WOODSTOCK,SUMNER,WEST PARIS",1195,Assessing,Assessing,,Assessing,Investigating,-7854596.8489269,5516638.119044756
+LITCHFIELD,11,Assessing,Assessing,,Assessing,Investigating,-7787134.610331806,5497408.610006079
 DENMARK,6,Assessing,Assessing,,Assessing,Investigating,-7881536.076621373,5470988.680066618
 CARTHAGE,39,Assessing,Assessing,,Assessing,Investigating,-7842414.444619123,5563300.145070792
 HARTFORD,12,Assessing,Assessing,,Assessing,Investigating,-7833533.153000285,5520377.3796857
@@ -49,11 +50,13 @@ PORTER,98,Assessing,Assessing,,Assessing,Investigating,-7892285.175790381,544187
 CORINNA,59,Assessing,Assessing,,Assessing,Investigating,-7714823.016540346,5614301.508824573
 GUILFORD,15,Assessing,Assessing,,Assessing,Investigating,-7714103.0911070965,5652488.529572509
 DOVER-FOXCROFT,38,Assessing,Assessing,,Assessing,Investigating,-7702826.192884113,5653248.706538952
+DOVER-FOXCROFT,13,Assessing,Assessing,,Assessing,Investigating,-7710132.057663541,5654830.404186695
 GREENVILLE,190,Assessing,Assessing,,Assessing,Investigating,-7741971.369043285,5695554.077526771
 ABBOT,43,Assessing,Assessing,,Assessing,Investigating,-7738362.2686720975,5654140.071753146
 "HARMONY,WELLINGTON",196,Assessing,Assessing,,Assessing,Investigating,-7742067.7716628965,5618376.718255928
 MONSON,31,Assessing,Assessing,,Assessing,Investigating,-7737742.998318958,5664836.682773441
 MONSON,19,Assessing,Assessing,,Assessing,Investigating,-7731382.558812562,5664963.931101419
+"ELLIOTSVILLE,WILLIMANTIC",25,Assessing,Assessing,,Assessing,Investigating,-7728841.70260618,5678543.433403391
 TAUNTON-RAYNHAM,9,Assessing,Assessing,,Assessing,Investigating,-7764055.452761041,5726519.0710252365
 SAPLING,15,Assessing,Assessing,,Assessing,Investigating,-7760343.159268493,5720033.589414714
 NEW PORTLAND,26,Assessing,Assessing,,Assessing,Investigating,-7797611.800507482,5609461.2682792125
@@ -67,7 +70,6 @@ MERCER,14,Assessing,Assessing,,Assessing,Investigating,-7783135.4242723,5569776.
 NORRIDGEWOCK,170,Assessing,Assessing,,Assessing,Investigating,-7771295.461016216,5575588.442039697
 NORRIDGEWOCK,31,Assessing,Assessing,,Assessing,Investigating,-7762429.197520877,5573475.692144577
 EMBDEN,6,Assessing,Assessing,,Assessing,Investigating,-7785793.488789597,5615055.984217293
-"ROME,MERCER",82,3/8/2022 3:45:00 AM,3/8/2022 3:45:00 AM,,Assessing,Investigating,-7781161.495923335,5555412.374068763
 CARTHAGE,15,Assessing,Assessing,,Assessing,Investigating,-7839116.215057761,5568897.089190851
 WILTON,16,Assessing,Assessing,,Assessing,Investigating,-7821950.76068654,5558254.50189992
 JAY,9,Assessing,Assessing,,Assessing,Investigating,-7814453.560012764,5554313.106562671
