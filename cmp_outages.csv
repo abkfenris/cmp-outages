@@ -1,5 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+OTISFIELD,32,Assessing,Assessing,,Investigating,Investigating,-7852022.564198369,5479550.280711494
 WATERFORD,8,Assessing,Assessing,,Investigating,Investigating,-7875210.653815041,5490363.1326972
+CORNVILLE,97,Assessing,Assessing,,Investigating,Investigating,-7758744.161041671,5605141.988647171
 BOOTHBAY,1,Assessing,Assessing,,Assessing,Investigating,-7752561.60406902,5447337.145355193
 JEFFERSON,3,Assessing,Assessing,,Assessing,Investigating,-7740959.00733708,5504335.469122514
 DRESDEN,4,Assessing,Assessing,,Assessing,Investigating,-7760446.174390591,5479988.770526989
@@ -20,15 +22,15 @@ NORWAY,128,Assessing,Assessing,,Assessing,Investigating,-7856752.673302594,55037
 OTISFIELD,22,Assessing,Assessing,,Assessing,Investigating,-7853607.185230385,5477508.365095092
 OTISFIELD,12,Assessing,Assessing,,Assessing,Investigating,-7849524.041983527,5480415.365582457
 RAYMOND,8,Assessing,Assessing,,Assessing,Investigating,-7849901.8714514,5447527.380613593
-MEXICO,106,Assessing,Assessing,,Assessing,Investigating,-7852891.378708126,5552255.810514646
 WOODSTOCK,9,Assessing,Assessing,,Assessing,Investigating,-7862557.071939214,5525797.11803104
 DENMARK,6,Assessing,Assessing,,Assessing,Investigating,-7881536.076621373,5470988.680066618
 CARTHAGE,39,Assessing,Assessing,,Assessing,Investigating,-7842414.444619123,5563300.145070792
 HARTFORD,12,Assessing,Assessing,,Assessing,Investigating,-7833533.153000285,5520377.3796857
 SUMNER,35,Assessing,Assessing,,Assessing,Investigating,-7835315.789904669,5521793.512938308
 LEEDS,42,3/8/2022 5:45:00 AM,3/8/2022 5:45:00 AM,,Assessing,Investigating,-7807885.554242649,5512210.149468305
+SANFORD,3,Assessing,Assessing,,Assessing,Investigating,-7882671.980729301,5384785.866120264
 NEWFIELD,25,Assessing,Assessing,,Assessing,Investigating,-7892048.989187117,5410141.552041776
-GORHAM,5,3/8/2022 10:00:00 AM,3/8/2022 10:00:00 AM,,Assessing,Investigating,-7851161.919033935,5418949.937539576
+GORHAM,5,3/8/2022 10:00:00 AM,3/8/2022 10:00:00 AM,,Assessing,Tree,-7851161.919033935,5418949.937539576
 SO BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7880797.6499766195,5343864.102478563
 WATERBORO,18,Assessing,Assessing,,Assessing,Investigating,-7872184.9388249265,5403767.276109486
 WATERBORO,78,Assessing,Assessing,,Assessing,Investigating,-7870472.433230281,5402814.2917504795
@@ -49,7 +51,6 @@ MONSON,19,Assessing,Assessing,,Assessing,Investigating,-7731382.558812562,566496
 TAUNTON-RAYNHAM,9,Assessing,Assessing,,Assessing,Investigating,-7764055.452761041,5726519.0710252365
 SAPLING,15,Assessing,Assessing,,Assessing,Investigating,-7760343.159268493,5720033.589414714
 SHIRLEY,113,Assessing,Assessing,,Assessing,Investigating,-7747995.267402746,5680560.693768268
-NEW PORTLAND,17,Assessing,Assessing,,Assessing,Investigating,-7792673.857139528,5602358.329427139
 AVON,17,Assessing,Assessing,,Assessing,Investigating,-7823947.07539632,5594649.25064527
 MADRID,3,Assessing,Assessing,,Assessing,Investigating,-7838081.34455369,5603680.7798701385
 TEMPLE,4,Assessing,Assessing,,Assessing,Investigating,-7818711.419248529,5574777.970678803
