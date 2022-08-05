@@ -1,11 +1,9 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 BRIDGTON,1,Assessing,Assessing,,Assessing,Investigating,-7876731.438384198,5480972.610411004
 GREENWOOD,18,8/5/2022 2:30:00 AM,8/5/2022 2:30:00 AM,,Assessing,Investigating,-7868346.676214022,5523084.860778373
-PARIS,60,Assessing,Assessing,,Assessing,Investigating,-7847212.681990739,5506000.815477391
 PARIS,21,Assessing,Assessing,,Assessing,Investigating,-7848017.499658098,5504113.918314259
 PARIS,19,Assessing,Assessing,,Assessing,Investigating,-7848017.221346539,5504116.03177867
 TURNER,35,Assessing,Assessing,,Assessing,Investigating,-7821408.62368169,5503038.394643129
-"SEBAGO,DENMARK",356,Assessing,Assessing,,Assessing,Investigating,-7874130.569795897,5457892.384493266
 HIRAM,15,Assessing,Assessing,,Assessing,Investigating,-7878991.324253369,5450251.032269627
 HIRAM,90,Assessing,Assessing,,Assessing,Investigating,-7882745.852326167,5447575.16787657
 WATERFORD,3,Assessing,Assessing,,Assessing,Investigating,-7872761.284425195,5488017.9689187575
@@ -23,6 +21,7 @@ ALBANY,18,Assessing,Assessing,,Assessing,Investigating,-7880165.555567364,551938
 BUCKFIELD,89,Assessing,Assessing,,Assessing,Investigating,-7832059.171625787,5508066.6316105705
 BUCKFIELD,13,Assessing,Assessing,,Assessing,Investigating,-7833050.404879371,5510406.008970135
 BUCKFIELD,12,Assessing,Assessing,,Assessing,Investigating,-7834688.9721024055,5508868.929186582
+BUCKFIELD,8,Assessing,Assessing,,Assessing,Investigating,-7833108.725167047,5510556.889943459
 "HARTFORD,SUMNER,BUCKFIELD",51,Assessing,Assessing,,Assessing,Investigating,-7831253.30758705,5516199.498646629
 BUCKFIELD,8,Assessing,Assessing,,Assessing,Investigating,-7832467.858837914,5511710.926871358
 BUCKFIELD,123,Assessing,Assessing,,Assessing,Investigating,-7831441.893903335,5509748.472780724
@@ -31,7 +30,6 @@ BUCKFIELD,36,Assessing,Assessing,,Assessing,Investigating,-7828423.454758295,550
 BRIDGTON,34,Assessing,Assessing,,Assessing,Investigating,-7882881.573061141,5474341.333457844
 "BRIDGTON,SWEDEN",20,Assessing,Assessing,,Assessing,Investigating,-7881245.25445536,5479148.410537563
 "LEEDS,WAYNE,MONMOUTH",759,Assessing,Assessing,,Assessing,Investigating,-7810854.856880956,5517533.072404712
-BALDWIN,2,Assessing,Assessing,,Assessing,Investigating,-7868572.064829294,5441862.318474663
 BALDWIN,4,Assessing,Assessing,,Assessing,Investigating,-7876403.034746945,5443031.006047157
 ORLAND,3,8/5/2022 2:00:00 AM,8/5/2022 2:00:00 AM,,Assessing,Investigating,-7652034.092569887,5552770.04008027
 OXFORD,3,Assessing,Assessing,,Assessing,Investigating,-7851765.849614693,5494237.9361066
