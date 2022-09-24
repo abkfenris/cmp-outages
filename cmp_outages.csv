@@ -1,15 +1,16 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-CASCO,13,Assessing,Assessing,,Investigating,Investigating,-7851104.1887067,5456644.5484944945
 HARPSWELL,31,Assessing,Assessing,,Assessing,Investigating,-7790994.5692310035,5434476.58635569
+ROCKPORT,502,Assessing,Assessing,,Assessing,Investigating,-7689883.587756101,5495044.237546285
+FREEPORT,2,Assessing,Assessing,,Assessing,Investigating,-7797338.711493165,5446684.286828883
 MANCHESTER,15,Assessing,Assessing,,Assessing,Investigating,-7778241.863989773,5514266.199907983
 NOBLEBORO,27,Assessing,Assessing,,Assessing,Investigating,-7734522.926252384,5490829.65731065
-CUSHING,82,Assessing,Assessing,,Assessing,Investigating,-7713582.605640444,5461777.266012263
 WALDOBORO,1,Assessing,Assessing,,Assessing,Investigating,-7725219.989815799,5471469.380555713
 FRYEBURG,128,Assessing,Assessing,,Assessing,Investigating,-7897627.03072428,5477353.115964043
 BRIDGTON,27,Assessing,Assessing,,Assessing,Investigating,-7875309.565643632,5471471.842736093
 BRIDGTON,7,9/24/2022 9:00:00 AM,9/24/2022 9:00:00 AM,,Assessing,Investigating,-7876204.073416166,5477225.605704081
 WEST PARIS,15,Assessing,Assessing,,Assessing,Investigating,-7850863.516081474,5511277.659849838
 HIRAM,15,Assessing,Assessing,,Assessing,Investigating,-7878991.324253369,5450251.032269627
+NEW GLOUCESTER,33,Assessing,Assessing,,Assessing,Investigating,-7827568.654637198,5466785.624485099
 WATERFORD,26,Assessing,Assessing,,Assessing,Investigating,-7876076.1116671255,5490659.719719084
 LOVELL,32,9/24/2022 11:00:00 AM,9/24/2022 11:00:00 AM,,Assessing,Investigating,-7893020.78608232,5496977.402525896
 "LOVELL,STOW",16,Assessing,Assessing,,Assessing,Investigating,-7897258.351700036,5496270.910805255
@@ -20,8 +21,7 @@ OXFORD,92,Assessing,Assessing,,Assessing,Investigating,-7841364.902190306,548992
 STONEHAM,3,9/24/2022 9:00:00 AM,9/24/2022 9:00:00 AM,,Assessing,Investigating,-7884730.701100195,5505112.213723638
 WATERFORD,7,Assessing,Assessing,,Assessing,Investigating,-7875995.304806454,5501675.8929388365
 WATERFORD,84,Assessing,Assessing,,Assessing,Investigating,-7874687.901911183,5501554.273696422
-WOODSTOCK,13,Assessing,Assessing,,Assessing,Investigating,-7854046.908386244,5521993.350937462
-WOODSTOCK,53,Assessing,Assessing,,Assessing,Investigating,-7854324.394523,5522741.435428557
+CASCO,13,Assessing,Assessing,,Assessing,Investigating,-7851104.188806811,5456644.551275273
 "BRIDGTON,DENMARK",246,Assessing,Assessing,,Assessing,Investigating,-7881885.152300314,5472741.51660892
 DIXFIELD,20,Assessing,Assessing,,Assessing,Investigating,-7834709.076408527,5551712.568628709
 NAPLES,24,Assessing,Assessing,,Assessing,Investigating,-7854832.189483043,5458090.13671217
@@ -30,9 +30,7 @@ CASCO,2,Assessing,Assessing,,Assessing,Investigating,-7855459.341259179,5455524.
 MONTVILLE,10,Assessing,Assessing,,Assessing,Investigating,-7715717.368438381,5535582.29771078
 PENOBSCOT,3,Assessing,Assessing,,Assessing,Investigating,-7656604.436722413,5535708.644320698
 WILTON,12,Assessing,Assessing,,Assessing,Investigating,-7810569.077560247,5559669.269779279
-"ELLIOTSVILLE,WILLIMANTIC",27,Assessing,Assessing,,Assessing,Investigating,-7728841.70260618,5678543.433403391
-ELLIOTSVILLE,48,Assessing,Assessing,,Assessing,Investigating,-7729019.190398027,5678823.274547369
-WILLIMANTIC,1,Assessing,Assessing,,Assessing,Investigating,-7726614.923198625,5674679.673146024
+CAMBRIDGE,31,Assessing,Assessing,,Assessing,Investigating,-7734021.042309535,5625887.622996345
 NEW PORTLAND,6,Assessing,Assessing,,Assessing,Investigating,-7805401.648991021,5601483.630988344
 "NORRIDGEWOCK,SKOWHEGAN",54,Assessing,Assessing,,Assessing,Investigating,-7767862.557091252,5576039.835045108
 FARMINGTON,15,Assessing,Assessing,,Assessing,Investigating,-7812069.24124499,5574524.049515417
@@ -41,5 +39,3 @@ SKOWHEGAN,61,Assessing,Assessing,,Assessing,Investigating,-7756357.376012995,557
 "SKOWHEGAN,FAIRFIELD",108,Assessing,Assessing,,Assessing,Investigating,-7758616.449272476,5576616.318933498
 "EMBDEN,CONCORD",22,Assessing,Assessing,,Assessing,Investigating,-7778726.549079058,5615461.571694552
 MOSCOW,12,Assessing,Assessing,,Assessing,Investigating,-7778300.55158864,5632894.580531273
-RANGELEY,6,Assessing,Assessing,,Assessing,Investigating,-7865628.454652864,5618674.570443722
-SANDY RIVER PLT,1,Assessing,Assessing,,Assessing,Investigating,-7860132.433234569,5605343.956627566
