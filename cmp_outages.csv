@@ -1,24 +1,27 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-SEARSPORT; STOCKTON SPRINGS,30,Assessing,Assessing,,Investigating,Investigating,-7669423.625890245,5543693.750326957
-APPLETON; HOPE,19,Assessing,Assessing,,Investigating,Investigating,-7706814.171997803,5508680.906483588
-APPLETON,11,Assessing,Assessing,,Investigating,Investigating,-7712972.466909864,5508107.994496012
+SEARSPORT; STOCKTON SPRINGS,36,Assessing,Assessing,,Investigating,Investigating,-7669423.625890245,5543693.750326957
+STOCKTON SPRINGS,10,Assessing,Assessing,,Investigating,Investigating,-7659827.596545632,5549038.3064004835
 ROCKLAND,31,Assessing,Assessing,,Investigating,Investigating,-7695456.6568267485,5486458.463383561
-APPLETON,5,Assessing,Assessing,,Investigating,Investigating,-7707544.796608429,5506884.3893593615
-APPLETON,27,Assessing,Assessing,,Investigating,Investigating,-7708162.546058973,5509425.249763768
 KNOX,22,Assessing,Assessing,,Investigating,Investigating,-7702092.06715409,5542813.07424851
-STOCKTON SPRINGS,3,Assessing,Assessing,,Investigating,Investigating,-7670744.717109155,5544417.018190569
-UNION,32,Assessing,Assessing,,Investigating,Investigating,-7705766.5700412765,5497027.438108124
-SEARSPORT,6,Assessing,Assessing,,Investigating,Investigating,-7669034.024544138,5543373.290567785
+STOCKTON SPRINGS,2,Assessing,Assessing,,Investigating,Investigating,-7670743.956657857,5544419.018464339
+ST GEORGE,19,Assessing,Assessing,,Investigating,Investigating,-7711492.416240989,5457828.867551058
+CAMDEN,20,Assessing,Assessing,,Investigating,Investigating,-7691974.828232204,5503205.876402752
+BRISTOL,9,Assessing,Assessing,,Investigating,Investigating,-7735776.117759761,5456550.75274844
 BATH,7,Assessing,Assessing,,Assessing,Investigating,-7771954.138384234,5455372.757208456
 SOUTHPORT,7,Assessing,Assessing,,Assessing,Investigating,-7755136.713320574,5440088.87792847
 SOUTHPORT,3,Assessing,Assessing,,Assessing,Investigating,-7755487.458768761,5441605.180566988
-BOOTHBAY,762,Assessing,Assessing,,Assessing,Investigating,-7746225.432229488,5444176.574641533
+BOOTHBAY,427,Assessing,Assessing,,Assessing,Investigating,-7746225.432229488,5444176.574641533
+BOOTHBAY,335,Assessing,Assessing,,Assessing,Investigating,-7746893.594115121,5438950.375847274
 BRISTOL,28,Assessing,Assessing,,Assessing,Investigating,-7732242.769090154,5455666.1909181615
 ROCKPORT,2,Assessing,Assessing,,Assessing,Investigating,-7694062.443550056,5496099.241868467
 DAMARISCOTTA,8,Assessing,Assessing,,Assessing,Investigating,-7733047.787081772,5469103.997093562
 "WINDSOR,CHINA",41,12/3/2022 5:00:00 PM,12/3/2022 5:00:00 PM,,Assessing,Investigating,-7748575.575939393,5518092.723438981
+ALNA,7,Assessing,Assessing,,Assessing,Investigating,-7749407.27720207,5482684.642105813
 ST GEORGE,17,Assessing,Assessing,,Assessing,Investigating,-7702333.949233259,5470139.0801991755
 ST GEORGE,5,Assessing,Assessing,,Assessing,Investigating,-7709314.126616174,5453662.117804081
+ST GEORGE,2,Assessing,Assessing,,Assessing,Investigating,-7705985.373284433,5464390.020864749
+"UNION,ROCKPORT,HOPE,APPLETON,SEARSMONT,WARREN",2183,Assessing,Assessing,,Assessing,Investigating,-7712770.908471709,5499608.258481272
+"HOPE,ROCKPORT",348,Assessing,Assessing,,Assessing,Investigating,-7703820.320477816,5498692.429873676
 "APPLETON,SEARSMONT",20,Assessing,Assessing,,Assessing,Investigating,-7703353.435415079,5513351.25026058
 WARREN,23,Assessing,Assessing,,Assessing,Investigating,-7706650.351405945,5482765.528695899
 GEORGETOWN,14,Assessing,Assessing,,Assessing,Investigating,-7763677.011007729,5444956.331937378
@@ -29,13 +32,16 @@ NORWAY,1,Assessing,Assessing,,Assessing,Investigating,-7856775.927935401,5503616
 NORWAY,160,Assessing,Assessing,,Assessing,Investigating,-7856881.325224255,5503570.274404696
 FALMOUTH,8,Assessing,Assessing,,Assessing,Investigating,-7825160.725037855,5423214.583525036
 "STANDISH,SEBAGO,BALDWIN",2082,Assessing,Assessing,,Assessing,Investigating,-7875023.296474555,5435792.049752981
+ISLESBORO,9,Assessing,Assessing,,Assessing,Investigating,-7667571.232195389,5524378.478403644
 ISLESBORO,6,Assessing,Assessing,,Assessing,Investigating,-7671910.766563823,5503936.8492717305
 LINCOLNVILLE,92,Assessing,Assessing,,Assessing,Investigating,-7684358.734661672,5510203.625308177
 SEARSMONT,41,Assessing,Assessing,,Assessing,Investigating,-7703038.490344256,5521370.276931213
+ORLAND,1,Assessing,Assessing,,Assessing,Investigating,-7648598.183180406,5550956.570720348
 RIPLEY,34,Assessing,Assessing,,Assessing,Investigating,-7728773.374715318,5619405.472141829
 ST ALBANS,1,Assessing,Assessing,,Assessing,Investigating,-7726089.172337536,5609746.028475564
 "ST ALBANS,SAINT ALBANS",61,Assessing,Assessing,,Assessing,Investigating,-7726315.863410859,5610688.527129311
 STRONG,1,Assessing,Assessing,,Assessing,Investigating,-7812757.963747564,5590422.829439357
+STOCKTON SPRINGS,3,Assessing,Assessing,,Assessing,Investigating,-7670744.717109155,5544417.012715758
 SEARSPORT,4,Assessing,Assessing,,Assessing,Investigating,-7673683.907938268,5535111.3594571715
 "TROY,BURNHAM",28,Assessing,Assessing,,Assessing,Investigating,-7713819.549191092,5570693.245856408
 CANAAN,1,Assessing,Assessing,,Assessing,Investigating,-7743610.5373391975,5585433.373439903
