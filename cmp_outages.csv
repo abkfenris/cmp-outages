@@ -4,11 +4,8 @@ CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,554
 DIXFIELD,57,Assessing,Assessing,,Investigating,Investigating,-7843037.663592618,5550210.444780879
 DIXFIELD,9,Assessing,Assessing,,Investigating,Investigating,-7842661.582782312,5552534.924481787
 DIXFIELD,10,Assessing,Assessing,,Investigating,Investigating,-7842876.0695933625,5549252.76171517
-PARSONSFIELD,16,Assessing,Assessing,,Investigating,Investigating,-7892897.261400432,5421839.220678056
-PARSONSFIELD; PARSONFIELD,8,Assessing,Assessing,,Investigating,Investigating,-7901230.446331557,5417549.061518955
-VIENNA; MT VERNON; MOUNT VERNON,17,Assessing,Assessing,,Investigating,Investigating,-7793788.533783991,5544563.445316247
-SALEM,29,Assessing,Assessing,,Investigating,Investigating,-7822096.366187194,5606479.62277209
-GREENWOOD,3,Assessing,Assessing,,Investigating,Investigating,-7864022.253762897,5509460.032627844
+FREEDOM,16,Assessing,Assessing,,Investigating,Investigating,-7718606.081559332,5545197.099213604
+READFIELD; WINTHROP,26,Assessing,Assessing,,Investigating,Investigating,-7785960.6503215255,5520493.160022012
 ACTON,2,Assessing,Assessing,,Assessing,Investigating,-7897877.577503302,5384931.663581581
 "ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
@@ -162,6 +159,7 @@ MT VERNON,12,Assessing,Assessing,,Assessing,Investigating,-7789401.910100595,553
 MT VERNON,9,Assessing,Assessing,,Assessing,Investigating,-7790854.70736016,5546328.334812679
 MT VERNON,23,12/18/2022 8:00:00 PM,12/18/2022 8:00:00 PM,,Assessing,Tree,-7791235.152856594,5545358.0506147025
 VIENNA,2,Assessing,Assessing,,Assessing,Investigating,-7793287.19415048,5544243.311624567
+"VIENNA,MT VERNON,MOUNT VERNON",17,Assessing,Assessing,,Assessing,Investigating,-7793788.532582649,5544563.447000826
 "MT VERNON,MOUNT VERNON",38,Assessing,Assessing,,Assessing,Investigating,-7793522.078195573,5543773.095661997
 VIENNA,2,Assessing,Assessing,,Assessing,Investigating,-7794710.046487675,5545281.400203612
 VIENNA,16,Assessing,Assessing,,Assessing,Investigating,-7792513.7574130595,5544380.939217733
@@ -241,7 +239,6 @@ ANDOVER,7,Assessing,Assessing,,Assessing,Investigating,-7874057.444033972,555572
 ANDOVER,31,Assessing,Assessing,,Assessing,Investigating,-7879811.470580665,5565038.527882368
 ANDOVER,3,Assessing,Assessing,,Assessing,Investigating,-7880071.613101812,5570823.212465499
 ANDOVER,6,Assessing,Assessing,,Assessing,Investigating,-7879923.346622279,5570369.949991063
-ANDOVER,64,Assessing,Assessing,,Assessing,Investigating,-7876001.850434078,5564325.629435832
 "ANDOVER,RUMFORD",43,Assessing,Assessing,,Assessing,Investigating,-7872136.871114679,5556335.79452873
 ANDOVER,2,Assessing,Assessing,,Assessing,Investigating,-7867684.714869697,5558764.099374033
 "MASON,ALBANY,BETHEL",40,Assessing,Assessing,,Assessing,Investigating,-7886920.411209871,5522098.737129248
@@ -895,6 +892,7 @@ GREENWOOD,3,Assessing,Assessing,,Assessing,Investigating,-7865228.205386753,5516
 GREENWOOD,23,Assessing,Assessing,,Assessing,Investigating,-7865014.082382974,5515099.600954334
 GREENWOOD,20,Assessing,Assessing,,Assessing,Investigating,-7864743.709609389,5514707.3259319365
 "NORWAY,GREENWOOD",9,Assessing,Assessing,,Assessing,Investigating,-7864149.397095743,5508930.906739331
+GREENWOOD,3,Assessing,Assessing,,Assessing,Investigating,-7864022.2590688355,5509460.035284858
 "NORWAY,GREENWOOD",19,Assessing,Assessing,,Assessing,Investigating,-7860925.67364156,5506462.014736662
 GREENWOOD,25,Assessing,Assessing,,Assessing,Investigating,-7862214.5084504625,5509815.961281245
 NORWAY,18,Assessing,Assessing,,Assessing,Investigating,-7861947.965063755,5505953.42226318
@@ -951,11 +949,15 @@ OXFORD,8,Assessing,Assessing,,Assessing,Investigating,-7844292.905395233,5488907
 "OXFORD,POLAND",361,Assessing,Assessing,,Assessing,Tree,-7846938.301730912,5486566.295667198
 "OXFORD,POLAND",98,Assessing,Assessing,,Assessing,Investigating,-7844836.923706146,5481981.763899557
 POLAND,48,Assessing,Assessing,,Assessing,Investigating,-7843560.523317174,5478816.193598386
-"OXFORD,OTISFIELD",847,Assessing,Assessing,,Assessing,Tree,-7846910.30488935,5486610.424280019
+"OXFORD,OTISFIELD",438,Assessing,Assessing,,Assessing,Tree,-7846910.30488935,5486610.424280019
+OTISFIELD,23,Assessing,Assessing,,Assessing,Investigating,-7853607.185230385,5477508.365095092
+OTISFIELD,86,12/18/2022 6:00:00 PM,12/18/2022 6:00:00 PM,,Assessing,Tree,-7852022.774934283,5479703.594286795
 OTISFIELD,64,12/18/2022 6:00:00 PM,12/18/2022 6:00:00 PM,,Assessing,Tree,-7855025.684995011,5479558.118966465
 OTISFIELD,14,Assessing,Assessing,,Assessing,Investigating,-7854252.704768642,5480507.5475889165
 OTISFIELD,114,Assessing,Assessing,,Assessing,Investigating,-7851867.283867061,5479466.070560372
 OTISFIELD,12,Assessing,Assessing,,Assessing,Investigating,-7849274.964649506,5477214.898675971
+OTISFIELD,15,Assessing,Assessing,,Assessing,Tree,-7850946.1262609,5479881.63661207
+OXFORD,206,Assessing,Assessing,,Assessing,Tree,-7847842.650119696,5485994.689561921
 WATERFORD,5,Assessing,Assessing,,Assessing,Investigating,-7872893.420647423,5504766.262266342
 WATERFORD,10,Assessing,Assessing,,Assessing,Investigating,-7872404.149223883,5503104.792361815
 WATERFORD,25,Assessing,Assessing,,Assessing,Investigating,-7871941.850495399,5502428.933949466
@@ -997,5 +999,3 @@ RAYMOND,35,Assessing,Assessing,,Assessing,Investigating,-7840969.428570379,54529
 RAYMOND,31,Assessing,Assessing,,Assessing,Investigating,-7838568.667896416,5459663.492499331
 RAYMOND,4,Assessing,Assessing,,Assessing,Investigating,-7839367.285022473,5460208.280869365
 RAYMOND,3,Assessing,Assessing,,Assessing,Investigating,-7842719.972047206,5464514.753129646
-RAYMOND,8,Assessing,Assessing,,Assessing,Investigating,-7840403.023898657,5450315.488519128
-RAYMOND,18,Assessing,Assessing,,Assessing,Investigating,-7842151.5747448,5450180.08777563
