@@ -1,14 +1,13 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,5542093.166258578
-WALDOBORO; CUSHING; FRIENDSHIP,791,Assessing,Assessing,,Investigating,Investigating,-7718679.440782608,5474007.483322361
+WALDOBORO; CUSHING; FRIENDSHIP,808,Assessing,Assessing,,Investigating,Investigating,-7718679.440782608,5474007.483322361
 BOOTHBAY,381,Assessing,Assessing,,Investigating,Investigating,-7748480.630951549,5445210.624646264
-AUBURN,842,Assessing,Assessing,,Investigating,Investigating,-7818006.280268239,5480925.015397491
 BOOTHBAY HBR,17,Assessing,Assessing,,Investigating,Investigating,-7749827.471796335,5444051.481796341
 BOOTHBAY HBR; BOOTHBAY HARBOR,619,Assessing,Assessing,,Investigating,Investigating,-7749959.660076838,5443930.271976018
-FARMINGTON,42,Assessing,Assessing,,Investigating,Investigating,-7809471.807501888,5563537.135558908
+PITTSFIELD; PALMYRA,27,Assessing,Assessing,,Investigating,Investigating,-7726158.071067432,5591235.6024493
 BOOTHBAY HBR,47,Assessing,Assessing,,Investigating,Investigating,-7751039.156538227,5442781.37352191
 GRAY,130,Assessing,Assessing,,Investigating,Investigating,-7836792.343258409,5453407.878238764
-WALDOBORO,17,Assessing,Assessing,,Investigating,Investigating,-7718320.787581944,5473637.1330085965
+WALDOBORO,7,Assessing,Assessing,,Investigating,Investigating,-7719076.065190809,5474488.744906228
 BOOTHBAY,677,Assessing,Assessing,,Investigating,Investigating,-7746225.437134979,5444176.572419921
 BOOTHBAY,13,Assessing,Assessing,,Investigating,Investigating,-7748797.680478244,5446490.2450644225
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
@@ -623,7 +622,6 @@ POWNAL,16,Assessing,Assessing,,Assessing,Investigating,-7815329.354936868,545025
 POWNAL,15,Assessing,Assessing,,Assessing,Investigating,-7815626.177219818,5449825.017559495
 NEW GLOUCESTER,299,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7826816.947525388,5454800.5558782155
 NEW GLOUCESTER,109,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Tree,-7826359.268568592,5455525.022440715
-GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831301.29741011,5451265.096513925
 GRAY,23,Assessing,Assessing,,Assessing,Investigating,-7836907.001915073,5451085.599632366
 GRAY,19,Assessing,Assessing,,Assessing,Investigating,-7837679.614830254,5452258.2717110645
 GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7833063.651908992,5447674.434503747
@@ -709,7 +707,6 @@ LIVERMORE,23,Assessing,Assessing,,Assessing,Investigating,-7815061.6204167325,55
 LIVERMORE,25,Assessing,Assessing,,Assessing,Investigating,-7812046.854884181,5531172.929737814
 "LIVERMR FL,LIVERMORE FALLS",24,Assessing,Assessing,,Assessing,Investigating,-7808435.138484439,5531046.910946781
 "LIVERMR FL,LIVERMORE FALLS,WAYNE",48,Assessing,Assessing,,Assessing,Investigating,-7806693.801113548,5528014.445495834
-"LIVERMR FL,LIVERMRE FL,LEEDS,LIVERMORE FALLS",79,Assessing,Assessing,,Assessing,Investigating,-7807214.8208783325,5527427.137733361
 FAYETTE,5,Assessing,Assessing,,Assessing,Investigating,-7804938.526540409,5535011.857297442
 FAYETTE,66,Assessing,Assessing,,Assessing,Investigating,-7801072.879273269,5530917.371376614
 CHESTERVILLE,56,Assessing,Assessing,,Assessing,Investigating,-7801011.352996591,5543335.9142851
@@ -775,6 +772,7 @@ NORWAY,67,Assessing,Assessing,,Assessing,Investigating,-7856639.18315404,5498508
 NORWAY,14,Assessing,Assessing,,Assessing,Investigating,-7857062.987589401,5497030.634617545
 WATERFORD,8,Assessing,Assessing,,Assessing,Investigating,-7862538.48162796,5494454.140322184
 NORWAY,495,Assessing,Assessing,,Assessing,Investigating,-7854760.421841491,5498460.454541472
+AUBURN,842,12/23/2022 5:45:00 PM,12/23/2022 5:45:00 PM,,Assessing,Investigating,-7818006.2770646475,5480925.020973774
 AUBURN,94,Assessing,Assessing,,Assessing,Investigating,-7818042.622852584,5472851.633764873
 OXFORD,15,Assessing,Assessing,,Assessing,Investigating,-7843470.065052071,5481758.877649349
 OXFORD,114,Assessing,Assessing,,Assessing,Investigating,-7843215.833648235,5481802.223549088
@@ -999,3 +997,5 @@ ACTON,14,Assessing,Assessing,,Assessing,Investigating,-7897960.521656596,5400896
 ACTON,9,Assessing,Assessing,,Assessing,Investigating,-7890782.262427462,5395809.539404809
 ACTON,7,Assessing,Assessing,,Assessing,Investigating,-7889318.444530649,5392450.6134615
 ACTON,116,Assessing,Assessing,,Assessing,Investigating,-7889096.506878622,5390103.879729132
+"SHAPLEIGH,ACTON",292,Assessing,Assessing,,Assessing,Investigating,-7886472.439319823,5387454.151118713
+"CAPE ELIZABETH,SCARBOROUGH",1470,Assessing,Assessing,,Assessing,Investigating,-7819841.211814781,5403222.354703027
