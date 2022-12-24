@@ -1,10 +1,13 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,5542093.166258578
+RAYMOND,72,Assessing,Assessing,,Investigating,Investigating,-7841013.804047289,5457478.480846988
+NEWPORT,15,Assessing,Assessing,,Investigating,Investigating,-7701835.340456851,5596554.251342345
 TURNER; LIVERMORE,60,Assessing,Assessing,,Investigating,Investigating,-7821850.459102162,5518897.529161077
-GR CHEB IS,90,Assessing,Assessing,,Investigating,Investigating,-7804771.819817623,5424183.012672129
+RANGELEY,114,Assessing,Assessing,,Investigating,Investigating,-7873990.401181668,5618096.935605109
+GREENVILLE,13,Assessing,Assessing,,Investigating,Investigating,-7743002.778372682,5696112.695621837
+NEWPORT; ETNA; PLYMOUTH,82,Assessing,Assessing,,Investigating,Investigating,-7705413.851284034,5593960.282635869
 NAPLES; CASCO; SEBAGO,1141,Assessing,Assessing,,Investigating,Investigating,-7855885.431453379,5459517.853275872
-BOOTHBAY,17,Assessing,Assessing,,Investigating,Investigating,-7746925.732993553,5445645.50094018
-PALMYRA; PITTSFIELD,156,Assessing,Assessing,,Investigating,Investigating,-7726676.343756955,5591850.43420684
+BIDDEFORD,6,Assessing,Assessing,,Investigating,Investigating,-7835291.965634169,5380445.862594218
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
@@ -69,7 +72,8 @@ BOOTHBAY,10,Assessing,Assessing,,Assessing,Investigating,-7747890.51573664,54368
 BOOTHBAY,18,Assessing,Assessing,,Assessing,Investigating,-7747292.941571685,5437044.309051946
 BOOTHBAY,8,Assessing,Assessing,,Assessing,Investigating,-7746625.826157548,5439115.717415406
 BOOTHBAY,50,Assessing,Assessing,,Assessing,Investigating,-7746050.449141578,5440451.721336676
-BOOTHBAY,11,12/24/2022 2:00:00 AM,12/24/2022 2:00:00 AM,,Assessing,Investigating,-7747588.238847436,5444395.848586673
+BOOTHBAY,17,Assessing,Assessing,,Assessing,Investigating,-7746925.731992435,5445645.495385265
+BOOTHBAY,11,Assessing,Assessing,,Assessing,Investigating,-7747588.238847436,5444395.848586673
 BOOTHBAY HBR,17,Assessing,Assessing,,Assessing,Investigating,-7749827.474899806,5444051.484851016
 "BOOTHBAY HBR,BOOTHBAY HARBOR",619,Assessing,Assessing,,Assessing,Investigating,-7749959.655671906,5443930.271976018
 "BOOTHBAY HBR,BOOTHBAY HARBOR",121,Assessing,Assessing,,Assessing,Investigating,-7750045.34940327,5441761.293130951
@@ -207,6 +211,7 @@ BRUNSWICK,14,Assessing,Assessing,,Assessing,Investigating,-7784690.657705853,544
 BRUNSWICK,150,Assessing,Assessing,,Assessing,Investigating,-7781780.922150967,5448679.765147258
 YARMOUTH,13,Assessing,Assessing,,Assessing,Investigating,-7808104.130031175,5428523.726637062
 YARMOUTH,8,Assessing,Assessing,,Assessing,Investigating,-7807987.233469254,5428237.445031908
+GR CHEB IS,90,Assessing,Assessing,,Assessing,Investigating,-7804771.814511685,5424183.016274428
 NOBLEBORO,11,Assessing,Assessing,,Crew Assigned,Investigating,-7730959.522537126,5479095.018864893
 "NOBLEBORO,BREMEN,WALDOBORO",58,Assessing,Assessing,,Assessing,Investigating,-7731278.196882751,5477536.969905584
 NOBLEBORO,147,Assessing,Assessing,,Crew Assigned,Investigating,-7735143.053664973,5477795.115547249
@@ -250,9 +255,10 @@ FREEPORT,2,Assessing,Assessing,,Assessing,Investigating,-7798429.431018409,54399
 FREEPORT,14,Assessing,Assessing,,Assessing,Investigating,-7801292.623970352,5440062.93567108
 FREEPORT,103,Assessing,Assessing,,Assessing,Investigating,-7799537.683371091,5442720.82446116
 FREEPORT,13,Assessing,Assessing,,Assessing,Investigating,-7801048.255407645,5443390.352975199
-"FREEPORT,DURHAM,POWNAL,BRUNSWICK",1155,Assessing,Assessing,,Assessing,Investigating,-7803350.854592997,5443435.200912005
+"FREEPORT,DURHAM,POWNAL,BRUNSWICK",989,Assessing,Assessing,,Assessing,Investigating,-7803350.854592997,5443435.200912005
 DURHAM,5,Assessing,Assessing,,Assessing,Investigating,-7804848.636010867,5454592.100885022
 DURHAM,8,Assessing,Assessing,,Assessing,Investigating,-7804361.524204949,5453349.877618998
+"FREEPORT,POWNAL",166,12/25/2022 10:30:00 PM,12/25/2022 10:30:00 PM,,Assessing,Tree,-7804331.178533955,5445873.343962246
 "FREEPORT,POWNAL",20,Assessing,Assessing,,Assessing,Investigating,-7805290.518784348,5444526.609624963
 "FREEPORT,POWNAL",79,Assessing,Assessing,,Assessing,Investigating,-7806443.46587134,5445156.817346504
 "FREEPORT,YARMOUTH",194,Assessing,Assessing,,Assessing,Investigating,-7804619.74087016,5443168.94159076
@@ -312,7 +318,6 @@ VASSALBORO,58,Assessing,Assessing,,Assessing,Investigating,-7752463.108606529,55
 VASSALBORO,49,Assessing,Assessing,,Assessing,Investigating,-7751179.850840953,5529239.026363402
 VASSALBORO,2,Assessing,Assessing,,Assessing,Investigating,-7751873.694176131,5531473.667062694
 "WISCASSET,DRESDEN",41,Assessing,Assessing,,Assessing,Investigating,-7759037.72677902,5471910.972730202
-"WISCASSET,BRUNSWICK,ALNA,WOOLWICH,DRESDEN",926,Assessing,Assessing,,Assessing,Investigating,-7755809.550540091,5469749.222725317
 WISCASSET,24,Assessing,Assessing,,Assessing,Investigating,-7755908.480188634,5467237.702312668
 WISCASSET,22,Assessing,Assessing,,Assessing,Investigating,-7757713.2140298225,5468495.505125268
 "WISCASSET,DRESDEN",160,Assessing,Assessing,,Assessing,Investigating,-7759207.221823248,5467066.405990198
@@ -994,8 +999,3 @@ CAPE ELIZABETH,17,Assessing,Assessing,,Assessing,Investigating,-7821923.32046810
 CAPE ELIZABETH,5,Assessing,Assessing,,Assessing,Investigating,-7819104.599701332,5398779.560668347
 CAPE ELIZABETH,10,Assessing,Assessing,,Assessing,Vehicle Accident,-7815424.021112593,5400968.242778333
 CAPE ELIZABETH,8,Assessing,Assessing,,Assessing,Investigating,-7816175.3497006595,5406072.256959486
-CAPE ELIZABETH,15,Assessing,Assessing,,Assessing,Investigating,-7816204.036714842,5406656.018901693
-CAPE ELIZABETH,28,Assessing,Assessing,,Assessing,Investigating,-7819568.323224828,5402797.276812556
-CAPE ELIZABETH,168,Assessing,Assessing,,Assessing,Investigating,-7819732.708749105,5402946.232396329
-CAPE ELIZABETH,10,Assessing,Assessing,,Assessing,Investigating,-7822657.995713293,5403513.334153826
-"CAPE ELIZABETH,SO PORTLAND",468,Assessing,Assessing,,Assessing,Investigating,-7818635.499358663,5408655.065887268
