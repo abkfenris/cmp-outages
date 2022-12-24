@@ -1,5 +1,13 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,5542093.166258578
+HARTFORD,12,Assessing,Assessing,,Investigating,Investigating,-7831032.527831254,5523791.074526245
+CORNVILLE; SOLON; MADISON,70,Assessing,Assessing,,Investigating,Investigating,-7758994.370843452,5606369.273245263
+STOW,6,Assessing,Assessing,,Investigating,Investigating,-7899741.989652429,5493056.240960671
+DEXTER; GARLAND,56,Assessing,Assessing,,Investigating,Investigating,-7708423.7284442065,5624285.891966996
+TURNER; HARTFORD; LIVERMORE,163,Assessing,Assessing,,Investigating,Investigating,-7821785.857382625,5518679.817616239
+PALMYRA,62,Assessing,Assessing,,Investigating,Investigating,-7726040.900298542,5595717.690860502
+NEW GLOUCESTER,6,Assessing,Assessing,,Investigating,Investigating,-7828639.305295993,5455335.776790641
+STOW,10,Assessing,Assessing,,Investigating,Investigating,-7902361.467172824,5484651.7209713375
 EUSTIS,10,Assessing,Assessing,,Investigating,Investigating,-7844034.596126358,5652767.822869246
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
@@ -100,15 +108,8 @@ GARDINER,23,Assessing,Assessing,,Assessing,Investigating,-7766925.825850919,5500
 "GARDINER,FARMINGDALE",17,Assessing,Assessing,,Assessing,Investigating,-7767549.994287305,5502160.552955228
 "GARDINER,FARMINGDALE",71,Assessing,Assessing,,Assessing,Investigating,-7767751.771970896,5502205.300669084
 BRUNSWICK,23,Assessing,Assessing,,Assessing,Investigating,-7787146.009492801,5448978.036744897
-BRUNSWICK,1,Assessing,Assessing,,Assessing,Investigating,-7786191.711987593,5444653.975503152
-HARPSWELL,664,Assessing,Assessing,,Assessing,Investigating,-7787024.593371375,5441964.74975725
+"BRUNSWICK,HARPSWELL",1223,Assessing,Assessing,,Assessing,Tree,-7786497.284065654,5445810.277720116
 HARPSWELL,20,Assessing,Assessing,,Assessing,Investigating,-7787335.820379949,5441298.118538267
-HARPSWELL,11,Assessing,Assessing,,Assessing,Investigating,-7787400.730745003,5440891.949346258
-HARPSWELL,16,Assessing,Assessing,,Assessing,Investigating,-7787505.682735367,5440257.527075236
-HARPSWELL,85,Assessing,Assessing,,Assessing,Investigating,-7788346.92417796,5438121.012268805
-HARPSWELL,59,Assessing,Assessing,,Assessing,Investigating,-7787698.944585761,5435843.431965951
-HARPSWELL,30,Assessing,Assessing,,Assessing,Investigating,-7789342.921865172,5436666.759094641
-HARPSWELL,2,Assessing,Assessing,,Assessing,Investigating,-7792694.607068403,5431172.35255597
 HARPSWELL,361,Assessing,Assessing,,Assessing,Investigating,-7793848.544864454,5427990.381343221
 HARPSWELL,27,Assessing,Assessing,,Assessing,Investigating,-7793349.466262099,5427238.935517287
 HARPSWELL,64,Assessing,Assessing,,Assessing,Investigating,-7795941.162081778,5427665.864142284
@@ -116,15 +117,6 @@ HARPSWELL,24,Assessing,Assessing,,Assessing,Investigating,-7794541.942901143,542
 HARPSWELL,20,Assessing,Assessing,,Assessing,Investigating,-7793291.836147043,5429065.148872552
 HARPSWELL,16,Assessing,Assessing,,Assessing,Investigating,-7792231.673829608,5430566.965869552
 HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7792294.702888597,5431233.345165076
-HARPSWELL,166,Assessing,Assessing,,Assessing,Investigating,-7791716.810056257,5432373.068148437
-HARPSWELL,10,Assessing,Assessing,,Assessing,Investigating,-7791984.277377278,5432321.797775334
-HARPSWELL,29,Assessing,Assessing,,Assessing,Investigating,-7790994.5692310035,5434476.58635569
-HARPSWELL,39,Assessing,Assessing,,Assessing,Investigating,-7790632.469171694,5434854.787010004
-HARPSWELL,3,Assessing,Assessing,,Assessing,Investigating,-7791436.574341433,5435582.250878836
-HARPSWELL,30,Assessing,Assessing,,Assessing,Investigating,-7789309.236655667,5436727.402386
-HARPSWELL,6,Assessing,Assessing,,Assessing,Investigating,-7787944.615506409,5439455.776368999
-HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7786677.888746753,5442749.630060623
-BRUNSWICK,13,Assessing,Assessing,,Assessing,Investigating,-7785969.295699747,5444082.548691941
 BRUNSWICK,1893,Assessing,Assessing,,Assessing,Investigating,-7789424.151699347,5450312.259617161
 BRUNSWICK,231,Assessing,Assessing,,Assessing,Investigating,-7791750.706802569,5442383.8248011265
 BRUNSWICK,90,Assessing,Assessing,,Assessing,Investigating,-7787443.499723489,5445990.165832339
@@ -999,3 +991,11 @@ PORTLAND,32,Assessing,Assessing,,Assessing,Investigating,-7821228.041225469,5416
 CUMBERLAND,79,Assessing,Assessing,,Assessing,Investigating,-7814384.508511848,5429994.87054371
 CUMBERLAND,25,Assessing,Assessing,,Assessing,Investigating,-7814165.854836121,5430090.016920746
 CUMBERLAND,117,Assessing,Assessing,,Assessing,Investigating,-7813996.960864784,5431468.87029755
+YARMOUTH,34,Assessing,Assessing,,Assessing,Investigating,-7815327.829929678,5435033.134725089
+YARMOUTH,9,Assessing,Assessing,,Assessing,Investigating,-7813467.603266068,5436952.268870082
+NO YARMOUTH,37,Assessing,Assessing,,Assessing,Investigating,-7814266.1759423595,5439052.3424651325
+"NO YARMOUTH,POWNAL,DURHAM,NORTH YARMOUTH",112,Assessing,Assessing,,Assessing,Investigating,-7814968.913634488,5439847.0210755225
+NO YARMOUTH,22,Assessing,Assessing,,Assessing,Investigating,-7815996.79321244,5444865.972977396
+NO YARMOUTH,8,Assessing,Assessing,,Assessing,Investigating,-7815691.04313512,5445440.567581969
+"NORTH YARMOUTH,NO YARMOUTH,POWNAL,DURHAM",402,Assessing,Assessing,,Assessing,Investigating,-7815684.408507865,5445448.473713167
+"POWNAL,NO YARMOUTH",17,Assessing,Assessing,,Assessing,Investigating,-7815409.72761148,5445877.436228033
