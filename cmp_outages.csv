@@ -1,11 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,5542093.166258578
-HARTFORD,47,Assessing,Assessing,,Investigating,Investigating,-7834228.845305328,5527188.743457597
-RAYMOND,11,Assessing,Assessing,,Investigating,Investigating,-7834945.13496845,5458081.038802172
-NAPLES,10,Assessing,Assessing,,Investigating,Investigating,-7865201.801428369,5463189.005405934
-MT VERNON; MOUNT VERNON,41,Assessing,Assessing,,Investigating,Investigating,-7792644.625816005,5533114.981166842
-LIVERMORE,85,Assessing,Assessing,,Investigating,Investigating,-7815564.182318536,5519511.441476856
-NAPLES,18,Assessing,Assessing,,Investigating,Investigating,-7864486.536912872,5463657.420883103
+EUSTIS,10,Assessing,Assessing,,Investigating,Investigating,-7844034.596126358,5652767.822869246
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
@@ -505,7 +500,7 @@ WEST BATH,21,Assessing,Assessing,,Assessing,Investigating,-7776685.706521794,544
 WEST BATH,11,Assessing,Assessing,,Assessing,Investigating,-7776681.587710922,5444669.292364121
 WEST BATH,4,Assessing,Assessing,,Assessing,Investigating,-7775370.032667449,5448077.72125172
 READFIELD,18,Assessing,Assessing,,Assessing,Investigating,-7786790.254636735,5524549.792010646
-READFIELD,137,Assessing,Assessing,,Assessing,Investigating,-7789619.52861749,5526267.419514919
+"MT VERNON,MOUNT VERNON",41,Assessing,Assessing,,Assessing,Investigating,-7792644.624614658,5533114.976259644
 "READFIELD,MT VERNON",117,Assessing,Assessing,,Assessing,Investigating,-7788303.654238663,5528065.038603053
 "READFIELD,BELGRADE,MT VERNON",192,Assessing,Assessing,,Assessing,Investigating,-7782369.768845804,5522253.813396368
 CHELSEA,11,Assessing,Assessing,,Assessing,Investigating,-7762568.046257547,5504633.287469469
@@ -556,9 +551,11 @@ BRIDGTON,30,Assessing,Assessing,,Assessing,Investigating,-7873620.604105796,5481
 BRIDGTON,31,Assessing,Assessing,,Assessing,Investigating,-7870045.812442099,5473961.985275704
 BRIDGTON,15,Assessing,Assessing,,Assessing,Investigating,-7865957.203376431,5469334.39423708
 "BRIDGTON,NAPLES",40,Assessing,Assessing,,Assessing,Investigating,-7865280.4476703005,5466305.447749857
+NAPLES,10,Assessing,Assessing,,Assessing,Investigating,-7865201.8004272515,5463189.003179721
 NAPLES,4,Assessing,Assessing,,Assessing,Investigating,-7862485.048210976,5462561.68886703
 NAPLES,12,Assessing,Assessing,,Assessing,Investigating,-7861721.864050984,5462075.405995656
 NAPLES,4,Assessing,Assessing,,Assessing,Investigating,-7861477.172726959,5461910.084261941
+NAPLES,18,Assessing,Assessing,,Assessing,Investigating,-7864486.539315563,5463657.428257791
 BRIDGTON,27,Assessing,Assessing,,Assessing,Investigating,-7870803.697770217,5465465.45813281
 BRIDGTON,23,Assessing,Assessing,,Assessing,Investigating,-7871155.47847735,5463663.168412837
 BRIDGTON,4,Assessing,Assessing,,Assessing,Investigating,-7871186.959619472,5463171.505060638
@@ -620,6 +617,7 @@ NEW GLOUCESTER,299,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Invest
 NEW GLOUCESTER,109,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Tree,-7826359.268568592,5455525.022440715
 GRAY,149,Assessing,Assessing,,Assessing,Investigating,-7836792.342757851,5453407.879906638
 GRAY,23,Assessing,Assessing,,Assessing,Investigating,-7836907.001915073,5451085.599632366
+RAYMOND,11,Assessing,Assessing,,Assessing,Investigating,-7834945.129462288,5458081.044503661
 GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7833063.651908992,5447674.434503747
 GRAY,81,Assessing,Assessing,,Assessing,Investigating,-7833831.155304229,5443946.853501939
 GRAY,99,Assessing,Assessing,,Assessing,Investigating,-7835331.330101415,5444562.291627471
@@ -723,6 +721,7 @@ POLAND,189,Assessing,Assessing,,Assessing,Investigating,-7835572.6707745,5469830
 POLAND,34,Assessing,Assessing,,Assessing,Investigating,-7837547.055534404,5473303.7781924
 POLAND,16,Assessing,Assessing,,Assessing,Investigating,-7832611.338558821,5475348.905292631
 POLAND,21,Assessing,Assessing,,Assessing,Investigating,-7832366.758559418,5475605.083636478
+MECHANIC FALLS,11,Assessing,Assessing,,Assessing,Investigating,-7835700.866285228,5483176.344692076
 MECHANIC FALLS,13,Assessing,Assessing,,Assessing,Investigating,-7835166.009530381,5481548.631452923
 "MECHANIC FALLS,OXFORD",260,Assessing,Assessing,,Assessing,Investigating,-7836278.937317059,5482857.610246525
 MECHANIC FALLS,6,Assessing,Assessing,,Assessing,Investigating,-7837803.78052974,5486691.035302748
@@ -854,18 +853,15 @@ BRIDGTON,19,Assessing,Assessing,,Assessing,Investigating,-7878508.164271387,5479
 BRIDGTON,65,Assessing,Assessing,,Assessing,Investigating,-7878382.985437731,5479026.904116273
 CARTHAGE,54,Assessing,Assessing,,Assessing,Investigating,-7841353.970652805,5564398.561006358
 DIXFIELD,18,Assessing,Assessing,,Assessing,Investigating,-7842622.7344929045,5549288.130352783
-"CASCO,OTISFIELD,POLAND",175,Assessing,Assessing,,Assessing,Investigating,-7850404.62366625,5466396.24986845
+"CASCO,OTISFIELD,POLAND",437,Assessing,Assessing,,Assessing,Investigating,-7850053.666781366,5463032.07771156
+"CASCO,OTISFIELD,POLAND",671,Assessing,Assessing,,Assessing,Investigating,-7850404.62366625,5466396.24986845
 CASCO,29,Assessing,Assessing,,Assessing,Investigating,-7849969.030533824,5466331.773563044
-"CASCO,OTISFIELD",496,12/24/2022 10:00:00 PM,12/24/2022 10:00:00 PM,,Assessing,Investigating,-7848564.067222814,5468916.441775603
 OTISFIELD,15,Assessing,Assessing,,Assessing,Investigating,-7856126.790647194,5475653.853850699
 OTISFIELD,48,Assessing,Assessing,,Assessing,Investigating,-7854266.107572646,5474187.718066803
 PERU,10,Assessing,Assessing,,Assessing,Investigating,-7845313.2264116295,5543351.147359501
-PERU,190,Assessing,Assessing,,Assessing,Investigating,-7835635.83348311,5539158.698983645
-"CANTON,HARTFORD",102,Assessing,Assessing,,Assessing,Investigating,-7827617.735481615,5533769.677431262
 TURNER,10,Assessing,Assessing,,Assessing,Investigating,-7822374.175585834,5509618.317874822
 "NAPLES,HARRISON",766,12/24/2022 10:00:00 PM,12/24/2022 10:00:00 PM,,Assessing,Investigating,-7858480.262783164,5460913.127789848
-"NAPLES,CASCO,SEBAGO",1579,Assessing,Assessing,,Assessing,Investigating,-7856070.017691706,5460325.981037432
-NAPLES,45,Assessing,Assessing,,Assessing,Investigating,-7855595.284543293,5459129.840155813
+"NAPLES,CASCO,SEBAGO",1624,Assessing,Assessing,,Assessing,Investigating,-7856070.017691706,5460325.981037432
 NAPLES,234,Assessing,Assessing,,Assessing,Investigating,-7856028.450959092,5458842.496927821
 NAPLES,32,Assessing,Assessing,,Assessing,Investigating,-7855983.923211718,5458899.482354487
 NAPLES,9,Assessing,Assessing,,Assessing,Investigating,-7855906.433664672,5458991.448491235
@@ -876,9 +872,11 @@ LIVERMORE,115,Assessing,Assessing,,Assessing,Investigating,-7819313.412760803,55
 "TURNER,LIVERMORE",60,Assessing,Assessing,,Assessing,Investigating,-7821850.4619053,5518897.536860379
 "SUMNER,BUCKFIELD",72,Assessing,Assessing,,Assessing,Investigating,-7834856.418953738,5520924.158139802
 HARTFORD,5,Assessing,Assessing,,Assessing,Investigating,-7833967.165463205,5517664.46077096
+HARTFORD,47,Assessing,Assessing,,Assessing,Investigating,-7834228.844204098,5527188.744578512
 HARTFORD,48,Assessing,Assessing,,Assessing,Investigating,-7827493.547457136,5529055.376225055
 HARTFORD,36,Assessing,Assessing,,Assessing,Investigating,-7825118.212146047,5518297.414342846
 "TURNER,HARTFORD",32,Assessing,Assessing,,Assessing,Investigating,-7822761.511696089,5517045.214991351
+LIVERMORE,85,Assessing,Assessing,,Assessing,Investigating,-7815564.183419766,5519511.444276784
 LEEDS,29,Assessing,Assessing,,Assessing,Investigating,-7807491.661292221,5512270.656556915
 "NAPLES,BRIDGTON",282,Assessing,Assessing,,Assessing,Investigating,-7860600.131007103,5460867.900748807
 BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7878832.54920984,5352961.470994757
@@ -999,3 +997,5 @@ PORTLAND,25,Assessing,Assessing,,Assessing,Investigating,-7821143.783501673,5416
 PORTLAND,32,Assessing,Assessing,,Assessing,Investigating,-7821228.041225469,5416243.830983213
 "CUMBERLAND,YARMOUTH",5,Assessing,Assessing,,Assessing,Investigating,-7814866.622122444,5430851.932204569
 CUMBERLAND,79,Assessing,Assessing,,Assessing,Investigating,-7814384.508511848,5429994.87054371
+CUMBERLAND,25,Assessing,Assessing,,Assessing,Investigating,-7814165.854836121,5430090.016920746
+CUMBERLAND,117,Assessing,Assessing,,Assessing,Investigating,-7813996.960864784,5431468.87029755
