@@ -1,16 +1,14 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,5542093.166258578
 BRISTOL; BREMEN,23,Assessing,Assessing,,Investigating,Investigating,-7732277.019332194,5457340.220283039
-EUSTIS,6,Assessing,Assessing,,Investigating,Investigating,-7840305.325027931,5643395.711443545
-VIENNA,12,Assessing,Assessing,,Investigating,Investigating,-7799653.637578074,5549177.110807957
-CAMDEN,36,Assessing,Assessing,,Investigating,Investigating,-7688436.468052378,5498544.9821694065
+WALDOBORO,11,Assessing,Assessing,,Investigating,Investigating,-7725564.216766742,5470767.981566845
+NO BERWICK,4,Assessing,Assessing,,Investigating,Investigating,-7879834.021525719,5357242.392245931
 NAPLES; BRIDGTON,282,Assessing,Assessing,,Investigating,Investigating,-7860600.135512148,5460867.907425736
 BERWICK; NO BERWICK; NORTH BERWICK,244,Assessing,Assessing,,Investigating,Investigating,-7879256.3090953315,5352780.4469204275
 NAPLES; SEBAGO,1412,Assessing,Assessing,,Investigating,Investigating,-7859516.101771422,5460664.350313337
 BERWICK; YORK; SO BERWICK; SOUTH BERWICK; NORTH BERWICK,1638,Assessing,Assessing,,Investigating,Investigating,-7878625.802263317,5353018.668151476
-SOLON,29,Assessing,Assessing,,Investigating,Investigating,-7771711.40815559,5617973.3463625405
+ST GEORGE,10,Assessing,Assessing,,Investigating,Investigating,-7699878.266075351,5467064.171464535
 BOOTHBAY HBR,96,Assessing,Assessing,,Investigating,Investigating,-7749545.957750461,5442726.258215711
-WARREN,13,Assessing,Assessing,,Investigating,Investigating,-7716602.449758306,5491459.117962962
 SOLON,20,Assessing,Assessing,,Investigating,Investigating,-7767740.618284705,5608008.654522186
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
@@ -152,6 +150,7 @@ CAMDEN,61,Assessing,Assessing,,Assessing,Investigating,-7691753.476936586,550185
 ROCKPORT,113,Assessing,Assessing,,Assessing,Investigating,-7692652.938454676,5495672.7539391825
 ROCKPORT,5,Assessing,Assessing,,Assessing,Investigating,-7691359.595198713,5495729.937727955
 CAMDEN,140,Assessing,Assessing,,Assessing,Investigating,-7688017.194088725,5498544.540235208
+CAMDEN,36,Assessing,Assessing,,Assessing,Investigating,-7688436.467752037,5498544.975185618
 CAMDEN,20,Assessing,Assessing,,Assessing,Investigating,-7688834.323638842,5498836.143787181
 CAMDEN,3,Assessing,Assessing,,Assessing,Investigating,-7691069.808291635,5501891.247581034
 CAMDEN,23,Assessing,Assessing,,Assessing,Investigating,-7690541.71971355,5501658.165800952
@@ -452,6 +451,7 @@ WALDOBORO,35,Assessing,Assessing,,Assessing,Investigating,-7722650.435382686,547
 WALDOBORO,146,Assessing,Assessing,,Assessing,Investigating,-7722355.327418855,5486872.300123261
 WALDOBORO,8,Assessing,Assessing,,Assessing,Investigating,-7718273.620179566,5492483.916613664
 WALDOBORO,8,Assessing,Assessing,,Assessing,Investigating,-7719705.968046691,5492950.457059823
+WARREN,13,12/24/2022 1:00:00 AM,12/24/2022 1:00:00 AM,,Assessing,Investigating,-7716602.447455728,5491459.110286739
 WALDOBORO,3,Assessing,Assessing,,Assessing,Investigating,-7724683.5077414615,5478499.609873064
 "BREMEN,BREMAN",57,Assessing,Assessing,,Assessing,Investigating,-7728549.900843542,5465994.866837636
 BREMEN,40,Assessing,Assessing,,Assessing,Investigating,-7728772.77354232,5465618.153914273
@@ -613,7 +613,7 @@ GRAY,2,Assessing,Assessing,,Assessing,Investigating,-7824662.848581262,5448549.7
 POWNAL,48,Assessing,Assessing,,Assessing,Investigating,-7813774.399814881,5455464.301582697
 POWNAL,16,Assessing,Assessing,,Assessing,Investigating,-7815329.354936868,5450259.915966147
 POWNAL,15,Assessing,Assessing,,Assessing,Investigating,-7815626.177219818,5449825.017559495
-"GRAY,NEW GLOUCESTER",975,Assessing,Assessing,,Assessing,Investigating,-7828944.841934382,5448090.248116254
+NEW GLOUCESTER,299,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7826816.947525388,5454800.5558782155
 NEW GLOUCESTER,109,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Tree,-7826359.268568592,5455525.022440715
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831301.29741011,5451265.096513925
 GRAY,23,Assessing,Assessing,,Assessing,Investigating,-7836907.001915073,5451085.599632366
@@ -882,8 +882,6 @@ NAPLES,9,Assessing,Assessing,,Assessing,Investigating,-7855906.433664672,5458991
 NAPLES,5,Assessing,Assessing,,Assessing,Investigating,-7856111.005476206,5459673.4832314765
 "CASCO,NAPLES",333,12/24/2022 10:00:00 PM,12/24/2022 10:00:00 PM,,Assessing,Investigating,-7856038.503112149,5460268.6000819905
 NAPLES,82,12/24/2022 10:00:00 PM,12/24/2022 10:00:00 PM,,Assessing,Investigating,-7856498.998521876,5464045.077463801
-LEEDS,27,Assessing,Assessing,,Assessing,Investigating,-7812611.83466078,5518520.30573801
-"TURNER,LIVERMORE,HARTFORD,SUMNER,CANTON,BUCKFIELD",1871,Assessing,Assessing,,Assessing,Investigating,-7813406.811711889,5518515.418284477
 LIVERMORE,6,Assessing,Assessing,,Assessing,Investigating,-7817245.697720661,5528973.455676686
 LIVERMORE,31,Assessing,Assessing,,Assessing,Investigating,-7817989.044773655,5525912.3467075545
 LIVERMORE,115,Assessing,Assessing,,Assessing,Investigating,-7819313.412760803,5525668.058189807
@@ -999,3 +997,5 @@ CAPE ELIZABETH,10,Assessing,Assessing,,Assessing,Vehicle Accident,-7815424.02111
 CAPE ELIZABETH,8,Assessing,Assessing,,Assessing,Investigating,-7816175.3497006595,5406072.256959486
 CAPE ELIZABETH,15,Assessing,Assessing,,Assessing,Investigating,-7816204.036714842,5406656.018901693
 CAPE ELIZABETH,28,Assessing,Assessing,,Assessing,Investigating,-7819568.323224828,5402797.276812556
+CAPE ELIZABETH,168,Assessing,Assessing,,Assessing,Investigating,-7819732.708749105,5402946.232396329
+CAPE ELIZABETH,10,Assessing,Assessing,,Assessing,Investigating,-7822657.995713293,5403513.334153826
