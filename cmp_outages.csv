@@ -1,15 +1,16 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 CANTON,7,Assessing,Assessing,,Investigating,Investigating,-7829378.973330447,5542093.166258578
-BRISTOL; BREMEN,23,Assessing,Assessing,,Investigating,Investigating,-7732277.019332194,5457340.220283039
-WALDOBORO,11,Assessing,Assessing,,Investigating,Investigating,-7725564.216766742,5470767.981566845
-NO BERWICK,4,Assessing,Assessing,,Investigating,Investigating,-7879834.021525719,5357242.392245931
-NAPLES; BRIDGTON,282,Assessing,Assessing,,Investigating,Investigating,-7860600.135512148,5460867.907425736
-BERWICK; NO BERWICK; NORTH BERWICK,244,Assessing,Assessing,,Investigating,Investigating,-7879256.3090953315,5352780.4469204275
-NAPLES; SEBAGO,1412,Assessing,Assessing,,Investigating,Investigating,-7859516.101771422,5460664.350313337
-BERWICK; YORK; SO BERWICK; SOUTH BERWICK; NORTH BERWICK,1638,Assessing,Assessing,,Investigating,Investigating,-7878625.802263317,5353018.668151476
-ST GEORGE,10,Assessing,Assessing,,Investigating,Investigating,-7699878.266075351,5467064.171464535
-BOOTHBAY HBR,96,Assessing,Assessing,,Investigating,Investigating,-7749545.957750461,5442726.258215711
-SOLON,20,Assessing,Assessing,,Investigating,Investigating,-7767740.618284705,5608008.654522186
+WALDOBORO; CUSHING; FRIENDSHIP,791,Assessing,Assessing,,Investigating,Investigating,-7718679.440782608,5474007.483322361
+BOOTHBAY,381,Assessing,Assessing,,Investigating,Investigating,-7748480.630951549,5445210.624646264
+AUBURN,842,Assessing,Assessing,,Investigating,Investigating,-7818006.280268239,5480925.015397491
+BOOTHBAY HBR,17,Assessing,Assessing,,Investigating,Investigating,-7749827.471796335,5444051.481796341
+BOOTHBAY HBR; BOOTHBAY HARBOR,619,Assessing,Assessing,,Investigating,Investigating,-7749959.660076838,5443930.271976018
+FARMINGTON,42,Assessing,Assessing,,Investigating,Investigating,-7809471.807501888,5563537.135558908
+BOOTHBAY HBR,47,Assessing,Assessing,,Investigating,Investigating,-7751039.156538227,5442781.37352191
+GRAY,130,Assessing,Assessing,,Investigating,Investigating,-7836792.343258409,5453407.878238764
+WALDOBORO,17,Assessing,Assessing,,Investigating,Investigating,-7718320.787581944,5473637.1330085965
+BOOTHBAY,677,Assessing,Assessing,,Investigating,Investigating,-7746225.437134979,5444176.572419921
+BOOTHBAY,13,Assessing,Assessing,,Investigating,Investigating,-7748797.680478244,5446490.2450644225
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
@@ -73,6 +74,7 @@ BOOTHBAY,50,Assessing,Assessing,,Assessing,Investigating,-7746050.449141578,5440
 "BOOTHBAY HBR,BOOTHBAY HARBOR",121,Assessing,Assessing,,Assessing,Investigating,-7750045.34940327,5441761.293130951
 "BOOTHBAY HBR,BOOTHBAY HARBOR",30,Assessing,Assessing,,Assessing,Investigating,-7749814.929155248,5440156.797055517
 BOOTHBAY HBR,13,Assessing,Assessing,,Assessing,Investigating,-7749815.062804868,5440028.737120454
+BOOTHBAY HBR,96,Assessing,Assessing,,Assessing,Investigating,-7749545.959051915,5442726.258354543
 BOOTHBAY HBR,39,Assessing,Assessing,,Assessing,Investigating,-7748994.192867512,5442390.030216253
 BOOTHBAY,4,Assessing,Assessing,,Assessing,Investigating,-7751909.260691699,5451099.211942269
 BOOTHBAY,16,Assessing,Assessing,,Assessing,Investigating,-7756721.847226737,5448806.493504523
@@ -90,6 +92,7 @@ SO BRISTOL,22,Assessing,Assessing,,Assessing,Investigating,-7744618.758009642,54
 "BRISTOL,DAMARISCOTTA",105,Assessing,Assessing,,Assessing,Investigating,-7736515.188926036,5461617.5648486335
 "BRISTOL,DAMARISCOTTA",16,Assessing,Assessing,,Assessing,Investigating,-7735232.3987839455,5465955.743272405
 BRISTOL,85,Assessing,Assessing,,Assessing,Investigating,-7737685.134442221,5458839.929933567
+"BRISTOL,BREMEN",23,Assessing,Assessing,,Assessing,Investigating,-7732277.022135331,5457340.2190315975
 "BRISTOL,BREMEN",104,Assessing,Assessing,,Assessing,Investigating,-7732226.850369663,5457946.364254905
 FARMINGDALE,10,Assessing,Assessing,,Assessing,Investigating,-7768120.940743402,5506157.04862928
 FARMINGDALE,303,Assessing,Assessing,,Assessing,Investigating,-7768241.288268568,5506055.856597695
@@ -308,6 +311,7 @@ VASSALBORO,58,Assessing,Assessing,,Assessing,Investigating,-7752463.108606529,55
 VASSALBORO,49,Assessing,Assessing,,Assessing,Investigating,-7751179.850840953,5529239.026363402
 VASSALBORO,2,Assessing,Assessing,,Assessing,Investigating,-7751873.694176131,5531473.667062694
 "WISCASSET,DRESDEN",41,Assessing,Assessing,,Assessing,Investigating,-7759037.72677902,5471910.972730202
+"WISCASSET,BRUNSWICK,ALNA,WOOLWICH,DRESDEN",926,Assessing,Assessing,,Assessing,Investigating,-7755809.550540091,5469749.222725317
 WISCASSET,24,Assessing,Assessing,,Assessing,Investigating,-7755908.480188634,5467237.702312668
 WISCASSET,22,Assessing,Assessing,,Assessing,Investigating,-7757713.2140298225,5468495.505125268
 "WISCASSET,DRESDEN",160,Assessing,Assessing,,Assessing,Investigating,-7759207.221823248,5467066.405990198
@@ -320,7 +324,8 @@ OWLS HEAD,9,Assessing,Assessing,,Assessing,Investigating,-7687422.814800328,5479
 OWLS HEAD,16,Assessing,Assessing,,Assessing,Investigating,-7689815.905487987,5478617.544861917
 OWLS HEAD,25,Assessing,Assessing,,Assessing,Investigating,-7690762.421782381,5478267.47919845
 OWLS HEAD,50,Assessing,Assessing,,Assessing,Investigating,-7690060.385375316,5472635.33463426
-"ROCKLAND,ROCKPORT,THOMASTON",1531,Assessing,Assessing,,Assessing,Investigating,-7696129.646516952,5482235.244031174
+"ROCKLAND,ROCKPORT,THOMASTON",1479,Assessing,Assessing,,Assessing,Investigating,-7696129.646516952,5482235.244031174
+"ROCKLAND,ROCKPORT",52,Assessing,Assessing,,Assessing,Investigating,-7693333.022586875,5485931.192016391
 ROCKLAND,51,Assessing,Assessing,,Assessing,Investigating,-7694737.4738246305,5485377.212625274
 ROCKLAND,132,Assessing,Assessing,,Assessing,Investigating,-7695147.9866805,5481172.302241737
 "ROCKLAND,THOMASTON",49,Assessing,Assessing,,Assessing,Investigating,-7695546.8332763715,5480581.28454955
@@ -393,6 +398,7 @@ ST GEORGE,15,Assessing,Assessing,,Assessing,Investigating,-7703391.317422761,546
 "SO THOMASTON,SOUTH THOMASTON",192,Assessing,Assessing,,Assessing,Investigating,-7695847.9636821225,5467215.104017283
 SO THOMASTON,19,Assessing,Assessing,,Assessing,Investigating,-7694864.9457252985,5465340.697365766
 ST GEORGE,3,Assessing,Assessing,,Assessing,Investigating,-7698819.793249249,5466903.935134867
+ST GEORGE,10,Assessing,Assessing,,Assessing,Investigating,-7699878.26357255,5467064.1771715935
 "SO THOMASTON,SOUTH THOMASTON,ST GEORGE",302,Assessing,Assessing,,Assessing,Investigating,-7699036.13163307,5474590.574947164
 CUSHING,2,Assessing,Assessing,,Assessing,Investigating,-7705520.035553891,5468110.330408369
 CUSHING,96,Assessing,Assessing,,Assessing,Investigating,-7711802.3175655,5469522.345167237
@@ -451,7 +457,7 @@ WALDOBORO,35,Assessing,Assessing,,Assessing,Investigating,-7722650.435382686,547
 WALDOBORO,146,Assessing,Assessing,,Assessing,Investigating,-7722355.327418855,5486872.300123261
 WALDOBORO,8,Assessing,Assessing,,Assessing,Investigating,-7718273.620179566,5492483.916613664
 WALDOBORO,8,Assessing,Assessing,,Assessing,Investigating,-7719705.968046691,5492950.457059823
-WARREN,13,12/24/2022 1:00:00 AM,12/24/2022 1:00:00 AM,,Assessing,Investigating,-7716602.447455728,5491459.110286739
+WARREN,13,Assessing,Assessing,,Assessing,Investigating,-7716602.447455728,5491459.110286739
 WALDOBORO,3,Assessing,Assessing,,Assessing,Investigating,-7724683.5077414615,5478499.609873064
 "BREMEN,BREMAN",57,Assessing,Assessing,,Assessing,Investigating,-7728549.900843542,5465994.866837636
 BREMEN,40,Assessing,Assessing,,Assessing,Investigating,-7728772.77354232,5465618.153914273
@@ -462,6 +468,7 @@ BREMEN,3,Assessing,Assessing,,Assessing,Investigating,-7725056.806537396,5467722
 WALDOBORO,23,Assessing,Assessing,,Assessing,Investigating,-7727476.346834534,5475268.796744645
 WALDOBORO,108,Assessing,Assessing,,Assessing,Investigating,-7723685.829072447,5474925.799066343
 WALDOBORO,2,Assessing,Assessing,,Assessing,Investigating,-7724241.836504788,5470974.170966084
+WALDOBORO,11,Assessing,Assessing,,Assessing,Investigating,-7725564.211861251,5470767.980870579
 WALDOBORO,25,Assessing,Assessing,,Assessing,Investigating,-7726380.740338484,5487120.176232808
 "NOBLEBORO,JEFFERSON",263,Assessing,Assessing,,Assessing,Investigating,-7731030.811542866,5487208.392554162
 WARREN,7,Assessing,Assessing,,Assessing,Investigating,-7706921.247365211,5493438.768515834
@@ -475,6 +482,7 @@ WARREN,157,Assessing,Assessing,,Assessing,Investigating,-7707026.255017883,54839
 WARREN,15,Assessing,Assessing,,Assessing,Investigating,-7707236.593184664,5484244.589812712
 GARDINER,21,Assessing,Assessing,,Assessing,Investigating,-7768375.906969848,5501510.243702341
 WINTHROP,66,Assessing,Assessing,,Assessing,Investigating,-7782753.698642804,5512881.256322575
+WINTHROP,68,Assessing,Assessing,,Assessing,Investigating,-7786444.919345041,5511690.520496788
 WINTHROP,23,Assessing,Assessing,,Assessing,Investigating,-7790572.1340284515,5513307.723408529
 WINTHROP,6,Assessing,Assessing,,Assessing,Investigating,-7792902.81905499,5511960.690306195
 MONMOUTH,19,Assessing,Assessing,,Assessing,Investigating,-7795903.992471602,5508754.195432274
@@ -618,7 +626,6 @@ NEW GLOUCESTER,109,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Tree,-
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831301.29741011,5451265.096513925
 GRAY,23,Assessing,Assessing,,Assessing,Investigating,-7836907.001915073,5451085.599632366
 GRAY,19,Assessing,Assessing,,Assessing,Investigating,-7837679.614830254,5452258.2717110645
-GRAY,699,Assessing,Assessing,,Assessing,Investigating,-7830905.40071656,5447135.114454949
 GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7833063.651908992,5447674.434503747
 GRAY,81,Assessing,Assessing,,Assessing,Investigating,-7833831.155304229,5443946.853501939
 GRAY,99,Assessing,Assessing,,Assessing,Investigating,-7835331.330101415,5444562.291627471
@@ -757,6 +764,7 @@ PARIS,9,Assessing,Assessing,,Assessing,Investigating,-7850087.518977807,5498852.
 NORWAY,138,Assessing,Assessing,,Assessing,Investigating,-7852985.710809865,5498376.742408577
 NORWAY,11,Assessing,Assessing,,Assessing,Investigating,-7858822.68150986,5501212.169822199
 NORWAY,15,Assessing,Assessing,,Assessing,Investigating,-7858444.195306787,5501577.826764108
+NORWAY,19,Assessing,Assessing,,Assessing,Investigating,-7859259.866524345,5501820.088853574
 NORWAY,29,Assessing,Assessing,,Assessing,Investigating,-7859652.501566585,5502460.196105261
 NORWAY,18,Assessing,Assessing,,Assessing,Investigating,-7859255.525064222,5501820.523820083
 NORWAY,94,Assessing,Assessing,,Assessing,Investigating,-7863422.0800878685,5500161.717458019
@@ -767,7 +775,6 @@ NORWAY,67,Assessing,Assessing,,Assessing,Investigating,-7856639.18315404,5498508
 NORWAY,14,Assessing,Assessing,,Assessing,Investigating,-7857062.987589401,5497030.634617545
 WATERFORD,8,Assessing,Assessing,,Assessing,Investigating,-7862538.48162796,5494454.140322184
 NORWAY,495,Assessing,Assessing,,Assessing,Investigating,-7854760.421841491,5498460.454541472
-AUBURN,842,Assessing,Assessing,,Assessing,Investigating,-7818006.2770646475,5480925.020973774
 AUBURN,94,Assessing,Assessing,,Assessing,Investigating,-7818042.622852584,5472851.633764873
 OXFORD,15,Assessing,Assessing,,Assessing,Investigating,-7843470.065052071,5481758.877649349
 OXFORD,114,Assessing,Assessing,,Assessing,Investigating,-7843215.833648235,5481802.223549088
@@ -803,7 +810,8 @@ RAYMOND,24,Assessing,Assessing,,Assessing,Investigating,-7844959.030100309,54519
 RAYMOND,30,Assessing,Assessing,,Assessing,Investigating,-7845102.6655955985,5452405.354975407
 WINDHAM,64,Assessing,Assessing,,Assessing,Investigating,-7843952.612848733,5446327.451997039
 RAYMOND,6,Assessing,Assessing,,Assessing,Investigating,-7844558.613847257,5446436.836103529
-RAYMOND,630,Assessing,Assessing,,Assessing,Investigating,-7840805.198920595,5453445.389212983
+RAYMOND,74,Assessing,Assessing,,Assessing,Investigating,-7841206.461120649,5455187.6925670635
+RAYMOND,44,Assessing,Assessing,,Assessing,Investigating,-7841093.40505805,5454658.195068946
 "RAYMOND,GRAY",139,Assessing,Assessing,,Assessing,Investigating,-7841092.458898849,5451681.937662433
 "GRAY,RAYMOND",56,Assessing,Assessing,,Assessing,Investigating,-7838273.5377077125,5449882.132461209
 "GRAY,RAYMOND",198,Assessing,Assessing,,Assessing,Investigating,-7838417.440402124,5449863.8409045795
@@ -838,7 +846,6 @@ TURNER,146,Assessing,Assessing,,Assessing,Investigating,-7818923.794495754,55032
 TURNER,29,Assessing,Assessing,,Assessing,Investigating,-7820542.914247966,5507641.21756807
 TURNER,3,Assessing,Assessing,,Assessing,Investigating,-7821453.095866866,5507801.583105749
 GREENE,14,Assessing,Assessing,,Assessing,Investigating,-7805004.728251084,5497760.6971091665
-"MONMOUTH,WALES",77,12/23/2022 9:45:00 PM,12/23/2022 9:45:00 PM,,Assessing,Investigating,-7796655.610583776,5499539.462928723
 MONMOUTH,25,Assessing,Assessing,,Assessing,Investigating,-7792732.656063022,5499483.435841609
 LITCHFIELD,20,Assessing,Assessing,,Assessing,Investigating,-7788134.693592686,5494380.136331403
 LITCHFIELD,15,Assessing,Assessing,,Assessing,Investigating,-7786108.177873852,5498113.3258541655
@@ -853,6 +860,7 @@ BRIDGTON,9,Assessing,Assessing,,Assessing,Investigating,-7882614.996337112,54742
 BRIDGTON,19,Assessing,Assessing,,Assessing,Investigating,-7878508.164271387,5479067.354461066
 BRIDGTON,65,Assessing,Assessing,,Assessing,Investigating,-7878382.985437731,5479026.904116273
 CARTHAGE,54,Assessing,Assessing,,Assessing,Investigating,-7841353.970652805,5564398.561006358
+DIXFIELD,18,Assessing,Assessing,,Assessing,Investigating,-7842622.7344929045,5549288.130352783
 "CASCO,OTISFIELD,POLAND",175,Assessing,Assessing,,Assessing,Investigating,-7850404.62366625,5466396.24986845
 CASCO,29,Assessing,Assessing,,Assessing,Investigating,-7849969.030533824,5466331.773563044
 "CASCO,OTISFIELD",496,12/24/2022 10:00:00 PM,12/24/2022 10:00:00 PM,,Assessing,Investigating,-7848564.067222814,5468916.441775603
@@ -891,13 +899,16 @@ HARTFORD,48,Assessing,Assessing,,Assessing,Investigating,-7827493.547457136,5529
 HARTFORD,36,Assessing,Assessing,,Assessing,Investigating,-7825118.212146047,5518297.414342846
 "TURNER,HARTFORD",32,Assessing,Assessing,,Assessing,Investigating,-7822761.511696089,5517045.214991351
 LEEDS,29,Assessing,Assessing,,Assessing,Investigating,-7807491.661292221,5512270.656556915
-NAPLES,15,Assessing,Assessing,,Assessing,Investigating,-7860489.74653526,5461165.578038389
+"NAPLES,SEBAGO",1628,Assessing,Assessing,,Assessing,Investigating,-7860453.890595691,5460954.642918871
+"NAPLES,BRIDGTON",282,Assessing,Assessing,,Assessing,Investigating,-7860600.131007103,5460867.900748807
 BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7878832.54920984,5352961.470994757
+"BERWICK,NO BERWICK,NORTH BERWICK",244,Assessing,Assessing,,Assessing,Investigating,-7879256.3090953315,5352780.4469204275
 BERWICK,18,Assessing,Assessing,,Assessing,Investigating,-7884689.635428502,5356216.315027692
 BERWICK,9,Assessing,Assessing,,Assessing,Investigating,-7884728.274383569,5356240.188023162
 BERWICK,146,Assessing,Assessing,,Assessing,Investigating,-7886032.560289469,5357680.176418924
 BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7885787.96917763,5357336.394284782
 "BERWICK,NO BERWICK",91,Assessing,Assessing,,Assessing,Investigating,-7881473.737735003,5359546.482335885
+"BERWICK,YORK,SO BERWICK,SOUTH BERWICK,NORTH BERWICK",1638,Assessing,Assessing,,Assessing,Investigating,-7878625.806668249,5353018.663751803
 BERWICK,90,Assessing,Assessing,,Assessing,Investigating,-7879755.777433991,5351830.331172952
 BERWICK,10,Assessing,Assessing,,Assessing,Investigating,-7884944.122818912,5350087.914730476
 BERWICK,7,Assessing,Assessing,,Assessing,Investigating,-7884941.19514147,5350089.718163986
@@ -988,14 +999,3 @@ ACTON,14,Assessing,Assessing,,Assessing,Investigating,-7897960.521656596,5400896
 ACTON,9,Assessing,Assessing,,Assessing,Investigating,-7890782.262427462,5395809.539404809
 ACTON,7,Assessing,Assessing,,Assessing,Investigating,-7889318.444530649,5392450.6134615
 ACTON,116,Assessing,Assessing,,Assessing,Investigating,-7889096.506878622,5390103.879729132
-"SHAPLEIGH,ACTON",292,Assessing,Assessing,,Assessing,Investigating,-7886472.439319823,5387454.151118713
-"CAPE ELIZABETH,SCARBOROUGH",1470,Assessing,Assessing,,Assessing,Investigating,-7819841.211814781,5403222.354703027
-SCARBOROUGH,5,Assessing,Assessing,,Assessing,Investigating,-7823071.046710529,5400034.462003703
-CAPE ELIZABETH,17,Assessing,Assessing,,Assessing,Investigating,-7821923.320468103,5397059.230124649
-CAPE ELIZABETH,5,Assessing,Assessing,,Assessing,Investigating,-7819104.599701332,5398779.560668347
-CAPE ELIZABETH,10,Assessing,Assessing,,Assessing,Vehicle Accident,-7815424.021112593,5400968.242778333
-CAPE ELIZABETH,8,Assessing,Assessing,,Assessing,Investigating,-7816175.3497006595,5406072.256959486
-CAPE ELIZABETH,15,Assessing,Assessing,,Assessing,Investigating,-7816204.036714842,5406656.018901693
-CAPE ELIZABETH,28,Assessing,Assessing,,Assessing,Investigating,-7819568.323224828,5402797.276812556
-CAPE ELIZABETH,168,Assessing,Assessing,,Assessing,Investigating,-7819732.708749105,5402946.232396329
-CAPE ELIZABETH,10,Assessing,Assessing,,Assessing,Investigating,-7822657.995713293,5403513.334153826
