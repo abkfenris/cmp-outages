@@ -1,5 +1,9 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-GEORGETOWN,61,Assessing,Assessing,,Investigating,Investigating,-7765287.815251008,5434625.9765405115
+LEWISTON,44,Assessing,Assessing,,Investigating,Investigating,-7807009.023194475,5481633.416599882
+MONROE; NEWBURGH; WINTERPORT,353,Assessing,Assessing,,Investigating,Investigating,-7686212.526922176,5560117.278498681
+MONROE,48,Assessing,Assessing,,Investigating,Investigating,-7688528.973809579,5554105.763773292
+MONROE,6,Assessing,Assessing,,Investigating,Investigating,-7688779.917833299,5553331.975395297
+HARTFORD,12,Assessing,Assessing,,Investigating,Investigating,-7831032.527831254,5523791.074526245
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
 HERMON,82,Assessing,Assessing,,Assessing,Investigating,-7670259.130410546,5588136.623384049
@@ -65,7 +69,6 @@ BRUNSWICK,12,Assessing,Assessing,,Assessing,Investigating,-7789202.358809375,545
 BRUNSWICK,39,Assessing,Assessing,,Assessing,Investigating,-7789706.825343352,5450480.787194252
 BRUNSWICK,139,Assessing,Assessing,,Assessing,Investigating,-7789693.355664485,5451462.443451489
 BRUNSWICK,12,Assessing,Assessing,,Assessing,Tree,-7794233.176046629,5451766.352649471
-BRUNSWICK,58,Assessing,Assessing,,Assessing,Investigating,-7797482.347088566,5454087.568465054
 BRUNSWICK,37,Assessing,Assessing,,Assessing,Investigating,-7795881.094137658,5452443.107429668
 BRUNSWICK,4,Assessing,Assessing,,Assessing,Investigating,-7792084.487158888,5450420.655833385
 BRUNSWICK,10,Assessing,Assessing,,Assessing,Investigating,-7794363.698061805,5444676.703636672
@@ -250,7 +253,7 @@ PALERMO,24,Assessing,Assessing,,Assessing,Investigating,-7725207.889369742,55240
 PALERMO,95,Assessing,Assessing,,Assessing,Investigating,-7727676.688510565,5524232.259416129
 PALERMO,28,Assessing,Assessing,,Assessing,Investigating,-7728932.750831723,5523558.152572772
 PALERMO,14,Assessing,Assessing,,Assessing,Investigating,-7728931.20349954,5523559.61646794
-PALERMO,216,Assessing,Assessing,,Assessing,Investigating,-7730964.164533689,5523852.985408166
+PALERMO,21,Assessing,Assessing,,Assessing,Investigating,-7731725.1446263,5522482.531860673
 PALERMO,18,Assessing,Assessing,,Assessing,Investigating,-7728079.698467181,5533098.793724463
 "PALERMO,LIBERTY",4,Assessing,Assessing,,Assessing,Investigating,-7723935.919440531,5527855.142309825
 LIBERTY,16,Assessing,Assessing,,Assessing,Investigating,-7723642.38103377,5527780.72692165
@@ -351,6 +354,7 @@ GEORGETOWN,19,Assessing,Assessing,,Assessing,Tree,-7765216.336933339,5438379.657
 GEORGETOWN,637,Assessing,Assessing,,Assessing,Tree,-7765105.88578685,5435152.071185374
 GEORGETOWN,1,Assessing,Assessing,,Assessing,Tree,-7765656.3495131945,5432679.925329737
 GEORGETOWN,1,Assessing,Assessing,,Assessing,Tree,-7765296.342296755,5434543.693052936
+GEORGETOWN,61,Assessing,Assessing,,Assessing,Investigating,-7765287.815251008,5434625.976956629
 GEORGETOWN,4,Assessing,Assessing,,Assessing,Investigating,-7767508.338454947,5435458.249636026
 GEORGETOWN,27,Assessing,Assessing,,Assessing,Investigating,-7763027.550858091,5442805.265424757
 GEORGETOWN,46,Assessing,Assessing,,Assessing,Investigating,-7763765.064781086,5442609.956438455
@@ -409,14 +413,14 @@ BRIDGTON,61,Assessing,Assessing,,Assessing,Investigating,-7875173.700246711,5476
 BRIDGTON,2,Assessing,Assessing,,Assessing,Investigating,-7871936.061915271,5475142.059150185
 BRIDGTON,19,Assessing,Assessing,,Assessing,Investigating,-7873370.213101162,5478713.645119015
 BRIDGTON,9,Assessing,Assessing,,Assessing,Investigating,-7872017.848272459,5475271.693791603
-PARIS,7,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7848766.735503404,5508032.271835866
-PARIS,3,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7847496.758204878,5508620.913833199
+PARIS,7,Assessing,Assessing,,Assessing,Investigating,-7848766.735503404,5508032.271835866
+PARIS,3,Assessing,Assessing,,Assessing,Investigating,-7847496.758204878,5508620.913833199
 WEST PARIS,2,Assessing,Assessing,,Assessing,Investigating,-7847652.850445095,5514499.230255569
-PARIS,21,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7846126.78266155,5510682.812590248
-PARIS,16,12/24/2022 6:45:00 PM,12/24/2022 6:45:00 PM,,Assessing,Investigating,-7848130.989906764,5505992.173120194
-"PARIS,BUCKFIELD",133,12/24/2022 6:15:00 PM,12/24/2022 6:15:00 PM,,Assessing,Investigating,-7847729.282408207,5505817.523602094
-PARIS,15,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7847738.922700203,5503743.808644111
-PARIS,24,12/25/2022 1:30:00 AM,12/25/2022 1:30:00 AM,,Assessing,Investigating,-7848752.275115467,5503442.942385865
+PARIS,21,Assessing,Assessing,,Assessing,Investigating,-7846126.78266155,5510682.812590248
+PARIS,16,Assessing,Assessing,,Assessing,Investigating,-7848130.989906764,5505992.173120194
+"PARIS,BUCKFIELD",133,Assessing,Assessing,,Assessing,Investigating,-7847729.282408207,5505817.523602094
+PARIS,15,Assessing,Assessing,,Assessing,Investigating,-7847738.922700203,5503743.808644111
+PARIS,24,Assessing,Assessing,,Assessing,Investigating,-7848752.275115467,5503442.942385865
 LEWISTON,114,Assessing,Assessing,,Assessing,Investigating,-7808945.705347536,5479669.371922124
 AUBURN,5,Assessing,Assessing,,Assessing,Investigating,-7815775.456733408,5486881.12615159
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7818317.2703115335,5491471.091202104
@@ -465,7 +469,6 @@ MINOT,25,Assessing,Assessing,,Assessing,Investigating,-7827566.662106625,5486139
 MINOT,15,Assessing,Assessing,,Assessing,Investigating,-7826425.514829139,5485850.727302319
 MINOT,6,Assessing,Assessing,,Assessing,Investigating,-7827952.673533936,5487725.8256291095
 MINOT,27,Assessing,Assessing,,Assessing,Investigating,-7825816.463615995,5487534.150573921
-AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7823630.761092681,5489939.347165579
 AUBURN,16,Assessing,Assessing,,Assessing,Investigating,-7820540.576530971,5474052.445000313
 POLAND,166,12/25/2022 6:00:00 PM,12/25/2022 6:00:00 PM,,Assessing,Investigating,-7825891.570896167,5475909.932313755
 "POLAND,NEW GLOUCESTER",13,12/25/2022 6:00:00 PM,12/25/2022 6:00:00 PM,,Assessing,Investigating,-7826783.785501573,5472301.030561408
@@ -562,7 +565,6 @@ PARIS,2,Assessing,Assessing,,Assessing,Investigating,-7853028.524338224,5508002.
 PARIS,4,Assessing,Assessing,,Assessing,Investigating,-7852164.573773499,5502048.156242352
 "PARIS,OXFORD",55,Assessing,Assessing,,Assessing,Investigating,-7847621.013004107,5497576.855982739
 PARIS,23,Assessing,Assessing,,Assessing,Investigating,-7842615.376255596,5498064.7620241335
-PARIS,39,Assessing,Assessing,,Assessing,Investigating,-7850025.102204242,5500902.780333045
 PARIS,9,Assessing,Assessing,,Assessing,Investigating,-7850087.518977807,5498852.778322001
 NORWAY,138,Assessing,Assessing,,Assessing,Investigating,-7852985.710809865,5498376.742408577
 NORWAY,11,Assessing,Assessing,,Assessing,Investigating,-7858822.68150986,5501212.169822199
@@ -785,9 +787,7 @@ FALMOUTH,34,Assessing,Assessing,,Assessing,Investigating,-7818788.819695826,5419
 FALMOUTH,17,Assessing,Assessing,,Assessing,Investigating,-7819046.001102096,5419273.871251051
 FALMOUTH,47,Assessing,Assessing,,Assessing,Investigating,-7817078.351181626,5420885.085789664
 FALMOUTH,7,Assessing,Assessing,,Assessing,Investigating,-7818909.623531817,5424176.5149717
-GORHAM,46,Assessing,Assessing,,Assessing,Investigating,-7842412.040127376,5415925.113816338
 GORHAM,23,Assessing,Assessing,,Assessing,Investigating,-7843950.3752438035,5416073.4344992
-GORHAM,35,Assessing,Assessing,,Assessing,Investigating,-7843790.642928645,5415977.339798127
 GORHAM,8,Assessing,Assessing,,Assessing,Investigating,-7844467.398634776,5415033.376705613
 BUXTON,15,Assessing,Assessing,,Assessing,Investigating,-7847080.5457685115,5414314.379568465
 SANFORD,43,Assessing,Assessing,,Assessing,Investigating,-7880794.73341162,5377751.3926272625
@@ -849,7 +849,6 @@ LIMERICK,16,Assessing,Assessing,,Assessing,Investigating,-7884570.579148849,5414
 SACO,150,Assessing,Assessing,,Assessing,Investigating,-7844951.19312707,5400496.507863664
 BIDDEFORD,7,Assessing,Assessing,,Assessing,Investigating,-7843426.46123901,5386689.314097024
 BIDDEFORD,95,Assessing,Assessing,,Assessing,Investigating,-7843414.438780261,5387629.438015378
-GORHAM,99,Assessing,Assessing,,Assessing,Investigating,-7839035.742271076,5417260.840950092
 GORHAM,18,Assessing,Assessing,,Assessing,Investigating,-7840513.363720524,5416863.318286322
 GORHAM,16,Assessing,Assessing,,Assessing,Investigating,-7839882.126570937,5419239.718840363
 GORHAM,55,Assessing,Assessing,,Assessing,Investigating,-7840167.471805706,5412350.219627058
@@ -999,3 +998,4 @@ YORK,2,Assessing,Assessing,,Assessing,Investigating,-7859194.021112535,5341346.2
 YORK,9,Assessing,Assessing,,Assessing,Investigating,-7863770.821792935,5350502.8968649125
 YORK,17,Assessing,Assessing,,Assessing,Investigating,-7863933.147811663,5350111.98587542
 YORK,5,Assessing,Assessing,,Assessing,Investigating,-7860183.874020867,5341575.9819335295
+YORK,81,Assessing,Assessing,,Assessing,Investigating,-7863801.75742437,5334667.627705326
