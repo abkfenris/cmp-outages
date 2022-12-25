@@ -1,13 +1,9 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PARIS,7,Assessing,Assessing,,Investigating,Investigating,-7848766.733000603,5508032.269738563
-SWANVILLE,40,Assessing,Assessing,,Investigating,Investigating,-7680787.1906336,5551495.580851815
-PARIS,16,Assessing,Assessing,,Investigating,Investigating,-7848130.990307212,5505992.17927093
+LIMERICK,2,Assessing,Assessing,,Investigating,Investigating,-7883804.158766011,5413476.240193009
+BROWNFIELD,112,Assessing,Assessing,,Investigating,Investigating,-7891226.155651577,5456966.984755388
 GREENVILLE,48,Assessing,Assessing,,Investigating,Investigating,-7740429.874590076,5693790.210333675
-PARIS; BUCKFIELD,133,Assessing,Assessing,,Investigating,Investigating,-7847729.2849110095,5505817.5293333605
 WINDHAM,8,Assessing,Assessing,,Investigating,Investigating,-7838617.663245129,5443691.178531715
 NORTHPORT,79,Assessing,Assessing,,Investigating,Investigating,-7677926.336099442,5524663.384248427
-PARIS,3,Assessing,Assessing,,Investigating,Investigating,-7847496.756903418,5508620.915790819
-PARIS,24,Assessing,Assessing,,Investigating,Investigating,-7848752.270109864,5503442.945460384
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
 HERMON,82,Assessing,Assessing,,Assessing,Investigating,-7670259.130410546,5588136.623384049
@@ -228,7 +224,6 @@ VASSALBORO,19,Assessing,Assessing,,Assessing,Investigating,-7746177.141869995,55
 "WISCASSET,DRESDEN",41,Assessing,Assessing,,Assessing,Investigating,-7759037.72677902,5471910.972730202
 WISCASSET,15,Assessing,Assessing,,Assessing,Investigating,-7757525.885621726,5468361.182852712
 WISCASSET,22,Assessing,Assessing,,Assessing,Investigating,-7757713.2140298225,5468495.505125268
-WISCASSET,29,Assessing,Assessing,,Assessing,Investigating,-7761465.994446171,5470167.491882009
 WOOLWICH,4,Assessing,Assessing,,Assessing,Investigating,-7762978.459001343,5463803.750247543
 OWLS HEAD,19,Assessing,Assessing,,Assessing,Investigating,-7693064.575669225,5479253.970485685
 OWLS HEAD,72,Assessing,Assessing,,Assessing,Investigating,-7687493.792057074,5478215.425274111
@@ -361,7 +356,7 @@ GEORGETOWN,61,Assessing,Assessing,,Assessing,Investigating,-7765287.815251008,54
 GEORGETOWN,4,Assessing,Assessing,,Assessing,Investigating,-7767508.338454947,5435458.249636026
 GEORGETOWN,27,Assessing,Assessing,,Assessing,Investigating,-7763027.550858091,5442805.265424757
 GEORGETOWN,46,Assessing,Assessing,,Assessing,Investigating,-7763765.064781086,5442609.956438455
-ARROWSIC,28,12/25/2022 2:00:00 AM,12/25/2022 2:00:00 AM,,Assessing,Investigating,-7769737.1439306205,5447861.649413649
+ARROWSIC,28,Assessing,Assessing,,Assessing,Investigating,-7769737.1439306205,5447861.649413649
 WEST BATH,5,Assessing,Assessing,,Assessing,Tree,-7777317.210870497,5447473.492815696
 WEST BATH,40,Assessing,Assessing,,Assessing,Investigating,-7777735.850123607,5448155.9866528
 READFIELD,18,Assessing,Assessing,,Assessing,Investigating,-7786790.254636735,5524549.792010646
@@ -414,9 +409,14 @@ BRIDGTON,61,Assessing,Assessing,,Assessing,Investigating,-7875173.700246711,5476
 BRIDGTON,2,Assessing,Assessing,,Assessing,Investigating,-7871936.061915271,5475142.059150185
 BRIDGTON,19,Assessing,Assessing,,Assessing,Investigating,-7873370.213101162,5478713.645119015
 BRIDGTON,9,Assessing,Assessing,,Assessing,Investigating,-7872017.848272459,5475271.693791603
+PARIS,7,Assessing,Assessing,,Assessing,Investigating,-7848766.735503404,5508032.271835866
+PARIS,3,Assessing,Assessing,,Assessing,Investigating,-7847496.758204878,5508620.913833199
 WEST PARIS,2,Assessing,Assessing,,Assessing,Investigating,-7847652.850445095,5514499.230255569
 PARIS,21,Assessing,Assessing,,Assessing,Investigating,-7846126.78266155,5510682.812590248
+PARIS,16,Assessing,Assessing,,Assessing,Investigating,-7848130.989906764,5505992.173120194
+"PARIS,BUCKFIELD",133,Assessing,Assessing,,Assessing,Investigating,-7847729.282408207,5505817.523602094
 PARIS,15,Assessing,Assessing,,Assessing,Investigating,-7847738.922700203,5503743.808644111
+PARIS,24,Assessing,Assessing,,Assessing,Investigating,-7848752.275115467,5503442.942385865
 LEWISTON,114,Assessing,Assessing,,Assessing,Investigating,-7808945.705347536,5479669.371922124
 AUBURN,5,Assessing,Assessing,,Assessing,Investigating,-7815775.456733408,5486881.12615159
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7818317.2703115335,5491471.091202104
@@ -427,7 +427,6 @@ GREENE,26,Assessing,Assessing,,Assessing,Investigating,-7813077.317153379,549566
 GREENE,10,Assessing,Assessing,,Assessing,Investigating,-7807401.62610074,5487618.461696559
 BROWNFIELD,40,Assessing,Assessing,,Assessing,Investigating,-7900847.403427411,5451760.46539128
 "BROWNFIELD,FRYEBURG",114,Assessing,Assessing,,Assessing,Investigating,-7895441.740062034,5455348.193988951
-BROWNFIELD,112,Assessing,Assessing,,Assessing,Investigating,-7891226.160056503,5456966.983921126
 BROWNFIELD,15,Assessing,Assessing,,Assessing,Investigating,-7894490.615208512,5460469.898951484
 "DENMARK,BROWNFIELD",13,Assessing,Assessing,,Assessing,Investigating,-7888667.225512014,5463532.815751288
 DENMARK,48,Assessing,Assessing,,Assessing,Investigating,-7881230.671630362,5459990.624524169
@@ -819,7 +818,7 @@ LIMERICK,19,Assessing,Assessing,,Assessing,Investigating,-7885460.177725699,5412
 NEWFIELD,58,Assessing,Assessing,,Assessing,Investigating,-7887085.230820101,5411356.350097061
 NEWFIELD,15,Assessing,Assessing,,Assessing,Investigating,-7891146.666766334,5410307.147292175
 NEWFIELD,7,Assessing,Assessing,,Assessing,Investigating,-7892112.296557672,5410124.538969822
-"NEWFIELD,ACTON,WATERBORO,SHAPLEIGH",712,12/24/2022 11:15:00 PM,12/24/2022 11:15:00 PM,,Assessing,Investigating,-7893415.892290945,5410016.692390868
+"NEWFIELD,ACTON,WATERBORO,SHAPLEIGH",25,Assessing,Assessing,,Assessing,Investigating,-7893415.892290945,5410016.692390868
 "NEWFIELD,ACTON,WATERBORO,SHAPLEIGH",687,Assessing,Assessing,,Assessing,Investigating,-7891591.232343128,5406695.445162823
 NEWFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7893730.169514139,5411906.089915198
 NEWFIELD,39,Assessing,Assessing,,Assessing,Investigating,-7893483.441009558,5412140.999317834
@@ -999,3 +998,4 @@ YORK,149,Assessing,Assessing,,Assessing,Investigating,-7861845.228353335,5337297
 YORK,8,Assessing,Assessing,,Assessing,Investigating,-7863686.71984352,5332282.57999745
 YORK,14,Assessing,Assessing,,Assessing,Investigating,-7864466.579671387,5333529.934519208
 "HOLLIS,HOLLIS CENTER",100,Assessing,Assessing,,Assessing,Investigating,-7862205.235569768,5401674.32264639
+HOLLIS,53,Assessing,Assessing,,Assessing,Investigating,-7856979.620362486,5403673.153844914
