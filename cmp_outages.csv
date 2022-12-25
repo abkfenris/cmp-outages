@@ -1,9 +1,10 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PARIS,23,Assessing,Assessing,,Investigating,Investigating,-7842615.380760639,5498064.761046457
-GEORGETOWN,27,Assessing,Assessing,,Investigating,Investigating,-7763027.555763582,5442805.265563586
-GEORGETOWN,46,Assessing,Assessing,,Investigating,Investigating,-7763765.06267873,5442609.963240973
+WISCASSET,29,Assessing,Assessing,,Investigating,Investigating,-7761465.992944488,5470167.49397067
+WESTBROOK,87,Assessing,Assessing,,Investigating,Investigating,-7832768.196456162,5417051.821709191
+WESTBROOK,49,Assessing,Assessing,,Investigating,Investigating,-7832766.825321223,5417053.423491085
+WESTBROOK,14,Assessing,Assessing,,Investigating,Investigating,-7833278.752106711,5417564.335765376
+WESTBROOK,39,Assessing,Assessing,,Investigating,Investigating,-7832766.731516212,5417050.305900465
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
-HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
 HERMON,5,Assessing,Assessing,,Assessing,Investigating,-7673376.888740204,5592126.973053638
 HERMON,76,12/24/2022 11:00:00 PM,12/24/2022 11:00:00 PM,,Assessing,Investigating,-7668138.816888105,5594848.186397275
@@ -39,7 +40,6 @@ BOOTHBAY,12,Assessing,Assessing,,Assessing,Investigating,-7746079.4812420765,543
 BOOTHBAY,50,Assessing,Assessing,,Assessing,Investigating,-7746050.449141578,5440451.721336676
 "BOOTHBAY HBR,BOOTHBAY HARBOR",83,Assessing,Assessing,,Assessing,Investigating,-7750089.420839816,5441207.996052407
 BOOTHBAY HBR,43,Assessing,Assessing,,Assessing,Investigating,-7752266.5294425115,5445434.776996476
-BOOTHBAY,232,Assessing,Assessing,,Assessing,Investigating,-7752752.895513608,5447449.846589745
 BRISTOL,129,Assessing,Assessing,,Assessing,Investigating,-7734753.724924032,5447134.68193519
 BRISTOL,11,Assessing,Assessing,,Assessing,Investigating,-7737258.313229666,5446803.126791264
 BRISTOL,14,Assessing,Assessing,,Assessing,Tree,-7740030.14630719,5446883.805978817
@@ -360,6 +360,8 @@ GEORGETOWN,637,Assessing,Assessing,,Assessing,Tree,-7765105.88578685,5435152.071
 GEORGETOWN,1,Assessing,Assessing,,Assessing,Tree,-7765656.3495131945,5432679.925329737
 GEORGETOWN,1,Assessing,Assessing,,Assessing,Tree,-7765296.342296755,5434543.693052936
 GEORGETOWN,4,Assessing,Assessing,,Assessing,Investigating,-7767508.338454947,5435458.249636026
+GEORGETOWN,27,Assessing,Assessing,,Assessing,Investigating,-7763027.550858091,5442805.265424757
+GEORGETOWN,46,Assessing,Assessing,,Assessing,Investigating,-7763765.064781086,5442609.956438455
 WEST BATH,5,Assessing,Assessing,,Assessing,Tree,-7777317.210870497,5447473.492815696
 WEST BATH,40,Assessing,Assessing,,Assessing,Investigating,-7777735.850123607,5448155.9866528
 READFIELD,18,Assessing,Assessing,,Assessing,Investigating,-7786790.254636735,5524549.792010646
@@ -468,7 +470,6 @@ AUBURN,17,Assessing,Assessing,,Assessing,Investigating,-7822739.604071212,548326
 MINOT,25,Assessing,Assessing,,Assessing,Investigating,-7827566.662106625,5486139.6466708835
 MINOT,15,Assessing,Assessing,,Assessing,Investigating,-7826425.514829139,5485850.727302319
 MINOT,6,Assessing,Assessing,,Assessing,Investigating,-7827952.673533936,5487725.8256291095
-"AUBURN,MINOT",2,Assessing,Assessing,,Assessing,Investigating,-7824904.211579332,5487493.181952088
 MINOT,27,Assessing,Assessing,,Assessing,Investigating,-7825816.463615995,5487534.150573921
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7823630.761092681,5489939.347165579
 AUBURN,16,Assessing,Assessing,,Assessing,Investigating,-7820540.576530971,5474052.445000313
@@ -567,6 +568,7 @@ OXFORD,25,Assessing,Assessing,,Assessing,Investigating,-7851735.236744575,549330
 PARIS,2,Assessing,Assessing,,Assessing,Investigating,-7853028.524338224,5508002.312196537
 PARIS,4,Assessing,Assessing,,Assessing,Investigating,-7852164.573773499,5502048.156242352
 "PARIS,OXFORD",55,Assessing,Assessing,,Assessing,Investigating,-7847621.013004107,5497576.855982739
+PARIS,23,Assessing,Assessing,,Assessing,Investigating,-7842615.376255596,5498064.7620241335
 PARIS,39,Assessing,Assessing,,Assessing,Investigating,-7850025.102204242,5500902.780333045
 PARIS,9,Assessing,Assessing,,Assessing,Investigating,-7850087.518977807,5498852.778322001
 NORWAY,138,Assessing,Assessing,,Assessing,Investigating,-7852985.710809865,5498376.742408577
@@ -855,7 +857,6 @@ LIMERICK,16,Assessing,Assessing,,Assessing,Investigating,-7884570.579148849,5414
 SACO,150,Assessing,Assessing,,Assessing,Investigating,-7844951.19312707,5400496.507863664
 BIDDEFORD,7,Assessing,Assessing,,Assessing,Investigating,-7843426.46123901,5386689.314097024
 BIDDEFORD,95,Assessing,Assessing,,Assessing,Investigating,-7843414.438780261,5387629.438015378
-SACO,63,Assessing,Assessing,,Assessing,Investigating,-7844754.380301476,5390604.496173874
 GORHAM,99,Assessing,Assessing,,Assessing,Investigating,-7839035.742271076,5417260.840950092
 GORHAM,18,Assessing,Assessing,,Assessing,Investigating,-7840513.363720524,5416863.318286322
 GORHAM,16,Assessing,Assessing,,Assessing,Investigating,-7839882.126570937,5419239.718840363
@@ -914,7 +915,6 @@ SCARBOROUGH,95,Assessing,Assessing,,Assessing,Investigating,-7830359.27845034,53
 SCARBOROUGH,3,Assessing,Assessing,,Assessing,Investigating,-7828080.267971786,5404440.486712348
 "SCARBOROUGH,PORTLAND",209,Assessing,Assessing,,Assessing,Investigating,-7828440.074763855,5403343.064668797
 SCARBOROUGH,118,Assessing,Assessing,,Assessing,Investigating,-7828719.186119994,5402971.317307266
-WESTBROOK,1752,12/23/2022 1:00:00 PM,12/23/2022 1:00:00 PM,,Assessing,Investigating,-7832560.432170767,5417371.897308413
 WINDHAM,66,Assessing,Assessing,,Assessing,Investigating,-7832756.4434991125,5429264.856918109
 WINDHAM,12,Assessing,Assessing,,Assessing,Investigating,-7834579.289015737,5423030.98030379
 WESTBROOK,38,Assessing,Assessing,,Assessing,Investigating,-7831761.725944968,5425547.227228285
