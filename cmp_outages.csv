@@ -2,19 +2,11 @@ BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 NEWFIELD,47,Assessing,Assessing,,Investigating,Investigating,-7885281.148207941,5407705.72840886
 NEWFIELD,33,Assessing,Assessing,,Investigating,Investigating,-7893730.167612009,5411906.083412026
 LIMERICK,78,Assessing,Assessing,,Investigating,Investigating,-7882484.522676068,5414296.905685001
-PARSONSFIELD,2,Assessing,Assessing,,Investigating,Investigating,-7891665.226176836,5431374.933066495
 NEWFIELD,7,Assessing,Assessing,,Investigating,Investigating,-7892475.169382066,5411332.74996201
-PARSONSFIELD,9,Assessing,Assessing,,Investigating,Investigating,-7891762.909730408,5431176.955616407
 LIMERICK,74,Assessing,Assessing,,Investigating,Investigating,-7883795.288235736,5413468.312854125
-NEWFIELD,34,Assessing,Assessing,,Investigating,Investigating,-7887790.647811615,5411275.738757282
-NEWFIELD,10,Assessing,Assessing,,Investigating,Investigating,-7894130.245886702,5411666.00122972
+HOLLIS,5,Assessing,Assessing,,Investigating,Investigating,-7867319.073445946,5410874.483686903
 NEWFIELD,7,Assessing,Assessing,,Investigating,Investigating,-7892112.297759014,5410124.542289955
-LIMERICK,19,Assessing,Assessing,,Investigating,Investigating,-7885460.172319642,5412237.206187489
-NEWFIELD,15,Assessing,Assessing,,Investigating,Investigating,-7891146.663062191,5410307.142865244
-SHAPLEIGH,181,Assessing,Assessing,,Investigating,Investigating,-7885170.46259898,5406330.625496557
 NEWFIELD; PARSONSFIELD,133,Assessing,Assessing,,Investigating,Investigating,-7895338.85218238,5410430.901629235
-WINDHAM; GRAY,18,Assessing,Assessing,,Investigating,Investigating,-7840504.57338002,5444235.619935924
-NEWFIELD,17,Assessing,Assessing,,Investigating,Investigating,-7892451.52881722,5411594.443043799
 DALLAS PLT,17,Assessing,Assessing,,Investigating,Investigating,-7860606.67413192,5614827.709519165
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7673462.504584373,5592940.944218469
@@ -473,8 +465,7 @@ HIRAM,14,Assessing,Assessing,,Assessing,Investigating,-7884708.158965005,5449438
 AUBURN,35,Assessing,Assessing,,Assessing,Investigating,-7822046.005710269,5478025.483163782
 AUBURN,24,Assessing,Assessing,,Assessing,Investigating,-7824928.145272329,5477613.115868109
 AUBURN,17,Assessing,Assessing,,Assessing,Investigating,-7822109.936478693,5479275.436010703
-AUBURN,121,Assessing,Assessing,,Assessing,Investigating,-7822584.480315179,5485128.034433842
-AUBURN,13,Assessing,Assessing,,Assessing,Investigating,-7822456.340466758,5483857.822612199
+AUBURN,17,Assessing,Assessing,,Assessing,Investigating,-7822739.604071212,5483261.701138038
 MINOT,40,Assessing,Assessing,,Assessing,Investigating,-7827566.662106625,5486139.6466708835
 MINOT,6,Assessing,Assessing,,Assessing,Investigating,-7827952.673533936,5487725.8256291095
 "AUBURN,MINOT",2,Assessing,Assessing,,Assessing,Investigating,-7824904.211579332,5487493.181952088
@@ -571,9 +562,6 @@ POLAND,26,12/25/2022 6:00:00 PM,12/25/2022 6:00:00 PM,,Assessing,Investigating,-
 MECHANIC FALLS,21,12/25/2022 6:00:00 PM,12/25/2022 6:00:00 PM,,Assessing,Tree,-7836161.873768202,5481449.121903279
 PARIS,47,Assessing,Assessing,,Assessing,Investigating,-7850126.803655733,5494523.767021285
 OXFORD,25,Assessing,Assessing,,Assessing,Investigating,-7851735.236744575,5493305.834208034
-"NORWAY,PARIS,WEST PARIS",46,12/25/2022 5:00:00 AM,12/25/2022 5:00:00 AM,,Assessing,Investigating,-7851101.082929884,5499034.346327634
-NORWAY,26,12/25/2022 5:00:00 AM,12/25/2022 5:00:00 AM,,Assessing,Investigating,-7851122.467469184,5499183.9833903825
-"PARIS,WEST PARIS",207,12/25/2022 5:00:00 AM,12/25/2022 5:00:00 AM,,Assessing,Investigating,-7851782.603169755,5500321.64112794
 PARIS,2,Assessing,Assessing,,Assessing,Investigating,-7853028.524338224,5508002.312196537
 NORWAY,16,12/25/2022 5:00:00 AM,12/25/2022 5:00:00 AM,,Assessing,Investigating,-7853842.325462275,5500903.8833578415
 "PARIS,OXFORD",55,Assessing,Assessing,,Assessing,Investigating,-7847621.013004107,5497576.855982739
@@ -835,7 +823,6 @@ BIDDEFORD,36,Assessing,Assessing,,Assessing,Investigating,-7835344.744117973,537
 KENNEBUNKPORT,20,Assessing,Assessing,,Assessing,Investigating,-7845837.697039541,5374564.787725814
 SACO,14,Assessing,Assessing,,Assessing,Investigating,-7839396.87374609,5389592.269971034
 SACO,5,Assessing,Assessing,,Assessing,Investigating,-7839974.19894298,5392214.391908083
-FALMOUTH,158,Assessing,Assessing,,Assessing,Investigating,-7825956.113950032,5428121.402917719
 FALMOUTH,7,Assessing,Assessing,,Assessing,Investigating,-7831508.451812763,5429183.962051378
 WINDHAM,35,Assessing,Assessing,,Assessing,Investigating,-7831978.242328058,5432291.405774981
 FALMOUTH,12,Assessing,Assessing,,Assessing,Investigating,-7828111.760226347,5425064.867808897
@@ -855,12 +842,18 @@ LIMERICK,52,Assessing,Assessing,,Assessing,Investigating,-7878008.818369798,5420
 LIMINGTON,18,Assessing,Assessing,,Assessing,Investigating,-7873404.744457898,5415440.009376582
 "LIMERICK,WATERBORO,NORTH WATERBORO",622,Assessing,Assessing,,Assessing,Investigating,-7872769.432947204,5413901.887235787
 LIMINGTON,16,Assessing,Assessing,,Assessing,Investigating,-7874508.544025828,5417227.681300034
+LIMERICK,19,Assessing,Assessing,,Assessing,Investigating,-7885460.177725699,5412237.20812467
 NEWFIELD,58,Assessing,Assessing,,Assessing,Investigating,-7887085.230820101,5411356.350097061
+NEWFIELD,15,Assessing,Assessing,,Assessing,Investigating,-7891146.666766334,5410307.147292175
 "NEWFIELD,ACTON,WATERBORO,SHAPLEIGH",687,Assessing,Assessing,,Assessing,Investigating,-7891591.232343128,5406695.445162823
 NEWFIELD,39,Assessing,Assessing,,Assessing,Investigating,-7893483.441009558,5412140.999317834
+NEWFIELD,17,Assessing,Assessing,,Assessing,Investigating,-7892451.531620357,5411594.445672659
+NEWFIELD,10,Assessing,Assessing,,Assessing,Investigating,-7894130.240680875,5411666.001644808
 NEWFIELD,92,Assessing,Assessing,,Assessing,Investigating,-7897678.215423898,5410385.692610265
 NEWFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7891655.9311713725,5410204.697856453
+NEWFIELD,34,Assessing,Assessing,,Assessing,Investigating,-7887790.6513155345,5411275.735021666
 "SHAPLEIGH,BERWICK",92,Assessing,Assessing,,Assessing,Investigating,-7884176.964610097,5405614.298967254
+SHAPLEIGH,181,Assessing,Assessing,,Assessing,Investigating,-7885170.457693489,5406330.620656686
 LIMERICK,16,Assessing,Assessing,,Assessing,Investigating,-7884570.579148849,5414098.051192236
 SACO,150,Assessing,Assessing,,Assessing,Investigating,-7844951.19312707,5400496.507863664
 BIDDEFORD,7,Assessing,Assessing,,Assessing,Investigating,-7843426.46123901,5386689.314097024
@@ -896,6 +889,7 @@ WINDHAM,166,Assessing,Assessing,,Assessing,Investigating,-7840778.894173279,5440
 WINDHAM,23,Assessing,Assessing,,Assessing,Investigating,-7844399.571704724,5443283.120113131
 WINDHAM,8,Assessing,Assessing,,Assessing,Investigating,-7844461.743604151,5443431.819895232
 WINDHAM,37,Assessing,Assessing,,Assessing,Investigating,-7844187.452444065,5445090.43618288
+"WINDHAM,GRAY",18,Assessing,Assessing,,Assessing,Investigating,-7840504.569475648,5444235.615353829
 "WINDHAM,GRAY",83,Assessing,Assessing,,Assessing,Investigating,-7840404.270694408,5444824.731076257
 WINDHAM,36,Assessing,Assessing,,Assessing,Investigating,-7842183.645947475,5439917.207020654
 WINDHAM,24,Assessing,Assessing,,Assessing,Investigating,-7842790.559767876,5440191.767756926
@@ -911,7 +905,7 @@ YORK,17,Assessing,Assessing,,Assessing,Investigating,-7864085.366115132,5350698.
 O O BEACH,17,Assessing,Assessing,,Assessing,Investigating,-7833931.053436963,5390981.104604171
 SCARBOROUGH,3,Assessing,Assessing,,Assessing,Investigating,-7826860.518001123,5395903.136257374
 SCARBOROUGH,67,Assessing,Assessing,,Assessing,Investigating,-7827787.931810905,5393510.9520689575
-SCARBOROUGH,20,12/24/2022 10:45:00 PM,12/24/2022 10:45:00 PM,,Assessing,Investigating,-7827501.128243584,5394529.457518264
+SCARBOROUGH,20,Assessing,Assessing,,Assessing,Investigating,-7827501.128243584,5394529.457518264
 SCARBOROUGH,28,Assessing,Assessing,,Assessing,Investigating,-7829994.495587717,5398817.34010005
 SCARBOROUGH,12,Assessing,Assessing,,Assessing,Investigating,-7830124.305305498,5398793.526278769
 SCARBOROUGH,29,Assessing,Assessing,,Assessing,Investigating,-7830394.433204951,5398546.7879847
@@ -999,3 +993,9 @@ WATERBORO,10,Assessing,Assessing,,Crew Assigned,Investigating,-7872699.813810831
 WATERBORO,33,Assessing,Assessing,,Assessing,Investigating,-7871932.867038713,5407323.0119518535
 WATERBORO,28,Assessing,Assessing,,Assessing,Investigating,-7867940.560480591,5399404.086101081
 "WATERBORO,LYMAN,HOLLIS",165,Assessing,Assessing,,Assessing,Investigating,-7867164.452052295,5399095.505634519
+"WATERBORO,LYMAN",50,Assessing,Assessing,,Assessing,Investigating,-7871399.8915899275,5395156.091996626
+LYMAN,123,Assessing,Assessing,,Assessing,Investigating,-7868252.945185167,5391254.030228806
+LYMAN,42,Assessing,Assessing,,Assessing,Investigating,-7868070.7597344415,5391309.202678081
+LYMAN,15,Assessing,Assessing,,Assessing,Investigating,-7869570.711982495,5393256.753811328
+"WATERBORO,SHAPLEIGH,ALFRED",689,Assessing,Assessing,,Assessing,Investigating,-7873737.945966212,5394287.516454189
+WATERBORO,2,Assessing,Assessing,,Assessing,Investigating,-7879393.332288365,5401376.946579639
