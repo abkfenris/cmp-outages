@@ -1,15 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PARIS,24,Assessing,Assessing,,Investigating,Investigating,-7848752.270109864,5503442.945460384
-PARIS,15,Assessing,Assessing,,Investigating,Investigating,-7847738.918895942,5503743.8038924355
-PARIS; BUCKFIELD,133,Assessing,Assessing,,Investigating,Investigating,-7847729.2849110095,5505817.5293333605
 GEORGETOWN,61,Assessing,Assessing,,Investigating,Investigating,-7765287.815251008,5434625.9765405115
-PARIS,16,Assessing,Assessing,,Investigating,Investigating,-7848130.990307212,5505992.17927093
-PARIS,21,Assessing,Assessing,,Investigating,Investigating,-7846126.786465805,5510682.816086785
-PARIS,3,Assessing,Assessing,,Investigating,Investigating,-7847496.756903418,5508620.915790819
-PARIS,7,Assessing,Assessing,,Investigating,Investigating,-7848766.733000603,5508032.269738563
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 HERMON,3,Assessing,Assessing,,Assessing,Investigating,-7673737.396917448,5598057.520156465
-HERMON,5,Assessing,Assessing,,Assessing,Investigating,-7673376.888740204,5592126.973053638
 HERMON,82,Assessing,Assessing,,Assessing,Investigating,-7670259.130410546,5588136.623384049
 HERMON,14,Assessing,Assessing,,Assessing,Investigating,-7670368.735610021,5587688.987321574
 WEST BATH,21,Assessing,Assessing,,Assessing,Investigating,-7775304.565679276,5440856.1580341775
@@ -295,7 +287,6 @@ TOPSHAM,216,Assessing,Assessing,,Assessing,Investigating,-7785208.4269317575,545
 BOWDOINHAM,158,Assessing,Assessing,,Assessing,Tree,-7780203.3133689435,5466977.067564123
 BOWDOINHAM,80,Assessing,Assessing,,Assessing,Investigating,-7779403.304785196,5467294.770755486
 BOWDOINHAM,14,Assessing,Assessing,,Assessing,Investigating,-7776404.079349279,5467003.519187607
-BOWDOINHAM,75,Assessing,Assessing,,Assessing,Investigating,-7781568.379816698,5467758.808030176
 TOPSHAM,10,Assessing,Assessing,,Assessing,Investigating,-7785327.850522609,5462493.7432058295
 TOPSHAM,11,Assessing,Assessing,,Assessing,Investigating,-7781214.884790441,5456516.926511364
 TOPSHAM,34,Assessing,Assessing,,Assessing,Investigating,-7780606.668411869,5457532.887988397
@@ -388,7 +379,6 @@ WESTPORT,13,Assessing,Assessing,,Assessing,Investigating,-7761188.307985157,5446
 WESTPORT,54,Assessing,Assessing,,Assessing,Investigating,-7755801.324030776,5461207.97597481
 WESTPORT,17,Assessing,Assessing,,Assessing,Investigating,-7755712.112661535,5461279.160461454
 WISCASSET,15,Assessing,Assessing,,Assessing,Investigating,-7756437.826674906,5461344.405636739
-WISCASSET,177,Assessing,Assessing,,Assessing,Investigating,-7758455.926572498,5463273.47759568
 WISCASSET,27,Assessing,Assessing,,Assessing,Investigating,-7761070.0421904195,5459227.51510686
 FRYEBURG,2,Assessing,Assessing,,Assessing,Investigating,-7897597.564437728,5476918.1723050345
 FRYEBURG,128,Assessing,Assessing,,Assessing,Investigating,-7897709.1957053235,5477396.533984118
@@ -419,7 +409,14 @@ BRIDGTON,61,Assessing,Assessing,,Assessing,Investigating,-7875173.700246711,5476
 BRIDGTON,2,Assessing,Assessing,,Assessing,Investigating,-7871936.061915271,5475142.059150185
 BRIDGTON,19,Assessing,Assessing,,Assessing,Investigating,-7873370.213101162,5478713.645119015
 BRIDGTON,9,Assessing,Assessing,,Assessing,Investigating,-7872017.848272459,5475271.693791603
+PARIS,7,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7848766.735503404,5508032.271835866
+PARIS,3,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7847496.758204878,5508620.913833199
 WEST PARIS,2,Assessing,Assessing,,Assessing,Investigating,-7847652.850445095,5514499.230255569
+PARIS,21,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7846126.78266155,5510682.812590248
+PARIS,16,12/24/2022 6:45:00 PM,12/24/2022 6:45:00 PM,,Assessing,Investigating,-7848130.989906764,5505992.173120194
+"PARIS,BUCKFIELD",133,12/24/2022 6:15:00 PM,12/24/2022 6:15:00 PM,,Assessing,Investigating,-7847729.282408207,5505817.523602094
+PARIS,15,12/24/2022 6:30:00 PM,12/24/2022 6:30:00 PM,,Assessing,Investigating,-7847738.922700203,5503743.808644111
+PARIS,24,12/25/2022 1:30:00 AM,12/25/2022 1:30:00 AM,,Assessing,Investigating,-7848752.275115467,5503442.942385865
 LEWISTON,114,Assessing,Assessing,,Assessing,Investigating,-7808945.705347536,5479669.371922124
 AUBURN,5,Assessing,Assessing,,Assessing,Investigating,-7815775.456733408,5486881.12615159
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7818317.2703115335,5491471.091202104
@@ -688,9 +685,9 @@ NAPLES,284,Assessing,Assessing,,Assessing,Investigating,-7860750.679441213,54547
 SO BERWICK,3,Assessing,Assessing,,Assessing,Investigating,-7881333.419553339,5348196.871376535
 BERWICK,10,Assessing,Assessing,,Assessing,Investigating,-7884944.122818912,5350087.914730476
 BERWICK,7,Assessing,Assessing,,Assessing,Investigating,-7884941.19514147,5350089.718163986
-"BERWICK,BIDDEFORD",444,Assessing,Assessing,,Assessing,Investigating,-7889069.144547379,5353111.7536281105
 "BERWICK,BIDDEFORD",66,Assessing,Assessing,,Assessing,Investigating,-7889243.070051353,5353155.462943685
 BERWICK,100,Assessing,Assessing,,Assessing,Investigating,-7892696.634805449,5362282.017354876
+BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7891629.2033504415,5356460.140862688
 BERWICK,127,Assessing,Assessing,,Crew Assigned,Investigating,-7885502.10065706,5352257.39134582
 BERWICK,13,Assessing,Assessing,,Crew Assigned,Investigating,-7888338.076039821,5354651.595690528
 BERWICK,128,Assessing,Assessing,,Crew Assigned,Investigating,-7887343.124723989,5361545.2196997255
@@ -999,3 +996,6 @@ WATERBORO,24,Assessing,Assessing,,Assessing,Investigating,-7873124.753717315,539
 WATERBORO,11,Assessing,Assessing,,Assessing,Investigating,-7868819.951029878,5399956.818894093
 YORK,144,Assessing,Assessing,,Assessing,Investigating,-7860136.440720819,5338962.84371009
 YORK,2,Assessing,Assessing,,Assessing,Investigating,-7859194.021112535,5341346.2572725
+YORK,9,Assessing,Assessing,,Assessing,Investigating,-7863770.821792935,5350502.8968649125
+YORK,17,Assessing,Assessing,,Assessing,Investigating,-7863933.147811663,5350111.98587542
+YORK,5,Assessing,Assessing,,Assessing,Investigating,-7860183.874020867,5341575.9819335295
