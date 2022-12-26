@@ -1,9 +1,4 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-EDGECOMB; NEWCASTLE,159,Assessing,Assessing,,Investigating,Investigating,-7747344.012543985,5455536.774951541
-OXFORD,11,Assessing,Assessing,,Investigating,Investigating,-7847116.492509724,5484155.794696849
-FREEPORT,10,Assessing,Assessing,,Investigating,Investigating,-7803462.188527738,5448824.7926832605
-BOOTHBAY,12,Assessing,Assessing,,Investigating,Investigating,-7747547.8552392945,5454749.272203644
-BOOTHBAY,4,Assessing,Assessing,,Investigating,Investigating,-7748490.060707855,5452462.301760812
 "ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 BATH,31,Assessing,Assessing,,Assessing,Investigating,-7771888.103660495,5453367.078928304
 BRISTOL,11,Assessing,Assessing,,Assessing,Investigating,-7738524.483466315,5445562.680655174
@@ -66,7 +61,10 @@ NEWCASTLE,12,Assessing,Assessing,,Assessing,Investigating,-7741121.043931814,547
 "NEWCASTLE,JEFFERSON",324,Assessing,Assessing,,Assessing,Investigating,-7743839.566129523,5479295.258684732
 JEFFERSON,45,Assessing,Assessing,,Assessing,Investigating,-7736294.0972210225,5487085.445295725
 NEWCASTLE,16,Assessing,Assessing,,Assessing,Investigating,-7740997.23443108,5476193.3327646535
+BOOTHBAY,12,12/23/2022 11:15:00 PM,12/23/2022 11:15:00 PM,,Assessing,Investigating,-7747547.852135821,5454749.268589368
+"NEWCASTLE,EDGECOMB",161,12/23/2022 2:15:00 PM,12/23/2022 2:15:00 PM,,Assessing,Investigating,-7747344.014946674,5455536.770919897
 EDGECOMB,2,Assessing,Assessing,,Assessing,Tree,-7745539.748728978,5460902.254072298
+BOOTHBAY,4,12/23/2022 11:15:00 PM,12/23/2022 11:15:00 PM,,Assessing,Investigating,-7748490.060307409,5452462.300510035
 EDGECOMB,5,Assessing,Assessing,,Assessing,Investigating,-7754010.694378772,5456228.134357605
 EDGECOMB,104,Assessing,Assessing,,Assessing,Investigating,-7753524.05009623,5465396.531535569
 FREEPORT,1,Assessing,Assessing,,Assessing,Investigating,-7804312.922096462,5442936.899197151
@@ -82,6 +80,7 @@ FREEPORT,5,Assessing,Assessing,,Assessing,Investigating,-7808815.795517681,54446
 "BOWDOIN,SABATTUS,LISBON",21,Assessing,Assessing,,Assessing,Investigating,-7795284.410469582,5472979.842059991
 BOWDOIN,13,Assessing,Assessing,,Assessing,Investigating,-7794786.433900909,5471459.067397261
 LISBON,118,Assessing,Assessing,,Assessing,Investigating,-7799426.920475609,5466040.521646368
+FREEPORT,10,12/26/2022 4:15:00 AM,12/26/2022 4:15:00 AM,,Assessing,Investigating,-7803462.185224035,5448824.798379013
 DURHAM,32,Assessing,Assessing,,Assessing,Investigating,-7808734.955319694,5457564.894147372
 DURHAM,146,Assessing,Assessing,,Assessing,Tree,-7809090.665625881,5460166.165869917
 DURHAM,17,Assessing,Assessing,,Assessing,Tree,-7808235.93227953,5461428.383572837
@@ -323,9 +322,7 @@ SHAPLEIGH,25,Assessing,Assessing,,Assessing,Investigating,-7888097.091565489,539
 ACTON,8,12/26/2022 12:00:00 PM,12/26/2022 12:00:00 PM,,Crew Assigned,Investigating,-7899662.262700678,5401808.460124277
 ACTON,7,12/26/2022 12:00:00 PM,12/26/2022 12:00:00 PM,,Crew Assigned,Investigating,-7889318.444530649,5392450.6134615
 YARMOUTH,34,Assessing,Assessing,,Assessing,Investigating,-7815327.829929678,5435033.134725089
-YARMOUTH,9,Assessing,Assessing,,Assessing,Investigating,-7813467.603266068,5436952.268870082
 YARMOUTH,12,Assessing,Assessing,,Assessing,Investigating,-7812858.752477289,5431585.879695577
-"YARMOUTH,FREEPORT",159,Assessing,Assessing,,Assessing,Investigating,-7811314.53958088,5436226.732978267
 YARMOUTH,161,Assessing,Assessing,,Assessing,Investigating,-7812509.420811788,5436679.131427426
 YARMOUTH,85,Assessing,Assessing,,Assessing,Investigating,-7810672.38200623,5434584.611249418
 BIDDEFORD,6,Assessing,Assessing,,Assessing,Investigating,-7835291.9675362995,5380445.867144799
@@ -336,7 +333,6 @@ SANFORD,3,Assessing,Assessing,,Assessing,Investigating,-7884652.52148064,5377345
 SANFORD,17,Assessing,Assessing,,Assessing,Investigating,-7877110.937621324,5376474.568604952
 KENNEBUNKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7841909.020713406,5367334.055414566
 KENNEBUNKPORT,4,Assessing,Assessing,,Crew Assigned,Investigating,-7840038.652897102,5371532.277623969
-SACO,14,Assessing,Assessing,,Assessing,Investigating,-7839396.87374609,5389592.269971034
 SACO,5,Assessing,Assessing,,Assessing,Investigating,-7839974.19894298,5392214.391908083
 PARSONSFIELD,44,Assessing,Assessing,,Assessing,Investigating,-7896917.190881529,5428751.367950829
 PARSONSFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7888570.043620026,5429788.132640029
@@ -371,7 +367,6 @@ LIMINGTON,17,Assessing,Assessing,,Assessing,Investigating,-7868897.262377433,543
 LIMINGTON,17,Assessing,Assessing,,Assessing,Investigating,-7867010.586304563,5428567.885704706
 YORK,84,Assessing,Assessing,,Assessing,Investigating,-7860999.044377727,5343546.07592002
 YORK,17,Assessing,Assessing,,Assessing,Investigating,-7864085.366115132,5350698.121543079
-"O O BEACH,OLD ORCHARD BEACH",24,Assessing,Assessing,,Assessing,Investigating,-7834810.354886507,5392141.450895972
 WELLS,7,Assessing,Assessing,,Assessing,Investigating,-7866889.092195839,5367613.758463373
 SANFORD,206,Assessing,Assessing,,Assessing,Investigating,-7867513.550056227,5373718.79351651
 SANFORD,44,Assessing,Assessing,,Assessing,Investigating,-7879867.7871252205,5383505.3583808355
@@ -398,7 +393,6 @@ WATERBORO,32,Assessing,Assessing,,Assessing,Investigating,-7873592.384614989,539
 ALFRED,53,12/26/2022 12:00:00 PM,12/26/2022 12:00:00 PM,,Crew Assigned,Investigating,-7872302.2251231475,5385681.980039094
 LYMAN,23,12/26/2022 12:00:00 PM,12/26/2022 12:00:00 PM,,Crew Assigned,Investigating,-7866074.445024668,5383565.715219551
 SANFORD,26,Assessing,Assessing,,Assessing,Investigating,-7868987.119469539,5377782.832278218
-SANFORD,205,12/26/2022 4:00:00 AM,12/26/2022 4:00:00 AM,,Crew Assigned,Investigating,-7874459.71926809,5376112.2506839745
 SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7874474.380080399,5369081.422436566
 NO BERWICK,32,Assessing,Assessing,,Assessing,Investigating,-7874996.646540817,5366790.107935378
 "NO BERWICK,SANFORD",29,Assessing,Assessing,,Assessing,Investigating,-7874624.950739381,5366589.615123801
