@@ -1,6 +1,5 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-NO BERWICK,13,Assessing,Assessing,,Investigating,Investigating,-7886566.327224296,5368799.529873712
-"ACTON,LEBANON",193,Assessing,Assessing,,Assessing,Investigating,-7899396.153500036,5388039.440848625
+"ACTON,LEBANON",193,12/26/2022 8:00:00 AM,12/26/2022 8:00:00 AM,,Assessing,Investigating,-7899396.153500036,5388039.440848625
 BATH,31,Assessing,Assessing,,Assessing,Investigating,-7771888.103660495,5453367.078928304
 BRISTOL,11,Assessing,Assessing,,Assessing,Investigating,-7738524.483466315,5445562.680655174
 BRISTOL,14,12/26/2022 12:00:00 PM,12/26/2022 12:00:00 PM,,Assessing,Tree,-7740030.14630719,5446883.805978817
@@ -29,7 +28,6 @@ HARPSWELL,63,Assessing,Assessing,,Assessing,Investigating,-7785250.5948373685,54
 HARPSWELL,9,Assessing,Assessing,,Assessing,Investigating,-7785734.578541479,5430816.488228859
 HARPSWELL,21,Assessing,Assessing,,Assessing,Investigating,-7780955.276567432,5438423.200591976
 HARPSWELL,38,Assessing,Assessing,,Assessing,Investigating,-7780641.800841489,5432195.342391365
-HARPSWELL,10,Assessing,Assessing,,Assessing,Investigating,-7781669.190771304,5434937.351253113
 HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7781878.2710298905,5434484.80695497
 HARPSWELL,12,Assessing,Assessing,,Assessing,Investigating,-7780712.455336916,5437042.118298774
 BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7782713.300718628,5444204.906038375
@@ -326,7 +324,7 @@ YARMOUTH,12,Assessing,Assessing,,Assessing,Investigating,-7812858.752477289,5431
 YARMOUTH,161,Assessing,Assessing,,Assessing,Investigating,-7812509.420811788,5436679.131427426
 YARMOUTH,85,Assessing,Assessing,,Assessing,Investigating,-7810672.38200623,5434584.611249418
 BIDDEFORD,6,Assessing,Assessing,,Assessing,Investigating,-7835291.9675362995,5380445.867144799
-SANFORD,43,Assessing,Assessing,,Assessing,Investigating,-7880794.73341162,5377751.3926272625
+SANFORD,43,12/26/2022 6:00:00 AM,12/26/2022 6:00:00 AM,,Assessing,Investigating,-7880794.73341162,5377751.3926272625
 SANFORD,7,Assessing,Assessing,,Assessing,Investigating,-7876962.860453727,5374860.41592137
 "SANFORD,LEBANON,SANDFORD",70,Assessing,Assessing,,Assessing,Investigating,-7883158.246588211,5376471.242733678
 SANFORD,3,Assessing,Assessing,,Assessing,Investigating,-7884652.52148064,5377345.308629466
@@ -476,6 +474,7 @@ LEBANON,49,Assessing,Assessing,,Assessing,Investigating,-7900535.842444964,53676
 LEBANON,10,Assessing,Assessing,,Assessing,Investigating,-7899447.115550404,5368999.505163094
 LEBANON,6,Assessing,Assessing,,Assessing,Investigating,-7890297.978086795,5377125.642478645
 LEBANON,78,Assessing,Assessing,,Assessing,Investigating,-7893613.172740033,5373285.981205409
+NO BERWICK,13,Assessing,Assessing,,Assessing,Investigating,-7886566.326123066,5368799.531250951
 LEBANON,8,Assessing,Assessing,,Crew Assigned,Investigating,-7894204.490701374,5366795.7270678375
 LEBANON,62,Assessing,Assessing,,Crew Assigned,Investigating,-7895789.802706911,5365362.133274889
 ISLESBORO,91,12/26/2022 7:00:00 PM,12/26/2022 7:00:00 PM,,Assessing,Tree,-7671366.057980171,5505724.029400912
