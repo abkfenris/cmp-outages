@@ -1,11 +1,8 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
-WELLS,6,Assessing,Assessing,,Investigating,Investigating,-7855985.384247297,5368256.688634705
-BERWICK,2,Assessing,Assessing,,Investigating,Investigating,-7888831.412413939,5359565.772208479
-LEBANON,44,Assessing,Assessing,,Investigating,Investigating,-7899138.899112065,5364675.075950778
+BIDDEFORD,4,Assessing,Assessing,,Investigating,Investigating,-7848281.7070297105,5383644.761461137
 PARSONSFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
-SOUTHPORT,32,1/24/2023 3:30:00 AM,1/24/2023 3:30:00 AM,,Assessing,Investigating,-7754418.791630452,5432660.696342174
-BRISTOL,8,1/24/2023 4:15:00 AM,1/24/2023 4:15:00 AM,,Assessing,Investigating,-7734168.5406291345,5449427.045658362
+BRISTOL,8,1/24/2023 7:15:00 AM,1/24/2023 7:15:00 AM,,Assessing,Investigating,-7734168.5406291345,5449427.045658362
 BERWICK,3,Assessing,Assessing,,Assessing,Investigating,-7881702.833300087,5355379.956719774
 BERWICK,19,Assessing,Assessing,,Assessing,Investigating,-7883811.435912541,5355441.644922948
 BERWICK,9,Assessing,Assessing,,Assessing,Investigating,-7883746.603434674,5355392.022166301
@@ -47,6 +44,7 @@ BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7888734.195282504,536021
 BERWICK,22,Assessing,Assessing,,Assessing,Investigating,-7888559.37918153,5360683.655953981
 BERWICK,128,Assessing,Assessing,,Assessing,Investigating,-7887343.124723989,5361545.2196997255
 BERWICK,4,Assessing,Assessing,,Assessing,Investigating,-7888518.825482979,5362756.816739046
+BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7888831.410611926,5359565.774272279
 BERWICK,3,Assessing,Assessing,,Assessing,Investigating,-7888732.425301068,5359488.637448406
 BERWICK,68,Assessing,Assessing,,Assessing,Investigating,-7889255.615795913,5357115.732559292
 BERWICK,112,Assessing,Assessing,,Assessing,Investigating,-7888505.344691669,5353738.395996894
@@ -67,6 +65,7 @@ BIDDEFORD,34,Assessing,Assessing,,Assessing,Investigating,-7835985.933308544,538
 BIDDEFORD,99,Assessing,Assessing,,Assessing,Investigating,-7837689.989744635,5379391.238413454
 BIDDEFORD,117,Assessing,Assessing,,Assessing,Investigating,-7835278.74283167,5381786.880217389
 BIDDEFORD,1,Assessing,Assessing,,Assessing,Investigating,-7838146.57778018,5383808.342910751
+GORHAM,60,1/24/2023 6:15:00 AM,1/24/2023 6:15:00 AM,,Assessing,Investigating,-7847021.056672391,5426042.432230722
 KENNEBUNKPORT,22,Assessing,Assessing,,Assessing,Investigating,-7844257.33877956,5367540.918805829
 KENNEBUNKPORT,10,Assessing,Assessing,,Assessing,Investigating,-7842879.459488241,5368305.51099091
 KENNEBUNKPORT,110,Assessing,Assessing,,Assessing,Investigating,-7842462.234117924,5368603.497276653
@@ -272,6 +271,7 @@ YORK,14,Assessing,Assessing,,Assessing,Investigating,-7863818.677966375,5343184.
 YORK,2284,Assessing,Assessing,,Assessing,Investigating,-7860987.200018349,5338338.980614751
 YORK,121,Assessing,Assessing,,Assessing,Investigating,-7861323.963714419,5337942.47435742
 WELLS,132,Assessing,Assessing,,Assessing,Investigating,-7855625.953075724,5366041.072436239
+WELLS,6,Assessing,Assessing,,Assessing,Investigating,-7855985.38144416,5368256.692353016
 WELLS,86,Assessing,Assessing,,Assessing,Investigating,-7856951.556746178,5361340.1576016145
 WELLS,58,Assessing,Assessing,,Assessing,Investigating,-7857425.332522844,5362289.148756982
 WELLS,103,Assessing,Assessing,,Assessing,Investigating,-7855316.028525208,5363965.63301615
@@ -324,6 +324,7 @@ LEBANON,49,Assessing,Assessing,,Assessing,Investigating,-7900535.842444964,53676
 NO BERWICK,21,Assessing,Assessing,,Assessing,Investigating,-7886341.939429415,5369043.626123565
 LEBANON,6,Assessing,Assessing,,Assessing,Investigating,-7889491.3904380025,5375470.381656763
 LEBANON,11,Assessing,Assessing,,Assessing,Investigating,-7894304.656033224,5366896.212474218
+LEBANON,44,Assessing,Assessing,,Assessing,Investigating,-7899138.894106461,5364675.0694806585
 LEBANON,15,Assessing,Assessing,,Assessing,Investigating,-7896584.200910016,5364085.894326412
 LEBANON,3,Assessing,Assessing,,Assessing,Investigating,-7894240.480290557,5363410.250721191
 LEBANON,35,Assessing,Assessing,,Assessing,Investigating,-7895613.127624873,5365202.482875179
