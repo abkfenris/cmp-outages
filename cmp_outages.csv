@@ -1,8 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
 ELIOT,224,Assessing,Assessing,,Investigating,Investigating,-7882026.726087588,5333797.232598989
-YORK,66,Assessing,Assessing,,Investigating,Investigating,-7858221.373965503,5347604.489867035
-KENNEBUNKPORT,3,Assessing,Assessing,,Investigating,Investigating,-7842187.77286743,5368664.361862196
+ARUNDEL,129,Assessing,Assessing,,Investigating,Investigating,-7851240.421114473,5384414.931160844
 PARSONSFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
 SOUTHPORT,10,1/24/2023 9:30:00 AM,1/24/2023 9:30:00 AM,,Assessing,Investigating,-7754941.169515604,5434042.263216996
 BRISTOL,8,1/24/2023 9:15:00 AM,1/24/2023 9:15:00 AM,,Assessing,Investigating,-7734168.5406291345,5449427.045658362
@@ -42,12 +41,11 @@ SACO,99,Assessing,Assessing,,Assessing,Investigating,-7837397.553471681,5385478.
 SACO,13,Assessing,Assessing,,Assessing,Investigating,-7838029.146820014,5385783.897467401
 SACO,9,Assessing,Assessing,,Assessing,Investigating,-7838068.743246935,5385808.644519876
 SACO,54,Assessing,Assessing,,Assessing,Investigating,-7840540.058204133,5388092.2769702
-"BIDDEFORD,SACO",2093,1/24/2023 12:00:00 PM,1/24/2023 12:00:00 PM,,Assessing,Investigating,-7842231.557783224,5387597.42785314
+"BIDDEFORD,SACO",2094,1/24/2023 12:00:00 PM,1/24/2023 12:00:00 PM,,Assessing,Investigating,-7842231.557783224,5387597.42785314
 BIDDEFORD,12,Assessing,Assessing,,Assessing,Investigating,-7837155.121877344,5383329.459347908
 BIDDEFORD,14,Assessing,Assessing,,Assessing,Investigating,-7837828.94990604,5383750.868238439
 BIDDEFORD,207,1/24/2023 12:00:00 PM,1/24/2023 12:00:00 PM,,Assessing,Investigating,-7833541.613271288,5378607.458748747
 BIDDEFORD,99,Assessing,Assessing,,Assessing,Investigating,-7837689.989744635,5379391.238413454
-BIDDEFORD,1,Assessing,Assessing,,Assessing,Investigating,-7838146.57778018,5383808.342910751
 BIDDEFORD,32,Assessing,Assessing,,Assessing,Investigating,-7842580.29948829,5386935.1997421775
 KENNEBUNKPORT,22,Assessing,Assessing,,Assessing,Investigating,-7844257.33877956,5367540.918805829
 KENNEBUNKPORT,10,Assessing,Assessing,,Assessing,Investigating,-7842879.459488241,5368305.51099091
@@ -58,6 +56,7 @@ KENNEBUNKPORT,102,Assessing,Assessing,,Assessing,Investigating,-7841099.88391091
 KENNEBUNKPORT,132,Assessing,Assessing,,Assessing,Investigating,-7841056.046236049,5368768.688602498
 KENNEBUNKPORT,548,1/24/2023 10:00:00 PM,1/24/2023 10:00:00 PM,,Assessing,Investigating,-7841627.939051571,5368529.041985435
 KENNEBUNKPORT,2,Assessing,Assessing,,Assessing,Investigating,-7842076.578789254,5368664.155418103
+KENNEBUNKPORT,3,1/24/2023 5:45:00 AM,1/24/2023 5:45:00 AM,,Assessing,Investigating,-7842187.775870791,5368664.354562967
 KENNEBUNKPORT,3,Assessing,Assessing,,Assessing,Investigating,-7842626.664091966,5368431.264760991
 KENNEBUNKPORT,11,Assessing,Assessing,,Assessing,Investigating,-7843164.370637057,5368170.61719582
 KENNEBUNKPORT,11,1/24/2023 12:00:00 PM,1/24/2023 12:00:00 PM,,Assessing,Investigating,-7843832.064899196,5367751.722075331
@@ -110,6 +109,7 @@ BIDDEFORD,51,Assessing,Assessing,,Assessing,Investigating,-7840167.772342144,538
 BIDDEFORD,36,Assessing,Assessing,,Assessing,Investigating,-7842136.20153499,5383519.592452075
 LIMINGTON,4,Assessing,Assessing,,Assessing,Investigating,-7869692.473190229,5419257.4878933085
 "OGUNQUIT,YORK",23,Assessing,Assessing,,Assessing,Investigating,-7858569.908338464,5348164.798247979
+YORK,66,Assessing,Assessing,,Assessing,Investigating,-7858221.378170205,5347604.491241126
 YORK,22,Assessing,Assessing,,Assessing,Investigating,-7858869.146325715,5347270.706724954
 OGUNQUIT,17,Assessing,Assessing,,Assessing,Investigating,-7858747.574229686,5348649.864619841
 OGUNQUIT,22,Assessing,Assessing,,Assessing,Investigating,-7858357.889289992,5348790.129707776
@@ -129,17 +129,7 @@ OGUNQUIT,23,Assessing,Assessing,,Assessing,Investigating,-7859164.2542895395,535
 OGUNQUIT,9,Assessing,Assessing,,Assessing,Investigating,-7859007.471876695,5352641.405926954
 OGUNQUIT,107,Assessing,Assessing,,Assessing,Investigating,-7859111.121409,5352166.083194147
 OGUNQUIT,39,Assessing,Assessing,,Assessing,Investigating,-7859360.666366508,5349119.643986978
-"O O BEACH,SACO,OLD ORCHARD BEACH",2319,Assessing,Assessing,,Assessing,Investigating,-7835148.922001446,5391333.519254506
-SACO,17,Assessing,Assessing,,Assessing,Investigating,-7836229.734035578,5383773.462326162
-SACO,1,Assessing,Assessing,,Assessing,Investigating,-7836113.193672409,5383732.615058819
-SACO,35,Assessing,Assessing,,Assessing,Investigating,-7835063.818230522,5383051.705621324
-SACO,41,Assessing,Assessing,,Assessing,Investigating,-7834859.535842998,5382753.837793894
-SACO,9,Assessing,Assessing,,Assessing,Investigating,-7835111.79694114,5383136.415827261
-SACO,183,Assessing,Assessing,,Assessing,Investigating,-7835220.322331807,5383277.693320555
-SACO,19,Assessing,Assessing,,Assessing,Investigating,-7835200.629886753,5383274.41094237
-SACO,28,Assessing,Assessing,,Assessing,Investigating,-7835776.173989767,5383512.628873923
-SACO,4,Assessing,Assessing,,Assessing,Investigating,-7835832.468209324,5383518.856256422
-SACO,7,Assessing,Assessing,,Assessing,Investigating,-7835972.296642741,5383613.893570815
+"O O BEACH,SACO,OLD ORCHARD BEACH",2704,Assessing,Assessing,,Assessing,Investigating,-7835148.922001446,5391333.519254506
 ALFRED,8,Assessing,Assessing,,Assessing,Investigating,-7865473.141685015,5376174.122592752
 ALFRED,61,Assessing,Assessing,,Assessing,Investigating,-7865559.124840381,5376257.773885192
 LYMAN,40,Assessing,Assessing,,Assessing,Investigating,-7864557.939645926,5377364.959451468
