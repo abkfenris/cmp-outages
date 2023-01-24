@@ -1,6 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
-SANFORD,33,Assessing,Assessing,,Investigating,Investigating,-7866828.98280532,5375558.488365133
+ELIOT,5,Assessing,Assessing,,Investigating,Investigating,-7883174.164908255,5337935.228845696
+WELLS,54,Assessing,Assessing,,Investigating,Investigating,-7854682.800346738,5366528.243389322
 PARSONSFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
 BRISTOL,8,1/24/2023 7:15:00 AM,1/24/2023 7:15:00 AM,,Assessing,Investigating,-7734168.5406291345,5449427.045658362
 SABATTUS,33,1/24/2023 7:45:00 AM,1/24/2023 7:45:00 AM,,Assessing,Investigating,-7801916.64764468,5484290.723253791
@@ -58,7 +59,7 @@ SACO,13,Assessing,Assessing,,Assessing,Investigating,-7838029.146820014,5385783.
 SACO,9,Assessing,Assessing,,Assessing,Investigating,-7838068.743246935,5385808.644519876
 SACO,54,Assessing,Assessing,,Assessing,Investigating,-7840540.058204133,5388092.2769702
 "BIDDEFORD,SACO",1830,1/24/2023 12:00:00 PM,1/24/2023 12:00:00 PM,,Assessing,Investigating,-7842231.557783224,5387597.42785314
-BIDDEFORD,12,1/23/2023 11:00:00 PM,1/23/2023 11:00:00 PM,,Assessing,Investigating,-7837155.121877344,5383329.459347908
+BIDDEFORD,12,Assessing,Assessing,,Assessing,Investigating,-7837155.121877344,5383329.459347908
 BIDDEFORD,14,Assessing,Assessing,,Assessing,Investigating,-7837828.94990604,5383750.868238439
 BIDDEFORD,207,1/24/2023 12:00:00 PM,1/24/2023 12:00:00 PM,,Assessing,Investigating,-7833541.613271288,5378607.458748747
 BIDDEFORD,13,Assessing,Assessing,,Assessing,Investigating,-7834652.982513223,5379165.069370538
@@ -181,6 +182,7 @@ ALFRED,8,Assessing,Assessing,,Assessing,Investigating,-7865473.141685015,5376174
 ALFRED,61,Assessing,Assessing,,Assessing,Investigating,-7865559.124840381,5376257.773885192
 LYMAN,40,Assessing,Assessing,,Assessing,Investigating,-7864557.939645926,5377364.959451468
 LYMAN,9,Assessing,Assessing,,Assessing,Investigating,-7864241.959216049,5377745.429801865
+SANFORD,33,Assessing,Assessing,,Assessing,Investigating,-7866828.979701841,5375558.48615996
 SANFORD,33,Assessing,Assessing,,Assessing,Investigating,-7866529.608165088,5375420.774340517
 WELLS,250,Assessing,Assessing,,Assessing,Investigating,-7868359.121746396,5369667.22359745
 WELLS,11,Assessing,Assessing,,Assessing,Investigating,-7866582.49607139,5369570.307351656
@@ -237,7 +239,7 @@ SO BERWICK,37,Assessing,Assessing,,Assessing,Investigating,-7882444.209947275,53
 SO BERWICK,114,Assessing,Assessing,,Assessing,Investigating,-7880602.0505093355,5345178.5385166295
 SO BERWICK,4,Assessing,Assessing,,Assessing,Investigating,-7881427.106032322,5345711.0344245
 SO BERWICK,26,Assessing,Assessing,,Assessing,Investigating,-7882498.84551002,5346571.8544686865
-SO BERWICK,4,1/23/2023 6:30:00 PM,1/23/2023 6:30:00 PM,,Assessing,Investigating,-7882579.941794686,5346623.049700648
+SO BERWICK,4,Assessing,Assessing,,Assessing,Investigating,-7882579.941794686,5346623.049700648
 ALFRED,20,Assessing,Assessing,,Assessing,Investigating,-7869662.472605545,5378881.7066166075
 SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7874474.380080399,5369081.422436566
 NO BERWICK,13,Assessing,Assessing,,Assessing,Investigating,-7873666.1671121055,5364761.64818058
