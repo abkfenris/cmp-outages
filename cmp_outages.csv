@@ -1,8 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
-KENNEBUNKPORT,14,Assessing,Assessing,,Investigating,Investigating,-7845207.742826164,5368885.446003317
 PARSONSFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
-SOUTHPORT,9,1/24/2023 1:00:00 AM,1/24/2023 1:00:00 AM,,Assessing,Investigating,-7754554.06706693,5441178.624369212
 SOUTHPORT,23,1/24/2023 1:00:00 AM,1/24/2023 1:00:00 AM,,Assessing,Investigating,-7754024.019295588,5438121.104821266
 BOOTHBAY,18,1/24/2023 1:30:00 AM,1/24/2023 1:30:00 AM,,Assessing,Investigating,-7747292.941571685,5437044.309051946
 BERWICK,3,Assessing,Assessing,,Assessing,Investigating,-7881702.833300087,5355379.956719774
@@ -125,6 +123,7 @@ KENNEBUNKPORT,5,Assessing,Assessing,,Assessing,Investigating,-7846082.8337621745
 "BIDDEFORD,KENNEBUNKPORT",191,Assessing,Assessing,,Assessing,Investigating,-7837496.961756042,5373493.620726401
 "KENNEBUNKPORT,ARUNDEL",157,Assessing,Assessing,,Assessing,Investigating,-7845502.347126152,5370187.568439411
 KENNEBUNKPORT,131,Assessing,Assessing,,Assessing,Investigating,-7845240.011549955,5369246.055642748
+KENNEBUNKPORT,14,Assessing,Assessing,,Assessing,Investigating,-7845207.740023027,5368885.443799732
 KENNEBUNKPORT,41,Assessing,Assessing,,Assessing,Investigating,-7845357.564947187,5367714.543694202
 LIMERICK,41,Assessing,Assessing,,Assessing,Investigating,-7874198.55260045,5415271.428514149
 PARSONSFIELD,11,Assessing,Assessing,,Assessing,Investigating,-7896976.4462159565,5428620.892306881
@@ -147,6 +146,7 @@ OGUNQUIT,17,Assessing,Assessing,,Assessing,Investigating,-7858747.574229686,5348
 OGUNQUIT,22,Assessing,Assessing,,Assessing,Investigating,-7858357.889289992,5348790.129707776
 OGUNQUIT,21,Assessing,Assessing,,Assessing,Investigating,-7858360.794742554,5348797.61743037
 YORK,138,Assessing,Assessing,,Assessing,Investigating,-7861283.031492122,5343387.89890025
+YORK,83,1/23/2023 8:15:00 PM,1/23/2023 8:15:00 PM,,Assessing,Investigating,-7860999.044377727,5343546.07592002
 YORK,18,Assessing,Assessing,,Assessing,Investigating,-7859676.156948018,5345388.117649628
 WELLS,72,Assessing,Assessing,,Assessing,Investigating,-7858358.54602519,5355921.233633311
 WELLS,79,Assessing,Assessing,,Assessing,Investigating,-7858454.325347039,5355206.944506203
@@ -171,7 +171,6 @@ SACO,19,Assessing,Assessing,,Assessing,Investigating,-7835200.629886753,5383274.
 SACO,28,Assessing,Assessing,,Assessing,Investigating,-7835776.173989767,5383512.628873923
 SACO,4,Assessing,Assessing,,Assessing,Investigating,-7835832.468209324,5383518.856256422
 SACO,7,Assessing,Assessing,,Assessing,Investigating,-7835972.296642741,5383613.893570815
-SCARBOROUGH,80,1/25/2023 12:00:00 AM,1/25/2023 12:00:00 AM,,Assessing,Tree,-7827137.703501335,5398007.980866996
 ALFRED,61,Assessing,Assessing,,Assessing,Investigating,-7865559.124840381,5376257.773885192
 LYMAN,40,Assessing,Assessing,,Assessing,Investigating,-7864557.939645926,5377364.959451468
 LYMAN,9,Assessing,Assessing,,Assessing,Investigating,-7864241.959216049,5377745.429801865
@@ -265,16 +264,7 @@ YORK,14,Assessing,Assessing,,Assessing,Investigating,-7863818.677966375,5343184.
 YORK,7,Assessing,Assessing,,Assessing,Investigating,-7863743.047500512,5343204.43413934
 YORK,4,Assessing,Assessing,,Assessing,Investigating,-7862981.0544739505,5343075.859851701
 YORK,121,Assessing,Assessing,,Assessing,Investigating,-7861323.963714419,5337942.47435742
-"WELLS,KENNEBUNK",2173,Assessing,Assessing,,Assessing,Investigating,-7854549.549276471,5367797.643980017
-WELLS,132,Assessing,Assessing,,Assessing,Investigating,-7855625.953075724,5366041.072436239
-WELLS,6,Assessing,Assessing,,Assessing,Investigating,-7855985.38144416,5368256.692353016
-WELLS,111,Assessing,Assessing,,Assessing,Investigating,-7854955.598235153,5365997.057568563
-WELLS,14,Assessing,Assessing,,Assessing,Investigating,-7854790.923386985,5365452.331069045
-WELLS,33,Assessing,Assessing,,Assessing,Investigating,-7858049.779170677,5361356.132797453
-WELLS,103,Assessing,Assessing,,Assessing,Investigating,-7855316.028525208,5363965.63301615
-WELLS,24,Assessing,Assessing,,Assessing,Investigating,-7855135.2123072995,5364017.704685807
-WELLS,3,Assessing,Assessing,,Assessing,Investigating,-7854231.765527837,5363913.852494398
-"WELLS,KENNEBUNK",91,Assessing,Assessing,,Assessing,Investigating,-7854717.875512248,5364540.656924279
+"WELLS,KENNEBUNK",2693,Assessing,Assessing,,Assessing,Investigating,-7854549.549276471,5367797.643980017
 WELLS,2511,Assessing,Assessing,,Assessing,Investigating,-7858611.697720324,5361147.295415449
 WELLS,117,Assessing,Assessing,,Assessing,Investigating,-7858049.946157614,5356740.036808701
 ELIOT,15,Assessing,Assessing,,Assessing,Investigating,-7883981.309480506,5332741.787051199
@@ -319,8 +309,10 @@ YORK,136,Assessing,Assessing,,Assessing,Investigating,-7867331.765254014,5337793
 YORK,44,Assessing,Assessing,,Assessing,Investigating,-7867378.808917875,5337678.436304606
 HIRAM,4,Assessing,Assessing,,Assessing,Investigating,-7887936.869502068,5436065.376897464
 LEBANON,49,Assessing,Assessing,,Assessing,Investigating,-7900535.842444964,5367605.107111278
+NO BERWICK,21,Assessing,Assessing,,Assessing,Investigating,-7886341.939429415,5369043.626123565
 LEBANON,6,Assessing,Assessing,,Assessing,Investigating,-7889491.3904380025,5375470.381656763
 LEBANON,11,Assessing,Assessing,,Assessing,Investigating,-7894304.656033224,5366896.212474218
+LEBANON,15,Assessing,Assessing,,Assessing,Investigating,-7896584.200910016,5364085.894326412
 LEBANON,3,Assessing,Assessing,,Assessing,Investigating,-7894240.480290557,5363410.250721191
 LEBANON,35,Assessing,Assessing,,Assessing,Investigating,-7895613.127624873,5365202.482875179
 SANFORD,3,Assessing,Assessing,,Assessing,Investigating,-7873866.141476948,5368317.0879462445
