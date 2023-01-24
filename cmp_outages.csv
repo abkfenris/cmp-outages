@@ -2,7 +2,6 @@ BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
 WELLS,6,Assessing,Assessing,,Investigating,Investigating,-7855985.384247297,5368256.688634705
 BERWICK,2,Assessing,Assessing,,Investigating,Investigating,-7888831.412413939,5359565.772208479
-SANFORD,33,Assessing,Assessing,,Investigating,Investigating,-7866529.603960379,5375420.766760336
 LEBANON,44,Assessing,Assessing,,Investigating,Investigating,-7899138.899112065,5364675.075950778
 PARSONSFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
 SOUTHPORT,32,1/24/2023 3:30:00 AM,1/24/2023 3:30:00 AM,,Assessing,Investigating,-7754418.791630452,5432660.696342174
@@ -180,6 +179,7 @@ SACO,7,Assessing,Assessing,,Assessing,Investigating,-7835972.296642741,5383613.8
 ALFRED,61,Assessing,Assessing,,Assessing,Investigating,-7865559.124840381,5376257.773885192
 LYMAN,40,Assessing,Assessing,,Assessing,Investigating,-7864557.939645926,5377364.959451468
 LYMAN,9,Assessing,Assessing,,Assessing,Investigating,-7864241.959216049,5377745.429801865
+SANFORD,33,Assessing,Assessing,,Assessing,Investigating,-7866529.608165088,5375420.774340517
 WELLS,250,Assessing,Assessing,,Assessing,Investigating,-7868359.121746396,5369667.22359745
 WELLS,11,Assessing,Assessing,,Assessing,Investigating,-7866582.49607139,5369570.307351656
 WELLS,30,Assessing,Assessing,,Assessing,Investigating,-7866885.385246028,5369308.065676338
@@ -271,8 +271,6 @@ YORK,5,Assessing,Assessing,,Assessing,Investigating,-7864319.76041197,5343099.50
 YORK,14,Assessing,Assessing,,Assessing,Investigating,-7863818.677966375,5343184.977623981
 YORK,2284,Assessing,Assessing,,Assessing,Investigating,-7860987.200018349,5338338.980614751
 YORK,121,Assessing,Assessing,,Assessing,Investigating,-7861323.963714419,5337942.47435742
-YORK,1357,Assessing,Assessing,,Assessing,Investigating,-7863967.690280842,5333788.210195215
-YORK,440,Assessing,Assessing,,Assessing,Investigating,-7863968.692202464,5333787.46255915
 WELLS,132,Assessing,Assessing,,Assessing,Investigating,-7855625.953075724,5366041.072436239
 WELLS,86,Assessing,Assessing,,Assessing,Investigating,-7856951.556746178,5361340.1576016145
 WELLS,58,Assessing,Assessing,,Assessing,Investigating,-7857425.332522844,5362289.148756982
