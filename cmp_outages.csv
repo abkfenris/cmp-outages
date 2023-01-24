@@ -1,19 +1,24 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
-YORK,12,Assessing,Assessing,,Investigating,Investigating,-7862345.87551164,5346485.819155813
-WELLS,2,Assessing,Assessing,,Investigating,Investigating,-7867425.727041198,5358686.262147628
-PARSONSFIELD,33,1/24/2023 2:00:00 PM,1/24/2023 2:00:00 PM,,Assessing,Investigating,-7902346.409416152,5432998.435367004
+KENNEBUNKPORT,6,Assessing,Assessing,,Investigating,Investigating,-7841588.72325075,5368621.459739975
+BREMEN,11,1/24/2023 1:15:00 PM,1/24/2023 1:15:00 PM,,Investigating,Investigating,-7727467.67132258,5470344.241474243
+BREMEN,97,1/24/2023 1:00:00 PM,1/24/2023 1:00:00 PM,,Investigating,Investigating,-7728131.880182928,5467244.483134527
 "BREMEN,BRISTOL,BREMAN",217,1/24/2023 11:45:00 AM,1/24/2023 11:45:00 AM,,Assessing,Investigating,-7728242.236022724,5466913.469393828
-"BERWICK,NO BERWICK,NORTH BERWICK",685,Assessing,Assessing,,Crew Assigned,Investigating,-7880236.321387406,5355671.457846644
+"BERWICK,NO BERWICK,NORTH BERWICK",249,Assessing,Assessing,,Crew Assigned,Investigating,-7880236.321387406,5355671.457846644
+BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7882761.681946915,5355405.769695398
+BERWICK,15,Assessing,Assessing,,Assessing,Investigating,-7882761.659722036,5355401.671454234
+BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7886533.998933824,5354532.572660418
+BERWICK,191,Assessing,Assessing,,Assessing,Investigating,-7884689.635428502,5356216.315027692
+"BERWICK,NO BERWICK,NORTH BERWICK",200,Assessing,Assessing,,Assessing,Investigating,-7884580.34187791,5356246.504285439
+BERWICK,1,Assessing,Assessing,,Assessing,Investigating,-7884414.386796564,5355558.294037955
+BERWICK,25,Assessing,Assessing,,Assessing,Investigating,-7881132.543479068,5355411.443149416
 BERWICK,11,Assessing,Assessing,,Crew Assigned,Investigating,-7878248.544935936,5353099.354835742
 BERWICK,90,Assessing,Assessing,,Crew Assigned,Investigating,-7879755.777433991,5351830.331172952
 BERWICK,40,Assessing,Assessing,,Crew Assigned,Investigating,-7881485.548757064,5349283.75605369
 "SO BERWICK,SOUTH BERWICK",243,Assessing,Assessing,,Crew Assigned,Investigating,-7882392.524286847,5348012.532578112
 SO BERWICK,37,Assessing,Assessing,,Crew Assigned,Investigating,-7882125.557926634,5348064.453869784
-"SO BERWICK,SOUTH BERWICK",117,Assessing,Assessing,,Crew Assigned,Investigating,-7878635.335635622,5349184.958379911
-"SO BERWICK,YORK,SOUTH BERWICK",368,Assessing,Assessing,,Crew Assigned,Investigating,-7878635.090761491,5349136.285784776
-"SO BERWICK,SOUTH BERWICK",119,Assessing,Assessing,,Crew Assigned,Investigating,-7872359.665926269,5350205.077333913
-SO BERWICK,369,Assessing,Assessing,,Crew Assigned,Investigating,-7879898.57809471,5348521.153982072
+"SO BERWICK,YORK,SOUTH BERWICK",526,1/24/2023 11:30:00 AM,1/24/2023 11:30:00 AM,,Repairs in Progress,Investigating,-7880989.976680144,5348475.32702941
+"SO BERWICK,YORK,SOUTH BERWICK",487,Assessing,Assessing,,Crew Assigned,Investigating,-7878635.090761491,5349136.285784776
 SO BERWICK,15,Assessing,Assessing,,Crew Assigned,Investigating,-7881932.9194741165,5348226.331733157
 SO BERWICK,32,Assessing,Assessing,,Crew Assigned,Investigating,-7881874.888610442,5348307.439716275
 "SO BERWICK,SOUTH BERWICK",63,Assessing,Assessing,,Crew Assigned,Investigating,-7880711.388509694,5350220.467956093
@@ -23,6 +28,7 @@ BERWICK,42,Assessing,Assessing,,Crew Assigned,Investigating,-7888615.150215403,5
 BERWICK,100,Assessing,Assessing,,Crew Assigned,Investigating,-7887696.853511928,5352509.506041123
 BERWICK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7887127.487725336,5352252.209099934
 BERWICK,17,1/24/2023 3:00:00 PM,1/24/2023 3:00:00 PM,,Assessing,Investigating,-7883985.227867015,5349317.544514632
+BERWICK,10,Assessing,Assessing,,Assessing,Investigating,-7884944.122818912,5350087.914730476
 BERWICK,13,Assessing,Assessing,,Assessing,Investigating,-7888338.076039821,5354651.595690528
 BERWICK,168,Assessing,Assessing,,Crew Assigned,Investigating,-7889157.7770686215,5357614.037685785
 BERWICK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7888734.195282504,5360216.337040599
@@ -87,7 +93,7 @@ KENNEBUNKPORT,4,Assessing,Assessing,,Crew Assigned,Investigating,-7844673.606878
 KENNEBUNKPORT,14,Assessing,Assessing,,Crew Assigned,Investigating,-7844987.405365498,5367154.221222591
 KENNEBUNKPORT,12,Assessing,Assessing,,Crew Assigned,Investigating,-7845128.458369779,5368114.096697605
 KENNEBUNKPORT,27,Assessing,Assessing,,Crew Assigned,Investigating,-7845226.0186854005,5368929.349918036
-KENNEBUNKPORT,5,1/23/2023 5:30:00 PM,1/23/2023 5:30:00 PM,,Assessing,Investigating,-7845473.815886352,5370147.10256848
+KENNEBUNKPORT,5,Assessing,Assessing,,Assessing,Investigating,-7845473.815886352,5370147.10256848
 "ARUNDEL,KENNEBUNKPORT",285,Assessing,Assessing,,Crew Assigned,Investigating,-7845505.764651963,5370307.69585622
 ARUNDEL,25,Assessing,Assessing,,Crew Assigned,Investigating,-7848478.818789953,5375836.552020904
 KENNEBUNKPORT,5,Assessing,Assessing,,Crew Assigned,Investigating,-7846082.8337621745,5371889.606735135
@@ -129,6 +135,7 @@ OGUNQUIT,23,Assessing,Assessing,,Crew Assigned,Investigating,-7859164.2542895395
 OGUNQUIT,9,Assessing,Assessing,,Crew Assigned,Investigating,-7859007.471876695,5352641.405926954
 OGUNQUIT,107,Assessing,Assessing,,Crew Assigned,Investigating,-7859111.121409,5352166.083194147
 OGUNQUIT,39,Assessing,Assessing,,Crew Assigned,Investigating,-7859360.666366508,5349119.643986978
+YORK,12,Assessing,Assessing,,Assessing,Investigating,-7862345.87661287,5346485.811736584
 SACO,908,Assessing,Assessing,,Assessing,Investigating,-7835520.217054256,5388149.333623601
 ALFRED,8,Assessing,Assessing,,Assessing,Investigating,-7865473.141685015,5376174.122592752
 ALFRED,61,Assessing,Assessing,,Assessing,Investigating,-7865559.124840381,5376257.773885192
@@ -143,7 +150,7 @@ WELLS,291,1/24/2023 8:00:00 PM,1/24/2023 8:00:00 PM,,Assessing,Investigating,-78
 "SO BERWICK,SOUTH BERWICK,NO BERWICK",16,Assessing,Assessing,,Crew Assigned,Investigating,-7874659.059122614,5355193.763035457
 SO BERWICK,45,Assessing,Assessing,,Crew Assigned,Investigating,-7869069.885523466,5353622.121418776
 WELLS,267,Assessing,Assessing,,Crew Assigned,Investigating,-7866445.66219028,5358744.351053263
-WELLS,646,Assessing,Assessing,,Crew Assigned,Investigating,-7861479.410231768,5362187.580776969
+WELLS,646,1/24/2023 1:00:00 PM,1/24/2023 1:00:00 PM,,Crew Assigned,Weather,-7861479.410231768,5362187.580776969
 WELLS,29,Assessing,Assessing,,Crew Assigned,Investigating,-7866383.59040292,5358604.700729669
 WELLS,17,Assessing,Assessing,,Crew Assigned,Investigating,-7865642.213755738,5358264.1274258075
 WELLS,16,Assessing,Assessing,,Crew Assigned,Investigating,-7863842.277785605,5357770.957515788
@@ -156,7 +163,12 @@ WELLS,33,Assessing,Assessing,,Crew Assigned,Investigating,-7864404.763970707,535
 WELLS,18,Assessing,Assessing,,Crew Assigned,Investigating,-7864934.088131995,5357965.967604987
 WELLS,26,Assessing,Assessing,,Crew Assigned,Investigating,-7865550.241595873,5358223.743982485
 WELLS,22,Assessing,Assessing,,Crew Assigned,Investigating,-7865609.775241867,5358375.656826973
-WELLS,694,Assessing,Assessing,,Crew Assigned,Investigating,-7868755.14087701,5359001.888986349
+WELLS,2,Assessing,Assessing,,Assessing,Investigating,-7867425.730044558,5358686.266412401
+WELLS,21,Assessing,Assessing,,Assessing,Investigating,-7870635.939270004,5362864.956552488
+WELLS,19,Assessing,Assessing,,Assessing,Investigating,-7870828.154648907,5363649.474626784
+WELLS,221,Assessing,Assessing,,Assessing,Investigating,-7870824.57013616,5363651.632792559
+WELLS,97,Assessing,Assessing,,Assessing,Investigating,-7870269.408750938,5362244.845575961
+WELLS,230,Assessing,Assessing,,Assessing,Investigating,-7868816.9120278135,5360990.563399029
 WELLS,5,Assessing,Assessing,,Crew Assigned,Investigating,-7869583.435726315,5358651.862528778
 "SO BERWICK,SOUTH BERWICK",559,Assessing,Assessing,,Crew Assigned,Investigating,-7882595.582203617,5346591.165277009
 SO BERWICK,22,Assessing,Assessing,,Crew Assigned,Investigating,-7881780.979582319,5346320.328218491
@@ -197,7 +209,7 @@ ARUNDEL,3,Assessing,Assessing,,Crew Assigned,Investigating,-7849049.320047667,53
 ARUNDEL,217,Assessing,Assessing,,Crew Assigned,Investigating,-7848697.461353236,5383329.321270939
 BIDDEFORD,4,Assessing,Assessing,,Crew Assigned,Investigating,-7848281.705327803,5383644.754839835
 YORK,7,Assessing,Assessing,,Assessing,Investigating,-7860071.519243323,5341618.797413262
-"YORK,OGUNQUIT",30,Assessing,Assessing,,Assessing,Investigating,-7861562.788571128,5342192.900001914
+"YORK,OGUNQUIT",30,Assessing,Assessing,,Repairs in Progress,Investigating,-7861562.788571128,5342192.900001914
 YORK,235,Assessing,Assessing,,Assessing,Investigating,-7864474.3386573205,5343378.246811027
 YORK,82,Assessing,Assessing,,Assessing,Investigating,-7864448.824294817,5343362.501050748
 YORK,2,Assessing,Assessing,,Assessing,Investigating,-7864177.304837562,5342428.601270279
