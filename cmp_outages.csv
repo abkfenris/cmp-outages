@@ -1,7 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 SO BERWICK,35,Assessing,Assessing,,Investigating,Investigating,-7880770.421795548,5345576.082159789
-WELLS,15,Assessing,Assessing,,Investigating,Investigating,-7857009.645174291,5360146.221519051
 WELLS,33,Assessing,Assessing,,Investigating,Investigating,-7858049.782073926,5361356.134311188
+KENNEBUNK,55,Assessing,Assessing,,Investigating,Investigating,-7846970.836752813,5366593.5260841055
 PARSONSFIELD,33,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
 SOUTHPORT,10,1/24/2023 10:30:00 AM,1/24/2023 10:30:00 AM,,Assessing,Investigating,-7754941.169515604,5434042.263216996
 BRISTOL,8,1/24/2023 10:15:00 AM,1/24/2023 10:15:00 AM,,Assessing,Investigating,-7734168.5406291345,5449427.045658362
@@ -194,11 +194,7 @@ ARUNDEL,6,Assessing,Assessing,,Crew Assigned,Investigating,-7849905.689725835,53
 ARUNDEL,136,Assessing,Assessing,,Crew Assigned,Investigating,-7849632.645261388,5376870.590545454
 ARUNDEL,53,Assessing,Assessing,,Crew Assigned,Investigating,-7849533.103427519,5376804.146320505
 ARUNDEL,3,Assessing,Assessing,,Crew Assigned,Investigating,-7849049.320047667,5377704.532427859
-ARUNDEL,76,Assessing,Assessing,,Crew Assigned,Investigating,-7848697.461353236,5383329.321270939
-ARUNDEL,11,Assessing,Assessing,,Crew Assigned,Investigating,-7848843.145241638,5382109.392788427
-ARUNDEL,28,Assessing,Assessing,,Crew Assigned,Investigating,-7851723.837583583,5378758.340845483
-ARUNDEL,82,Assessing,Assessing,,Crew Assigned,Investigating,-7851719.5406733295,5378751.304047437
-ARUNDEL,10,Assessing,Assessing,,Crew Assigned,Investigating,-7851544.023187182,5378075.159782693
+ARUNDEL,217,Assessing,Assessing,,Crew Assigned,Investigating,-7848697.461353236,5383329.321270939
 BIDDEFORD,4,Assessing,Assessing,,Crew Assigned,Investigating,-7848281.705327803,5383644.754839835
 YORK,7,Assessing,Assessing,,Assessing,Investigating,-7860071.519243323,5341618.797413262
 "YORK,OGUNQUIT",30,Assessing,Assessing,,Assessing,Investigating,-7861562.788571128,5342192.900001914
@@ -214,6 +210,7 @@ YORK,14,Assessing,Assessing,,Assessing,Investigating,-7863818.677966375,5343184.
 YORK,8,Assessing,Assessing,,Assessing,Investigating,-7862111.793964915,5336922.735625734
 YORK,121,Assessing,Assessing,,Assessing,Investigating,-7861323.963714419,5337942.47435742
 WELLS,192,Assessing,Assessing,,Assessing,Investigating,-7854682.798744943,5366528.250962244
+WELLS,15,Assessing,Assessing,,Assessing,Investigating,-7857009.6432721615,5360146.217528799
 WELLS,95,Assessing,Assessing,,Assessing,Investigating,-7857560.118110949,5360195.17726784
 WELLS,86,Assessing,Assessing,,Assessing,Investigating,-7856951.556746178,5361340.1576016145
 WELLS,6,Assessing,Assessing,,Assessing,Investigating,-7856695.143399723,5361722.711140449
@@ -228,11 +225,7 @@ WELLS,117,Assessing,Assessing,,Assessing,Investigating,-7858049.946157614,535674
 ELIOT,15,Assessing,Assessing,,Assessing,Investigating,-7883981.309480506,5332741.787051199
 ELIOT,73,Assessing,Assessing,,Assessing,Investigating,-7883967.984563691,5332939.446948054
 ELIOT,8,Assessing,Assessing,,Assessing,Investigating,-7881194.392617176,5331363.440438722
-ELIOT,2,Assessing,Assessing,,Assessing,Investigating,-7881326.317302597,5331944.126953962
-ELIOT,4,Assessing,Assessing,,Assessing,Investigating,-7881648.008425407,5332392.196940636
-ELIOT,4,Assessing,Assessing,,Assessing,Investigating,-7881823.781898129,5332668.258740428
-ELIOT,224,Assessing,Assessing,,Assessing,Investigating,-7882026.728490278,5333797.2268363265
-ELIOT,13,Assessing,Assessing,,Assessing,Investigating,-7882719.2914921725,5334221.9964400465
+ELIOT,374,Assessing,Assessing,,Assessing,Investigating,-7881040.793968454,5331467.952288099
 ELIOT,28,Assessing,Assessing,,Assessing,Investigating,-7883219.338678831,5334994.277881448
 ELIOT,2,Assessing,Assessing,,Assessing,Investigating,-7882708.2375176,5336262.505468858
 ELIOT,29,Assessing,Assessing,,Assessing,Investigating,-7882648.113811055,5336956.418346304
@@ -245,9 +238,8 @@ ELIOT,3,Assessing,Assessing,,Assessing,Investigating,-7882702.504499675,5336432.
 ELIOT,17,Assessing,Assessing,,Assessing,Investigating,-7882851.216277704,5335804.681430733
 ELIOT,132,Assessing,Assessing,,Assessing,Investigating,-7883630.474932575,5336081.012101743
 ELIOT,22,Assessing,Assessing,,Assessing,Investigating,-7883638.412017882,5335946.386135804
-ELIOT,27,Assessing,Assessing,,Assessing,Investigating,-7882918.675896567,5334543.626282942
 ELIOT,68,Assessing,Assessing,,Assessing,Investigating,-7882109.32745715,5333886.036058026
-ELIOT,60,Assessing,Assessing,,Assessing,Investigating,-7882138.348545325,5332978.317413125
+"ELIOT,YORK",40,Assessing,Assessing,,Assessing,Investigating,-7876443.410346123,5334169.740169396
 ELIOT,14,Assessing,Assessing,,Assessing,Investigating,-7877724.486169086,5335426.838360843
 ELIOT,2,Assessing,Assessing,,Assessing,Investigating,-7877905.413711624,5335945.806305836
 ELIOT,11,Assessing,Assessing,,Assessing,Investigating,-7877987.022069543,5336039.442930866
@@ -274,6 +266,6 @@ LEBANON,15,Assessing,Assessing,,Assessing,Investigating,-7896584.200910016,53640
 LEBANON,3,Assessing,Assessing,,Assessing,Investigating,-7894240.480290557,5363410.250721191
 LEBANON,35,Assessing,Assessing,,Assessing,Investigating,-7895613.127624873,5365202.482875179
 NEW PORTLAND,7,1/24/2023 10:30:00 AM,1/24/2023 10:30:00 AM,,Assessing,Investigating,-7807015.525573681,5609929.275201042
-SIDNEY,1,1/24/2023 11:15:00 AM,1/24/2023 11:15:00 AM,,Assessing,System Upgrade,-7762424.221550435,5542026.337460309
-WELD,3,1/24/2023 11:15:00 AM,1/24/2023 11:15:00 AM,,Assessing,Investigating,-7843389.247179076,5572976.9651255505
+SIDNEY,1,1/24/2023 11:15:00 AM,1/24/2023 11:15:00 AM,,Crew Assigned,System Upgrade,-7762424.221550435,5542026.337460309
+WELD,3,1/24/2023 11:15:00 AM,1/24/2023 11:15:00 AM,,Crew Assigned,Investigating,-7843389.247179076,5572976.9651255505
 SANFORD,3,Assessing,Assessing,,Assessing,Investigating,-7873866.141476948,5368317.0879462445
