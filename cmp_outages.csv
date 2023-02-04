@@ -1,30 +1,25 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-LITCHFIELD,18,Assessing,Assessing,,Investigating,Investigating,-7794132.657018829,5486526.670363046
-LITCHFIELD; SABATTUS,26,Assessing,Assessing,,Investigating,Investigating,-7794553.422352014,5486286.956181903
 PHIPPSBURG,4,Assessing,Assessing,,Assessing,Investigating,-7775430.72400945,5429140.555257763
 "BOOTHBAY HBR,BOOTHBAY HARBOR",490,Assessing,Assessing,,Assessing,Investigating,-7748981.747335138,5444710.131989544
 DAMARISCOTTA,17,Assessing,Assessing,,Assessing,Investigating,-7735160.775804333,5471089.733058099
 BREMEN,4,Assessing,Assessing,,Assessing,Investigating,-7734442.230716336,5464910.856701289
 NEWCASTLE,91,Assessing,Assessing,,Assessing,Investigating,-7742123.999207815,5469476.409886639
 OWLS HEAD,15,Assessing,Assessing,,Assessing,Investigating,-7692034.280386964,5476705.449499102
-"CHINA,ALBION",1275,Assessing,Assessing,,Assessing,Investigating,-7744607.681710079,5526868.050967229
 ST GEORGE,14,Assessing,Assessing,,Assessing,Investigating,-7709691.39946093,5453082.913976912
 CUSHING,83,Assessing,Assessing,,Assessing,Investigating,-7713582.605640444,5461777.266012263
 "APPLETON,SEARSMONT,HOPE",130,Assessing,Assessing,,Assessing,Investigating,-7708497.052628261,5511381.771520483
 BETHEL,1,Assessing,Assessing,,Assessing,Investigating,-7879821.333521912,5537835.559731878
 GILEAD,123,Assessing,Assessing,,Assessing,Investigating,-7892461.27202442,5529389.486540871
 AUBURN,1,Assessing,Assessing,,Assessing,Investigating,-7822309.131571161,5482615.539423495
-WATERFORD,733,Assessing,Assessing,,Assessing,Investigating,-7872116.243622867,5490865.286974929
-HARRISON,3,Assessing,Assessing,,Assessing,Investigating,-7869091.225512896,5483730.144433207
 MECHANIC FALLS,2,Assessing,Assessing,,Assessing,Investigating,-7840081.366213274,5479577.415369833
 NORWAY,1,Assessing,Assessing,,Assessing,Investigating,-7857184.23672389,5498961.656562215
 OXFORD,188,Assessing,Assessing,,Assessing,Investigating,-7844184.101693007,5488618.620075051
-MEXICO,76,Assessing,Assessing,,Assessing,Investigating,-7850779.202695362,5551524.559189081
+LITCHFIELD,18,Assessing,Assessing,,Assessing,Investigating,-7794132.654516027,5486526.665341315
 WALES,66,Assessing,Assessing,,Assessing,Investigating,-7795266.365568899,5486169.550418064
+"LITCHFIELD,SABATTUS",26,Assessing,Assessing,,Assessing,Investigating,-7794553.419949325,5486286.9637143
 LITCHFIELD,80,Assessing,Assessing,,Assessing,Investigating,-7793849.591335946,5486741.69473035
 LITCHFIELD,7,Assessing,Assessing,,Assessing,Investigating,-7793387.437269413,5486431.909965347
 NO YARMOUTH,37,Assessing,Assessing,,Assessing,Investigating,-7814266.1759423595,5439052.3424651325
-YARMOUTH,2,Assessing,Assessing,,Assessing,Investigating,-7810341.930075978,5436010.892747164
 BIDDEFORD,6,2/3/2023 9:30:00 PM,2/3/2023 9:30:00 PM,,Assessing,Investigating,-7842164.265151297,5386691.845782165
 "KENNEBUNK,KENNEBUNKPORT",114,Assessing,Assessing,,Assessing,Investigating,-7847132.153541747,5367668.545497854
 LIMINGTON,2,Assessing,Assessing,,Assessing,Investigating,-7874160.447943516,5431065.878550089
@@ -34,15 +29,17 @@ SO PORTLAND,47,Assessing,Assessing,,Assessing,Investigating,-7820466.315297924,5
 LINCOLNVILLE,63,Assessing,Assessing,,Assessing,Investigating,-7692755.073992109,5510846.964079212
 "LINCOLNVILLE,CAMDEN",241,Assessing,Assessing,,Assessing,Investigating,-7686140.124770312,5508850.970370735
 SEARSMONT,3,Assessing,Assessing,,Assessing,Investigating,-7700553.204747376,5522883.83085987
-MORRILL,8,Assessing,Assessing,,Assessing,Investigating,-7699398.387466769,5527984.373383029
 "DOVER-FOXCROFT,GUILFORD",678,Assessing,Assessing,,Assessing,Investigating,-7706669.309028388,5649709.870459095
 NEW SHARON,72,Assessing,Assessing,,Assessing,Investigating,-7792080.757984197,5564303.431042037
 "PARKMAN,WELLINGTON",37,Assessing,Assessing,,Assessing,Investigating,-7734745.810063605,5637659.824639641
 HARMONY,4,Assessing,Assessing,,Assessing,Investigating,-7739427.0284362305,5621660.229864967
+MONSON,96,Assessing,Assessing,,Assessing,Investigating,-7736883.990387352,5666839.122272816
 GREENVILLE,3,Assessing,Assessing,,Assessing,Investigating,-7746890.43257588,5689667.12595503
 KINGFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7811280.53150994,5621262.6285802
 FARMINGTON,1,Assessing,Assessing,,Assessing,Investigating,-7814380.846111907,5569736.588187404
+WATERVILLE,30,Assessing,Assessing,,Assessing,Investigating,-7751037.8962273495,5552492.142548601
+CONCORD,46,Assessing,Assessing,,Assessing,Investigating,-7779692.657506208,5629618.572841001
 RANGELEY PLT,7,Assessing,Assessing,,Assessing,Investigating,-7865485.80986664,5611140.9356966615
-"RANGELEY,DALLAS PLT,SANDY RIVER PLT",489,Assessing,Assessing,,Assessing,Investigating,-7862842.851360035,5614312.347012874
 "LANG,COPLIN PLT",109,Assessing,Assessing,,Assessing,Investigating,-7848978.966088685,5636261.913412102
 LANG,7,Assessing,Assessing,,Assessing,Investigating,-7854750.080264425,5637350.683446187
+DALLAS PLT,4,Assessing,Assessing,,Assessing,Investigating,-7856890.253118746,5622528.745042098
