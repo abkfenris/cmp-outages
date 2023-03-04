@@ -1,13 +1,11 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PHIPPSBURG,5,Assessing,Assessing,,Investigating,Investigating,-7774430.42781019,5421918.0579216555
-PHIPPSBURG,36,Assessing,Assessing,,Investigating,Investigating,-7773528.415336388,5438498.344444366
-PHIPPSBURG,5,Assessing,Assessing,,Investigating,Investigating,-7772645.674236267,5438884.186652098
-PHIPPSBURG,135,Assessing,Assessing,,Investigating,Investigating,-7774817.758113941,5439015.372072086
-BOOTHBAY HBR,17,Assessing,Assessing,,Investigating,Investigating,-7752167.195241084,5444479.915844795
-"HERMON,GLENBURN,KENDUSKEAG,LEVANT,CARMEL,HAMPDEN",3468,3/4/2023 5:00:00 PM,3/4/2023 5:00:00 PM,,Assessing,Vehicle Accident,-7666669.644597224,5589010.988944217
-HERMON,66,3/4/2023 5:00:00 PM,3/4/2023 5:00:00 PM,,Assessing,Vehicle Accident,-7669361.594748389,5590420.350710797
+YARMOUTH,26,Assessing,Assessing,,Investigating,Investigating,-7809838.232502829,5431171.033256443
+BOOTHBAY,26,Assessing,Assessing,,Investigating,Investigating,-7751987.686286614,5451854.473118993
+SCARBOROUGH,209,Assessing,Assessing,,Investigating,Investigating,-7840461.826426183,5402870.029396417
+"PHIPPSBURG,WEST BATH",892,Assessing,Assessing,,Assessing,Investigating,-7772280.939026988,5445654.451710398
 PHIPPSBURG,107,Assessing,Assessing,,Assessing,Investigating,-7771760.987958581,5444011.12675726
 "PHIPPSBURG,WEST BATH",130,Assessing,Assessing,,Assessing,Investigating,-7774659.079578455,5439424.049088777
+PHIPPSBURG,135,Assessing,Assessing,,Assessing,Investigating,-7774817.7544097975,5439015.370129273
 PHIPPSBURG,27,Assessing,Assessing,,Assessing,Investigating,-7774891.781881157,5438968.923550387
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7775213.205704739,5438579.583242603
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7773963.822560701,5438127.63150658
@@ -15,6 +13,7 @@ PHIPPSBURG,5,Assessing,Assessing,,Assessing,Investigating,-7773351.799120243,543
 PHIPPSBURG,14,Assessing,Assessing,,Assessing,Investigating,-7772876.075262764,5438674.386174765
 PHIPPSBURG,18,Assessing,Assessing,,Assessing,Investigating,-7772679.6075234795,5439133.663586175
 PHIPPSBURG,140,Assessing,Assessing,,Assessing,Investigating,-7771598.806601792,5437566.576305423
+PHIPPSBURG,5,Assessing,Assessing,,Assessing,Investigating,-7774430.429311873,5421918.055705399
 PHIPPSBURG,9,Assessing,Assessing,,Assessing,Investigating,-7771611.151921978,5427495.9194225725
 PHIPPSBURG,82,Assessing,Assessing,,Assessing,Investigating,-7770957.0942255305,5427554.329432656
 PHIPPSBURG,2,Assessing,Assessing,,Assessing,Investigating,-7774763.385946057,5429203.92363074
@@ -24,6 +23,7 @@ PHIPPSBURG,10,Assessing,Assessing,,Assessing,Investigating,-7771742.742733636,54
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7771223.960473668,5443170.222902732
 PHIPPSBURG,102,Assessing,Assessing,,Assessing,Investigating,-7771018.219753585,5443657.838295565
 PHIPPSBURG,7,Assessing,Assessing,,Assessing,Investigating,-7772177.467594063,5444670.651090026
+BOOTHBAY HBR,43,Assessing,Assessing,,Assessing,Investigating,-7752266.5294425115,5445434.776996476
 SO BRISTOL,5,Assessing,Assessing,,Assessing,Investigating,-7740384.531930438,5453104.519233355
 SO BRISTOL,1,Assessing,Assessing,,Assessing,Investigating,-7743617.9290139405,5449249.778301629
 "HARPSWELL,BRUNSWICK",2644,Assessing,Assessing,,Assessing,Investigating,-7789533.968435629,5450597.374126294
@@ -50,6 +50,8 @@ TOPSHAM,3,Assessing,Assessing,,Assessing,Investigating,-7790786.8469926715,54627
 TOPSHAM,66,Assessing,Assessing,,Assessing,Investigating,-7791652.255889958,5455274.783177735
 TOPSHAM,25,Assessing,Assessing,,Assessing,Investigating,-7791655.617753454,5455282.295725489
 FRIENDSHIP,29,Assessing,Assessing,,Assessing,Investigating,-7719193.141453905,5464797.894691581
+WOOLWICH,26,Assessing,Assessing,,Assessing,Investigating,-7765861.400060657,5454003.317590534
+GEORGETOWN,117,Assessing,Assessing,,Assessing,Investigating,-7764306.801037312,5431486.385464053
 GEORGETOWN,1,Assessing,Assessing,,Assessing,Investigating,-7765848.609441974,5441447.588858984
 ARROWSIC,11,Assessing,Assessing,,Assessing,Investigating,-7766948.156549413,5447127.685646043
 WOOLWICH,133,Assessing,Assessing,,Assessing,Investigating,-7768236.7019343125,5460271.616053019
@@ -57,11 +59,9 @@ PITTSTON,29,Assessing,Assessing,,Assessing,Investigating,-7763898.581348567,5499
 "GILEAD,MASON",35,Assessing,Assessing,,Assessing,Investigating,-7890928.781150435,5527761.079214951
 "GRAY,WINDHAM",144,3/4/2023 5:00:00 PM,3/4/2023 5:00:00 PM,,Assessing,Tree,-7828678.064685881,5439434.249346724
 FRYEBURG,27,3/4/2023 7:00:00 PM,3/4/2023 7:00:00 PM,,Assessing,Vehicle Accident,-7889029.080597082,5473981.672488145
-BRIDGTON,4,Assessing,Assessing,,Repairs in Progress,Investigating,-7882538.720148387,5474172.816639119
 BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7886967.477098617,5364318.890409357
 BIDDEFORD,8,Assessing,Assessing,,Assessing,Investigating,-7844022.677283601,5387944.910590749
 "SCARBOROUGH,SACO",138,Assessing,Assessing,,Assessing,Investigating,-7837969.590949141,5400005.389912183
-KENNEBUNKPORT,7,Assessing,Assessing,,Assessing,Investigating,-7844415.145338898,5372692.459989511
 FALMOUTH,342,3/4/2023 4:00:00 PM,3/4/2023 4:00:00 PM,,Assessing,Tree,-7824409.129250673,5425243.473123655
 WINDHAM,1,Assessing,Assessing,,Assessing,Investigating,-7831392.957820974,5433843.515713899
 FALMOUTH,73,3/4/2023 2:00:00 PM,3/4/2023 2:00:00 PM,,Assessing,Tree,-7830233.821405231,5429269.357967874
@@ -70,7 +70,8 @@ ARUNDEL,284,Assessing,Assessing,,Assessing,Investigating,-7851148.672004314,5384
 STANDISH,56,Assessing,Assessing,,Assessing,Investigating,-7845310.732820135,5439112.384334946
 OGUNQUIT,14,3/4/2023 3:00:00 PM,3/4/2023 3:00:00 PM,,Assessing,Investigating,-7858476.188522156,5352222.369070758
 SO BERWICK,5,Assessing,Assessing,,Assessing,Investigating,-7882512.4599509435,5344706.773786409
-WINDHAM,8,Assessing,Assessing,,Assessing,Investigating,-7837205.638629218,5430508.9992919685
+WATERBORO,3,Assessing,Assessing,,Assessing,Investigating,-7873963.178706983,5411528.751870929
 ELIOT,75,Assessing,Assessing,,Assessing,Investigating,-7883967.984563691,5332939.446948054
 YORK,1,Assessing,Assessing,,Assessing,Investigating,-7866296.0710278135,5334064.862566881
 FARMINGTON,20,Assessing,Assessing,,Assessing,Investigating,-7812229.30753403,5573812.0966631835
+AUBURN,2,3/4/2023 4:30:00 PM,3/4/2023 4:30:00 PM,,Assessing,Investigating,-7824740.516227682,5483504.610651354
