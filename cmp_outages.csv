@@ -1,8 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-BRISTOL,43,Assessing,Assessing,,Investigating,Investigating,-7739481.96563665,5450061.6586548695
-KENNEBUNKPORT,17,Assessing,Assessing,,Investigating,Investigating,-7845212.071071492,5370827.20502446
+SOUTHPORT,7,Assessing,Assessing,,Investigating,Investigating,-7755136.714722145,5440088.870850225
 SHAPLEIGH,5,Assessing,Assessing,,Investigating,Investigating,-7885200.723975612,5406635.051297268
-HOLLIS,5,Assessing,Assessing,,Investigating,Investigating,-7859408.415620258,5400475.053262801
 WATERBORO,2,Assessing,Assessing,,Investigating,Investigating,-7872441.945335407,5413053.225288785
 PARSONSFIELD,54,Assessing,Assessing,,Investigating,Investigating,-7892625.173707058,5418398.981194007
 HIRAM,64,Assessing,Assessing,,Investigating,Investigating,-7890052.628926341,5445879.797402474
@@ -38,6 +36,7 @@ BOOTHBAY,78,Assessing,Assessing,,Assessing,Investigating,-7749638.14274858,54511
 "BOOTHBAY,BOOTHBAY HBR",551,Assessing,Assessing,,Assessing,Investigating,-7752311.736350187,5445801.815360981
 "BRISTOL,PEMAQUID,HARPSWELL,NEW HARBOR",1458,Assessing,Assessing,,Assessing,Investigating,-7738307.688771666,5450981.830783371
 BRISTOL,6,Assessing,Assessing,,Assessing,Investigating,-7739477.923711847,5450060.478086606
+BRISTOL,43,3/14/2023 10:30:00 PM,3/14/2023 10:30:00 PM,,Assessing,Investigating,-7739481.9646355305,5450061.652263656
 BRISTOL,53,Assessing,Assessing,,Assessing,Investigating,-7739374.318729418,5447467.793597285
 SO BRISTOL,99,Assessing,Assessing,,Assessing,Investigating,-7743484.512558527,5446856.346486351
 SO BRISTOL,5,Assessing,Assessing,,Assessing,Investigating,-7742530.460027562,5442030.676104634
@@ -174,7 +173,6 @@ WINTHROP,4,Assessing,Assessing,,Assessing,Investigating,-7782181.071104784,55163
 WINTHROP,35,Assessing,Assessing,,Assessing,Investigating,-7782187.115771591,5516388.165344329
 WINTHROP,46,Assessing,Assessing,,Assessing,Investigating,-7781990.258396127,5515266.150250062
 "HALLOWELL,MANCHESTER,FARMINGDALE",195,Assessing,Assessing,,Assessing,Investigating,-7771775.38157176,5512125.191393015
-"MANCHESTER,WEST GARDINER,LITCHFIELD",423,3/15/2023 6:30:00 AM,3/15/2023 6:30:00 AM,,Assessing,Investigating,-7780714.982365838,5508482.410073691
 MANCHESTER,48,Assessing,Assessing,,Assessing,Investigating,-7780602.649813181,5508552.967831677
 WARREN,25,Assessing,Assessing,,Assessing,Investigating,-7713801.5377278365,5481642.762631456
 "WALDOBORO,FRIENDSHIP",8,Assessing,Assessing,,Assessing,Investigating,-7715252.731992901,5472361.630533349
@@ -438,6 +436,7 @@ SANFORD,63,Assessing,Assessing,,Assessing,Investigating,-7877235.281520298,53795
 SANFORD,43,Assessing,Assessing,,Assessing,Investigating,-7880794.73341162,5377751.3926272625
 KENNEBUNKPORT,1335,Assessing,Assessing,,Assessing,Investigating,-7844374.591640347,5367523.432410142
 KENNEBUNK,59,3/15/2023 4:00:00 PM,3/15/2023 4:00:00 PM,,Assessing,Investigating,-7847128.468816815,5368053.181872363
+KENNEBUNKPORT,17,3/15/2023 2:15:00 AM,3/15/2023 2:15:00 AM,,Assessing,Investigating,-7845212.070370708,5370827.203509179
 "KENNEBUNKPORT,BIDDEFORD",1304,Assessing,Assessing,,Assessing,Investigating,-7842860.73562748,5377542.661555546
 KENNEBUNKPORT,74,Assessing,Assessing,,Assessing,Investigating,-7844084.136785528,5375668.123758732
 KENNEBUNKPORT,7,Assessing,Assessing,,Assessing,Investigating,-7844415.145338898,5372692.459989511
@@ -583,6 +582,7 @@ HOLLIS,45,Assessing,Assessing,,Assessing,Investigating,-7858543.469941535,540821
 HOLLIS,2,Assessing,Assessing,,Assessing,Investigating,-7862363.531877372,5401507.714054201
 HOLLIS,11,Assessing,Assessing,,Assessing,Investigating,-7863898.015382043,5402783.566410325
 HOLLIS,10,Assessing,Assessing,,Assessing,Investigating,-7860812.82911576,5403624.332978689
+HOLLIS,5,3/15/2023 3:30:00 AM,3/15/2023 3:30:00 AM,,Assessing,Investigating,-7859408.411315437,5400475.05616489
 HOLLIS,31,Assessing,Assessing,,Assessing,Investigating,-7859517.493229111,5400398.577230965
 DAYTON,127,Assessing,Assessing,,Assessing,Investigating,-7859274.761098343,5400158.72608024
 HOLLIS,20,Assessing,Assessing,,Assessing,Investigating,-7858810.926150113,5401085.066066792
