@@ -1,30 +1,25 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
 ST GEORGE,5,Assessing,Assessing,,Assessing,Investigating,-7701346.790240682,5464191.560368684
-WAYNE,6,9/9/2023 2:00:00 PM,9/9/2023 2:00:00 PM,,Assessing,Tree,-7798252.8449359955,5522866.389517714
-SO BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7879889.973061657,5347189.882716463
-SO BERWICK,12,Assessing,Assessing,,Assessing,Investigating,-7872065.092260572,5351788.661145992
-"SO BERWICK,SOUTH BERWICK",63,Assessing,Assessing,,Assessing,Investigating,-7873337.006527475,5349581.17914811
-SO BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7879750.378490046,5348418.116420559
-BERWICK,58,Assessing,Assessing,,Assessing,Investigating,-7889057.288975446,5353033.034590628
+SO BERWICK,16,Assessing,Assessing,,Crew Assigned,Investigating,-7879889.973061657,5347189.882716463
+SO BERWICK,12,Assessing,Assessing,,Crew Assigned,Investigating,-7872065.092260572,5351788.661145992
+"SO BERWICK,SOUTH BERWICK",63,Assessing,Assessing,,Crew Assigned,Investigating,-7873337.006527475,5349581.17914811
+SO BERWICK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7879750.378490046,5348418.116420559
+BERWICK,58,Assessing,Assessing,,Crew Assigned,Investigating,-7889057.288975446,5353033.034590628
 "LYMAN,DAYTON",186,Assessing,Assessing,,Crew Assigned,Investigating,-7857829.0548769655,5391048.049628789
 DAYTON,12,Assessing,Assessing,,Crew Assigned,Investigating,-7853965.467015262,5391703.233567035
 LYMAN,17,Assessing,Assessing,,Crew Assigned,Investigating,-7858329.992560504,5387624.573547747
 LYMAN,10,9/9/2023 4:30:00 PM,9/9/2023 4:30:00 PM,,Crew Assigned,Lightning,-7858329.992560504,5387624.573547747
 "DAYTON,BIDDEFORD",12,Assessing,Assessing,,Crew Assigned,Investigating,-7854795.9215823,5388589.4238666445
-BIDDEFORD,12,Assessing,Assessing,,Crew Assigned,Investigating,-7850710.8748045005,5389980.211027635
-NO YARMOUTH,1,Assessing,Assessing,,Assessing,Investigating,-7815823.713655473,5440945.690638546
-FALMOUTH,24,9/9/2023 1:00:00 PM,9/9/2023 1:00:00 PM,,Assessing,Investigating,-7817884.972167741,5422708.239445643
-KENNEBUNKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7844084.537534152,5367631.59714305
+FALMOUTH,24,9/9/2023 3:00:00 PM,9/9/2023 3:00:00 PM,,Assessing,Investigating,-7817884.972167741,5422708.239445643
+KENNEBUNKPORT,4,Assessing,Assessing,,Crew Assigned,Investigating,-7844084.537534152,5367631.59714305
 YORK,1,Assessing,Assessing,,Assessing,Investigating,-7857552.693098889,5347085.683449368
 WELLS,155,Assessing,Assessing,,Assessing,Investigating,-7863241.297207276,5353764.296268815
 WELLS,4,Assessing,Assessing,,Assessing,Investigating,-7867763.428887495,5353694.683942945
 WELLS,30,Assessing,Assessing,,Assessing,Investigating,-7866885.385246028,5369308.065676338
 SANFORD,53,Assessing,Assessing,,Crew Assigned,Investigating,-7879614.101131948,5379079.935478287
 "SO BERWICK,SOUTH BERWICK",60,Assessing,Assessing,,Crew Assigned,Investigating,-7868904.386853053,5353541.578698469
-WELLS,34,Assessing,Assessing,,Crew Assigned,Investigating,-7862310.8777327575,5363162.814366719
 WELLS,45,Assessing,Assessing,,Crew Assigned,Investigating,-7861200.54374976,5364925.102557812
-WELLS,26,Assessing,Assessing,,Crew Assigned,Investigating,-7865550.241595873,5358223.743982485
 SO BERWICK,47,Assessing,Assessing,,Crew Assigned,Investigating,-7881046.916522456,5345447.967770199
 SO BERWICK,4,Assessing,Assessing,,Crew Assigned,Investigating,-7882197.080694062,5340273.092223019
 SANFORD,2,Assessing,Assessing,,Assessing,Investigating,-7868734.212748642,5377308.1684524575
@@ -33,8 +28,8 @@ SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7874474.380080399,53690
 "NO BERWICK,NORTH BERWICK",31,Assessing,Assessing,,Assessing,Investigating,-7875581.7751734,5368426.088778547
 SANFORD,18,Assessing,Assessing,,Assessing,Investigating,-7875675.272440568,5372153.759634482
 SCARBOROUGH,2,Assessing,Assessing,,Assessing,Investigating,-7835570.60025662,5409120.0344309695
-"LYMAN,WATERBORO,HOLLIS",59,Assessing,Assessing,,Assessing,Investigating,-7863986.892877529,5399998.5829316145
-LYMAN,2,Assessing,Assessing,,Assessing,Investigating,-7871101.722299047,5390825.295608835
+"LYMAN,WATERBORO,HOLLIS",59,Assessing,Assessing,,Crew Assigned,Investigating,-7863986.892877529,5399998.5829316145
+LYMAN,2,Assessing,Assessing,,Crew Assigned,Investigating,-7871101.722299047,5390825.295608835
 YORK,143,Assessing,Assessing,,Crew Assigned,Investigating,-7860136.440720819,5338962.84371009
 YORK,3,Assessing,Assessing,,Assessing,Investigating,-7863488.927421299,5336346.256307758
 YORK,2,Assessing,Assessing,,Assessing,Investigating,-7862205.213344889,5332596.14967619
