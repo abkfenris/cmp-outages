@@ -1,5 +1,5 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-NO YARMOUTH; NORTH YARMOUTH,4,Assessing,Assessing,,Investigating,Investigating,-7814923.727149679,5439727.416111094
+BRUNSWICK,14,Assessing,Assessing,,Investigating,Investigating,-7792138.35346047,5453758.38863704
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
 BRUNSWICK,36,Assessing,Assessing,,Assessing,Investigating,-7792042.786876772,5453816.394891769
 CAMDEN,7,Assessing,Assessing,,Assessing,Investigating,-7692216.677374497,5501834.9886688385
@@ -9,16 +9,13 @@ WISCASSET,2,Assessing,Assessing,,Assessing,Investigating,-7761826.992471789,5469
 ALNA,1,Assessing,Assessing,,Assessing,Investigating,-7750147.919226873,5485844.663036068
 WASHINGTON,7,Assessing,Assessing,,Assessing,Investigating,-7723465.160441044,5507497.847099404
 UNION,21,9/9/2023 1:00:00 AM,9/9/2023 1:00:00 AM,,Assessing,Investigating,-7716731.911987088,5500270.191757174
-UNION,69,Assessing,Assessing,,Assessing,Investigating,-7714035.130527424,5498952.011235056
 WAYNE,6,Assessing,Assessing,,Assessing,Investigating,-7798252.8449359955,5522866.389517714
 BRIDGTON,10,Assessing,Assessing,,Assessing,Investigating,-7876148.146507799,5480199.755986374
-GREENE,65,Assessing,Assessing,,Assessing,Investigating,-7808651.777404706,5492742.576772175
 "BROWNFIELD,PORTER,FRYEBURG",575,Assessing,Assessing,,Assessing,Investigating,-7891395.588325972,5456820.384241674
 BROWNFIELD,51,Assessing,Assessing,,Assessing,Investigating,-7898801.896648698,5455266.667575592
 BROWNFIELD,141,Assessing,Assessing,,Assessing,Investigating,-7891265.34452225,5456993.3758659605
 "BROWNFIELD,DENMARK",5,Assessing,Assessing,,Assessing,Investigating,-7888990.541854202,5462596.141463883
 DENMARK,22,Assessing,Assessing,,Assessing,Investigating,-7882705.788475976,5462370.291351693
-JAY,20,Assessing,Assessing,,Assessing,Investigating,-7813729.326556826,5540442.586771675
 RAYMOND,3,Assessing,Assessing,,Assessing,Investigating,-7849622.559771001,5447503.934960817
 CASCO,7,Assessing,Assessing,,Assessing,Investigating,-7849069.524565973,5463373.39350934
 TURNER,2,Assessing,Assessing,,Assessing,Investigating,-7819732.920285912,5505996.649743898
@@ -47,6 +44,7 @@ SHAPLEIGH,6,Assessing,Assessing,,Assessing,Investigating,-7881814.709341694,5391
 SHAPLEIGH,23,Assessing,Assessing,,Assessing,Investigating,-7883148.183222593,5390988.365640859
 CUMBERLAND,11,Assessing,Assessing,,Assessing,Investigating,-7821172.06976723,5432122.825284012
 NO YARMOUTH,1,Assessing,Assessing,,Assessing,Investigating,-7815823.713655473,5440945.690638546
+"NORTH YARMOUTH,NO YARMOUTH",4,Assessing,Assessing,,Assessing,Investigating,-7814923.729051805,5439727.422078784
 "CUMBERLAND,NO YARMOUTH",6,Assessing,Assessing,,Assessing,Investigating,-7825013.8835535655,5441211.5769659085
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7840042.537946287,5389015.783704169
 GORHAM,7,Assessing,Assessing,,Assessing,Investigating,-7842647.414020843,5415271.382421617
