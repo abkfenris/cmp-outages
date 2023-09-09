@@ -1,11 +1,16 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+JAY,20,Assessing,Assessing,,Investigating,Investigating,-7813729.324154137,5540442.579054151
 WELLS,34,Assessing,Assessing,,Investigating,Investigating,-7862310.876731634,5363162.81945939
-WELLS,45,Assessing,Assessing,,Investigating,Investigating,-7861200.549255922,5364925.0955368485
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
 BRUNSWICK,36,Assessing,Assessing,,Assessing,Investigating,-7792042.786876772,5453816.394891769
+CAMDEN,7,Assessing,Assessing,,Assessing,Investigating,-7692216.677374497,5501834.9886688385
 FREEPORT,1,Assessing,Assessing,,Assessing,Investigating,-7807941.369826388,5444002.46527801
+SOMERVILLE PLT,2,Assessing,Assessing,,Assessing,Investigating,-7731049.936252357,5512515.831117443
 WISCASSET,2,Assessing,Assessing,,Assessing,Investigating,-7761826.992471789,5469656.823671219
 ALNA,1,Assessing,Assessing,,Assessing,Investigating,-7750147.919226873,5485844.663036068
+WASHINGTON,7,9/9/2023 12:30:00 AM,9/9/2023 12:30:00 AM,,Assessing,Investigating,-7723465.160441044,5507497.847099404
+UNION,21,Assessing,Assessing,,Assessing,Investigating,-7716731.911987088,5500270.191757174
+UNION,69,Assessing,Assessing,,Assessing,Investigating,-7714035.130527424,5498952.011235056
 WINTHROP,69,Assessing,Assessing,,Assessing,Investigating,-7782753.698642804,5512881.256322575
 WAYNE,6,Assessing,Assessing,,Assessing,Investigating,-7798252.8449359955,5522866.389517714
 BRIDGTON,10,Assessing,Assessing,,Assessing,Investigating,-7876148.146507799,5480199.755986374
@@ -19,7 +24,6 @@ RAYMOND,3,Assessing,Assessing,,Assessing,Investigating,-7849622.559771001,544750
 CASCO,7,Assessing,Assessing,,Assessing,Investigating,-7849069.524565973,5463373.39350934
 TURNER,2,Assessing,Assessing,,Assessing,Investigating,-7819732.920285912,5505996.649743898
 "GREENE,LEEDS",8,Assessing,Assessing,,Assessing,Investigating,-7809828.090449127,5503000.5730266785
-GREENE,31,Assessing,Assessing,,Assessing,Investigating,-7807544.64941071,5499774.152934813
 LEEDS,88,Assessing,Assessing,,Assessing,Investigating,-7806229.832615816,5509130.479016452
 "LEEDS,WAYNE",126,Assessing,Assessing,,Assessing,Investigating,-7805628.573826039,5515750.753737593
 LEEDS,10,Assessing,Assessing,,Assessing,Investigating,-7810022.94408147,5511387.448371573
@@ -67,6 +71,7 @@ SANFORD,89,Assessing,Assessing,,Assessing,Investigating,-7879693.2937855655,5379
 SANFORD,67,Assessing,Assessing,,Assessing,Investigating,-7879181.235252592,5379549.829737334
 SANFORD,53,Assessing,Assessing,,Assessing,Investigating,-7879614.101131948,5379079.935478287
 "SO BERWICK,SOUTH BERWICK",60,Assessing,Assessing,,Crew Assigned,Investigating,-7868904.386853053,5353541.578698469
+WELLS,45,Assessing,Assessing,,Assessing,Investigating,-7861200.54374976,5364925.102557812
 WELLS,125,Assessing,Assessing,,Crew Assigned,Investigating,-7870823.7240890395,5363652.18379319
 WELLS,15,Assessing,Assessing,,Crew Assigned,Investigating,-7870023.270206797,5364082.1595164575
 WELLS,70,Assessing,Assessing,,Crew Assigned,Investigating,-7868134.4901786195,5364692.7494381815
@@ -106,6 +111,7 @@ YORK,49,Assessing,Assessing,,Crew Assigned,Investigating,-7868996.347900474,5335
 YORK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7870475.260695531,5333554.557976092
 "SANFORD,LEBANON",45,Assessing,Assessing,,Assessing,Investigating,-7885189.738177364,5377281.9113295935
 "LEBANON,NO BERWICK",13,Assessing,Assessing,,Assessing,Investigating,-7886568.140654378,5370181.33470828
+SEARSMONT,4,Assessing,Assessing,,Assessing,Investigating,-7697452.0775357215,5522180.097681176
 NEWPORT,19,Assessing,Assessing,,Assessing,Investigating,-7709798.355294528,5597305.875909035
 YARMOUTH,2,Assessing,Assessing,,Assessing,Tree,-7809807.540844512,5430729.952436613
 YARMOUTH,7,Assessing,Assessing,,Assessing,Investigating,-7813548.744100605,5433173.0923981825
