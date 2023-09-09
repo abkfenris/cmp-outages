@@ -1,6 +1,15 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+SO BERWICK,112,Assessing,Assessing,,Investigating,Investigating,-7880602.045003174,5345178.536456017
+SO BERWICK,38,Assessing,Assessing,,Investigating,Investigating,-7882444.204741448,5340847.24386445
+SO BERWICK,98,Assessing,Assessing,,Investigating,Investigating,-7881684.00952748,5340271.613347855
+SO BERWICK; SOUTH BERWICK,81,Assessing,Assessing,,Investigating,Investigating,-7877704.130281331,5345980.732834207
+YORK,65,Assessing,Assessing,,Investigating,Investigating,-7874247.423109407,5339539.747359753
+SO BERWICK; SOUTH BERWICK,9,Assessing,Assessing,,Investigating,Investigating,-7881935.221350993,5343630.505781977
+SO BERWICK,6,Assessing,Assessing,,Investigating,Investigating,-7882376.142447906,5344789.566163226
+SO BERWICK,56,Assessing,Assessing,,Investigating,Investigating,-7882337.34031017,5340802.49504325
+YORK; ELIOT,24,Assessing,Assessing,,Investigating,Investigating,-7874642.712022562,5338261.130762937
+SO BERWICK,103,Assessing,Assessing,,Investigating,Investigating,-7881075.525549338,5345505.392991379
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
-ST GEORGE,5,Assessing,Assessing,,Assessing,Investigating,-7701346.790240682,5464191.560368684
 SO BERWICK,16,Assessing,Assessing,,Crew Assigned,Investigating,-7879889.973061657,5347189.882716463
 SO BERWICK,12,Assessing,Assessing,,Crew Assigned,Investigating,-7872065.092260572,5351788.661145992
 "SO BERWICK,SOUTH BERWICK",63,Assessing,Assessing,,Crew Assigned,Investigating,-7873337.006527475,5349581.17914811
@@ -22,7 +31,6 @@ SANFORD,53,Assessing,Assessing,,Crew Assigned,Investigating,-7879614.101131948,5
 WELLS,45,Assessing,Assessing,,Crew Assigned,Investigating,-7861200.54374976,5364925.102557812
 SO BERWICK,47,Assessing,Assessing,,Crew Assigned,Investigating,-7881046.916522456,5345447.967770199
 SO BERWICK,4,Assessing,Assessing,,Crew Assigned,Investigating,-7882197.080694062,5340273.092223019
-SANFORD,2,Assessing,Assessing,,Assessing,Investigating,-7868734.212748642,5377308.1684524575
 SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7874474.380080399,5369081.422436566
 "NO BERWICK,SANFORD",32,Assessing,Assessing,,Assessing,Investigating,-7874802.327306712,5366606.563869568
 "NO BERWICK,NORTH BERWICK",31,Assessing,Assessing,,Assessing,Investigating,-7875581.7751734,5368426.088778547
@@ -44,8 +52,8 @@ YORK,49,9/9/2023 2:00:00 PM,9/9/2023 2:00:00 PM,,Repairs in Progress,Tree,-78689
 YORK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7870475.260695531,5333554.557976092
 "SANFORD,LEBANON",45,Assessing,Assessing,,Assessing,Investigating,-7885189.738177364,5377281.9113295935
 "LEBANON,NO BERWICK",13,Assessing,Assessing,,Assessing,Investigating,-7886568.140654378,5370181.33470828
+ELLIOTSVILLE,47,Assessing,Assessing,,Assessing,Investigating,-7729019.190398027,5678823.274547369
 WELLS,4,Assessing,Assessing,,Crew Assigned,Tree,-7862053.462564801,5362922.91425615
-STANDISH,3,9/9/2023 2:00:00 PM,9/9/2023 2:00:00 PM,,Crew Assigned,Investigating,-7858741.017589738,5432107.9764792975
 YARMOUTH,2,Assessing,Assessing,,Assessing,Tree,-7809807.540844512,5430729.952436613
 SANFORD,2,Assessing,Assessing,,Assessing,Investigating,-7882545.699861951,5374841.873732226
 SANFORD,1,Assessing,Assessing,,Assessing,Investigating,-7882574.231101753,5374973.554451739
