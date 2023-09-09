@@ -1,13 +1,18 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-LYMAN; WATERBORO; HOLLIS,59,Assessing,Assessing,,Investigating,Investigating,-7863986.88997428,5399998.578647805
-OGUNQUIT,27,Assessing,Assessing,,Investigating,Investigating,-7859113.785090906,5351295.069794567
+WELLS,125,Assessing,Assessing,,Investigating,Investigating,-7870823.721586238,5363652.183930835
+BIDDEFORD,12,Assessing,Assessing,,Investigating,Investigating,-7850710.86999912,5389980.209371173
+YORK,15,Assessing,Assessing,,Investigating,Investigating,-7863781.992998739,5333527.396139592
+DAYTON; BIDDEFORD,12,Assessing,Assessing,,Investigating,Investigating,-7854795.926387681,5388589.419726126
+DAYTON,12,Assessing,Assessing,,Investigating,Investigating,-7853965.466614815,5391703.232738654
+WELLS,234,Assessing,Assessing,,Investigating,Investigating,-7868816.909024452,5360990.557206697
+WINDHAM,5,Assessing,Assessing,,Investigating,Investigating,-7839406.549978317,5428872.5627388945
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
+BRUNSWICK,36,Assessing,Assessing,,Assessing,Investigating,-7792042.786876772,5453816.394891769
+FREEPORT,1,Assessing,Assessing,,Assessing,Investigating,-7807941.369826388,5444002.46527801
+WISCASSET,2,Assessing,Assessing,,Assessing,Investigating,-7761826.992471789,5469656.823671219
 WINTHROP,69,Assessing,Assessing,,Assessing,Investigating,-7782753.698642804,5512881.256322575
 WINTHROP,9,Assessing,Assessing,,Assessing,Investigating,-7785862.38441602,5514306.464129145
 WAYNE,6,Assessing,Assessing,,Assessing,Investigating,-7798252.8449359955,5522866.389517714
-READFIELD,97,Assessing,Assessing,,Assessing,Investigating,-7789783.168206722,5526411.692611301
-READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7789619.52861749,5526267.419514919
-READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7790815.823530967,5525508.593429399
 BRIDGTON,10,Assessing,Assessing,,Assessing,Investigating,-7876148.146507799,5480199.755986374
 GREENE,65,Assessing,Assessing,,Assessing,Investigating,-7808651.777404706,5492742.576772175
 "BROWNFIELD,PORTER,FRYEBURG",575,Assessing,Assessing,,Assessing,Investigating,-7891395.588325972,5456820.384241674
@@ -15,7 +20,9 @@ BROWNFIELD,51,Assessing,Assessing,,Assessing,Investigating,-7898801.896648698,54
 BROWNFIELD,141,Assessing,Assessing,,Assessing,Investigating,-7891265.34452225,5456993.3758659605
 "BROWNFIELD,DENMARK",5,Assessing,Assessing,,Assessing,Investigating,-7888990.541854202,5462596.141463883
 DENMARK,22,Assessing,Assessing,,Assessing,Investigating,-7882705.788475976,5462370.291351693
+CASCO,7,Assessing,Assessing,,Assessing,Investigating,-7849069.524565973,5463373.39350934
 TURNER,2,Assessing,Assessing,,Assessing,Investigating,-7819732.920285912,5505996.649743898
+"GREENE,LEEDS",8,Assessing,Assessing,,Assessing,Investigating,-7809828.090449127,5503000.5730266785
 GREENE,31,Assessing,Assessing,,Assessing,Investigating,-7807544.64941071,5499774.152934813
 LEEDS,88,Assessing,Assessing,,Assessing,Investigating,-7806229.832615816,5509130.479016452
 "LEEDS,WAYNE",126,Assessing,Assessing,,Assessing,Investigating,-7805628.573826039,5515750.753737593
@@ -26,33 +33,43 @@ SO BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7879889.973061657,53
 SO BERWICK,12,Assessing,Assessing,,Assessing,Investigating,-7872065.092260572,5351788.661145992
 "SO BERWICK,SOUTH BERWICK",63,Assessing,Assessing,,Assessing,Investigating,-7873337.006527475,5349581.17914811
 BERWICK,58,Assessing,Assessing,,Assessing,Investigating,-7889057.288975446,5353033.034590628
-"LYMAN,BIDDEFORD,ARUNDEL,DAYTON",3479,Assessing,Assessing,,Assessing,Investigating,-7848612.80288081,5388040.4690167755
 "DAYTON,LYMAN",233,Assessing,Assessing,,Assessing,Investigating,-7857041.024202098,5389884.156643304
-LYMAN,28,Assessing,Assessing,,Assessing,Investigating,-7857934.285178889,5388419.259859052
-LYMAN,10,Assessing,Assessing,,Assessing,Investigating,-7858329.992560504,5387624.573547747
-LYMAN,8,Assessing,Assessing,,Assessing,Investigating,-7856459.41330751,5387934.306634774
+LYMAN,17,Assessing,Assessing,,Assessing,Investigating,-7858329.992560504,5387624.573547747
+"LYMAN,ARUNDEL",75,Assessing,Assessing,,Assessing,Investigating,-7856941.693804932,5389092.2299543405
+LYMAN,14,Assessing,Assessing,,Assessing,Investigating,-7856423.345731021,5387765.597224223
+ARUNDEL,110,Assessing,Assessing,,Assessing,Investigating,-7857336.009728863,5385019.812064615
 SHAPLEIGH,2,Assessing,Assessing,,Assessing,Investigating,-7886530.815269814,5384919.820580564
 SHAPLEIGH,6,Assessing,Assessing,,Assessing,Investigating,-7881814.709341694,5391188.357834739
 SHAPLEIGH,23,Assessing,Assessing,,Assessing,Investigating,-7883148.183222593,5390988.365640859
+CUMBERLAND,11,Assessing,Assessing,,Assessing,Investigating,-7821172.06976723,5432122.825284012
 NO YARMOUTH,1,Assessing,Assessing,,Assessing,Investigating,-7815823.713655473,5440945.690638546
+"CUMBERLAND,NO YARMOUTH",6,Assessing,Assessing,,Assessing,Investigating,-7825013.8835535655,5441211.5769659085
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7840042.537946287,5389015.783704169
 GORHAM,7,Assessing,Assessing,,Assessing,Investigating,-7842647.414020843,5415271.382421617
 PORTLAND,1,Assessing,Assessing,,Assessing,Investigating,-7825924.788682409,5422062.237102878
+FALMOUTH,129,Assessing,Assessing,,Assessing,Investigating,-7829129.632201113,5429753.632965272
 DAYTON,14,Assessing,Assessing,,Assessing,Tree,-7857864.398843394,5393770.961417284
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7842642.1597388415,5400497.352925739
 BIDDEFORD,94,Assessing,Assessing,,Assessing,Investigating,-7843414.438780261,5387629.438015378
 BIDDEFORD,42,Assessing,Assessing,,Assessing,Investigating,-7841145.268817851,5380157.896075107
 "WELLS,YORK,OGUNQUIT",836,Assessing,Assessing,,Assessing,Investigating,-7858961.396697028,5353414.619738068
 OGUNQUIT,23,Assessing,Assessing,,Assessing,Investigating,-7859164.2542895395,5350825.746543489
+OGUNQUIT,27,Assessing,Assessing,,Assessing,Investigating,-7859113.781987432,5351295.070206957
 O O BEACH,85,Assessing,Assessing,,Assessing,Investigating,-7835485.0289623225,5388196.016576248
+PORTLAND,78,Assessing,Assessing,,Assessing,Investigating,-7819947.6889124485,5414044.8047733
+PORTLAND,1184,Assessing,Assessing,,Assessing,Investigating,-7819972.713526697,5414142.11056832
 PORTLAND,8,Assessing,Assessing,,Assessing,Investigating,-7821744.474555888,5412119.074484586
 WESTBROOK,5,Assessing,Assessing,,Assessing,Investigating,-7830806.170531573,5417939.777162443
 WINDHAM,12,Assessing,Assessing,,Assessing,Investigating,-7834579.289015737,5423030.98030379
 WELLS,30,Assessing,Assessing,,Assessing,Investigating,-7866885.385246028,5369308.065676338
 SANFORD,89,Assessing,Assessing,,Assessing,Investigating,-7879693.2937855655,5379914.045389965
 SANFORD,67,Assessing,Assessing,,Assessing,Investigating,-7879181.235252592,5379549.829737334
+SANFORD,53,Assessing,Assessing,,Assessing,Investigating,-7879614.101131948,5379079.935478287
 "SO BERWICK,SOUTH BERWICK",60,Assessing,Assessing,,Assessing,Investigating,-7868904.386853053,5353541.578698469
-"NO BERWICK,WELLS",2466,Assessing,Assessing,,Assessing,Investigating,-7873050.369947092,5359613.461025549
+WELLS,721,Assessing,Assessing,,Assessing,Investigating,-7866531.2445970215,5358662.417816093
+WELLS,15,Assessing,Assessing,,Assessing,Investigating,-7870023.270206797,5364082.1595164575
+WELLS,70,Assessing,Assessing,,Assessing,Investigating,-7868134.4901786195,5364692.7494381815
+WELLS,18,Assessing,Assessing,,Assessing,Investigating,-7870255.516098561,5364525.24272414
 SO BERWICK,47,Assessing,Assessing,,Assessing,Investigating,-7881046.916522456,5345447.967770199
 SO BERWICK,10,Assessing,Assessing,,Assessing,Investigating,-7877427.597111385,5346394.605926323
 SO BERWICK,4,Assessing,Assessing,,Assessing,Investigating,-7882197.080694062,5340273.092223019
@@ -63,25 +80,22 @@ SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7882220.802850252,53739
 "NO BERWICK,SANFORD",32,Assessing,Assessing,,Assessing,Investigating,-7874802.327306712,5366606.563869568
 "NO BERWICK,NORTH BERWICK",31,Assessing,Assessing,,Assessing,Investigating,-7875581.7751734,5368426.088778547
 SANFORD,18,Assessing,Assessing,,Assessing,Investigating,-7875675.272440568,5372153.759634482
+"LYMAN,WATERBORO,HOLLIS",59,Assessing,Assessing,,Assessing,Investigating,-7863986.892877529,5399998.5829316145
 LYMAN,2,Assessing,Assessing,,Assessing,Investigating,-7871101.722299047,5390825.295608835
-"BIDDEFORD,ARUNDEL",310,Assessing,Assessing,,Assessing,Investigating,-7847694.895813522,5384412.684698986
 YORK,143,Assessing,Assessing,,Assessing,Investigating,-7860136.440720819,5338962.84371009
 YORK,23,Assessing,Assessing,,Assessing,Investigating,-7860308.585231035,5339109.466041032
 "YORK,OGUNQUIT",1800,Assessing,Assessing,,Assessing,Investigating,-7860307.850508538,5339153.048597201
-YORK,81,Assessing,Assessing,,Assessing,Investigating,-7862254.038002514,5337340.7184088165
-YORK,8,Assessing,Assessing,,Assessing,Investigating,-7862189.5729359565,5337430.9809241025
 YORK,461,Assessing,Assessing,,Assessing,Investigating,-7863968.692202464,5333787.46255915
 DAYTON,113,Assessing,Assessing,,Assessing,Investigating,-7858381.188472677,5401664.993996297
 BUXTON,36,Assessing,Assessing,,Assessing,Investigating,-7852409.643621268,5405183.960752082
-WELLS,1,Assessing,Assessing,,Assessing,Investigating,-7858525.792452158,5361006.094209109
 WINDHAM,3,Assessing,Assessing,,Assessing,Investigating,-7841281.479401192,5431007.631392312
+WINDHAM,7,Assessing,Assessing,,Assessing,Investigating,-7836481.483160584,5432836.935272453
 ELIOT,26,Assessing,Assessing,,Assessing,Investigating,-7880231.267529776,5329150.2535977345
-ELIOT,3,Assessing,Assessing,,Assessing,Investigating,-7877375.332602959,5330119.990034925
-KITTERY,13,Assessing,Assessing,,Assessing,Investigating,-7874405.896315036,5325782.9138002135
+ELIOT,3,Assessing,Assessing,,Crew Assigned,Investigating,-7877375.332602959,5330119.990034925
+KITTERY,13,Assessing,Assessing,,Crew Assigned,Investigating,-7874405.896315036,5325782.9138002135
 ELIOT,23,Assessing,Assessing,,Assessing,Investigating,-7877524.812340696,5332768.284927436
 ELIOT,9,Assessing,Assessing,,Assessing,Investigating,-7882950.368475379,5339528.340700117
 ELIOT,13,Assessing,Assessing,,Assessing,Investigating,-7879301.037267076,5337559.126380646
-ELIOT,274,Assessing,Assessing,,Assessing,Investigating,-7880956.625344401,5331315.287973514
 YORK,10,Assessing,Assessing,,Assessing,Investigating,-7865516.979259768,5331948.504748059
 KITTERY,5,Assessing,Assessing,,Assessing,Investigating,-7870414.201942234,5329316.561001621
 YORK,33,Assessing,Assessing,,Assessing,Investigating,-7864691.189014283,5336083.484340678
@@ -92,3 +106,4 @@ YORK,2,Assessing,Assessing,,Assessing,Investigating,-7870475.260695531,5333554.5
 "SANFORD,LEBANON",45,Assessing,Assessing,,Assessing,Investigating,-7885189.738177364,5377281.9113295935
 "LEBANON,NO BERWICK",13,Assessing,Assessing,,Assessing,Investigating,-7886568.140654378,5370181.33470828
 NEWPORT,19,Assessing,Assessing,,Assessing,Investigating,-7709798.355294528,5597305.875909035
+YARMOUTH,2,9/8/2023 11:45:00 PM,9/8/2023 11:45:00 PM,,Assessing,Tree,-7809807.540844512,5430729.952436613
