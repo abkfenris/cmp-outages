@@ -1,8 +1,10 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WINDHAM; SO PORTLAND,142,Assessing,Assessing,,Investigating,Investigating,-7839630.184029411,5426956.118936474
+ALFRED,14,Assessing,Assessing,,Investigating,Investigating,-7873951.154846661,5386964.134923587
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
+EDGECOMB,28,Assessing,Assessing,,Assessing,Investigating,-7751280.583908364,5460914.581839305
 FREEPORT,174,Assessing,Assessing,,Assessing,Investigating,-7807188.582905769,5442103.441022928
 WAYNE,6,Assessing,Assessing,,Assessing,Investigating,-7798252.8449359955,5522866.389517714
+AUBURN,1,Assessing,Assessing,,Assessing,Investigating,-7818340.524944348,5484285.993521201
 BROWNFIELD,32,Assessing,Assessing,,Assessing,Investigating,-7901113.768714738,5456899.249809452
 BROWNFIELD,12,Assessing,Assessing,,Assessing,Investigating,-7892456.808127232,5455398.325191726
 "BROWNFIELD,DENMARK",5,Assessing,Assessing,,Assessing,Investigating,-7888990.541854202,5462596.141463883
@@ -29,12 +31,13 @@ NO YARMOUTH,1,Assessing,Assessing,,Assessing,Investigating,-7815823.713655473,54
 "CUMBERLAND,NO YARMOUTH",6,Assessing,Assessing,,Assessing,Investigating,-7825013.8835535655,5441211.5769659085
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7840042.537946287,5389015.783704169
 GORHAM,7,Assessing,Assessing,,Assessing,Investigating,-7842647.414020843,5415271.382421617
+"WINDHAM,SO PORTLAND",142,Assessing,Assessing,,Assessing,Investigating,-7839630.188334226,5426956.114917325
 KENNEBUNKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7844084.537534152,5367631.59714305
 PORTLAND,1,Assessing,Assessing,,Assessing,Investigating,-7825924.788682409,5422062.237102878
-DAYTON,14,Assessing,Assessing,,Assessing,Tree,-7857864.398843394,5393770.961417284
-SACO,12,Assessing,Assessing,,Assessing,Investigating,-7842642.1597388415,5400497.352925739
-BIDDEFORD,94,Assessing,Assessing,,Assessing,Investigating,-7843414.438780261,5387629.438015378
-BIDDEFORD,42,Assessing,Assessing,,Assessing,Investigating,-7841145.268817851,5380157.896075107
+DAYTON,14,Assessing,Assessing,,Crew Assigned,Tree,-7857864.398843394,5393770.961417284
+SACO,12,Assessing,Assessing,,Crew Assigned,Investigating,-7842642.1597388415,5400497.352925739
+BIDDEFORD,94,Assessing,Assessing,,Crew Assigned,Investigating,-7843414.438780261,5387629.438015378
+BIDDEFORD,42,Assessing,Assessing,,Crew Assigned,Investigating,-7841145.268817851,5380157.896075107
 WELLS,23,Assessing,Assessing,,Assessing,Investigating,-7864018.207032708,5355892.727723704
 WELLS,4,Assessing,Assessing,,Assessing,Investigating,-7864359.969024211,5354852.947432048
 WELLS,87,Assessing,Assessing,,Assessing,Investigating,-7863553.904561103,5354083.054336415
@@ -50,10 +53,10 @@ WELLS,45,Assessing,Assessing,,Crew Assigned,Investigating,-7861200.54374976,5364
 WELLS,38,Assessing,Assessing,,Crew Assigned,Investigating,-7864404.763970707,5357617.081422315
 WELLS,26,Assessing,Assessing,,Crew Assigned,Investigating,-7865550.241595873,5358223.743982485
 WELLS,228,Assessing,Assessing,,Crew Assigned,Investigating,-7870823.7240890395,5363652.18379319
-WELLS,234,Assessing,Assessing,,Crew Assigned,Investigating,-7868816.9120278135,5360990.563399029
-SO BERWICK,47,Assessing,Assessing,,Assessing,Investigating,-7881046.916522456,5345447.967770199
-SO BERWICK,10,Assessing,Assessing,,Assessing,Investigating,-7877427.597111385,5346394.605926323
-SO BERWICK,4,Assessing,Assessing,,Assessing,Investigating,-7882197.080694062,5340273.092223019
+WELLS,234,Assessing,Assessing,,Repairs in Progress,Tree,-7868816.9120278135,5360990.563399029
+SO BERWICK,47,Assessing,Assessing,,Crew Assigned,Investigating,-7881046.916522456,5345447.967770199
+SO BERWICK,10,Assessing,Assessing,,Crew Assigned,Investigating,-7877427.597111385,5346394.605926323
+SO BERWICK,4,Assessing,Assessing,,Crew Assigned,Investigating,-7882197.080694062,5340273.092223019
 SANFORD,2,Assessing,Assessing,,Assessing,Investigating,-7868734.212748642,5377308.1684524575
 SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7874474.380080399,5369081.422436566
 SANFORD,24,Assessing,Assessing,,Assessing,Investigating,-7882220.802850252,5373965.101699055
