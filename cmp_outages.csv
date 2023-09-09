@@ -19,7 +19,7 @@ ARUNDEL,110,9/9/2023 11:30:00 AM,9/9/2023 11:30:00 AM,,Repairs in Progress,Inves
 "DAYTON,BIDDEFORD",12,Assessing,Assessing,,Crew Assigned,Investigating,-7854795.9215823,5388589.4238666445
 BIDDEFORD,12,Assessing,Assessing,,Crew Assigned,Investigating,-7850710.8748045005,5389980.211027635
 NO YARMOUTH,1,Assessing,Assessing,,Assessing,Investigating,-7815823.713655473,5440945.690638546
-SACO,12,Assessing,Assessing,,Assessing,Investigating,-7840042.537946287,5389015.783704169
+SACO,12,Assessing,Assessing,,Crew Assigned,Investigating,-7840042.537946287,5389015.783704169
 "WINDHAM,SO PORTLAND",142,Assessing,Assessing,,Assessing,Investigating,-7839630.188334226,5426956.114917325
 KENNEBUNKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7844084.537534152,5367631.59714305
 PORTLAND,1,Assessing,Assessing,,Assessing,Investigating,-7825924.788682409,5422062.237102878
@@ -51,10 +51,11 @@ SANFORD,18,Assessing,Assessing,,Assessing,Investigating,-7875675.272440568,53721
 LYMAN,2,Assessing,Assessing,,Assessing,Investigating,-7871101.722299047,5390825.295608835
 YORK,143,Assessing,Assessing,,Crew Assigned,Investigating,-7860136.440720819,5338962.84371009
 YORK,3,Assessing,Assessing,,Assessing,Investigating,-7863488.927421299,5336346.256307758
+YORK,2,Assessing,Assessing,,Assessing,Investigating,-7862205.213344889,5332596.14967619
 BUXTON,36,Assessing,Assessing,,Assessing,Investigating,-7852409.643621268,5405183.960752082
 BUXTON,3,Assessing,Assessing,,Assessing,Investigating,-7853961.904827507,5403232.069219351
-ELIOT,26,9/9/2023 10:15:00 AM,9/9/2023 10:15:00 AM,,Repairs in Progress,Investigating,-7880231.267529776,5329150.2535977345
 ELIOT,3,Assessing,Assessing,,Crew Assigned,Investigating,-7877375.332602959,5330119.990034925
+KITTERY,6,Assessing,Assessing,,Assessing,Investigating,-7874631.863678194,5329453.073850273
 ELIOT,23,9/9/2023 10:30:00 AM,9/9/2023 10:30:00 AM,,Repairs in Progress,Investigating,-7877524.812340696,5332768.284927436
 ELIOT,9,Assessing,Assessing,,Assessing,Investigating,-7882950.368475379,5339528.340700117
 ELIOT,13,Assessing,Assessing,,Assessing,Investigating,-7879301.037267076,5337559.126380646
@@ -68,8 +69,6 @@ YORK,49,9/9/2023 1:00:00 PM,9/9/2023 1:00:00 PM,,Repairs in Progress,Tree,-78689
 YORK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7870475.260695531,5333554.557976092
 "SANFORD,LEBANON",45,Assessing,Assessing,,Assessing,Investigating,-7885189.738177364,5377281.9113295935
 "LEBANON,NO BERWICK",13,Assessing,Assessing,,Assessing,Investigating,-7886568.140654378,5370181.33470828
-WILTON,5,Assessing,Assessing,,Assessing,Investigating,-7815096.274210533,5560394.046531351
-WINSLOW,17,Assessing,Assessing,,Assessing,Investigating,-7748449.96301979,5546993.527280207
 WELLS,4,Assessing,Assessing,,Crew Assigned,Tree,-7862053.462564801,5362922.91425615
 STANDISH,3,9/9/2023 2:00:00 PM,9/9/2023 2:00:00 PM,,Crew Assigned,Investigating,-7858741.017589738,5432107.9764792975
 YARMOUTH,2,Assessing,Assessing,,Assessing,Tree,-7809807.540844512,5430729.952436613
