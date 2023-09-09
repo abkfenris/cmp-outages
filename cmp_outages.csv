@@ -1,10 +1,10 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-ARUNDEL; LYMAN,35,Assessing,Assessing,,Investigating,Investigating,-7856055.071059433,5386129.503975016
 PARSONSFIELD,27,Assessing,Assessing,,Assessing,Investigating,-7901818.55469986,5432826.9120597355
 EDGECOMB,28,Assessing,Assessing,,Assessing,Investigating,-7751280.583908364,5460914.581839305
-WAYNE,6,Assessing,Assessing,,Assessing,Investigating,-7798252.8449359955,5522866.389517714
-BROWNFIELD,12,Assessing,Assessing,,Assessing,Investigating,-7892456.808127232,5455398.325191726
-BROWNFIELD,16,Assessing,Assessing,,Assessing,Investigating,-7888413.962492246,5457576.846304956
+WAYNE,6,9/9/2023 12:30:00 PM,9/9/2023 12:30:00 PM,,Assessing,Investigating,-7798252.8449359955,5522866.389517714
+BROWNFIELD,12,9/9/2023 12:30:00 PM,9/9/2023 12:30:00 PM,,Assessing,Investigating,-7892456.808127232,5455398.325191726
+BROWNFIELD,9,Assessing,Assessing,,Assessing,Investigating,-7888413.962492246,5457576.846304956
+BROWNFIELD,7,9/9/2023 1:30:00 PM,9/9/2023 1:30:00 PM,,Assessing,Investigating,-7888115.904626105,5456615.8877474135
 SO BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7879889.973061657,5347189.882716463
 SO BERWICK,12,Assessing,Assessing,,Assessing,Investigating,-7872065.092260572,5351788.661145992
 "SO BERWICK,SOUTH BERWICK",63,Assessing,Assessing,,Assessing,Investigating,-7873337.006527475,5349581.17914811
@@ -18,18 +18,13 @@ LYMAN,10,Assessing,Assessing,,Crew Assigned,Investigating,-7858329.992560504,538
 ARUNDEL,110,9/9/2023 11:30:00 AM,9/9/2023 11:30:00 AM,,Repairs in Progress,Investigating,-7857336.009728863,5385019.812064615
 "DAYTON,BIDDEFORD",12,Assessing,Assessing,,Crew Assigned,Investigating,-7854795.9215823,5388589.4238666445
 BIDDEFORD,12,Assessing,Assessing,,Crew Assigned,Investigating,-7850710.8748045005,5389980.211027635
-SHAPLEIGH,2,Assessing,Assessing,,Crew Assigned,Investigating,-7886530.815269814,5384919.820580564
-SHAPLEIGH,6,Assessing,Assessing,,Crew Assigned,Investigating,-7881814.709341694,5391188.357834739
-SHAPLEIGH,23,Assessing,Assessing,,Crew Assigned,Investigating,-7883148.183222593,5390988.365640859
 NO YARMOUTH,1,Assessing,Assessing,,Assessing,Investigating,-7815823.713655473,5440945.690638546
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7840042.537946287,5389015.783704169
 "WINDHAM,SO PORTLAND",142,Assessing,Assessing,,Assessing,Investigating,-7839630.188334226,5426956.114917325
 KENNEBUNKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7844084.537534152,5367631.59714305
 PORTLAND,1,Assessing,Assessing,,Assessing,Investigating,-7825924.788682409,5422062.237102878
-DAYTON,14,Assessing,Assessing,,Crew Assigned,Tree,-7857864.398843394,5393770.961417284
 SACO,12,Assessing,Assessing,,Crew Assigned,Investigating,-7842642.1597388415,5400497.352925739
-BIDDEFORD,42,Assessing,Assessing,,Crew Assigned,Investigating,-7841145.268817851,5380157.896075107
-WESTBROOK,10,9/9/2023 7:30:00 AM,9/9/2023 7:30:00 AM,,Assessing,Investigating,-7834810.811297446,5415260.885651145
+WESTBROOK,10,Assessing,Assessing,,Assessing,Investigating,-7834810.811297446,5415260.885651145
 WELLS,155,Assessing,Assessing,,Assessing,Investigating,-7863241.297207276,5353764.296268815
 WELLS,4,Assessing,Assessing,,Assessing,Investigating,-7867763.428887495,5353694.683942945
 O O BEACH,85,Assessing,Assessing,,Crew Assigned,Investigating,-7835485.0289623225,5388196.016576248
@@ -42,9 +37,7 @@ WELLS,34,Assessing,Assessing,,Crew Assigned,Investigating,-7862310.8777327575,53
 WELLS,45,Assessing,Assessing,,Crew Assigned,Investigating,-7861200.54374976,5364925.102557812
 WELLS,38,Assessing,Assessing,,Crew Assigned,Investigating,-7864404.763970707,5357617.081422315
 WELLS,26,Assessing,Assessing,,Crew Assigned,Investigating,-7865550.241595873,5358223.743982485
-WELLS,228,9/9/2023 11:00:00 AM,9/9/2023 11:00:00 AM,,Crew Assigned,Investigating,-7870823.7240890395,5363652.18379319
 SO BERWICK,47,Assessing,Assessing,,Crew Assigned,Investigating,-7881046.916522456,5345447.967770199
-SO BERWICK,10,Assessing,Assessing,,Crew Assigned,Investigating,-7877427.597111385,5346394.605926323
 SO BERWICK,4,Assessing,Assessing,,Crew Assigned,Investigating,-7882197.080694062,5340273.092223019
 ALFRED,14,Assessing,Assessing,,Assessing,Investigating,-7873951.156148121,5386964.138787394
 ALFRED,3,Assessing,Assessing,,Assessing,Investigating,-7870948.43539932,5386543.519756433
@@ -58,7 +51,7 @@ SANFORD,18,Assessing,Assessing,,Assessing,Investigating,-7875675.272440568,53721
 LYMAN,2,Assessing,Assessing,,Assessing,Investigating,-7871101.722299047,5390825.295608835
 YORK,143,Assessing,Assessing,,Crew Assigned,Investigating,-7860136.440720819,5338962.84371009
 YORK,3,Assessing,Assessing,,Assessing,Investigating,-7863488.927421299,5336346.256307758
-BUXTON,36,9/9/2023 8:30:00 AM,9/9/2023 8:30:00 AM,,Assessing,Investigating,-7852409.643621268,5405183.960752082
+BUXTON,36,Assessing,Assessing,,Assessing,Investigating,-7852409.643621268,5405183.960752082
 BUXTON,3,Assessing,Assessing,,Assessing,Investigating,-7853961.904827507,5403232.069219351
 ELIOT,26,9/9/2023 10:15:00 AM,9/9/2023 10:15:00 AM,,Repairs in Progress,Investigating,-7880231.267529776,5329150.2535977345
 ELIOT,3,Assessing,Assessing,,Crew Assigned,Investigating,-7877375.332602959,5330119.990034925
@@ -70,12 +63,13 @@ YORK,10,Assessing,Assessing,,Assessing,Investigating,-7865516.979259768,5331948.
 YORK,9,Assessing,Assessing,,Assessing,Investigating,-7863552.757977544,5330440.4872487765
 KITTERY,5,Assessing,Assessing,,Assessing,Investigating,-7870414.201942234,5329316.561001621
 YORK,1,Assessing,Assessing,,Assessing,Investigating,-7866296.0710278135,5334064.862566881
-YORK,51,9/9/2023 1:00:00 PM,9/9/2023 1:00:00 PM,,Repairs in Progress,Tree,-7865603.975449184,5338838.052485138
+YORK,101,9/9/2023 1:00:00 PM,9/9/2023 1:00:00 PM,,Assessing,Investigating,-7866490.891222723,5337079.4599195635
 YORK,49,9/9/2023 1:00:00 PM,9/9/2023 1:00:00 PM,,Repairs in Progress,Tree,-7868996.347900474,5335745.4426964475
 YORK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7870475.260695531,5333554.557976092
 "SANFORD,LEBANON",45,Assessing,Assessing,,Assessing,Investigating,-7885189.738177364,5377281.9113295935
 "LEBANON,NO BERWICK",13,Assessing,Assessing,,Assessing,Investigating,-7886568.140654378,5370181.33470828
+WILTON,5,Assessing,Assessing,,Assessing,Investigating,-7815096.274210533,5560394.046531351
 WINSLOW,17,Assessing,Assessing,,Assessing,Investigating,-7748449.96301979,5546993.527280207
 WELLS,4,Assessing,Assessing,,Crew Assigned,Tree,-7862053.462564801,5362922.91425615
-STANDISH,3,9/9/2023 10:00:00 AM,9/9/2023 10:00:00 AM,,Crew Assigned,Investigating,-7858741.017589738,5432107.9764792975
+STANDISH,3,9/9/2023 2:00:00 PM,9/9/2023 2:00:00 PM,,Crew Assigned,Investigating,-7858741.017589738,5432107.9764792975
 YARMOUTH,2,Assessing,Assessing,,Assessing,Tree,-7809807.540844512,5430729.952436613
