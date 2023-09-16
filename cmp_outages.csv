@@ -1,70 +1,46 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-DOVER-FOXCROFT,73,Assessing,Assessing,,Investigating,Investigating,-7706608.978990861,5643228.940054974
-DOVER-FOXCROFT; SANGERVILLE,138,Assessing,Assessing,,Investigating,Investigating,-7706780.726356484,5650073.272379758
-BENTON,4,Assessing,Assessing,,Investigating,Investigating,-7736910.622300917,5559245.039311864
-NORRIDGEWOCK,62,Assessing,Assessing,,Investigating,Investigating,-7769787.740672036,5577256.243014511
-SALEM,12,Assessing,Assessing,,Investigating,Investigating,-7824502.31306694,5606281.675857986
-WINTHROP,36,Assessing,Assessing,,Investigating,Investigating,-7792148.84780855,5511476.93512308
-TEMPLE,16,Assessing,Assessing,,Investigating,Investigating,-7817663.871652863,5571942.604127833
-SALEM,4,Assessing,Assessing,,Investigating,Investigating,-7826451.0998707665,5607028.7914290195
-BENTON,82,Assessing,Assessing,,Investigating,Investigating,-7736841.615449977,5559255.173717278
-TEMPLE,145,Assessing,Assessing,,Investigating,Investigating,-7817873.426542789,5572125.060588654
-WILTON,37,Assessing,Assessing,,Investigating,Investigating,-7826179.55508516,5554635.643306338
-MONROE,12,Assessing,Assessing,,Investigating,Investigating,-7685819.756328197,5557374.255148069
-MONROE,6,Assessing,Assessing,,Investigating,Investigating,-7685229.153467388,5550954.344379371
-PROSPECT; STOCKTON SPRINGS,35,Assessing,Assessing,,Investigating,Investigating,-7669859.423651751,5550434.508265105
-RANGELEY PLT,10,Assessing,Assessing,,Investigating,Investigating,-7862843.940879715,5609994.117081818
-SWANVILLE,11,Assessing,Assessing,,Investigating,Investigating,-7679300.159250042,5552759.442903475
-EMBDEN,213,Assessing,Assessing,,Investigating,Investigating,-7785668.370223405,5606548.779475864
-FARMINGDALE; WEST GARDINER,100,Assessing,Assessing,,Investigating,Investigating,-7773723.810374815,5505029.135208102
-BENTON,39,Assessing,Assessing,,Investigating,Investigating,-7739484.228970377,5558754.620157024
-MONSON; BLANCHARD; SHIRLEY,98,Assessing,Assessing,,Investigating,Investigating,-7738028.503933265,5664411.490355658
-FARMINGDALE,16,Assessing,Assessing,,Investigating,Investigating,-7772868.348613029,5503915.14834578
-SIDNEY,10,Assessing,Assessing,,Investigating,Investigating,-7765572.726099486,5528653.711903996
-AUBURN,40,Assessing,Assessing,,Investigating,Investigating,-7822056.876279517,5480791.399540679
-APPLETON; SEARSMONT,7,Assessing,Assessing,,Investigating,Investigating,-7708272.4913391555,5511928.630762385
-BENTON,31,Assessing,Assessing,,Investigating,Investigating,-7738160.255224574,5558988.593193931
-BRISTOL,6,Assessing,Assessing,,Investigating,Investigating,-7739477.919407026,5450060.471278576
-DEXTER,8,Assessing,Assessing,,Investigating,Investigating,-7716143.164403199,5624669.381762408
-LIMINGTON,32,Assessing,Assessing,,Investigating,Investigating,-7871748.305227731,5423918.182230415
-SEBAGO,14,Assessing,Assessing,,Investigating,Investigating,-7861965.986938666,5441305.94754464
-BRIDGTON,210,Assessing,Assessing,,Investigating,Investigating,-7870888.1050614575,5465231.958020264
-LOVELL,16,Assessing,Assessing,,Investigating,Investigating,-7893321.306905671,5495473.63620479
-BELGRADE; OAKLAND,35,Assessing,Assessing,,Investigating,Investigating,-7766577.34924262,5544684.637641431
-WINTHROP,14,Assessing,Assessing,,Investigating,Investigating,-7791262.324073889,5511554.956790584
-INDUSTRY,16,Assessing,Assessing,,Investigating,Investigating,-7795000.022806787,5584807.71571628
-TURNER,146,Assessing,Assessing,,Investigating,Investigating,-7818923.791192052,5503226.637381379
-NAPLES,8,Assessing,Assessing,,Investigating,Investigating,-7865938.2597696725,5465298.84871666
-PARKMAN,25,Assessing,Assessing,,Investigating,Investigating,-7730411.667230825,5642604.310330189
-WINTHROP,43,Assessing,Assessing,,Investigating,Investigating,-7792554.712761248,5514439.720990652
-PARIS; WEST PARIS,99,Assessing,Assessing,,Investigating,Investigating,-7852426.746066903,5505902.448897806
-TURNER,7,Assessing,Assessing,,Investigating,Investigating,-7820742.325482397,5504703.730952249
-BOWDOIN; SABATTUS,90,Assessing,Assessing,,Investigating,Investigating,-7793506.239064177,5478097.440687798
+STANDISH,9,Assessing,Assessing,,Investigating,Investigating,-7845952.1897103805,5438142.87202026
+LOVELL,5,Assessing,Assessing,,Investigating,Investigating,-7894712.874620734,5489576.840050696
+TEMPLE,76,Assessing,Assessing,,Investigating,Investigating,-7819636.881974129,5574179.608127588
+NORRIDGEWOCK,172,Assessing,Assessing,,Investigating,Investigating,-7771338.907553209,5575624.483483682
+NORRIDGEWOCK,44,Assessing,Assessing,,Investigating,Investigating,-7771429.771872876,5575491.408127449
+CLINTON,17,Assessing,Assessing,,Investigating,Investigating,-7748095.846097345,5573457.0671506375
+EUSTIS,24,Assessing,Assessing,,Investigating,Investigating,-7846506.17247618,5656638.3342386475
+BELFAST,23,Assessing,Assessing,,Investigating,Investigating,-7681267.701550039,5531414.511078942
+SMITHFIELD; NORRIDGEWOCK,22,Assessing,Assessing,,Investigating,Investigating,-7771364.7521854425,5569102.065816033
+WINDHAM,142,Assessing,Assessing,,Investigating,Investigating,-7833337.934459443,5433678.557770274
+GREENWOOD; WOODSTOCK,30,Assessing,Assessing,,Investigating,Investigating,-7860181.706394281,5516066.634247183
+NORRIDGEWOCK; SMITHFIELD,50,Assessing,Assessing,,Investigating,Investigating,-7777322.911251895,5572614.002320454
+NORRIDGEWOCK; MERCER,47,Assessing,Assessing,,Investigating,Investigating,-7774385.506722486,5574442.777084363
+TEMPLE,10,Assessing,Assessing,,Investigating,Investigating,-7818768.085184214,5572622.9290955225
+WINDHAM,4,Assessing,Assessing,,Investigating,Investigating,-7834852.733127577,5431220.361599312
+MONROE,4,Assessing,Assessing,,Investigating,Investigating,-7681861.343813362,5563807.354116722
+MONROE; NEWBURGH; WINTERPORT,120,Assessing,Assessing,,Investigating,Investigating,-7681861.343813362,5563807.354116722
+SWEDEN,108,Assessing,Assessing,,Investigating,Investigating,-7891156.021138254,5484732.461197216
+DEXTER,14,Assessing,Assessing,,Investigating,Investigating,-7717372.883834345,5623989.559240877
+DENMARK; BROWNFIELD,44,Assessing,Assessing,,Investigating,Investigating,-7884620.035313426,5460714.433463487
+DOVER-FOXCROFT; GARLAND; DOVER FOXCROFT,70,Assessing,Assessing,,Investigating,Investigating,-7704704.552446919,5636109.419446739
+SEARSPORT,4,Assessing,Assessing,,Investigating,Investigating,-7673627.805933888,5536396.063918223
+MONROE,6,Assessing,Assessing,,Investigating,Investigating,-7684826.0654233545,5560806.765126167
+LILY BAY,32,Assessing,Assessing,,Investigating,Investigating,-7737644.267192651,5716693.903671015
 DOVER-FOXCROFT,5,Assessing,Assessing,,Investigating,Investigating,-7706887.067602072,5646830.211277531
-DEXTER; RIPLEY,152,Assessing,Assessing,,Investigating,Investigating,-7717373.9382146895,5623986.46473338
-LIVERMORE,43,Assessing,Assessing,,Investigating,Investigating,-7819958.247031925,5524746.7943176525
-BOOTHBAY,8,Assessing,Assessing,,Investigating,Investigating,-7752013.251205717,5453407.386631162
-FARMINGTON,10,Assessing,Assessing,,Investigating,Investigating,-7814117.751586091,5569723.491080796
-GRAY,11,Assessing,Assessing,,Investigating,Investigating,-7831668.315675188,5453236.366880083
-DEXTER,29,Assessing,Assessing,,Investigating,Investigating,-7714829.0852340525,5624935.09268224
-WARREN,25,Assessing,Assessing,,Investigating,Investigating,-7713801.538028178,5481642.754824042
-TEMPLE; WILTON,82,Assessing,Assessing,,Investigating,Investigating,-7816929.985791367,5569922.856659741
-MT VERNON; MOUNT VERNON,24,Assessing,Assessing,,Investigating,Investigating,-7791483.13806802,5543254.692191922
-SEARSMONT,28,Assessing,Assessing,,Investigating,Investigating,-7705285.587797206,5529751.692144354
-BRISTOL,13,Assessing,Assessing,,Investigating,Investigating,-7734051.255332032,5448611.51262788
-BRISTOL,129,Assessing,Assessing,,Investigating,Investigating,-7736233.099135638,5445792.656134967
-BRISTOL,39,Assessing,Assessing,,Investigating,Investigating,-7734053.946344539,5448608.979050321
-DENMARK,5,Assessing,Assessing,,Investigating,Investigating,-7888195.325635354,5463153.062370569
-BRISTOL,33,Assessing,Assessing,,Investigating,Investigating,-7737570.948014206,5441624.475429867
-LINCOLNVILLE,10,Assessing,Assessing,,Investigating,Investigating,-7683999.380876727,5505251.922456303
-VASSALBORO,50,Assessing,Assessing,,Investigating,Investigating,-7751177.596517309,5529242.772050098
+BROOKS,4,Assessing,Assessing,,Investigating,Investigating,-7689956.185927403,5547665.107408462
+BRISTOL,72,Assessing,Assessing,,Investigating,Investigating,-7734646.327896535,5447328.3826829605
+BELFAST,7,Assessing,Assessing,,Investigating,Investigating,-7682252.626141273,5530589.901795443
+MERCER; NORRIDGEWOCK; ROME; NEW SHARON,466,Assessing,Assessing,,Investigating,Investigating,-7777538.549652107,5572533.158185434
+ROCKPORT; ROCKLAND,30,Assessing,Assessing,,Investigating,Investigating,-7694502.800815781,5489392.013190741
+ROCKPORT,26,Assessing,Assessing,,Investigating,Investigating,-7694548.4482165715,5489434.061532723
+ROCKPORT,37,Assessing,Assessing,,Investigating,Investigating,-7695701.780134365,5493116.780547338
+ABBOT,43,Assessing,Assessing,,Investigating,Investigating,-7732483.331491989,5653770.8143574605
 ROCKPORT,152,Assessing,Assessing,,Investigating,Investigating,-7691497.090420166,5496824.516998767
-WINTHROP,57,Assessing,Assessing,,Investigating,Investigating,-7790808.315525999,5511456.624664901
-STONEHAM,5,Assessing,Assessing,,Investigating,Investigating,-7884542.167342752,5506222.205137555
-BRIDGTON,10,Assessing,Assessing,,Investigating,Investigating,-7867533.205359701,5465632.196247344
-BOOTHBAY HBR; BOOTHBAY HARBOR,131,Assessing,Assessing,,Investigating,Investigating,-7752610.852701268,5445095.739831772
-BRISTOL,61,Assessing,Assessing,,Investigating,Investigating,-7737759.4690574175,5440772.563437049
-BRISTOL; BREMEN,113,Assessing,Assessing,,Investigating,Investigating,-7737593.653031737,5458664.508351892
+BOOTHBAY,19,Assessing,Assessing,,Investigating,Investigating,-7746233.745035409,5443409.642555286
+NORRIDGEWOCK,14,Assessing,Assessing,,Investigating,Investigating,-7770357.647664488,5576172.491892281
+BELFAST,39,Assessing,Assessing,,Investigating,Investigating,-7681267.701550039,5531414.511078942
+ALBANY,7,Assessing,Assessing,,Investigating,Investigating,-7880728.105724073,5503700.807318605
+SIDNEY,209,Assessing,Assessing,,Investigating,Investigating,-7765208.914724416,5531428.041925
+ROCKPORT,22,Assessing,Assessing,,Investigating,Investigating,-7693171.253892047,5489806.711634468
+SEARSPORT,30,Assessing,Assessing,,Investigating,Investigating,-7676754.861871916,5536735.72131346
+CAMDEN; ROCKPORT,16,Assessing,Assessing,,Investigating,Investigating,-7691814.484933065,5498102.7170068
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7771223.960473668,5443170.222902732
 PHIPPSBURG,84,Assessing,Assessing,,Assessing,Investigating,-7770957.0942255305,5427554.329432656
 PHIPPSBURG,8,Assessing,Assessing,,Assessing,Investigating,-7774176.810193471,5422900.785860555
@@ -120,13 +96,22 @@ BOOTHBAY,15,Assessing,Assessing,,Assessing,Investigating,-7749465.75336424,54471
 BOOTHBAY,382,Assessing,Assessing,,Assessing,Investigating,-7748480.63155222,5445210.629784308
 BOOTHBAY HBR,5,Assessing,Assessing,,Assessing,Investigating,-7748556.640441717,5445163.904760713
 "BOOTHBAY HBR,BOOTHBAY HARBOR",30,Assessing,Assessing,,Assessing,Investigating,-7749814.929155248,5440156.797055517
+BOOTHBAY,8,Assessing,Assessing,,Assessing,Investigating,-7752013.255410425,5453407.385380249
 BOOTHBAY,5,Assessing,Assessing,,Assessing,Investigating,-7750022.473294207,5450724.175175316
 "BOOTHBAY,BOOTHBAY HBR",75,Assessing,Assessing,,Assessing,Investigating,-7755584.329011868,5447013.629285264
 BOOTHBAY,4,Assessing,Assessing,,Assessing,Investigating,-7755514.186589694,5445691.126309182
 BOOTHBAY HBR,41,Assessing,Assessing,,Assessing,Investigating,-7756833.701043465,5444663.949941877
 BOOTHBAY,29,Assessing,Assessing,,Assessing,Investigating,-7756327.386540748,5445458.109337108
 BOOTHBAY,6,Assessing,Assessing,,Assessing,Investigating,-7755714.094079667,5445484.591732052
+"BOOTHBAY HBR,BOOTHBAY HARBOR",131,Assessing,Assessing,,Assessing,Investigating,-7752610.851800262,5445095.732471953
 BOOTHBAY,15,Assessing,Assessing,,Assessing,Investigating,-7754250.576719298,5449039.88883537
+BRISTOL,33,Assessing,Assessing,,Assessing,Investigating,-7737570.942908485,5441624.474596999
+BRISTOL,61,Assessing,Assessing,,Assessing,Investigating,-7737759.473662575,5440772.568433822
+BRISTOL,129,Assessing,Assessing,,Assessing,Investigating,-7736233.094130034,5445792.658218088
+BRISTOL,9,Assessing,Assessing,,Assessing,Investigating,-7738952.729473874,5444056.502567012
+BRISTOL,13,Assessing,Assessing,,Assessing,Investigating,-7734051.254431026,5448611.52040726
+BRISTOL,39,Assessing,Assessing,,Assessing,Investigating,-7734053.948346781,5448608.971687698
+BRISTOL,6,Assessing,Assessing,,Assessing,Investigating,-7739477.923711847,5450060.478086606
 SO BRISTOL,7,Assessing,Assessing,,Assessing,Investigating,-7740754.1460014405,5453416.225564649
 SO BRISTOL,6,Assessing,Assessing,,Assessing,Investigating,-7742559.659114998,5452201.497402348
 SO BRISTOL,5,Assessing,Assessing,,Assessing,Investigating,-7743728.513810045,5448897.462692716
@@ -146,6 +131,7 @@ SO BRISTOL,4,Assessing,Assessing,,Assessing,Investigating,-7743003.367532228,545
 SO BRISTOL,2,Assessing,Assessing,,Assessing,Investigating,-7743032.933930852,5457562.420258215
 "SO BRISTOL,SOUTH BRISTOL",74,Assessing,Assessing,,Assessing,Investigating,-7742963.804542742,5457451.74419177
 BRISTOL,2,Assessing,Assessing,,Assessing,Investigating,-7738358.216635975,5458416.826123253
+"BRISTOL,BREMEN",113,Assessing,Assessing,,Assessing,Investigating,-7737593.652130729,5458664.506683061
 BRISTOL,4,Assessing,Assessing,,Assessing,Investigating,-7734916.774552822,5456112.790127078
 BRISTOL,16,Assessing,Assessing,,Assessing,Investigating,-7733205.070455425,5455560.206197297
 BRISTOL,122,Assessing,Assessing,,Assessing,Investigating,-7733806.629781641,5454798.330033553
@@ -211,7 +197,7 @@ CAMDEN,20,Assessing,Assessing,,Assessing,Investigating,-7688834.323638842,549883
 CAMDEN,37,Assessing,Assessing,,Assessing,Investigating,-7688470.442485653,5498505.1842926955
 CAMDEN,174,Assessing,Assessing,,Assessing,Investigating,-7688287.333100614,5498003.1687201345
 CAMDEN,29,Assessing,Assessing,,Assessing,Investigating,-7688385.505701669,5497952.710755647
-CAMDEN,10,9/16/2023 6:00:00 PM,9/16/2023 6:00:00 PM,,Assessing,Investigating,-7688394.333383978,5498054.06161069
+CAMDEN,10,Assessing,Assessing,,Assessing,Investigating,-7688394.333383978,5498054.06161069
 CAMDEN,26,Assessing,Assessing,,Assessing,Investigating,-7689038.338927362,5497142.4881530795
 "CAMDEN,ROCKPORT",12,Assessing,Assessing,,Assessing,Investigating,-7689506.682222541,5496670.6407161895
 ROCKPORT,102,Assessing,Assessing,,Assessing,Investigating,-7689583.592921577,5494032.215469085
@@ -261,6 +247,7 @@ CAMDEN,16,Assessing,Assessing,,Assessing,Investigating,-7687671.803034611,549885
 CAMDEN,23,Assessing,Assessing,,Assessing,Investigating,-7687516.968802693,5499089.640674464
 CAMDEN,34,Assessing,Assessing,,Assessing,Investigating,-7686869.8018201785,5499837.031910257
 CAMDEN,7,Assessing,Assessing,,Assessing,Investigating,-7685086.285431242,5503307.795860347
+LINCOLNVILLE,10,Assessing,Assessing,,Assessing,Investigating,-7683999.38418043,5505251.925391645
 LINCOLNVILLE,7,Assessing,Assessing,,Assessing,Investigating,-7683649.495891799,5505627.443014542
 LINCOLNVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7683411.338982842,5505949.4740629075
 LINCOLNVILLE,7,Assessing,Assessing,,Assessing,Investigating,-7683237.613803119,5506255.832297784
@@ -269,8 +256,6 @@ LINCOLNVILLE,8,Assessing,Assessing,,Assessing,Investigating,-7683180.3065495,550
 CAMDEN,5,Assessing,Assessing,,Assessing,Investigating,-7684943.57387026,5503754.049493879
 CAMDEN,9,Assessing,Assessing,,Assessing,Investigating,-7685667.885313503,5502328.699974535
 CAMDEN,15,Assessing,Assessing,,Assessing,Investigating,-7687464.348095513,5499126.917830007
-AUGUSTA,43,Assessing,Assessing,,Assessing,Investigating,-7766412.776608874,5513681.472191287
-AUGUSTA,25,Assessing,Assessing,,Assessing,Investigating,-7766414.813789437,5513682.11002885
 HARPSWELL,11,Assessing,Assessing,,Assessing,Investigating,-7782618.790517516,5440844.644398924
 HARPSWELL,9,Assessing,Assessing,,Assessing,Investigating,-7782488.145965163,5433698.687333005
 HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7781878.2710298905,5434484.80695497
@@ -287,14 +272,13 @@ NOBLEBORO,2,Assessing,Assessing,,Assessing,Investigating,-7731424.181207485,5476
 DAMARISCOTTA,13,Assessing,Assessing,,Assessing,Investigating,-7737438.283500567,5472316.532851422
 DAMARISCOTTA,22,Assessing,Assessing,,Assessing,Investigating,-7737351.554510267,5472261.012696167
 NEWCASTLE,6,Assessing,Assessing,,Assessing,Investigating,-7740231.4008050915,5474712.425209647
-"EDGECOMB,NEWCASTLE,BOOTHBAY",749,9/16/2023 6:30:00 PM,9/16/2023 6:30:00 PM,,Assessing,Tree,-7750801.598399568,5465930.0220199665
-"BOOTHBAY,EDGECOMB,NEWCASTLE",238,9/16/2023 6:30:00 PM,9/16/2023 6:30:00 PM,,Assessing,Tree,-7749408.245686254,5452208.744782533
-BOOTHBAY,1,Assessing,Assessing,,Assessing,Investigating,-7747403.960553846,5455360.452443748
-EDGECOMB,28,Assessing,Assessing,,Assessing,Investigating,-7751280.583908364,5460914.581839305
-EDGECOMB,184,Assessing,Assessing,,Assessing,Investigating,-7752860.5859695915,5463326.003803183
-EDGECOMB,1,Assessing,Assessing,,Assessing,Investigating,-7754788.8509999495,5459346.146089764
+"EDGECOMB,NEWCASTLE,BOOTHBAY",749,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7750801.598399568,5465930.0220199665
+"BOOTHBAY,EDGECOMB,NEWCASTLE",238,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7749408.245686254,5452208.744782533
+BOOTHBAY,1,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7747403.960553846,5455360.452443748
+EDGECOMB,28,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7751280.583908364,5460914.581839305
+EDGECOMB,184,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7752860.5859695915,5463326.003803183
+EDGECOMB,1,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7754788.8509999495,5459346.146089764
 FREEPORT,2,Assessing,Assessing,,Assessing,Investigating,-7797552.522848063,5440929.562013495
-WINDSOR,3,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7748298.06757775,5518791.61173834
 WHITEFIELD,34,Assessing,Assessing,,Assessing,Investigating,-7749408.9915211955,5501038.932180394
 "LISBON,LEWISTON",1640,Assessing,Assessing,,Assessing,Tree,-7802437.155336212,5469418.5072416
 LISBON,5,Assessing,Assessing,,Assessing,Investigating,-7802788.245870717,5470253.315629695
@@ -306,9 +290,13 @@ LISBON,51,Assessing,Assessing,,Assessing,Investigating,-7803648.834571949,547074
 LISBON,20,Assessing,Assessing,,Assessing,Investigating,-7802877.134478639,5471605.126643285
 LISBON,51,Assessing,Assessing,,Assessing,Investigating,-7803546.0755365295,5470421.729555736
 LISBON,25,Assessing,Assessing,,Assessing,Investigating,-7802270.77718125,5470131.710328031
-"MANCHESTER,WEST GARDINER",250,Assessing,Assessing,,Assessing,Investigating,-7779330.034261215,5508533.0815416435
+"BOWDOIN,SABATTUS",90,Assessing,Assessing,,Assessing,Investigating,-7793506.237462388,5478097.433440857
+"MANCHESTER,WEST GARDINER",250,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7779330.034261215,5508533.0815416435
 MANCHESTER,4,Assessing,Assessing,,Assessing,Investigating,-7779467.191003748,5507374.036007312
+LITCHFIELD,9,Assessing,Assessing,,Assessing,Investigating,-7784256.033057611,5500616.765534872
+"WALDOBORO,FRIENDSHIP",76,Assessing,Assessing,,Assessing,Investigating,-7714153.463197024,5478106.793427721
 VASSALBORO,108,Assessing,Assessing,,Assessing,Investigating,-7752503.862629341,5527729.481018238
+VASSALBORO,50,Assessing,Assessing,,Assessing,Investigating,-7751177.591111258,5529242.7663041
 WISCASSET,22,Assessing,Assessing,,Assessing,Investigating,-7757713.2140298225,5468495.505125268
 WISCASSET,29,Assessing,Assessing,,Assessing,Investigating,-7760232.87510894,5470053.675524614
 WOOLWICH,26,Assessing,Assessing,,Assessing,Investigating,-7761118.154450539,5463427.591239957
@@ -324,13 +312,10 @@ ROCKLAND,7,Assessing,Assessing,,Assessing,Investigating,-7693316.012945127,54795
 ROCKLAND,2,Assessing,Assessing,,Assessing,Investigating,-7692905.722738508,5485552.682090984
 ROCKLAND,10,Assessing,Assessing,,Assessing,Investigating,-7694737.4738246305,5485377.212625274
 ROCKLAND,42,Assessing,Assessing,,Assessing,Investigating,-7695510.832574746,5485220.093287644
-"ROCKPORT,ROCKLAND",67,Assessing,Assessing,,Assessing,Investigating,-7693979.065210703,5489433.270638167
 ROCKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7695361.208074958,5489639.089716701
 "ROCKLAND,THOMASTON",3,Assessing,Assessing,,Assessing,Investigating,-7695661.347671532,5483506.626490165
 "ROCKLAND,THOMASTON",119,Assessing,Assessing,,Assessing,Investigating,-7696233.930559562,5483875.980658811
-"RICHMOND,BOWDOINHAM",20,9/16/2023 10:00:00 PM,9/16/2023 10:00:00 PM,,Assessing,Tree,-7775512.566129056,5480256.052716517
-RICHMOND,2,Assessing,Assessing,,Assessing,Investigating,-7775806.939370382,5479034.064265466
-BOWDOINHAM,104,Assessing,Assessing,,Assessing,Investigating,-7775804.846527511,5479033.723345683
+"RICHMOND,BOWDOINHAM",126,9/16/2023 10:00:00 PM,9/16/2023 10:00:00 PM,,Assessing,Tree,-7775512.566129056,5480256.052716517
 WHITEFIELD,3,Assessing,Assessing,,Assessing,Tree,-7747922.419952379,5486692.834509584
 "ALNA,PITTSTON,WHITEFIELD",141,Assessing,Assessing,,Assessing,Investigating,-7752766.05344348,5476138.98211995
 PITTSTON,2,Assessing,Assessing,,Assessing,Investigating,-7754198.234323677,5485600.559183892
@@ -342,9 +327,9 @@ NEWCASTLE,30,Assessing,Assessing,,Assessing,Investigating,-7748829.295269982,547
 NEWCASTLE,16,Assessing,Assessing,,Assessing,Investigating,-7748953.884043084,5473240.755724472
 ALNA,4,Assessing,Assessing,,Assessing,Investigating,-7749609.032660783,5473701.515792851
 SIDNEY,2,Assessing,Assessing,,Assessing,Investigating,-7766823.122477813,5531805.169442901
+SIDNEY,10,Assessing,Assessing,,Assessing,Investigating,-7765572.726299711,5528653.71204413
 SIDNEY,1,Assessing,Assessing,,Assessing,Investigating,-7759087.163722084,5535778.461559633
 CHINA,6,Assessing,Assessing,,Assessing,Investigating,-7742226.524381435,5534481.041911159
-"PALERMO,LIBERTY",82,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7724939.075040791,5535588.285840325
 WASHINGTON,32,Assessing,Assessing,,Assessing,Investigating,-7723557.26615041,5503503.562357748
 LIBERTY,3,Assessing,Assessing,,Assessing,Investigating,-7721026.094785901,5515635.311047663
 LIBERTY,3,Assessing,Assessing,,Assessing,Investigating,-7717545.546124195,5522151.710966275
@@ -378,7 +363,6 @@ SO THOMASTON,5,Assessing,Assessing,,Assessing,Investigating,-7696096.439843154,5
 CUSHING,9,Assessing,Assessing,,Assessing,Investigating,-7715635.58198109,5460222.726509972
 "BOWDOIN,BOWDOINHAM",61,Assessing,Assessing,,Assessing,Investigating,-7786399.122476931,5467158.066971725
 BOWDOIN,4,Assessing,Assessing,,Assessing,Investigating,-7785707.839608105,5472864.658969853
-"BOWDOIN,BOWDOINHAM",44,Assessing,Assessing,,Assessing,Investigating,-7783792.43187107,5475476.280925604
 TOPSHAM,3,Assessing,Assessing,,Assessing,Investigating,-7781514.723850575,5456039.249472882
 BOWDOINHAM,23,Assessing,Assessing,,Assessing,Investigating,-7780215.536252066,5466009.569185293
 BOWDOINHAM,41,Assessing,Assessing,,Assessing,Investigating,-7780464.780673133,5466907.13911024
@@ -398,8 +382,8 @@ BOWDOINHAM,3,Assessing,Assessing,,Assessing,Investigating,-7783129.435267808,546
 HOPE,26,Assessing,Assessing,,Assessing,Investigating,-7700917.920835247,5501676.809665564
 UNION,20,Assessing,Assessing,,Assessing,Investigating,-7705785.187382789,5497169.275577964
 "UNION,HOPE",43,Assessing,Assessing,,Assessing,Investigating,-7710365.728450429,5498563.410732711
-UNION,7,Assessing,Assessing,,Assessing,Investigating,-7710128.85167454,5497103.479835568
 APPLETON,2,Assessing,Assessing,,Assessing,Investigating,-7706242.743902525,5508872.567518604
+"APPLETON,SEARSMONT",7,Assessing,Assessing,,Assessing,Investigating,-7708272.487835236,5511928.633420105
 APPLETON,14,Assessing,Assessing,,Assessing,Investigating,-7708252.728615425,5513289.926961861
 "APPLETON,SEARSMONT",57,Assessing,Assessing,,Assessing,Investigating,-7708163.261159505,5513147.510050701
 APPLETON,29,Assessing,Assessing,,Assessing,Investigating,-7708165.999625124,5513144.243266131
@@ -413,11 +397,10 @@ WALDOBORO,41,Assessing,Assessing,,Assessing,Investigating,-7727217.172797578,549
 WALDOBORO,6,Assessing,Assessing,,Assessing,Investigating,-7727469.177809041,5486829.612788325
 WALDOBORO,5,Assessing,Assessing,,Assessing,Investigating,-7727459.704503982,5486737.5377569515
 WARREN,14,Assessing,Assessing,,Assessing,Investigating,-7707768.299612818,5484922.1306570405
-"WARREN,UNION",130,Assessing,Assessing,,Assessing,Investigating,-7713312.834039857,5489514.09265716
 WARREN,4,Assessing,Assessing,,Assessing,Investigating,-7712369.501509591,5486386.805082439
-WARREN,51,Assessing,Assessing,,Assessing,Investigating,-7706911.985596966,5483628.238755144
-FARMINGDALE,14,Assessing,Assessing,,Assessing,Investigating,-7775926.207086733,5505889.148755221
+FARMINGDALE,11,9/16/2023 7:45:00 PM,9/16/2023 7:45:00 PM,,Assessing,Investigating,-7775604.883375225,5505290.548871103
 GARDINER,25,Assessing,Assessing,,Assessing,Investigating,-7768642.828780186,5501727.505593165
+WINTHROP,150,Assessing,Assessing,,Assessing,Investigating,-7790808.320531603,5511456.628721222
 "WAYNE,FAYETTE",50,Assessing,Assessing,,Assessing,Investigating,-7796283.948219782,5523566.577956522
 WAYNE,40,Assessing,Assessing,,Assessing,Investigating,-7799472.739568603,5518886.469470458
 WAYNE,7,Assessing,Assessing,,Assessing,Investigating,-7800034.012395384,5524185.659213454
@@ -458,10 +441,11 @@ BATH,25,Assessing,Assessing,,Assessing,Investigating,-7772501.351571705,5452124.
 MT VERNON,36,Assessing,Assessing,,Assessing,Investigating,-7788843.809825382,5533887.34564401
 ROME,5,Assessing,Assessing,,Assessing,Investigating,-7782429.847902365,5547164.142452995
 MT VERNON,28,Assessing,Assessing,,Assessing,Investigating,-7785268.283439188,5541793.554264606
+"MT VERNON,MOUNT VERNON",24,Assessing,Assessing,,Assessing,Investigating,-7791483.139269362,5543254.692332283
 VIENNA,2,Assessing,Assessing,,Assessing,Investigating,-7794147.003579337,5544949.0166632
 FAYETTE,23,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7798212.23557513,5532155.28090233
 READFIELD,7,Assessing,Assessing,,Assessing,Investigating,-7789400.774629474,5529483.145571877
-PITTSTON,18,Assessing,Assessing,,Assessing,Investigating,-7756536.700661141,5495869.645757328
+PITTSTON,18,9/16/2023 9:30:00 PM,9/16/2023 9:30:00 PM,,Assessing,Tree,-7756536.700661141,5495869.645757328
 WHITEFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7754334.244482654,5499241.888123839
 DRESDEN,22,Assessing,Assessing,,Assessing,Investigating,-7762225.349219292,5482585.554273117
 DRESDEN,21,Assessing,Assessing,,Assessing,Investigating,-7762690.21942646,5482265.1970823435
@@ -479,16 +463,13 @@ DRESDEN,22,Assessing,Assessing,,Assessing,Investigating,-7767139.091795246,54791
 DRESDEN,35,Assessing,Assessing,,Assessing,Investigating,-7767020.636688583,5479076.296882693
 PITTSTON,2,Assessing,Assessing,,Assessing,Investigating,-7764164.8130863905,5490766.483217061
 PITTSTON,17,Assessing,Assessing,,Assessing,Investigating,-7764884.727307085,5496393.174225074
-ROCKPORT,22,Assessing,Assessing,,Assessing,Investigating,-7693171.253091152,5489806.711913557
 ROCKPORT,4,Assessing,Assessing,,Assessing,Investigating,-7693523.634971272,5492547.75441971
-ROCKPORT,37,Assessing,Assessing,,Assessing,Investigating,-7695701.778933023,5493116.773986469
 ROCKPORT,13,Assessing,Assessing,,Assessing,Investigating,-7692660.0406053,5494155.520057174
 ROCKPORT,19,Assessing,Assessing,,Assessing,Investigating,-7691228.883871609,5494414.615588908
 "ROCKPORT,ROCKLAND,WARREN",135,Assessing,Assessing,,Assessing,Investigating,-7697626.114364325,5493142.230192049
 ROCKPORT,30,Assessing,Assessing,,Assessing,Investigating,-7697412.04702286,5493119.940513477
 "ROCKPORT,ROCKLAND",44,Assessing,Assessing,,Assessing,Investigating,-7697419.104623611,5493118.9160405295
 "ROCKPORT,ROCKLAND",64,Assessing,Assessing,,Assessing,Investigating,-7698067.807825873,5492026.665437265
-SIDNEY,5,Assessing,Assessing,,Assessing,Investigating,-7769717.7186846845,5534907.77185469
  ,1,Assessing,Assessing,,Assessing,Tree,-7761270.829164946,5446644.318712947
 WESTPORT,13,Assessing,Assessing,,Assessing,Investigating,-7761188.307985157,5446449.623087884
 WESTPORT,7,Assessing,Assessing,,Assessing,Investigating,-7758915.375510734,5453880.937989924
@@ -500,19 +481,16 @@ WISCASSET,105,Assessing,Assessing,,Assessing,Investigating,-7758156.900122056,54
 WISCASSET,52,Assessing,Assessing,,Assessing,Investigating,-7759645.174997668,5462215.050741222
 "ANDOVER,RUMFORD,HANOVER",131,Assessing,Assessing,,Assessing,Investigating,-7875269.891429634,5561699.750519292
 BETHEL,21,Assessing,Assessing,,Assessing,Investigating,-7881046.159575079,5527894.484832829
-BETHEL,51,9/16/2023 7:45:00 PM,9/16/2023 7:45:00 PM,,Assessing,Investigating,-7876787.55450438,5540343.556875633
-BETHEL,11,Assessing,Assessing,,Assessing,Investigating,-7877004.48284865,5540396.4652772285
 BETHEL,53,Assessing,Assessing,,Assessing,Investigating,-7882966.732494372,5536059.810321515
-"BETHEL,GILEAD",199,Assessing,Assessing,,Assessing,Investigating,-7885370.688044893,5531524.294937005
+"BETHEL,GILEAD",199,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Investigating,-7885370.688044893,5531524.294937005
 BETHEL,1,Assessing,Assessing,,Assessing,Investigating,-7885833.587846254,5532045.600611543
 BETHEL,9,Assessing,Assessing,,Assessing,Investigating,-7884701.769211883,5531195.047416654
-FRYEBURG,65,Assessing,Assessing,,Assessing,Investigating,-7900483.956460281,5477271.905331265
-FRYEBURG,28,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7900833.45511272,5479207.986442082
-FRYEBURG,11,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7903520.685380129,5479428.237769066
-FRYEBURG,8,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7901042.52425887,5470716.325697651
-BRIDGTON,22,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Assessing,Tree,-7867706.17729619,5471719.922216464
+FRYEBURG,28,9/17/2023 11:00:00 AM,9/17/2023 11:00:00 AM,,Assessing,Tree,-7900833.45511272,5479207.986442082
+FRYEBURG,11,9/17/2023 11:00:00 AM,9/17/2023 11:00:00 AM,,Assessing,Tree,-7903520.685380129,5479428.237769066
+FRYEBURG,8,9/17/2023 11:00:00 AM,9/17/2023 11:00:00 AM,,Assessing,Tree,-7901042.52425887,5470716.325697651
+BRIDGTON,22,9/17/2023 11:00:00 AM,9/17/2023 11:00:00 AM,,Assessing,Tree,-7867706.17729619,5471719.922216464
 NAPLES,4,Assessing,Assessing,,Assessing,Investigating,-7862485.048210976,5462561.68886703
-BRIDGTON,28,Assessing,Assessing,,Assessing,Investigating,-7870803.697770217,5465465.45813281
+"BRIDGTON,DENMARK",529,Assessing,Assessing,,Assessing,Investigating,-7871465.547789922,5471899.466644645
 DENMARK,1,Assessing,Assessing,,Assessing,Investigating,-7876460.987723425,5464994.805326247
 BRIDGTON,64,Assessing,Assessing,,Assessing,Investigating,-7874543.832229836,5469749.454973427
 BRIDGTON,4,Assessing,Assessing,,Assessing,Investigating,-7876851.351723303,5478787.367650543
@@ -521,11 +499,14 @@ BRIDGTON,8,Assessing,Assessing,,Assessing,Investigating,-7873478.070644194,54777
 WOODSTOCK,28,Assessing,Assessing,,Assessing,Investigating,-7862848.829252091,5527591.840000073
 DENMARK,5,Assessing,Assessing,,Assessing,Investigating,-7878293.095008301,5457579.24288449
 DENMARK,46,Assessing,Assessing,,Assessing,Investigating,-7881639.091743472,5462285.593182907
+DENMARK,5,Assessing,Assessing,,Assessing,Investigating,-7888195.331041405,5463153.063066257
 "DENMARK,BROWNFIELD",13,Assessing,Assessing,,Assessing,Investigating,-7888667.225512014,5463532.815751288
 DENMARK,46,Assessing,Assessing,,Assessing,Investigating,-7888888.918289911,5463710.157727169
 DENMARK,22,Assessing,Assessing,,Assessing,Investigating,-7882705.788475976,5462370.291351693
 DENMARK,7,Assessing,Assessing,,Assessing,Investigating,-7880968.603253286,5456015.99857841
+GRAY,11,Assessing,Assessing,,Assessing,Investigating,-7831668.317777543,5453236.362154505
 AUBURN,29,Assessing,Assessing,,Assessing,Investigating,-7823801.447270339,5479426.625926992
+AUBURN,40,Assessing,Assessing,,Assessing,Investigating,-7822056.881585455,5480791.400098295
 WATERFORD,16,Assessing,Assessing,,Assessing,Investigating,-7870428.729205037,5494659.202938888
 WATERFORD,34,Assessing,Assessing,,Assessing,Investigating,-7875210.6583200805,5490363.131720339
 WATERFORD,2,Assessing,Assessing,,Assessing,Investigating,-7869758.986649898,5493240.299085092
@@ -551,17 +532,18 @@ LOVELL,12,Assessing,Assessing,,Assessing,Investigating,-7888230.274259208,549931
 LOVELL,41,Assessing,Assessing,,Assessing,Investigating,-7888470.991534418,5495294.912391737
 LOVELL,9,Assessing,Assessing,,Assessing,Investigating,-7888390.763521752,5495224.612137332
 LOVELL,19,Assessing,Assessing,,Assessing,Investigating,-7889344.070317887,5491981.563832
+LOVELL,16,Assessing,Assessing,,Assessing,Investigating,-7893321.304202639,5495473.630619634
 LOVELL,4,Assessing,Assessing,,Assessing,Investigating,-7894453.523585635,5494544.56973199
 "LOVELL,STOW",17,Assessing,Assessing,,Assessing,Investigating,-7897258.351700036,5496270.910805255
 "LOVELL,STONEHAM",35,Assessing,Assessing,,Assessing,Investigating,-7897257.4945404725,5496272.665395522
+LOVELL,10,Assessing,Assessing,,Assessing,Investigating,-7894190.442174504,5489399.182561513
 STOW,10,Assessing,Assessing,,Assessing,Investigating,-7896786.980515228,5490001.584644049
 STOW,12,Assessing,Assessing,,Assessing,Investigating,-7896892.734002842,5491104.130847521
-STOW,40,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7899246.617999873,5490076.561884884
 STOW,23,Assessing,Assessing,,Assessing,Investigating,-7902882.724503553,5493848.418252199
 STOW,3,Assessing,Assessing,,Assessing,Investigating,-7902462.192831942,5492672.016949709
-MINOT,21,Assessing,Assessing,,Assessing,Investigating,-7834744.932448201,5487398.757946816
 HEBRON,58,Assessing,Assessing,,Assessing,Investigating,-7834740.624425513,5496887.16636403
-"PARIS,OXFORD",139,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Investigating,-7847980.708571666,5499564.455495387
+"PARIS,WEST PARIS",99,Assessing,Assessing,,Assessing,Investigating,-7852426.742262647,5505902.454209764
+"PARIS,OXFORD",139,Assessing,Assessing,,Assessing,Investigating,-7847980.708571666,5499564.455495387
 GREENWOOD,31,Assessing,Assessing,,Assessing,Investigating,-7864074.9799882015,5509552.525884642
 GREENWOOD,23,Assessing,Assessing,,Assessing,Investigating,-7865014.082382974,5515099.600954334
 GREENWOOD,20,Assessing,Assessing,,Assessing,Investigating,-7864743.709609389,5514707.3259319365
@@ -569,17 +551,20 @@ GREENWOOD,20,Assessing,Assessing,,Assessing,Investigating,-7864743.709609389,551
 NORWAY,7,Assessing,Assessing,,Assessing,Investigating,-7857623.425481505,5502843.601484555
 NORWAY,1,Assessing,Assessing,,Assessing,Investigating,-7854067.224229173,5497479.175359267
 WATERFORD,1,Assessing,Assessing,,Assessing,Investigating,-7875508.3823124645,5501998.6860520495
+"WATERFORD,STONEHAM",181,Assessing,Assessing,,Assessing,Investigating,-7878202.325094316,5501818.535102529
 WATERFORD,57,Assessing,Assessing,,Assessing,Investigating,-7877459.768426134,5500707.302550263
 ALBANY,5,Assessing,Assessing,,Assessing,Investigating,-7879728.392877862,5503312.411057864
-ALBANY,12,9/16/2023 7:15:00 PM,9/16/2023 7:15:00 PM,,Assessing,Investigating,-7880741.633968509,5503668.222060657
+ALBANY,12,Assessing,Assessing,,Assessing,Investigating,-7880741.633968509,5503668.222060657
 LOVELL,8,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Assessing,Tree,-7892908.16410566,5501944.927884283
 STONEHAM,85,Assessing,Assessing,,Assessing,Investigating,-7886590.493577752,5505793.524312341
 STONEHAM,3,Assessing,Assessing,,Assessing,Investigating,-7884730.701100195,5505112.213723638
+STONEHAM,5,Assessing,Assessing,,Assessing,Investigating,-7884542.170446225,5506222.21003031
 "STONEHAM,LOVELL",41,Assessing,Assessing,,Assessing,Investigating,-7883516.4614982195,5504517.565619978
 "STONEHAM,ALBANY",10,Assessing,Assessing,,Assessing,Investigating,-7882765.311009533,5504325.010008587
 WATERFORD,2,Assessing,Assessing,,Assessing,Investigating,-7869146.1393872,5496950.025635498
 RAYMOND,9,Assessing,Assessing,,Assessing,Investigating,-7849532.602466709,5446073.880180348
 RAYMOND,3,Assessing,Assessing,,Assessing,Investigating,-7846474.823081546,5449165.77248284
+WILTON,37,Assessing,Assessing,,Assessing,Investigating,-7826179.55438437,5554635.643727948
 "WOODSTOCK,WEST PARIS",64,9/16/2023 9:00:00 PM,9/16/2023 9:00:00 PM,,Assessing,Investigating,-7855046.746672882,5520325.30352932
 "SUMNER,WOODSTOCK",51,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Assessing,Investigating,-7845625.755878262,5527589.845660686
 WOODSTOCK,38,Assessing,Assessing,,Assessing,Investigating,-7851264.433195224,5530136.775425931
@@ -589,32 +574,28 @@ SUMNER,1,Assessing,Assessing,,Assessing,Investigating,-7844256.81559387,5522241.
 SUMNER,188,Assessing,Assessing,,Assessing,Investigating,-7843004.693984205,5522128.634117113
 WEST PARIS,22,Assessing,Assessing,,Assessing,Investigating,-7848112.288270888,5517720.241426077
 GREENWOOD,7,Assessing,Assessing,,Assessing,Investigating,-7859975.4839349,5515395.747722667
-TURNER,12,Assessing,Assessing,,Assessing,Investigating,-7817716.790694014,5513441.19779427
-MONMOUTH,227,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7796626.756582657,5504490.974416143
-LITCHFIELD,24,Assessing,Assessing,,Assessing,Investigating,-7790891.676545971,5492683.719861318
+TURNER,7,Assessing,Assessing,,Assessing,Investigating,-7820742.320877246,5504703.737800973
+TURNER,146,Assessing,Assessing,,Assessing,Investigating,-7818923.794495754,5503226.634306937
+LITCHFIELD,24,9/16/2023 7:45:00 PM,9/16/2023 7:45:00 PM,,Assessing,Tree,-7790891.676545971,5492683.719861318
 FRYEBURG,1,Assessing,Assessing,,Assessing,Investigating,-7889397.559297073,5475769.614240688
 FRYEBURG,25,Assessing,Assessing,,Assessing,Investigating,-7889387.206607571,5475891.1395055745
 DENMARK,1,Assessing,Assessing,,Assessing,Investigating,-7883128.056691593,5466762.439215612
-CANTON,1,Assessing,Assessing,,Assessing,Investigating,-7825378.788753134,5532236.372643289
 NAPLES,32,Assessing,Assessing,,Assessing,Investigating,-7858525.592027786,5461341.946170959
 CASCO,1,Assessing,Assessing,,Assessing,Investigating,-7852545.475580759,5455195.189612753
+LIVERMORE,43,Assessing,Assessing,,Assessing,Investigating,-7819958.242026322,5524746.793197038
 HARTFORD,93,Assessing,Assessing,,Assessing,Investigating,-7831435.949448712,5530734.965616692
 SUMNER,38,Assessing,Assessing,,Assessing,Investigating,-7835315.789904669,5521793.512938308
-"SUMNER,HARTFORD",46,Assessing,Assessing,,Assessing,Investigating,-7834279.182856591,5520785.093898717
+"SUMNER,HARTFORD",46,9/16/2023 9:00:00 PM,9/16/2023 9:00:00 PM,,Assessing,Tree,-7834279.182856591,5520785.093898717
 NAPLES,76,Assessing,Assessing,,Assessing,Investigating,-7860559.354659301,5454924.107088642
 NAPLES,50,Assessing,Assessing,,Assessing,Investigating,-7866125.71882403,5459940.916825886
-"SCARBOROUGH,SACO",37,Assessing,Assessing,,Assessing,Investigating,-7838970.442169724,5400093.6666461015
-"YARMOUTH,NO YARMOUTH",119,Assessing,Assessing,,Assessing,Investigating,-7814463.545391078,5435398.108257436
-CUMBERLAND,176,9/16/2023 6:30:00 PM,9/16/2023 6:30:00 PM,,Assessing,Tree,-7819963.474083437,5435875.717632696
 WINDHAM,4,Assessing,Assessing,,Assessing,Investigating,-7839049.768472956,5424172.863775379
 WINDHAM,25,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7840390.478154104,5427063.2811490735
 WINDHAM,11,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7840347.430964163,5427100.097744818
 PARSONSFIELD,1,Assessing,Assessing,,Assessing,Investigating,-7894440.732966952,5427205.154291941
-NEWFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7892966.9964665845,5406275.250858385
-SCARBOROUGH,149,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7827933.047863632,5399939.947397362
-SO BERWICK,6,Assessing,Assessing,,Assessing,Investigating,-7882512.4599509435,5344706.773786409
-SHAPLEIGH,70,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Assessing,Investigating,-7881678.031234978,5401513.215921192
-ARUNDEL,5,Assessing,Assessing,,Assessing,Investigating,-7849280.831216934,5377339.637204201
+SACO,2,Assessing,Assessing,,Assessing,Investigating,-7843085.8792685075,5389931.631147538
+LIMINGTON,32,Assessing,Assessing,,Assessing,Investigating,-7871748.310433558,5423918.175303131
+WINDHAM,9,Assessing,Assessing,,Assessing,Investigating,-7832906.257310828,5431347.930893159
+SEBAGO,14,Assessing,Assessing,,Assessing,Investigating,-7861965.987739561,5441305.943935651
 SCARBOROUGH,29,Assessing,Assessing,,Assessing,Investigating,-7830706.9626715835,5401399.153329122
 LINCOLNVILLE,92,Assessing,Assessing,,Assessing,Investigating,-7690813.95156831,5513970.743305529
 LINCOLNVILLE,2,Assessing,Assessing,,Assessing,Investigating,-7690833.365701805,5514115.693328349
@@ -637,12 +618,10 @@ NORTHPORT,33,Assessing,Assessing,,Assessing,Investigating,-7677678.541100948,551
 NORTHPORT,10,Assessing,Assessing,,Assessing,Investigating,-7676204.704388395,5517273.725106246
 NORTHPORT,4,Assessing,Assessing,,Assessing,Investigating,-7676450.809495107,5516396.973167723
 ISLESBORO,10,Assessing,Assessing,,Assessing,Investigating,-7670436.740639454,5508838.2203740375
+ISLESBORO,3,Assessing,Assessing,,Assessing,Investigating,-7671721.601299423,5504932.965142233
 ISLESBORO,1,9/17/2023 6:00:00 PM,9/17/2023 6:00:00 PM,,Assessing,Tree,-7672822.361865295,5502342.466399305
 ISLESBORO,81,Assessing,Assessing,,Assessing,Investigating,-7669001.58753195,5520173.980863784
 ISLESBORO,49,Assessing,Assessing,,Assessing,Investigating,-7669755.431936392,5518190.858033834
-ISLESBORO,40,Assessing,Assessing,,Assessing,Investigating,-7670378.175477653,5513363.4931169795
-ISLESBORO,28,Assessing,Assessing,,Assessing,Investigating,-7669451.618827434,5512798.703072895
-ISLESBORO,7,Assessing,Assessing,,Assessing,Investigating,-7672984.120248574,5511866.915422281
 NORTHPORT,14,Assessing,Assessing,,Assessing,Investigating,-7677494.273919796,5514948.504836414
 NORTHPORT,2,Assessing,Assessing,,Assessing,Investigating,-7678028.318064951,5513618.575526016
 NORTHPORT,6,Assessing,Assessing,,Assessing,Investigating,-7678160.187088057,5513423.743431021
@@ -658,10 +637,9 @@ LINCOLNVILLE,18,Assessing,Assessing,,Assessing,Investigating,-7693972.964881582,
 STARKS,4,Assessing,Assessing,,Assessing,Investigating,-7786197.367018219,5576539.012600063
 STARKS,45,Assessing,Assessing,,Assessing,Investigating,-7786287.524746877,5576408.43153997
 STARKS,17,Assessing,Assessing,,Assessing,Investigating,-7788520.226384179,5579141.017541963
+BELFAST,89,9/16/2023 8:45:00 PM,9/16/2023 8:45:00 PM,,Assessing,Investigating,-7681190.214605907,5531503.6884508245
 BELFAST,14,Assessing,Assessing,,Assessing,Investigating,-7681646.769204023,5531125.857535673
 BELFAST,33,Assessing,Assessing,,Assessing,Investigating,-7681777.658630501,5531250.708341588
-BELFAST,68,9/16/2023 6:00:00 PM,9/16/2023 6:00:00 PM,,Assessing,Tree,-7681885.12653735,5530868.352395062
-BELFAST,96,9/16/2023 6:00:00 PM,9/16/2023 6:00:00 PM,,Assessing,Tree,-7682013.143948699,5531004.047817246
 BELFAST,2,Assessing,Assessing,,Assessing,Investigating,-7682045.960886205,5531285.9349102285
 BELFAST,24,Assessing,Assessing,,Assessing,Investigating,-7680870.671988276,5530397.299209218
 BELFAST,3,Assessing,Assessing,,Assessing,Investigating,-7679619.852836675,5528761.07636549
@@ -672,7 +650,6 @@ NORTHPORT,52,Assessing,Assessing,,Assessing,Investigating,-7677719.718197376,552
 NORTHPORT,20,Assessing,Assessing,,Assessing,Investigating,-7679718.014325291,5525363.384274865
 NORTHPORT,5,Assessing,Assessing,,Assessing,Investigating,-7679943.959463569,5525903.342665761
 BELFAST,7,Assessing,Assessing,,Assessing,Investigating,-7679637.886524806,5527112.106685824
-BELFAST,54,Assessing,Assessing,,Assessing,Investigating,-7681521.1673968565,5527084.841911298
 NORTHPORT,21,Assessing,Assessing,,Assessing,Investigating,-7682367.151048205,5524299.045074363
 NORTHPORT,3,Assessing,Assessing,,Assessing,Investigating,-7683526.265239068,5524031.126328224
 NORTHPORT,3,Assessing,Assessing,,Assessing,Investigating,-7683780.018007086,5523923.039073335
@@ -684,45 +661,35 @@ BELFAST,16,Assessing,Assessing,,Assessing,Investigating,-7689324.385447195,55292
 "SEARSMONT,MONTVILLE",33,Assessing,Assessing,,Assessing,Investigating,-7706959.719333341,5528125.884665736
 MONTVILLE,2,Assessing,Assessing,,Assessing,Investigating,-7707429.854934947,5534995.983274127
 MONTVILLE,27,Assessing,Assessing,,Assessing,Investigating,-7708906.407788127,5533961.452237609
+SEARSMONT,28,Assessing,Assessing,,Assessing,Investigating,-7705285.585494626,5529751.692144354
 "SEARSMONT,MORRILL",16,Assessing,Assessing,,Assessing,Investigating,-7701762.72436549,5528984.379336235
 MORRILL,12,Assessing,Assessing,,Assessing,Investigating,-7701038.012273733,5529497.747801182
-BELMONT,105,Assessing,Assessing,,Assessing,Investigating,-7693611.944731197,5527772.905218866
 BELFAST,92,Assessing,Assessing,,Assessing,Investigating,-7688215.164610327,5527894.500386751
-BROOKS,36,Assessing,Assessing,,Assessing,Investigating,-7689690.359443246,5545406.054971594
 WALDO,7,Assessing,Assessing,,Assessing,Investigating,-7687394.52853477,5546162.637620409
 SWANVILLE,2,Assessing,Assessing,,Assessing,Investigating,-7687056.017082139,5546763.364910489
-BROOKS,1,Assessing,Assessing,,Assessing,Investigating,-7694861.083001106,5545119.655967958
-BROOKS,3,Assessing,Assessing,,Assessing,Investigating,-7695347.894270585,5548257.173902344
-MONROE,11,Assessing,Assessing,,Assessing,Investigating,-7682694.441439213,5561031.51055172
-"MONROE,NEWBURGH,WINTERPORT",48,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Tree,-7682745.080728263,5561141.446960545
-MONROE,12,Assessing,Assessing,,Assessing,Investigating,-7682418.380297694,5561849.888454684
-WINTERPORT,3,Assessing,Assessing,,Assessing,Investigating,-7679891.561405634,5562920.584524478
-"WINTERPORT,NEWBURGH,MONROE",115,Assessing,Assessing,,Assessing,Investigating,-7681508.410215607,5564504.439452912
-WINTERPORT,19,Assessing,Assessing,,Assessing,Investigating,-7679978.5575950565,5562847.336373434
-MONROE,14,Assessing,Assessing,,Assessing,Investigating,-7682747.607657082,5555142.709705342
-MONROE,6,Assessing,Assessing,,Assessing,Investigating,-7684826.065022906,5560806.76287603
-BROOKS,20,Assessing,Assessing,,Assessing,Investigating,-7698269.084648773,5550083.224951635
-"BUCKSPORT,ELLSWORTH,ORLAND",410,Assessing,Assessing,,Assessing,Investigating,-7654131.296121467,5554752.972580722
+MONROE,12,Assessing,Assessing,,Assessing,Investigating,-7685819.758430551,5557374.24882197
+MONROE,6,Assessing,Assessing,,Assessing,Investigating,-7685229.152866716,5550954.336933885
+BUCKSPORT,152,Assessing,Assessing,,Assessing,Investigating,-7652220.808792665,5557850.0148059325
+"BUCKSPORT,ELLSWORTH,ORLAND",111,Assessing,Assessing,,Assessing,Investigating,-7650053.0955077205,5558813.394020913
 ORLAND,3,Assessing,Assessing,,Assessing,Investigating,-7650134.080367653,5557274.2527573975
+ORLAND,56,Assessing,Assessing,,Assessing,Investigating,-7650085.378147093,5557628.9723427445
 ORLAND,5,Assessing,Assessing,,Assessing,Investigating,-7648453.011365253,5557302.499115431
-VERONA,8,Assessing,Assessing,,Assessing,Investigating,-7657666.391346281,5547113.7709990125
 VERONA,5,Assessing,Assessing,,Assessing,Investigating,-7657857.905340002,5547695.8386123795
-VERONA,20,Assessing,Assessing,,Assessing,Investigating,-7658429.731280661,5551303.342485703
 BUCKSPORT,1,Assessing,Assessing,,Assessing,Investigating,-7660693.992047385,5567574.324599595
 ORLAND,25,Assessing,Assessing,,Assessing,Investigating,-7639553.7082831655,5550349.41218932
 ORLAND,21,Assessing,Assessing,,Assessing,Investigating,-7642922.05794171,5553525.829514793
 PENOBSCOT,2,Assessing,Assessing,,Assessing,Investigating,-7656236.19188422,5540002.788153315
 CASTINE,7,Assessing,Assessing,,Assessing,Investigating,-7658462.904517024,5532766.464899783
-CASTINE,690,Assessing,Assessing,,Assessing,Investigating,-7659430.48238917,5531347.457114289
 ORLAND,2,Assessing,Assessing,,Assessing,Investigating,-7653002.4942642795,5547074.969940886
 BUCKSPORT,39,Assessing,Assessing,,Assessing,Investigating,-7651621.59819577,5565561.899129008
 BURNHAM,1,Assessing,Assessing,,Assessing,Investigating,-7724036.029110067,5576501.902773773
-"PITTSFIELD,BURNHAM",44,Assessing,Assessing,,Assessing,Investigating,-7725867.768983635,5581958.848649097
-STETSON,34,Assessing,Assessing,,Assessing,Investigating,-7694395.967819696,5598145.844920148
+"PITTSFIELD,BURNHAM",44,9/16/2023 8:30:00 PM,9/16/2023 8:30:00 PM,,Assessing,Investigating,-7725867.768983635,5581958.848649097
 NEWBURGH,45,Assessing,Assessing,,Assessing,Investigating,-7688315.70836581,5580445.160253632
 "DIXMONT,NEWBURGH",82,Assessing,Assessing,,Assessing,Investigating,-7692881.37718445,5579868.009725642
 CARMEL,2,Assessing,Assessing,,Assessing,Investigating,-7683708.784663661,5594033.666920111
 CARMEL,12,Assessing,Assessing,,Assessing,Investigating,-7684227.945347263,5593914.918306048
+BENTON,242,9/16/2023 9:00:00 PM,9/16/2023 9:00:00 PM,,Assessing,Investigating,-7737052.828596262,5562023.863889178
+"CORINNA,NEWPORT",19,Assessing,Assessing,,Assessing,Investigating,-7704393.6047510225,5607773.189280969
 ST ALBANS,17,Assessing,Assessing,,Assessing,Investigating,-7723377.930489934,5610990.701638175
 ST ALBANS,24,Assessing,Assessing,,Assessing,Investigating,-7723063.486379922,5609806.905845361
 "ST ALBANS,SAINT ALBANS",27,Assessing,Assessing,,Assessing,Investigating,-7716921.5558873005,5607356.51973457
@@ -730,10 +697,12 @@ ST ALBANS,24,Assessing,Assessing,,Assessing,Investigating,-7723063.486379922,560
 PITTSFIELD,2,Assessing,Assessing,,Assessing,Investigating,-7725298.748283358,5590510.452252815
 DETROIT,46,Assessing,Assessing,,Assessing,Investigating,-7717849.103246584,5586682.65565973
 "DETROIT,PLYMOUTH",20,Assessing,Assessing,,Assessing,Investigating,-7713273.404699991,5588605.676754549
-"DOVER-FOXCROFT,GARLAND,DOVER FOXCROFT",70,Assessing,Assessing,,Assessing,Investigating,-7704704.553448036,5636109.415476084
 SANGERVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7711028.034881065,5636671.499575493
 CORINNA,35,Assessing,Assessing,,Assessing,Investigating,-7713558.371411009,5614361.016952429
+DEXTER,29,Assessing,Assessing,,Assessing,Investigating,-7714829.083432034,5624935.094240212
 DEXTER,10,Assessing,Assessing,,Assessing,Investigating,-7715707.76158382,5624785.055525678
+DEXTER,8,Assessing,Assessing,,Assessing,Investigating,-7716143.1655044295,5624669.382470558
+"DEXTER,RIPLEY",152,Assessing,Assessing,,Assessing,Investigating,-7717373.936012222,5623986.461051299
 SANGERVILLE,30,Assessing,Assessing,,Assessing,Investigating,-7718093.894882908,5634449.087089874
 "DEXTER,PARKMAN,CAMBRIDGE,RIPLEY",139,Assessing,Assessing,,Assessing,Investigating,-7715896.6484365435,5628167.193110939
 RIPLEY,2,Assessing,Assessing,,Assessing,Investigating,-7731473.8407997945,5619641.296605238
@@ -746,16 +715,13 @@ WILTON,10,Assessing,Assessing,,Assessing,Investigating,-7814240.438830493,556354
 WILTON,4,Assessing,Assessing,,Assessing,Investigating,-7815407.501219108,5566626.758400632
 FAIRFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7761281.003755076,5561779.573581295
 FAIRFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7753148.836656916,5563391.432299695
-FAIRFIELD,2,Assessing,Assessing,,Assessing,Investigating,-7755152.298067191,5560544.725679356
 FAIRFIELD,110,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Investigating,-7756830.595166536,5564012.493810726
-"FARMINGTON,NEW SHARON,INDUSTRY,STARKS",114,Assessing,Assessing,,Assessing,Investigating,-7800946.097545221,5562549.673286131
 "NEW SHARON,FARMINGTON",95,Assessing,Assessing,,Assessing,Investigating,-7796033.279003693,5566225.981942616
 "NEW SHARON,STARKS",99,Assessing,Assessing,,Assessing,Investigating,-7793279.668926235,5565299.28665233
 "NEW SHARON,INDUSTRY",48,Assessing,Assessing,,Assessing,Investigating,-7793884.267354627,5565012.854603814
 "NEW SHARON,INDUSTRY",56,Assessing,Assessing,,Assessing,Investigating,-7794937.561183016,5569224.449208439
 NEW SHARON,9,Assessing,Assessing,,Assessing,Investigating,-7793305.216726174,5564397.591097078
 NEW SHARON,103,Assessing,Assessing,,Assessing,Investigating,-7792305.133565404,5564638.071977413
-NEW SHARON,73,Assessing,Assessing,,Assessing,Investigating,-7792080.757984197,5564303.431042037
 NEW SHARON,188,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Investigating,-7793741.845217654,5564453.784102953
 FARMINGTON,9,Assessing,Assessing,,Assessing,Investigating,-7800375.507187763,5562150.562791213
 CHESTERVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7798914.21621977,5559139.124167996
@@ -763,16 +729,16 @@ CHESTERVILLE,24,Assessing,Assessing,,Assessing,Investigating,-7806202.180860569,
 "FARMINGTON,WILTON,CHESTERVILLE",62,Assessing,Assessing,,Assessing,Investigating,-7805560.501921744,5557688.750152097
 LILY BAY,22,Assessing,Assessing,,Assessing,Investigating,-7737684.733693589,5716476.867430419
 GREENVILLE,13,Assessing,Assessing,,Assessing,Investigating,-7745766.729126194,5700299.589866018
-GREENVILLE,19,Assessing,Assessing,,Assessing,Investigating,-7747072.9854379045,5697462.401694343
 GREENVILLE,289,Assessing,Assessing,,Assessing,Investigating,-7746615.050394431,5696416.22583999
 GREENVILLE,23,Assessing,Assessing,,Assessing,Investigating,-7746685.248478914,5696241.128896039
 CAMBRIDGE,1,Assessing,Assessing,,Assessing,Investigating,-7730352.95380304,5628761.033563583
 "PARKMAN,SANGERVILLE",21,Assessing,Assessing,,Assessing,Investigating,-7724512.443140172,5636650.683972146
+PARKMAN,25,Assessing,Assessing,,Assessing,Investigating,-7730411.663626786,5642604.308627257
 SANGERVILLE,25,Assessing,Assessing,,Assessing,Investigating,-7713059.058946848,5639973.121676904
+SANGERVILLE,19,Assessing,Assessing,,Assessing,Investigating,-7718985.619639939,5642139.525557793
 GUILFORD,17,Assessing,Assessing,,Assessing,Investigating,-7724079.911234684,5654741.474854685
 ABBOT,11,Assessing,Assessing,,Assessing,Investigating,-7728948.023829353,5657430.078748433
-ABBOT,43,Assessing,Assessing,,Assessing,Investigating,-7732483.330490864,5653770.815494161
-ABBOT,94,Assessing,Assessing,,Assessing,Investigating,-7739915.387037898,5655905.873694562
+ABBOT,43,Assessing,Assessing,,Assessing,Investigating,-7738362.2686720975,5654140.071753146
 BLANCHARD,33,Assessing,Assessing,,Assessing,Investigating,-7742115.605711569,5656078.683298333
 HARTLAND,6,Assessing,Assessing,,Assessing,Investigating,-7748875.448336851,5603819.831105107
 HARTLAND,91,Assessing,Assessing,,Assessing,Investigating,-7737164.74928786,5597898.631914467
@@ -807,6 +773,7 @@ HARTLAND,33,Assessing,Assessing,,Assessing,Investigating,-7730477.397814087,5603
 ATHENS,62,Assessing,Assessing,,Assessing,Investigating,-7760350.673380295,5614526.59732328
 "ATHENS,SOLON",90,Assessing,Assessing,,Assessing,Investigating,-7760283.903934058,5614159.024208267
 ATHENS,1,Assessing,Assessing,,Assessing,Investigating,-7750237.030484039,5610108.846532681
+ATHENS,2,9/16/2023 3:30:00 PM,9/16/2023 3:30:00 PM,,Assessing,Investigating,-7747327.740127542,5609111.650792428
 "CORNVILLE,ATHENS",7,Assessing,Assessing,,Assessing,Investigating,-7751127.909193956,5608132.1710515
 CORNVILLE,17,Assessing,Assessing,,Assessing,Investigating,-7752759.60802805,5607775.468499218
 HARMONY,8,Assessing,Assessing,,Assessing,Investigating,-7738041.824345031,5612930.4286790695
@@ -814,11 +781,13 @@ WELLINGTON,3,Assessing,Assessing,,Assessing,Investigating,-7747092.143484719,562
 WELLINGTON,23,Assessing,Assessing,,Assessing,Investigating,-7747578.342568872,5627853.90324917
 WELLINGTON,25,Assessing,Assessing,,Assessing,Investigating,-7742544.586441628,5626301.746747862
 CAMBRIDGE,31,Assessing,Assessing,,Assessing,Investigating,-7734021.042309535,5625887.622996345
+CAMBRIDGE,21,Assessing,Assessing,,Assessing,Investigating,-7733913.997476306,5625261.05535631
 CAMBRIDGE,37,Assessing,Assessing,,Assessing,Investigating,-7733666.100063161,5625064.346454818
 HARMONY,34,Assessing,Assessing,,Assessing,Investigating,-7738669.599519042,5620744.19563504
 HARMONY,5,Assessing,Assessing,,Assessing,Investigating,-7737706.351994583,5616936.9178860085
 ATHENS,3,Assessing,Assessing,,Assessing,Investigating,-7749499.805985052,5615028.249251017
 MONSON,17,Assessing,Assessing,,Assessing,Investigating,-7739487.074155469,5665331.527960368
+"MONSON,BLANCHARD,SHIRLEY",98,Assessing,Assessing,,Assessing,Investigating,-7738028.499428222,5664411.49618816
 MONSON,5,Assessing,Assessing,,Assessing,Investigating,-7741577.520642729,5663577.1582990615
 "BLANCHARD,SHIRLEY",31,Assessing,Assessing,,Assessing,Investigating,-7746035.020269454,5664085.347335913
 WILLIMANTIC,1,Assessing,Assessing,,Assessing,Investigating,-7726749.029726546,5672510.143583431
@@ -842,19 +811,17 @@ NEW PORTLAND,31,Assessing,Assessing,,Assessing,Investigating,-7803857.235770352,
 NEW VINEYARD,22,Assessing,Assessing,,Assessing,Investigating,-7809064.661415006,5590405.477648231
 NEW VINEYARD,32,Assessing,Assessing,,Assessing,Investigating,-7808168.940284161,5591156.862639606
 "NEW VINEYARD,STRONG",66,Assessing,Assessing,,Assessing,Investigating,-7805121.324276566,5593831.73573847
-PALMYRA,35,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7720534.763956918,5598113.357027799
 PALMYRA,13,Assessing,Assessing,,Assessing,Investigating,-7718234.769687697,5602397.210673558
 NEWPORT,8,Assessing,Assessing,,Assessing,Investigating,-7707315.49641428,5594308.853759335
 ANSON,1,Assessing,Assessing,,Assessing,Investigating,-7777745.779839605,5601655.070385949
 ANSON,1,Assessing,Assessing,,Assessing,Investigating,-7777927.174905518,5600045.21717758
-"SIDNEY,WATERVILLE,OAKLAND",1922,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Assessing,Investigating,-7760134.57997071,5550779.479979215
 OAKLAND,74,Assessing,Assessing,,Assessing,Investigating,-7760578.811473518,5553421.4539367175
 OAKLAND,50,Assessing,Assessing,,Assessing,Investigating,-7761124.188004909,5550631.289932778
-"OAKLAND,SIDNEY",329,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Repairs in Progress,Investigating,-7761965.54067202,5547785.766696955
 OAKLAND,26,Assessing,Assessing,,Assessing,Investigating,-7765058.074063175,5547364.9438165175
 "STRONG,NEW VINEYARD",66,Assessing,Assessing,,Assessing,Investigating,-7812062.228093998,5590716.012028019
 "STRONG,NEW VINEYARD",12,Assessing,Assessing,,Assessing,Investigating,-7809727.401931589,5592518.241291632
 MADRID,28,Assessing,Assessing,,Assessing,Investigating,-7842082.256144872,5604447.897818701
+"PROSPECT,STOCKTON SPRINGS",35,Assessing,Assessing,,Assessing,Investigating,-7669859.426655112,5550434.508826996
 PROSPECT,3,Assessing,Assessing,,Assessing,Investigating,-7670861.64710851,5549540.659526548
 "PROSPECT,STOCKTON SPRINGS,SEARSPORT",28,Assessing,Assessing,,Assessing,Investigating,-7669858.313408869,5550436.336378702
 "PROSPECT,STOCKTON SPRINGS,SEARSPORT",55,Assessing,Assessing,,Assessing,Investigating,-7671818.838953837,5550713.577558266
@@ -863,17 +830,12 @@ PROSPECT,3,Assessing,Assessing,,Assessing,Investigating,-7670861.64710851,554954
 STOCKTON SPRINGS,3,Assessing,Assessing,,Assessing,Investigating,-7670744.717109155,5544417.012715758
 "SEARSPORT,STOCKTON SPRINGS",36,Assessing,Assessing,,Assessing,Investigating,-7669423.621985878,5543693.742887415
 STOCKTON SPRINGS,7,Assessing,Assessing,,Assessing,Investigating,-7666091.384353577,5547705.129501099
-WINTERPORT,3,9/16/2023 7:15:00 PM,9/16/2023 7:15:00 PM,,Assessing,Tree,-7664926.937893411,5565683.046079469
 "WINTERPORT,HAMPDEN",97,Assessing,Assessing,,Assessing,Investigating,-7672060.224076674,5570495.481652576
-"WINTERPORT,MONROE",13,Assessing,Assessing,,Assessing,Investigating,-7677383.444249561,5562356.152994133
 FRANKFORT,43,Assessing,Assessing,,Assessing,Investigating,-7675172.505575199,5561600.676574365
 PROSPECT,36,Assessing,Assessing,,Assessing,Investigating,-7661481.421549257,5554882.570533942
-STOCKTON SPRINGS,93,9/16/2023 6:30:00 PM,9/16/2023 6:30:00 PM,,Assessing,Tree,-7662301.590201545,5537653.810748424
+STOCKTON SPRINGS,93,9/17/2023 8:00:00 AM,9/17/2023 8:00:00 AM,,Assessing,Tree,-7662301.590201545,5537653.810748424
 STOCKTON SPRINGS,3,Assessing,Assessing,,Assessing,Investigating,-7665350.6422167,5541753.9019981725
 SEARSPORT,1,Assessing,Assessing,,Assessing,Investigating,-7667266.37271506,5540442.773956727
-SEARSPORT,119,Assessing,Assessing,,Assessing,Investigating,-7673777.037794128,5534883.134568942
-SEARSPORT,11,Assessing,Assessing,,Assessing,Investigating,-7673815.665636752,5534631.526415599
-"SEARSPORT,BELFAST",305,Assessing,Assessing,,Assessing,Investigating,-7673482.464228548,5536257.091762357
 "SEARSPORT,FRANKFORT",67,Assessing,Assessing,,Assessing,Investigating,-7676021.57267837,5551098.033414544
 SEARSPORT,2,Assessing,Assessing,,Assessing,Investigating,-7675457.015875277,5551383.230486021
 SEARSPORT,5,Assessing,Assessing,,Assessing,Investigating,-7675188.067996824,5551690.697753793
@@ -887,6 +849,7 @@ MADISON,41,Assessing,Assessing,,Assessing,Investigating,-7767688.453387786,55950
 SOLON,14,Assessing,Assessing,,Assessing,Investigating,-7770995.967042397,5604647.0177588705
 MADISON,10,Assessing,Assessing,,Assessing,Investigating,-7768970.876218686,5597484.442858991
 MADISON,43,Assessing,Assessing,,Assessing,Investigating,-7768063.644602225,5594636.5210483195
+"MADISON,SOLON,CORNVILLE",28,Assessing,Assessing,,Assessing,Investigating,-7766062.799220506,5592428.00982256
 "MADISON,SOLON,CORNVILLE",422,Assessing,Assessing,,Assessing,Investigating,-7764010.646702109,5593815.271853968
 MADISON,40,Assessing,Assessing,,Assessing,Investigating,-7763500.61423725,5592216.63647114
 MADISON,27,Assessing,Assessing,,Assessing,Investigating,-7764747.014041538,5593241.097872754
@@ -900,7 +863,6 @@ FAIRFIELD,40,Assessing,Assessing,,Assessing,Investigating,-7761667.338043823,557
 NORRIDGEWOCK,2,Assessing,Assessing,,Assessing,Investigating,-7766171.925784162,5574794.055335211
 NORRIDGEWOCK,3,Assessing,Assessing,,Assessing,Investigating,-7766042.349828069,5575095.378083419
 NORRIDGEWOCK,11,Assessing,Assessing,,Assessing,Investigating,-7775784.597559446,5581441.426554607
-NORRIDGEWOCK,16,Assessing,Assessing,,Assessing,Investigating,-7769714.334596309,5576474.113471024
 NORRIDGEWOCK,67,Assessing,Assessing,,Assessing,Investigating,-7769105.205495971,5575403.22658911
 SMITHFIELD,23,Assessing,Assessing,,Assessing,Investigating,-7775279.997475968,5566249.828057235
 SMITHFIELD,161,Assessing,Assessing,,Assessing,Investigating,-7771216.746998416,5568932.681073288
@@ -911,34 +873,33 @@ SKOWHEGAN,3,Assessing,Assessing,,Assessing,Investigating,-7762410.662771819,5583
 SKOWHEGAN,27,Assessing,Assessing,,Assessing,Investigating,-7759289.887664983,5583920.640804174
 STRONG,43,Assessing,Assessing,,Assessing,Investigating,-7812707.6362075135,5580402.941092904
 KINGFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7812877.253788913,5618518.214914145
+KINGFIELD,56,Assessing,Assessing,,Assessing,Investigating,-7813523.407737363,5612909.2902945755
 KINGFIELD,42,Assessing,Assessing,,Assessing,Investigating,-7809749.32076902,5616270.567083597
+SALEM,16,Assessing,Assessing,,Assessing,Investigating,-7824502.314768847,5606281.674020556
 SALEM,11,Assessing,Assessing,,Assessing,Investigating,-7825032.763288815,5606636.793174304
 SALEM,12,Assessing,Assessing,,Assessing,Investigating,-7822073.35692907,5606267.607911738
+NEW PORTLAND,7,9/16/2023 5:00:00 PM,9/16/2023 5:00:00 PM,,Assessing,Investigating,-7807015.525573681,5609929.275201042
 "NEW VINEYARD,ANSON",44,Assessing,Assessing,,Assessing,Investigating,-7804120.395068678,5595163.111402658
 NEW VINEYARD,24,Assessing,Assessing,,Assessing,Investigating,-7799548.60379615,5596089.192654604
 ANSON,58,Assessing,Assessing,,Assessing,Investigating,-7795520.463423232,5596347.863550905
 NEW VINEYARD,3,Assessing,Assessing,,Assessing,Investigating,-7797739.62860691,5596417.442451337
-"FARMINGTON,WILTON",65,Assessing,Assessing,,Assessing,Investigating,-7811249.662653255,5567844.013991881
-"FARMINGTON,WILTON",35,Assessing,Assessing,,Assessing,Investigating,-7811339.797956809,5567770.804351708
 "FARMINGTON,NEW SHARON",79,Assessing,Assessing,,Assessing,Investigating,-7806634.245242676,5569530.908868618
 FARMINGTON,2,Assessing,Assessing,,Assessing,Investigating,-7808759.167324251,5570891.029999386
 "INDUSTRY,FARMINGTON",50,Assessing,Assessing,,Assessing,Investigating,-7802210.375263257,5577051.5179080665
 INDUSTRY,2,Assessing,Assessing,,Assessing,Investigating,-7794078.764788217,5586326.876442409
 INDUSTRY,4,Assessing,Assessing,,Assessing,Investigating,-7793938.5244937455,5586339.139537133
-INDUSTRY,48,Assessing,Assessing,,Assessing,Investigating,-7800469.906164367,5577578.98238095
-INDUSTRY,8,Assessing,Assessing,,Assessing,Investigating,-7801270.3823716,5579642.951478913
-INDUSTRY,9,Assessing,Assessing,,Assessing,Investigating,-7801559.156244615,5579517.606382481
+INDUSTRY,16,Assessing,Assessing,,Assessing,Investigating,-7795000.022606563,5584807.722907583
+INDUSTRY,65,Assessing,Assessing,,Assessing,Investigating,-7800469.906164367,5577578.98238095
 NEW SHARON,2,Assessing,Assessing,,Assessing,Investigating,-7801117.451570514,5576554.536589056
 FARMINGTON,2,Assessing,Assessing,,Assessing,Investigating,-7804738.952924198,5580054.820738866
 "INDUSTRY,FARMINGTON",39,Assessing,Assessing,,Assessing,Investigating,-7804642.583641901,5580908.15777998
 "MONTVILLE,KNOX",43,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7711644.344119332,5543145.533885884
 THORNDIKE,34,Assessing,Assessing,,Assessing,Investigating,-7709782.592448531,5559603.334073891
 WINSLOW,1,Assessing,Assessing,,Assessing,Investigating,-7751560.274112507,5548626.65868434
-WINSLOW,43,Assessing,Assessing,,Crew Assigned,Investigating,-7749251.763909962,5541555.736720983
 NORRIDGEWOCK,8,Assessing,Assessing,,Assessing,Investigating,-7769330.1932625,5577453.148894258
 NORRIDGEWOCK,108,Assessing,Assessing,,Assessing,Investigating,-7769964.636501194,5577778.0760685755
+NORRIDGEWOCK,62,Assessing,Assessing,,Assessing,Investigating,-7769787.738669792,5577256.239774077
 NORRIDGEWOCK,66,Assessing,Assessing,,Assessing,Investigating,-7771586.661605863,5578843.2110653
-"NORRIDGEWOCK,ROME,MERCER,NEW SHARON,SMITHFIELD",891,Assessing,Assessing,,Assessing,Investigating,-7770138.150144108,5576311.248822521
 NORRIDGEWOCK,78,Assessing,Assessing,,Assessing,Investigating,-7764004.835796983,5583245.165273723
 NORRIDGEWOCK,12,Assessing,Assessing,,Assessing,Investigating,-7765661.347808628,5585282.813247851
 SKOWHEGAN,34,Assessing,Assessing,,Assessing,Investigating,-7763251.225154236,5583926.661028679
@@ -953,6 +914,7 @@ EMBDEN,16,Assessing,Assessing,,Assessing,Investigating,-7779954.291697229,561490
 EMBDEN,32,Assessing,Assessing,,Assessing,Investigating,-7783035.470477263,5610349.113685414
 EMBDEN,73,Assessing,Assessing,,Assessing,Investigating,-7785055.073257279,5602946.703654348
 EMBDEN,22,Assessing,Assessing,,Assessing,Investigating,-7785592.557153123,5606210.494807741
+EMBDEN,213,Assessing,Assessing,,Assessing,Investigating,-7785668.365718362,5606548.778203752
 EMBDEN,20,Assessing,Assessing,,Assessing,Investigating,-7786273.87696863,5607566.864098658
 EMBDEN,29,Assessing,Assessing,,Assessing,Investigating,-7788062.692089329,5614404.212898299
 EMBDEN,10,Assessing,Assessing,,Assessing,Investigating,-7788009.481421708,5613837.3020229675
@@ -987,10 +949,9 @@ BELGRADE,69,Assessing,Assessing,,Crew Assigned,Investigating,-7776125.257417143,
 BELGRADE,14,Assessing,Assessing,,Assessing,Investigating,-7773113.0077009685,5537906.797197169
 BELGRADE,22,Assessing,Assessing,,Assessing,Investigating,-7778977.362957091,5542019.595944116
 BELGRADE,16,Assessing,Assessing,,Assessing,Investigating,-7779359.934733825,5545065.721084039
-BELGRADE,1,Assessing,Assessing,,Assessing,Investigating,-7776477.238548638,5541900.96426478
-BELGRADE,182,9/16/2023 7:00:00 PM,9/16/2023 7:00:00 PM,,Assessing,Investigating,-7776438.287844585,5541991.958811355
 BELGRADE,18,Assessing,Assessing,,Assessing,Investigating,-7773923.023988019,5542014.13393869
 BELGRADE,9,Assessing,Assessing,,Assessing,Investigating,-7766577.707543726,5544682.534688543
+"BELGRADE,OAKLAND",35,Assessing,Assessing,,Assessing,Investigating,-7766577.351344974,5544684.641993333
 WALDO,27,Assessing,Assessing,,Assessing,Investigating,-7693903.969143084,5533191.446347825
 BELFAST,2,Assessing,Assessing,,Assessing,Investigating,-7688707.41947373,5534875.930522957
 WALDO,23,Assessing,Assessing,,Assessing,Investigating,-7690654.775776156,5535644.238816968
@@ -999,3 +960,25 @@ WALDO,1,Assessing,Assessing,,Assessing,Investigating,-7691861.490253999,5536094.
 "BELFAST,WALDO",73,Assessing,Assessing,,Assessing,Investigating,-7687266.455461105,5535259.203301695
 SWANVILLE,35,Assessing,Assessing,,Assessing,Investigating,-7682975.545426044,5548199.737962155
 SWANVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7681493.437754417,5546558.845210839
+SWANVILLE,11,Assessing,Assessing,,Assessing,Investigating,-7679300.154344549,5552759.447118736
+SWANVILLE,3,Assessing,Assessing,,Assessing,Investigating,-7679881.5315775685,5553031.571836476
+SWANVILLE,39,Assessing,Assessing,,Assessing,Investigating,-7679833.452654766,5546164.0115016615
+SEARSPORT,24,Assessing,Assessing,,Assessing,Investigating,-7677673.008507389,5550867.4079325395
+BELFAST,5,Assessing,Assessing,,Assessing,Investigating,-7681048.69407825,5534259.397230426
+BELFAST,27,Assessing,Assessing,,Assessing,Investigating,-7679320.804161352,5540169.215806404
+BELFAST,15,Assessing,Assessing,,Assessing,Investigating,-7676566.114275079,5532478.779616946
+LINCOLN PLT,6,9/16/2023 5:45:00 PM,9/16/2023 5:45:00 PM,,Assessing,Investigating,-7898998.041626662,5609837.50191726
+DALLAS PLT,2,Assessing,Assessing,,Assessing,Investigating,-7862723.093795312,5618615.269946299
+RANGELEY PLT,11,Assessing,Assessing,,Assessing,Investigating,-7863571.459713532,5610729.991611646
+RANGELEY PLT,10,Assessing,Assessing,,Assessing,Investigating,-7862843.942281286,5609994.11609202
+LANG,51,Assessing,Assessing,,Assessing,Investigating,-7852707.657037654,5638153.333754593
+"WILTON,JAY",32,9/16/2023 8:00:00 PM,9/16/2023 8:00:00 PM,,Assessing,Investigating,-7821060.75024863,5556274.634607683
+"PERKINS PLT,WELD,CARTHAGE,PHILLIPS",630,Assessing,Assessing,,Assessing,Investigating,-7832054.774503355,5570040.76415718
+CARTHAGE,1,Assessing,Assessing,,Assessing,Investigating,-7839516.731522993,5565506.872751644
+WELD,11,Assessing,Assessing,,Assessing,Investigating,-7844482.404533396,5575064.679940201
+"WELD,CARTHAGE",31,Assessing,Assessing,,Assessing,Investigating,-7844172.3017833885,5570310.8868479235
+NORTHPORT,1,9/17/2023 7:00:00 PM,9/17/2023 7:00:00 PM,,Assessing,Tree,-7677023.960218811,5523133.588773514
+BELGRADE,3,Assessing,Assessing,,Assessing,Investigating,-7769762.38008167,5546785.208351595
+GREENWOOD,1,Assessing,Assessing,,Assessing,Investigating,-7865128.028942459,5514530.611537441
+BATH,8,Assessing,Assessing,,Assessing,Investigating,-7771968.765759109,5450731.251456107
+OAKLAND,4,9/16/2023 8:30:00 PM,9/16/2023 8:30:00 PM,,Assessing,Investigating,-7766667.23066196,5553635.456343681
