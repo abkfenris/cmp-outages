@@ -1,7 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-NEW SHARON; INDUSTRY,56,Assessing,Assessing,,Investigating,Investigating,-7794937.563185258,5569224.456387391
+TOMHEGAN; ROCKWOOD,46,Assessing,Assessing,,Investigating,Investigating,-7769346.356757009,5734072.512233869
 AVON,23,Assessing,Assessing,,Investigating,Investigating,-7827708.5800792035,5594406.934727599
-ROCKPORT,6,Assessing,Assessing,,Investigating,Investigating,-7689934.786070958,5496304.465639431
 EDGECOMB,7,Assessing,Assessing,,Investigating,Investigating,-7751704.3547060685,5458730.3122434355
 KINEO,37,Assessing,Assessing,,Investigating,Investigating,-7763262.03425467,5728974.270491122
  ,1,9/17/2023 1:00:00 PM,9/17/2023 1:00:00 PM,,Assessing,Investigating,-7819345.561850672,5521054.380947679
@@ -174,6 +173,7 @@ ROCKPORT,13,Assessing,Assessing,,Assessing,Investigating,-7690558.306381787,5489
 ROCKPORT,28,Assessing,Assessing,,Assessing,Investigating,-7690586.091686535,5489676.856136218
 ROCKPORT,20,Assessing,Assessing,,Assessing,Investigating,-7690640.204063597,5489438.204660391
 ROCKPORT,5,Assessing,Assessing,,Assessing,Investigating,-7689940.371824024,5492712.0617957
+ROCKPORT,6,Assessing,Assessing,,Assessing,Investigating,-7689934.783568156,5496304.465639431
 CAMDEN,27,Assessing,Assessing,,Assessing,Investigating,-7689504.567154791,5496670.8270055195
 "CAMDEN,ROCKPORT",409,Assessing,Assessing,,Assessing,Investigating,-7689247.66406008,5496967.805794873
 CAMDEN,12,Assessing,Assessing,,Assessing,Investigating,-7688308.506002994,5496929.2174548805
@@ -317,7 +317,6 @@ WOOLWICH,4,Assessing,Assessing,,Assessing,Investigating,-7769858.259515599,54566
 WOOLWICH,2,Assessing,Assessing,,Assessing,Investigating,-7762415.683292133,5456701.894171611
 WOOLWICH,12,Assessing,Assessing,,Assessing,Investigating,-7761815.426323866,5459653.811101933
 WEST BATH,5,Assessing,Assessing,,Assessing,Investigating,-7775909.442319116,5445789.183705658
-WEST BATH,272,Assessing,Assessing,,Assessing,Investigating,-7777090.46423497,5452374.0156461075
 BATH,25,Assessing,Assessing,,Assessing,Investigating,-7772501.351571705,5452124.03208969
 MT VERNON,36,Assessing,Assessing,,Assessing,Investigating,-7788843.809825382,5533887.34564401
 ROME,5,Assessing,Assessing,,Assessing,Investigating,-7782429.847902365,5547164.142452995
@@ -368,7 +367,6 @@ BRIDGTON,64,Assessing,Assessing,,Assessing,Investigating,-7874543.832229836,5469
 BRIDGTON,18,Assessing,Assessing,,Assessing,Investigating,-7873370.213101162,5478713.645119015
 WOODSTOCK,28,Assessing,Assessing,,Assessing,Investigating,-7862848.829252091,5527591.840000073
 "TURNER,MINOT",10,Assessing,Assessing,,Assessing,Investigating,-7824647.776008003,5496002.337902629
-GREENE,10,Assessing,Assessing,,Assessing,Investigating,-7807401.62610074,5487618.461696559
 DENMARK,5,Assessing,Assessing,,Assessing,Investigating,-7878293.095008301,5457579.24288449
 DENMARK,46,Assessing,Assessing,,Assessing,Investigating,-7881639.091743472,5462285.593182907
 DENMARK,5,Assessing,Assessing,,Assessing,Investigating,-7888195.331041405,5463153.063066257
@@ -446,7 +444,6 @@ NEWRY,34,Assessing,Assessing,,Assessing,Investigating,-7887897.462387082,5538486
 CARTHAGE,18,Assessing,Assessing,,Assessing,Investigating,-7842357.782988265,5563277.99602794
 TURNER,1,Assessing,Assessing,,Assessing,Investigating,-7822579.081371234,5510576.484976183
 NAPLES,32,Assessing,Assessing,,Assessing,Investigating,-7858525.592027786,5461341.946170959
-CASCO,1,Assessing,Assessing,,Assessing,Investigating,-7852545.475580759,5455195.189612753
 NAPLES,76,Assessing,Assessing,,Assessing,Investigating,-7860559.354659301,5454924.107088642
 NAPLES,50,Assessing,Assessing,,Assessing,Investigating,-7866125.71882403,5459940.916825886
 SEBAGO,104,Assessing,Assessing,,Assessing,Investigating,-7862143.119332649,5449460.630203766
@@ -582,6 +579,7 @@ WILTON,1,Assessing,Assessing,,Assessing,Investigating,-7814094.087094459,5562811
 "FAIRFIELD,OAKLAND",72,Assessing,Assessing,,Assessing,Investigating,-7758593.161202234,5559703.089875139
 FAIRFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7753148.836656916,5563391.432299695
 FAIRFIELD,2,Assessing,Assessing,,Assessing,Investigating,-7758621.469792782,5566621.704178662
+"NEW SHARON,INDUSTRY",56,Assessing,Assessing,,Assessing,Investigating,-7794937.561183016,5569224.449208439
 NEW SHARON,9,Assessing,Assessing,,Assessing,Investigating,-7793305.216726174,5564397.591097078
 VIENNA,17,Assessing,Assessing,,Assessing,Investigating,-7793928.861876758,5553334.845046378
 CHESTERVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7798914.21621977,5559139.124167996
