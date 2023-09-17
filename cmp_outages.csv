@@ -1,8 +1,14 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WALDOBORO,3,Assessing,Assessing,,Investigating,Investigating,-7722420.2808321025,5476986.985962082
-GEORGETOWN,14,Assessing,Assessing,,Investigating,Investigating,-7760700.904052212,5439155.83520915
-GUILFORD,15,Assessing,Assessing,,Investigating,Investigating,-7714103.085701047,5652488.523889801
-TAUNTON-RAYNHAM; ROCKWOOD,64,Assessing,Assessing,,Investigating,Investigating,-7770730.794390183,5725169.531729722
+CAMDEN,81,Assessing,Assessing,,Investigating,Investigating,-7687870.846357175,5497243.497091753
+MONSON,15,Assessing,Assessing,,Investigating,Investigating,-7737742.995015257,5664836.683627026
+DOVER-FOXCROFT,19,Assessing,Assessing,,Investigating,Investigating,-7711135.8354603285,5653314.608697405
+CAMDEN,53,Assessing,Assessing,,Investigating,Investigating,-7688859.941817563,5496380.232685092
+WOODSTOCK; GREENWOOD,13,Assessing,Assessing,,Investigating,Investigating,-7860885.406563866,5517947.085550863
+CAMDEN,20,Assessing,Assessing,,Investigating,Investigating,-7688759.466438627,5496656.1157456925
+HOPE; LINCOLNVILLE,31,Assessing,Assessing,,Investigating,Investigating,-7699435.716655591,5507827.8714520605
+CAMDEN,29,Assessing,Assessing,,Investigating,Investigating,-7688279.716974607,5496499.401226516
+PHILLIPS,7,Assessing,Assessing,,Investigating,Investigating,-7834590.913128553,5601047.61273637
+LINCOLNVILLE,17,Assessing,Assessing,,Investigating,Investigating,-7696656.936100589,5508295.04047712
  ,1,9/17/2023 1:00:00 PM,9/17/2023 1:00:00 PM,,Assessing,Investigating,-7819345.561850672,5521054.380947679
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7771223.960473668,5443170.222902732
 PHIPPSBURG,38,Assessing,Assessing,,Assessing,Tree,-7770166.002323724,5429495.86165854
@@ -98,16 +104,6 @@ BRISTOL,4,Assessing,Assessing,,Assessing,Investigating,-7740073.839219991,546617
 BRISTOL,29,Assessing,Assessing,,Assessing,Investigating,-7735282.971198126,5458332.535557316
 BRUNSWICK,7,Assessing,Assessing,,Assessing,Investigating,-7794639.670303812,5439085.7659463985
 BRUNSWICK,3,Assessing,Assessing,,Assessing,Investigating,-7787373.056764877,5445966.276354572
-CAMDEN,16,Assessing,Assessing,,Assessing,Investigating,-7689739.963373242,5498496.797360382
-CAMDEN,141,Assessing,Assessing,,Assessing,Investigating,-7689890.85689366,5499143.444218806
-CAMDEN,2,Assessing,Assessing,,Assessing,Investigating,-7690985.628455033,5499543.45487876
-CAMDEN,128,Assessing,Assessing,,Assessing,Investigating,-7690105.725832493,5499445.411570082
-CAMDEN,40,Assessing,Assessing,,Assessing,Investigating,-7690018.807530264,5499288.345715475
-CAMDEN,57,Assessing,Assessing,,Assessing,Investigating,-7689130.322199657,5498557.648677438
-CAMDEN,17,Assessing,Assessing,,Assessing,Investigating,-7688958.467113449,5498477.663015003
-CAMDEN,32,Assessing,Assessing,,Assessing,Investigating,-7689165.24309247,5498576.814198289
-CAMDEN,16,Assessing,Assessing,,Assessing,Investigating,-7689629.412014572,5498907.869591898
-CAMDEN,75,Assessing,Assessing,,Assessing,Investigating,-7689686.641380998,5498997.892699563
 CAMDEN,19,Assessing,Assessing,,Assessing,Investigating,-7691737.836527654,5498085.790252256
 "CAMDEN,ROCKPORT",16,Assessing,Assessing,,Assessing,Investigating,-7691814.480027574,5498102.718543155
 "CAMDEN,ROCKPORT",100,Assessing,Assessing,,Assessing,Investigating,-7693443.618495415,5498167.651608323
@@ -130,24 +126,17 @@ CAMDEN,4,Assessing,Assessing,,Assessing,Investigating,-7695232.956801803,5500075
 HOPE,6,Assessing,Assessing,,Assessing,Investigating,-7702301.354945006,5505518.019049362
 CAMDEN,33,Assessing,Assessing,,Assessing,Investigating,-7692319.926158172,5499334.539393377
 CAMDEN,10,Assessing,Assessing,,Assessing,Investigating,-7691233.670530116,5497931.465512499
-ROCKPORT,152,Assessing,Assessing,,Assessing,Investigating,-7691497.085915121,5496824.509457691
+"CAMDEN,ROCKPORT",158,Assessing,Assessing,,Assessing,Investigating,-7690764.26965101,5497501.708612412
 ROCKPORT,29,Assessing,Assessing,,Assessing,Investigating,-7692489.677289078,5495851.308774449
 CAMDEN,5,Assessing,Assessing,,Assessing,Investigating,-7690794.526322372,5497591.671234687
-CAMDEN,31,Assessing,Assessing,,Assessing,Investigating,-7690238.696989405,5497788.185084602
 CAMDEN,47,Assessing,Assessing,,Assessing,Investigating,-7690051.680230188,5497788.744160556
-CAMDEN,35,Assessing,Assessing,,Assessing,Investigating,-7688765.082926101,5497993.834884259
+CAMDEN,5,Assessing,Assessing,,Assessing,Investigating,-7688290.572426939,5498311.885377156
 CAMDEN,62,Assessing,Assessing,,Assessing,Investigating,-7688017.194088725,5498544.540235208
 CAMDEN,76,Assessing,Assessing,,Assessing,Investigating,-7687727.39606921,5497928.048853404
-CAMDEN,22,Assessing,Assessing,,Assessing,Investigating,-7688051.569570968,5498557.835005209
-CAMDEN,32,Assessing,Assessing,,Assessing,Investigating,-7688092.757779838,5498442.050209573
-CAMDEN,40,Assessing,Assessing,,Assessing,Investigating,-7688397.8399094185,5498273.555346182
-CAMDEN,263,Assessing,Assessing,,Assessing,Investigating,-7688704.102160105,5498726.894238969
 CAMDEN,20,Assessing,Assessing,,Assessing,Investigating,-7688834.323638842,5498836.143787181
 CAMDEN,37,Assessing,Assessing,,Assessing,Investigating,-7688470.442485653,5498505.1842926955
-CAMDEN,174,Assessing,Assessing,,Assessing,Investigating,-7688287.333100614,5498003.1687201345
 CAMDEN,29,Assessing,Assessing,,Assessing,Investigating,-7688385.505701669,5497952.710755647
 CAMDEN,8,Assessing,Assessing,,Assessing,Investigating,-7688385.505701669,5497952.710755647
-CAMDEN,10,Assessing,Assessing,,Assessing,Investigating,-7688394.333383978,5498054.06161069
 CAMDEN,26,Assessing,Assessing,,Assessing,Investigating,-7689038.338927362,5497142.4881530795
 "CAMDEN,ROCKPORT",12,Assessing,Assessing,,Assessing,Investigating,-7689506.682222541,5496670.6407161895
 ROCKPORT,102,Assessing,Assessing,,Assessing,Investigating,-7689583.592921577,5494032.215469085
@@ -174,7 +163,6 @@ ROCKPORT,20,Assessing,Assessing,,Assessing,Investigating,-7690640.204063597,5489
 ROCKPORT,5,Assessing,Assessing,,Assessing,Investigating,-7689940.371824024,5492712.0617957
 ROCKPORT,6,Assessing,Assessing,,Assessing,Investigating,-7689934.783568156,5496304.465639431
 CAMDEN,27,Assessing,Assessing,,Assessing,Investigating,-7689504.567154791,5496670.8270055195
-"CAMDEN,ROCKPORT",409,Assessing,Assessing,,Assessing,Investigating,-7689247.66406008,5496967.805794873
 CAMDEN,12,Assessing,Assessing,,Assessing,Investigating,-7688308.506002994,5496929.2174548805
 CAMDEN,20,Assessing,Assessing,,Assessing,Investigating,-7687975.05962055,5497290.9763176115
 "CAMDEN,ROCKPORT",143,Assessing,Assessing,,Assessing,Investigating,-7687938.179534487,5497153.404942374
@@ -184,11 +172,9 @@ CAMDEN,28,Assessing,Assessing,,Assessing,Investigating,-7688876.702981141,549719
 CAMDEN,20,Assessing,Assessing,,Assessing,Investigating,-7688838.342237535,5497350.28212332
 CAMDEN,21,Assessing,Assessing,,Assessing,Investigating,-7688396.748988168,5497678.777245172
 CAMDEN,42,Assessing,Assessing,,Assessing,Investigating,-7688498.828963397,5497582.353460732
-CAMDEN,49,Assessing,Assessing,,Assessing,Investigating,-7688850.798982457,5497867.046556443
 CAMDEN,131,Assessing,Assessing,,Assessing,Investigating,-7689494.793313286,5497817.05526418
 CAMDEN,9,Assessing,Assessing,,Assessing,Investigating,-7689440.346962358,5497586.732814704
 CAMDEN,29,Assessing,Assessing,,Assessing,Investigating,-7689813.489883797,5497249.234158773
-CAMDEN,16,Assessing,Assessing,,Assessing,Investigating,-7687671.803034611,5498850.992088029
 CAMDEN,23,Assessing,Assessing,,Assessing,Investigating,-7687516.968802693,5499089.640674464
 CAMDEN,3,Assessing,Assessing,,Assessing,Investigating,-7687303.491421662,5499363.864949116
 CAMDEN,2,Assessing,Assessing,,Assessing,Investigating,-7687138.037301126,5499557.356941847
@@ -215,7 +201,6 @@ EDGECOMB,184,9/17/2023 11:00:00 AM,9/17/2023 11:00:00 AM,,Assessing,Tree,-775286
 EDGECOMB,1,9/16/2023 7:30:00 PM,9/16/2023 7:30:00 PM,,Assessing,Tree,-7754788.8509999495,5459346.146089764
 FREEPORT,2,Assessing,Assessing,,Assessing,Investigating,-7797552.522848063,5440929.562013495
 RICHMOND,31,Assessing,Assessing,,Assessing,Investigating,-7777936.759535199,5488262.338954739
-LISBON,77,Assessing,Assessing,,Assessing,Investigating,-7803845.8367094705,5470520.26786874
 "BOWDOIN,SABATTUS",90,Assessing,Assessing,,Assessing,Investigating,-7793506.237462388,5478097.433440857
 LITCHFIELD,9,Assessing,Assessing,,Assessing,Investigating,-7784256.033057611,5500616.765534872
 "WARREN,FRIENDSHIP,WALDOBORO",15,Assessing,Assessing,,Assessing,Investigating,-7713601.908449316,5479778.316817403
@@ -292,6 +277,7 @@ APPLETON,14,Assessing,Assessing,,Assessing,Investigating,-7708252.728615425,5513
 "APPLETON,SEARSMONT",57,Assessing,Assessing,,Assessing,Investigating,-7708163.261159505,5513147.510050701
 APPLETON,29,Assessing,Assessing,,Assessing,Investigating,-7708165.999625124,5513144.243266131
 "WALDOBORO,WARREN",60,Assessing,Assessing,,Assessing,Investigating,-7718546.352895024,5491810.487433456
+WALDOBORO,3,9/17/2023 4:15:00 AM,9/17/2023 4:15:00 AM,,Assessing,Investigating,-7722420.282333786,5476986.984011213
 CUSHING,2,Assessing,Assessing,,Assessing,Investigating,-7713216.1418961305,5465813.519035063
 WALDOBORO,2,Assessing,Assessing,,Assessing,Investigating,-7718935.047125647,5467765.711739483
 "BREMEN,BRISTOL",216,Assessing,Assessing,,Assessing,Investigating,-7728389.734342318,5466450.001114994
@@ -312,6 +298,7 @@ WOOLWICH,58,Assessing,Assessing,,Assessing,Investigating,-7770321.493390947,5465
 WOOLWICH,7,Assessing,Assessing,,Assessing,Investigating,-7767484.315762319,5466658.353847618
 WOOLWICH,27,Assessing,Assessing,,Assessing,Investigating,-7770033.008841823,5465411.202029024
 WOOLWICH,4,Assessing,Assessing,,Assessing,Investigating,-7769858.259515599,5456643.948402448
+GEORGETOWN,14,9/17/2023 3:15:00 AM,9/17/2023 3:15:00 AM,,Assessing,Investigating,-7760700.906755237,5439155.83798464
 WOOLWICH,2,Assessing,Assessing,,Assessing,Investigating,-7762415.683292133,5456701.894171611
 WOOLWICH,12,Assessing,Assessing,,Assessing,Investigating,-7761815.426323866,5459653.811101933
 WEST BATH,5,Assessing,Assessing,,Assessing,Investigating,-7775909.442319116,5445789.183705658
@@ -411,6 +398,7 @@ GREENWOOD,20,Assessing,Assessing,,Assessing,Investigating,-7864743.709609389,551
 NORWAY,7,Assessing,Assessing,,Assessing,Investigating,-7857623.425481505,5502843.601484555
 "WATERFORD,STONEHAM",181,Assessing,Assessing,,Assessing,Investigating,-7878202.325094316,5501818.535102529
 WATERFORD,57,Assessing,Assessing,,Assessing,Investigating,-7877459.768426134,5500707.302550263
+"WATERFORD,LOVELL,STONEHAM,ALBANY",284,9/17/2023 11:00:00 AM,9/17/2023 11:00:00 AM,,Assessing,Investigating,-7878695.993640294,5502192.078285878
 ALBANY,5,Assessing,Assessing,,Assessing,Investigating,-7879728.392877862,5503312.411057864
 ALBANY,12,Assessing,Assessing,,Assessing,Investigating,-7880741.633968509,5503668.222060657
 STONEHAM,10,Assessing,Assessing,,Assessing,Investigating,-7896393.621963052,5504901.305959728
@@ -428,7 +416,6 @@ WILTON,37,Assessing,Assessing,,Assessing,Investigating,-7826179.55438437,5554635
 SUMNER,16,Assessing,Assessing,,Assessing,Investigating,-7843798.335139827,5522202.8789002
 SUMNER,1,Assessing,Assessing,,Assessing,Investigating,-7844256.81559387,5522241.0135774175
 GREENWOOD,7,Assessing,Assessing,,Assessing,Investigating,-7859975.4839349,5515395.747722667
-"SUMNER,BUCKFIELD,HARTFORD,HARTLAND",131,Assessing,Assessing,,Assessing,Investigating,-7832432.559421357,5511915.505926021
 TURNER,17,Assessing,Assessing,,Assessing,Investigating,-7817727.288145575,5504669.965679708
 LITCHFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7789391.156662468,5491526.91404735
 FRYEBURG,1,Assessing,Assessing,,Assessing,Investigating,-7889397.559297073,5475769.614240688
@@ -543,12 +530,6 @@ BURNHAM,42,Assessing,Assessing,,Assessing,Investigating,-7717746.923159274,55693
 DIXMONT,5,Assessing,Assessing,,Assessing,Investigating,-7697857.547646404,5578867.325420588
 CORINNA,21,Assessing,Assessing,,Assessing,Investigating,-7706261.300876456,5617174.235601557
 "CORINNA,NEWPORT",19,Assessing,Assessing,,Assessing,Investigating,-7704393.6047510225,5607773.189280969
-"ST ALBANS,SAINT ALBANS",17,Assessing,Assessing,,Assessing,Investigating,-7718108.522257775,5609553.933884205
-ST ALBANS,16,Assessing,Assessing,,Assessing,Investigating,-7721996.711660111,5608836.280193164
-"ST ALBANS,SAINT ALBANS",23,Assessing,Assessing,,Assessing,Investigating,-7722835.593060719,5608670.662610373
-"ST ALBANS,SAINT ALBANS",108,Assessing,Assessing,,Assessing,Investigating,-7722938.363208574,5609330.572796538
-ST ALBANS,17,Assessing,Assessing,,Assessing,Investigating,-7723377.930489934,5610990.701638175
-ST ALBANS,24,Assessing,Assessing,,Assessing,Investigating,-7723063.486379922,5609806.905845361
 PITTSFIELD,2,Assessing,Assessing,,Assessing,Investigating,-7725298.748283358,5590510.452252815
 DETROIT,46,Assessing,Assessing,,Assessing,Investigating,-7717849.103246584,5586682.65565973
 "DETROIT,PLYMOUTH",20,Assessing,Assessing,,Assessing,Investigating,-7713273.404699991,5588605.676754549
@@ -557,6 +538,7 @@ SANGERVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7711028.034881065,56
 CORINNA,35,Assessing,Assessing,,Assessing,Investigating,-7713558.371411009,5614361.016952429
 SANGERVILLE,30,Assessing,Assessing,,Assessing,Investigating,-7718093.894882908,5634449.087089874
 RIPLEY,2,Assessing,Assessing,,Assessing,Investigating,-7731473.8407997945,5619641.296605238
+GUILFORD,15,9/17/2023 12:30:00 AM,9/17/2023 12:30:00 AM,,Assessing,Investigating,-7714103.0911070965,5652488.529572509
 DOVER-FOXCROFT,5,Assessing,Assessing,,Assessing,Investigating,-7698727.242241386,5649613.664272912
 "DOVER-FOXCROFT,SANGERVILLE",103,Assessing,Assessing,,Assessing,Investigating,-7706780.728759175,5650073.274510198
 SANGERVILLE,78,Assessing,Assessing,,Assessing,Investigating,-7715028.323074371,5647676.414692862
@@ -649,6 +631,7 @@ TAUNTON-RAYNHAM,11,Assessing,Assessing,,Assessing,Investigating,-7763879.0114406
 "TAUNTON-RAYNHAM,ROCKWOOD",20,Assessing,Assessing,,Assessing,Investigating,-7763864.194753881,5727487.216857689
 ROCKWOOD,30,Assessing,Assessing,,Assessing,Investigating,-7763333.813108778,5728616.030057311
 KINEO,37,Assessing,Assessing,,Assessing,Investigating,-7763262.03425467,5728974.270491122
+"TAUNTON-RAYNHAM,ROCKWOOD",64,9/17/2023 12:15:00 AM,9/17/2023 12:15:00 AM,,Assessing,Investigating,-7770730.792888499,5725169.532302624
 "TOMHEGAN,ROCKWOOD",46,Assessing,Assessing,,Assessing,Investigating,-7769346.356857121,5734072.515101247
 "TOMHEGAN,ROCKWOOD",94,Assessing,Assessing,,Assessing,Investigating,-7769634.485107387,5736482.739251593
 "HARFORD'S POINT,BIG MOOSE TWP",1,Assessing,Assessing,,Assessing,Investigating,-7751098.598781899,5698636.252670733
@@ -735,7 +718,6 @@ NEW PORTLAND,7,Assessing,Assessing,,Assessing,Investigating,-7807015.525573681,5
 NEW VINEYARD,24,Assessing,Assessing,,Assessing,Investigating,-7799548.60379615,5596089.192654604
 ANSON,58,Assessing,Assessing,,Assessing,Investigating,-7795520.463423232,5596347.863550905
 NEW VINEYARD,3,Assessing,Assessing,,Assessing,Investigating,-7797739.62860691,5596417.442451337
-"FARMINGTON,NEW SHARON",79,Assessing,Assessing,,Assessing,Investigating,-7806634.245242676,5569530.908868618
 FARMINGTON,1,Assessing,Assessing,,Assessing,Investigating,-7807212.861685076,5578602.30621895
 FARMINGTON,8,Assessing,Assessing,,Assessing,Investigating,-7809828.15722388,5576544.05671372
 FARMINGTON,2,Assessing,Assessing,,Assessing,Investigating,-7808759.167324251,5570891.029999386
