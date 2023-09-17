@@ -1,6 +1,8 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+LINCOLNVILLE,37,Assessing,Assessing,,Investigating,Investigating,-7696040.877242616,5507464.195235247
+ROCKPORT,5,Assessing,Assessing,,Investigating,Investigating,-7690660.763178861,5489319.58095362
 GEORGETOWN,51,Assessing,Assessing,,Investigating,Investigating,-7760461.581137947,5438643.467129632
-WOODSTOCK,5,Assessing,Assessing,,Investigating,Investigating,-7862823.446036399,5529224.731748465
+TAUNTON-RAYNHAM,1,Assessing,Assessing,,Investigating,Investigating,-7762819.795382555,5725611.583810539
  ,1,9/17/2023 1:00:00 PM,9/17/2023 1:00:00 PM,,Assessing,Investigating,-7819345.561850672,5521054.380947679
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7771223.960473668,5443170.222902732
 PHIPPSBURG,38,Assessing,Assessing,,Assessing,Tree,-7770166.002323724,5429495.86165854
@@ -160,15 +162,10 @@ CAMDEN,23,Assessing,Assessing,,Assessing,Investigating,-7687516.968802693,549908
 CAMDEN,3,Assessing,Assessing,,Assessing,Investigating,-7687303.491421662,5499363.864949116
 CAMDEN,2,Assessing,Assessing,,Assessing,Investigating,-7687138.037301126,5499557.356941847
 CAMDEN,7,Assessing,Assessing,,Assessing,Investigating,-7685086.285431242,5503307.795860347
-LINCOLNVILLE,10,Assessing,Assessing,,Assessing,Investigating,-7683999.38418043,5505251.925391645
 LINCOLNVILLE,7,Assessing,Assessing,,Assessing,Investigating,-7683649.495891799,5505627.443014542
-LINCOLNVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7683411.338982842,5505949.4740629075
-LINCOLNVILLE,7,Assessing,Assessing,,Assessing,Investigating,-7683237.613803119,5506255.832297784
-LINCOLNVILLE,187,Assessing,Assessing,,Assessing,Investigating,-7683185.661043687,5506470.300077457
 LINCOLNVILLE,8,Assessing,Assessing,,Assessing,Investigating,-7683180.3065495,5506455.936793134
 LINCOLNVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7684588.82093582,5504430.705276538
 CAMDEN,5,Assessing,Assessing,,Assessing,Investigating,-7684943.57387026,5503754.049493879
-CAMDEN,9,Assessing,Assessing,,Assessing,Investigating,-7685667.885313503,5502328.699974535
 HARPSWELL,11,Assessing,Assessing,,Assessing,Investigating,-7782618.790517516,5440844.644398924
 WALDOBORO,5,Assessing,Assessing,,Assessing,Investigating,-7728426.714640567,5481678.294675375
 NEWCASTLE,6,Assessing,Assessing,,Assessing,Investigating,-7740231.4008050915,5474712.425209647
@@ -327,6 +324,7 @@ NAPLES,4,Assessing,Assessing,,Assessing,Investigating,-7862485.048210976,5462561
 BRIDGTON,4,Assessing,Assessing,,Assessing,Investigating,-7869754.6339772185,5461274.751956465
 BRIDGTON,64,Assessing,Assessing,,Assessing,Investigating,-7874543.832229836,5469749.454973427
 BRIDGTON,18,Assessing,Assessing,,Assessing,Investigating,-7873370.213101162,5478713.645119015
+WOODSTOCK,5,Assessing,Assessing,,Assessing,Investigating,-7862823.448338978,5529224.736233134
 WOODSTOCK,28,Assessing,Assessing,,Assessing,Investigating,-7862848.829252091,5527591.840000073
 DENMARK,5,Assessing,Assessing,,Assessing,Investigating,-7878293.095008301,5457579.24288449
 DENMARK,46,Assessing,Assessing,,Assessing,Investigating,-7881639.091743472,5462285.593182907
@@ -595,10 +593,6 @@ KINEO,37,Assessing,Assessing,,Assessing,Investigating,-7763262.03425467,5728974.
 "TAUNTON-RAYNHAM,ROCKWOOD",64,Assessing,Assessing,,Assessing,Investigating,-7770730.792888499,5725169.532302624
 "TOMHEGAN,ROCKWOOD",46,Assessing,Assessing,,Assessing,Investigating,-7769346.356857121,5734072.515101247
 "TOMHEGAN,ROCKWOOD",94,Assessing,Assessing,,Assessing,Investigating,-7769634.485107387,5736482.739251593
-"HARFORD'S POINT,BIG MOOSE TWP",1,Assessing,Assessing,,Assessing,Investigating,-7751098.598781899,5698636.252670733
-HARFORD'S POINT,13,Assessing,Assessing,,Assessing,Investigating,-7750162.936237928,5700164.279264007
-"HARFORD'S POINT,GREENVILLE",56,Assessing,Assessing,,Assessing,Investigating,-7750135.573906685,5700091.685594247
-HARFORD'S POINT,25,Assessing,Assessing,,Assessing,Investigating,-7750343.006620903,5700156.687831157
 NEW PORTLAND,4,Assessing,Assessing,,Assessing,Investigating,-7795121.138191542,5606245.117787157
 "NEW PORTLAND,LEXINGTON",28,Assessing,Assessing,,Assessing,Investigating,-7797417.136086963,5609489.8507583495
 NEW PORTLAND,26,Assessing,Assessing,,Assessing,Investigating,-7797611.800507482,5609461.2682792125
@@ -745,7 +739,6 @@ BELGRADE,9,Assessing,Assessing,,Assessing,Investigating,-7766577.707543726,55446
 WALDO,27,Assessing,Assessing,,Assessing,Investigating,-7693903.969143084,5533191.446347825
 BELFAST,2,Assessing,Assessing,,Assessing,Investigating,-7688707.41947373,5534875.930522957
 WALDO,23,Assessing,Assessing,,Assessing,Investigating,-7690654.775776156,5535644.238816968
-"WALDO,KNOX,BROOKS",134,Assessing,Assessing,,Assessing,Investigating,-7692469.5729829585,5536329.704846168
 SWANVILLE,35,Assessing,Assessing,,Assessing,Investigating,-7682975.545426044,5548199.737962155
 SWANVILLE,4,Assessing,Assessing,,Assessing,Investigating,-7681493.437754417,5546558.845210839
 SWANVILLE,14,Assessing,Assessing,,Assessing,Investigating,-7679300.154344549,5552759.447118736
