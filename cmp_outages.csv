@@ -1,14 +1,21 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-SOUTH BERWICK,15,Assessing,Assessing,,Investigating,Investigating,-7868039.539984943,5352243.477169933
-YORK,42,Assessing,Assessing,,Investigating,Investigating,-7859960.880586924,5339209.69918211
+WALES,65,Assessing,Assessing,,Investigating,Investigating,-7795266.362765761,5486169.5546026835
+SACO,19,Assessing,Assessing,,Investigating,Investigating,-7838397.594685485,5394300.466864915
+CUMBERLAND,13,Assessing,Assessing,,Investigating,Investigating,-7826476.637959833,5438822.048346721
+ROCKPORT,16,Assessing,Assessing,,Investigating,Investigating,-7690969.628743875,5495647.931741622
 GREENE,9,Assessing,Assessing,,Investigating,Investigating,-7808277.590814918,5495123.886442016
-GREENE,8,Assessing,Assessing,,Investigating,Investigating,-7809332.401241087,5496134.543375583
-FREEPORT; BRUNSWICK,23,Assessing,Assessing,,Investigating,Investigating,-7800085.1024890905,5449288.778019023
-WALES,46,Assessing,Assessing,,Investigating,Investigating,-7796965.935682691,5485708.311349256
+SOUTH BERWICK,42,Assessing,Assessing,,Investigating,Investigating,-7868034.488930451,5352240.746716422
+BIDDEFORD,24,Assessing,Assessing,,Investigating,Investigating,-7838334.336469963,5379900.391569337
+BRIDGTON,39,Assessing,Assessing,,Investigating,Investigating,-7871155.483382842,5463663.162986171
+BRUNSWICK,6,Assessing,Assessing,,Investigating,Investigating,-7788574.953048908,5446882.732764671
+NEWCASTLE,92,Assessing,Assessing,,Investigating,Investigating,-7742123.998406921,5469476.409051242
 PHIPPSBURG,73,Assessing,Assessing,,Assessing,Investigating,-7775560.478064916,5437085.732005402
 PHIPPSBURG,38,Assessing,Assessing,,Assessing,Investigating,-7770166.002323724,5429495.86165854
 AUGUSTA,160,Assessing,Assessing,,Assessing,Investigating,-7758956.4301700955,5510057.773087131
+"BOOTHBAY HARBOR,SOUTHPORT",141,Assessing,Assessing,,Assessing,Investigating,-7753318.799224514,5441469.58365775
+BOOTHBAY HARBOR,8,Assessing,Assessing,,Assessing,Investigating,-7754224.394409048,5442650.64810085
 BRISTOL,23,Assessing,Assessing,,Assessing,Investigating,-7737298.4661796,5450609.919706725
+BRISTOL,43,Assessing,Assessing,,Assessing,Investigating,-7739481.9646355305,5450061.652263656
 BRISTOL,54,Assessing,Assessing,,Assessing,Investigating,-7738559.827332631,5460626.672295047
 HARPSWELL,1494,Assessing,Assessing,,Assessing,Investigating,-7788432.873895892,5438009.227475137
 HARPSWELL,9,Assessing,Assessing,,Assessing,Investigating,-7788350.731239846,5438122.724975134
@@ -16,11 +23,15 @@ HARPSWELL,2,Assessing,Assessing,,Assessing,Investigating,-7785998.405687439,5441
 BRUNSWICK,10,Assessing,Assessing,,Assessing,Investigating,-7779371.1779202055,5449843.973431523
 HARPSWELL,72,Assessing,Assessing,,Assessing,Investigating,-7784224.607577798,5435623.543935669
 HARPSWELL,17,Assessing,Assessing,,Assessing,Investigating,-7780876.017139064,5440448.55751818
+HARPSWELL,36,Assessing,Assessing,,Assessing,Investigating,-7779933.708755291,5439235.555212543
 BRUNSWICK,52,Assessing,Assessing,,Assessing,Investigating,-7782686.406010879,5445973.132744163
+"LONG ISLAND,PEAKS ISLAND",357,Assessing,Assessing,,Assessing,Investigating,-7807968.854594696,5419896.441418993
 LONG ISLAND,44,Assessing,Assessing,,Assessing,Investigating,-7809273.953110295,5418569.139790294
 LONG ISLAND,14,Assessing,Assessing,,Assessing,Investigating,-7808964.985931528,5418055.368007372
 NOBLEBORO,6,Assessing,Assessing,,Assessing,Investigating,-7736431.432062937,5484810.845013076
 EDGECOMB,4,Assessing,Assessing,,Assessing,Investigating,-7752091.457354971,5464128.105335319
+FREEPORT,4,Assessing,Assessing,,Assessing,Investigating,-7801579.861623621,5443441.592386606
+"FREEPORT,BRUNSWICK",23,Assessing,Assessing,,Assessing,Investigating,-7800085.096882817,5449288.784548629
 FREEPORT,32,Assessing,Assessing,,Assessing,Investigating,-7800561.388475857,5448614.084547394
 GARDINER,11,Assessing,Assessing,,Assessing,Investigating,-7769217.905359825,5497435.739676162
 "LISBON,BOWDOIN",50,Assessing,Assessing,,Assessing,Investigating,-7796996.270441479,5468943.100308198
@@ -29,9 +40,9 @@ DURHAM,1,Assessing,Assessing,,Assessing,Investigating,-7807254.038781503,5457239
 WISCASSET,29,Assessing,Assessing,,Assessing,Investigating,-7753823.388195555,5468704.693957199
 RICHMOND,1,Assessing,Assessing,,Assessing,Investigating,-7769871.28389597,5487669.296875041
 ST GEORGE,6,Assessing,Assessing,,Assessing,Investigating,-7703310.889085841,5459270.136083571
+CUSHING,3,Assessing,Assessing,,Assessing,Investigating,-7708947.429110172,5467520.447889053
 THOMASTON,262,Assessing,Assessing,,Assessing,Investigating,-7701196.8206545785,5476909.154511632
 WEST GARDINER,18,Assessing,Assessing,,Assessing,Investigating,-7781868.808837274,5500563.108675568
-WINTHROP,115,11/27/2023 5:30:00 AM,11/27/2023 5:30:00 AM,,Assessing,Investigating,-7784585.872702425,5510609.641313451
 WINTHROP,30,Assessing,Assessing,,Assessing,Investigating,-7782535.913138973,5512519.999824813
 GEORGETOWN,1,Assessing,Assessing,,Assessing,Investigating,-7764762.609900598,5440563.088301454
 ARROWSIC,16,Assessing,Assessing,,Assessing,Investigating,-7769736.442645551,5447855.502121476
@@ -47,8 +58,10 @@ CUMBERLAND,155,Assessing,Assessing,,Assessing,Investigating,-7827191.148030754,5
 AUBURN,139,11/27/2023 6:00:00 AM,11/27/2023 6:00:00 AM,,Assessing,Vehicle Accident,-7821417.763012876,5472242.273741189
 NEW GLOUCESTER,57,Assessing,Assessing,,Assessing,Investigating,-7824797.522944856,5455827.071756982
 NEW GLOUCESTER,18,Assessing,Assessing,,Assessing,Investigating,-7824800.072198667,5455823.73261733
+FAYETTE,1,Assessing,Assessing,,Assessing,Investigating,-7799402.808683237,5538115.6305344
 HEBRON,8,Assessing,Assessing,,Assessing,Investigating,-7835799.194860888,5491285.467560504
 RAYMOND,4,Assessing,Assessing,,Assessing,Investigating,-7850448.561553294,5445376.423490338
+GREENE,71,Assessing,Assessing,,Assessing,Investigating,-7808278.946132149,5495125.5284153335
 MONMOUTH,29,Assessing,Assessing,,Assessing,Investigating,-7789531.007320758,5503072.4092033915
 LITCHFIELD,123,Assessing,Assessing,,Assessing,Investigating,-7785538.311126448,5495252.884310261
 "LITCHFIELD,WEST GARDINER",54,Assessing,Assessing,,Assessing,Investigating,-7784787.138312771,5498903.5517635085
@@ -65,13 +78,18 @@ STANDISH,231,Assessing,Assessing,,Assessing,Investigating,-7863934.13862084,5432
 "SCARBOROUGH,PORTLAND,WINDHAM",424,Assessing,Assessing,,Assessing,Investigating,-7829210.260962403,5400741.238993698
 FALMOUTH,3,Assessing,Assessing,,Assessing,Investigating,-7827316.493751235,5423183.91342095
 STANDISH,482,Assessing,Assessing,,Assessing,Investigating,-7850889.943265854,5428515.203072688
+SOUTH BERWICK,15,11/27/2023 6:45:00 AM,11/27/2023 6:45:00 AM,,Assessing,Investigating,-7868039.534578892,5352243.480194454
 SOUTH BERWICK,20,Assessing,Assessing,,Assessing,Investigating,-7880856.19291354,5344634.953276194
 SOUTH BERWICK,4,Assessing,Assessing,,Assessing,Investigating,-7877228.068045046,5346695.190975221
 "SOUTH BERWICK,ELIOT,YORK",674,Assessing,Assessing,,Assessing,Investigating,-7879888.815365654,5344229.137185609
 BIDDEFORD,265,Assessing,Assessing,,Assessing,Investigating,-7847240.901481546,5383452.732551515
 BIDDEFORD,1,Assessing,Assessing,,Assessing,Investigating,-7847118.995511755,5383697.642612215
+YORK,42,Assessing,Assessing,,Assessing,Investigating,-7859960.878784912,5339209.698632967
 ELIOT,1,Assessing,Assessing,,Assessing,Investigating,-7882034.264726855,5333548.074191605
 YORK,1,Assessing,Assessing,,Assessing,Investigating,-7866785.26456416,5332103.055653562
+KITTERY,16,Assessing,Assessing,,Assessing,Investigating,-7870611.181854877,5328992.884909402
 LEBANON,384,Assessing,Assessing,,Assessing,Investigating,-7889745.132093583,5375615.051996596
+ISLESBORO,336,Assessing,Assessing,,Assessing,Investigating,-7670816.440300954,5510271.614776112
 "EAST MOXIE,THE FORKS,MOXIE GORE",89,Assessing,Assessing,,Assessing,Investigating,-7788083.709217327,5674945.267298113
+"HARTLAND,CANAAN",83,Assessing,Assessing,,Assessing,Investigating,-7734186.785854072,5596743.160868805
 RANGELEY,5,Assessing,Assessing,,Assessing,Investigating,-7871722.228235382,5618026.094276943
