@@ -1,10 +1,16 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WINTERPORT,7,Assessing,Assessing,,Investigating,Investigating,-7680889.214746296,5566595.158301636
-GRAY,34,Assessing,Assessing,,Investigating,Investigating,-7832013.778409551,5455677.91205095
-MECHANIC FALLS,11,Assessing,Assessing,,Investigating,Investigating,-7835700.865384216,5483176.343576549
 WISCASSET; WOOLWICH; DRESDEN,395,Assessing,Assessing,,Investigating,Investigating,-7755912.769390257,5466047.514113914
+SABATTUS,95,Assessing,Assessing,,Investigating,Investigating,-7804351.796915565,5484042.439789033
+MECHANIC FALLS,11,Assessing,Assessing,,Investigating,Investigating,-7835700.865384216,5483176.343576549
 SABATTUS,34,Assessing,Assessing,,Investigating,Investigating,-7801916.642939413,5484290.730645091
-GREENWOOD,4,Assessing,Assessing,,Investigating,Investigating,-7870705.7111773975,5526886.943658123
+WINTERPORT,7,Assessing,Assessing,,Investigating,Investigating,-7680889.214746296,5566595.158301636
+NEW GLOUCESTER,13,Assessing,Assessing,,Investigating,Investigating,-7830831.7664854145,5456634.360699936
+LILY BAY,14,Assessing,Assessing,,Investigating,Investigating,-7737686.986815893,5716025.207348363
+TURNER; LIVERMORE; SUMNER; HARTFORD; BUCKFIELD; CANTON,1079,Assessing,Assessing,,Investigating,Investigating,-7816560.10301956,5516965.850663415
+TURNER,13,Assessing,Assessing,,Investigating,Investigating,-7815896.841219417,5516895.2785350885
+FARMINGTON; VIENNA; CHESTERVILLE; WILTON; NEW SHARON,30,Assessing,Assessing,,Investigating,Investigating,-7801073.387141813,5562462.766057414
+GREENVILLE,52,Assessing,Assessing,,Investigating,Investigating,-7740429.874590076,5693790.210333675
+AVON; PHILLIPS,58,Assessing,Assessing,,Investigating,Investigating,-7829986.924712363,5591171.814826945
 "ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 "ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
@@ -16,6 +22,7 @@ HERMON,82,Assessing,Assessing,,Assessing,Investigating,-7671437.7366221,5592020.
 HERMON,21,Assessing,Assessing,,Assessing,Investigating,-7666780.195955899,5596133.918307946
 HERMON,82,Assessing,Assessing,,Assessing,Investigating,-7668138.816888105,5594848.186397275
 HERMON,75,Assessing,Assessing,,Assessing,Investigating,-7671369.564605731,5594761.0866393
+HERMON,13,Assessing,Assessing,,Assessing,Investigating,-7670270.64079605,5590812.06286634
 HERMON,66,Assessing,Assessing,,Assessing,Investigating,-7669361.594748389,5590420.350710797
 HERMON,193,Assessing,Assessing,,Assessing,Investigating,-7668618.314470147,5589539.0876343055
 HERMON,9,Assessing,Assessing,,Assessing,Investigating,-7670800.020719758,5586940.273801279
@@ -855,6 +862,7 @@ GRAY,3,Assessing,Assessing,,Assessing,Investigating,-7828550.848771775,5451000.0
 GRAY,44,Assessing,Assessing,,Assessing,Investigating,-7828766.574870172,5448329.742043046
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831301.29741011,5451265.096513925
 GRAY,8,Assessing,Assessing,,Assessing,Investigating,-7831984.175670243,5455099.860716282
+GRAY,34,Assessing,Assessing,,Assessing,Investigating,-7832013.775506301,5455677.908575341
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831901.298291699,5455621.345037256
 GRAY,58,Assessing,Assessing,,Assessing,Investigating,-7831867.345883071,5453095.091996879
 "GRAY,RAYMOND,NEW GLOUCESTER",227,Assessing,Assessing,,Assessing,Investigating,-7832832.808687467,5453437.19808587
@@ -991,11 +999,3 @@ HARRISON,403,Assessing,Assessing,,Assessing,Investigating,-7865304.570575108,547
 HARRISON,27,Assessing,Assessing,,Assessing,Investigating,-7866216.80038689,5477672.077401768
 "HARRISON,OTISFIELD",57,Assessing,Assessing,,Assessing,Investigating,-7862952.790433272,5481202.7012815215
 HARRISON,9,Assessing,Assessing,,Assessing,Investigating,-7862699.215764627,5478677.272299417
-HARRISON,10,Assessing,Assessing,,Assessing,Investigating,-7865785.86036347,5483095.159977589
-HARRISON,10,Assessing,Assessing,,Assessing,Investigating,-7865815.582736707,5483102.307688499
-HARRISON,36,Assessing,Assessing,,Assessing,Investigating,-7866100.7943218555,5482965.895299252
-HARRISON,4,Assessing,Assessing,,Assessing,Investigating,-7863448.618596871,5485216.402285162
-HARRISON,3,Assessing,Assessing,,Assessing,Investigating,-7863386.691571568,5488046.97906293
-OTISFIELD,83,Assessing,Assessing,,Assessing,Investigating,-7857535.371808265,5487507.887839532
-OTISFIELD,24,Assessing,Assessing,,Assessing,Investigating,-7858312.938469002,5487654.373651333
-OTISFIELD,49,Assessing,Assessing,,Assessing,Investigating,-7859007.661088511,5482257.0575792845
