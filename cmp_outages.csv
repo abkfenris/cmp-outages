@@ -1,25 +1,27 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-SKOWHEGAN,15,Assessing,Assessing,,Investigating,Investigating,-7761276.79804692,5584369.877651188
-GREENVILLE,23,Assessing,Assessing,,Investigating,Investigating,-7747072.983135328,5697462.405263889
-WESTBROOK,2631,Assessing,Assessing,,Investigating,Investigating,-7833601.286673727,5415625.789931835
-SCARBOROUGH,3,Assessing,Assessing,,Investigating,Investigating,-7823847.240033858,5399492.881767878
-SEARSPORT,10,Assessing,Assessing,,Investigating,Investigating,-7673691.424853214,5534517.172958595
-TURNER,5,Assessing,Assessing,,Investigating,Investigating,-7817132.692715212,5513063.423071695
-CHESTERVILLE,13,Assessing,Assessing,,Investigating,Investigating,-7802375.22480699,5555882.784712385
-DEXTER; GARLAND,48,Assessing,Assessing,,Investigating,Investigating,-7708706.804738967,5625253.483644743
-POLAND; CASCO,175,Assessing,Assessing,,Investigating,Investigating,-7841299.933259688,5470919.271795337
-GREENVILLE,10,Assessing,Assessing,,Investigating,Investigating,-7745145.9712077705,5701944.566104585
-WESTBROOK,7,Assessing,Assessing,,Investigating,Investigating,-7833439.33417314,5415618.738615116
-KENNEBUNKPORT,6,Assessing,Assessing,,Investigating,Investigating,-7842646.914461598,5365161.709823338
-YARMOUTH; NORTH YARMOUTH; POWNAL; FREEPORT,133,Assessing,Assessing,,Investigating,Investigating,-7813668.022328729,5438569.246136446
-TURNER,123,Assessing,Assessing,,Investigating,Investigating,-7817142.051692288,5511609.727714261
-TURNER; LIVERMORE,60,Assessing,Assessing,,Investigating,Investigating,-7821850.459102162,5518897.529161077
-TURNER,22,Assessing,Assessing,,Investigating,Investigating,-7819808.350327405,5518095.401440369
-WISCASSET; PITTSTON; ALNA; DRESDEN,533,Assessing,Assessing,,Investigating,Investigating,-7756728.919844305,5472965.260027807
-AUBURN,76,Assessing,Assessing,,Investigating,Investigating,-7822584.484720112,5485128.02955234
-PORTLAND; FALMOUTH,654,Assessing,Assessing,,Investigating,Investigating,-7825041.905523249,5417372.491109646
-HARPSWELL,85,Assessing,Assessing,,Investigating,Investigating,-7788346.921374824,5438121.0068571875
-LEWISTON,115,Assessing,Assessing,,Investigating,Investigating,-7815278.553165934,5480964.265732279
+LEWISTON,36,Assessing,Assessing,,Investigating,Investigating,-7812803.34815394,5477750.180250038
+POLAND,47,Assessing,Assessing,,Investigating,Investigating,-7842451.685208759,5472637.400872241
+WISCASSET,49,Assessing,Assessing,,Investigating,Investigating,-7755164.869640661,5466046.295998967
+SEARSPORT,120,Assessing,Assessing,,Investigating,Investigating,-7673777.037794128,5534883.134568942
+POLAND,13,Assessing,Assessing,,Investigating,Investigating,-7830300.080079673,5469796.848052157
+FARMINGTON; VIENNA; CHESTERVILLE; WILTON,434,Assessing,Assessing,,Investigating,Investigating,-7805028.3501950875,5558186.043826131
+LEWISTON,62,Assessing,Assessing,,Investigating,Investigating,-7813841.949534612,5487072.4387879325
+HOLLIS,5,Assessing,Assessing,,Investigating,Investigating,-7862210.428483069,5398725.7731753085
+WISCASSET,20,Assessing,Assessing,,Investigating,Investigating,-7760431.147067986,5458230.180776827
+PORTLAND; FALMOUTH,1470,Assessing,Assessing,,Investigating,Investigating,-7825041.905523249,5417372.491109646
+TURNER,8,Assessing,Assessing,,Investigating,Investigating,-7821533.239985618,5518822.705131445
+SEARSPORT; BELFAST,134,Assessing,Assessing,,Investigating,Investigating,-7675300.966583143,5537679.033748759
+BIDDEFORD,25,Assessing,Assessing,,Investigating,Investigating,-7843181.13089963,5385434.263659521
+HARTFORD,24,Assessing,Assessing,,Investigating,Investigating,-7833077.856210251,5531355.1042790115
+LEWISTON; SABATTUS,919,Assessing,Assessing,,Investigating,Investigating,-7811351.905210489,5478184.2352055255
+LEWISTON,42,Assessing,Assessing,,Investigating,Investigating,-7813866.466981097,5487637.048796947
+CUMBERLAND,68,Assessing,Assessing,,Investigating,Investigating,-7825896.456865855,5438280.382184747
+SABATTUS,32,Assessing,Assessing,,Investigating,Investigating,-7801452.527777498,5484365.998500395
+CUMBERLAND,13,Assessing,Assessing,,Investigating,Investigating,-7826476.637959833,5438822.048346721
+HERMON,82,Assessing,Assessing,,Investigating,Investigating,-7671437.731316154,5592020.615930375
+HERMON,9,Assessing,Assessing,,Investigating,Investigating,-7670800.017115726,5586940.277750375
+TURNER,12,Assessing,Assessing,,Investigating,Investigating,-7818850.0983953485,5503342.787710192
+LEWISTON,135,Assessing,Assessing,,Investigating,Investigating,-7814828.32585101,5484476.82437577
 "ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 "ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
@@ -68,13 +70,16 @@ AUGUSTA,14,Assessing,Assessing,,Assessing,Investigating,-7768069.266295528,55148
 AUGUSTA,65,Assessing,Assessing,,Assessing,Investigating,-7768228.842736194,5514907.677799173
 AUGUSTA,88,Assessing,Assessing,,Assessing,Investigating,-7767872.1862708125,5514188.286031848
 AUGUSTA,11,Assessing,Assessing,,Assessing,Investigating,-7767186.19102131,5515021.244090088
+"SQUIRREL ISLAND,SOUTHPORT,BOOTHBAY HARBOR",1617,Assessing,Assessing,,Assessing,Investigating,-7750632.147805108,5443744.433828444
 SOUTHPORT,18,Assessing,Assessing,,Assessing,Investigating,-7753684.673008386,5436792.6741410745
 SOUTHPORT,14,Assessing,Assessing,,Assessing,Investigating,-7754272.2506826,5440833.238764602
 SOUTHPORT,580,Assessing,Assessing,,Assessing,Investigating,-7754275.656995854,5440842.298395665
 SOUTHPORT,15,Assessing,Assessing,,Assessing,Investigating,-7757052.35471919,5439789.952868889
 SOUTHPORT,4,Assessing,Assessing,,Assessing,Investigating,-7756508.982031032,5435651.4635232305
 SOUTHPORT,15,Assessing,Assessing,,Assessing,Investigating,-7754682.518664339,5441231.13237602
+"BOOTHBAY HARBOR,WISCASSET",2699,Assessing,Assessing,,Assessing,Investigating,-7750633.327826107,5443743.97078346
 BOOTHBAY,18,Assessing,Assessing,,Assessing,Investigating,-7746233.747738433,5443409.635196817
+BOOTHBAY HARBOR,430,Assessing,Assessing,,Assessing,Investigating,-7750634.496734657,5443743.492187967
 BOOTHBAY,62,Assessing,Assessing,,Assessing,Investigating,-7751245.284491807,5449667.609443763
 BOOTHBAY,6,Assessing,Assessing,,Assessing,Investigating,-7749048.038145555,5450852.41500752
 BOOTHBAY,34,Assessing,Assessing,,Assessing,Investigating,-7748520.561852903,5450876.348162643
@@ -107,6 +112,7 @@ FARMINGDALE,269,Assessing,Assessing,,Assessing,Investigating,-7768198.441402885,
 GARDINER,199,Assessing,Assessing,,Assessing,Investigating,-7767249.888028047,5500617.526800737
 GARDINER,20,Assessing,Assessing,,Assessing,Investigating,-7766946.364343092,5500721.501448242
 "GARDINER,FARMINGDALE",73,Assessing,Assessing,,Assessing,Investigating,-7767751.771970896,5502205.300669084
+HARPSWELL,85,Assessing,Assessing,,Assessing,Investigating,-7788346.92417796,5438121.012268805
 BRUNSWICK,7,Assessing,Assessing,,Assessing,Investigating,-7789428.070185966,5450374.105256867
 BRUNSWICK,11,Assessing,Assessing,,Assessing,Investigating,-7789397.435090969,5450198.889876453
 BRUNSWICK,1661,Assessing,Assessing,,Assessing,Investigating,-7789386.592553094,5450127.420311927
@@ -328,6 +334,7 @@ VASSALBORO,58,Assessing,Assessing,,Assessing,Investigating,-7752463.108606529,55
 VASSALBORO,10,Assessing,Assessing,,Assessing,Investigating,-7749538.522927412,5530857.5042720325
 VASSALBORO,6,Assessing,Assessing,,Assessing,Investigating,-7752686.148292252,5530619.8630837845
 WISCASSET,37,Assessing,Assessing,,Assessing,Investigating,-7757525.885621726,5468361.182852712
+"WISCASSET,PITTSTON,ALNA,DRESDEN",533,Assessing,Assessing,,Assessing,Investigating,-7756728.915939931,5472965.252367061
 DRESDEN,15,Assessing,Assessing,,Assessing,Investigating,-7759629.812900295,5479005.036231247
 WISCASSET,3,Assessing,Assessing,,Assessing,Investigating,-7758265.013651661,5474378.417244203
 OWLS HEAD,11,Assessing,Assessing,,Assessing,Investigating,-7692786.822333347,5478370.409991956
@@ -413,6 +420,7 @@ JEFFERSON,11,Assessing,Assessing,,Assessing,Investigating,-7735559.867274335,549
 "JEFFERSON,SOMERVILLE PLT",48,Assessing,Assessing,,Assessing,Investigating,-7731110.126633543,5498018.963035176
 ST GEORGE,31,Assessing,Assessing,,Assessing,Investigating,-7703595.176836787,5467891.000773332
 ST GEORGE,4,Assessing,Assessing,,Assessing,Investigating,-7701732.378694489,5465535.019739745
+ST GEORGE,38,Assessing,Assessing,,Assessing,Investigating,-7708139.772765003,5462761.862332235
 ST GEORGE,24,Assessing,Assessing,,Assessing,Investigating,-7710343.676063494,5457027.745713912
 ST GEORGE,19,Assessing,Assessing,,Assessing,Investigating,-7711492.415239865,5457828.864630862
 ST GEORGE,9,Assessing,Assessing,,Assessing,Investigating,-7705988.890922317,5464382.933919949
@@ -868,6 +876,7 @@ AUBURN,72,Assessing,Assessing,,Assessing,Investigating,-7821569.858879286,547903
 AUBURN,38,Assessing,Assessing,,Assessing,Investigating,-7821629.670836837,5479041.255362309
 AUBURN,64,Assessing,Assessing,,Assessing,Investigating,-7822111.851122079,5479274.537135179
 AUBURN,10,Assessing,Assessing,,Assessing,Investigating,-7820513.759710408,5478345.38224804
+AUBURN,76,Assessing,Assessing,,Assessing,Investigating,-7822584.480315179,5485128.034433842
 AUBURN,44,Assessing,Assessing,,Assessing,Investigating,-7822376.502090281,5482855.90465755
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7822456.340466758,5483857.822612199
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7824837.776106969,5487660.454601522
@@ -990,12 +999,3 @@ JAY,27,Assessing,Assessing,,Assessing,Investigating,-7813594.251444607,5540571.6
 JAY,16,Assessing,Assessing,,Assessing,Investigating,-7814614.038162871,5540316.861024482
 JAY,16,Assessing,Assessing,,Assessing,Investigating,-7814460.083315397,5540162.60040501
 JAY,8,Assessing,Assessing,,Assessing,Investigating,-7812342.708682946,5543532.104916519
-JAY,82,Assessing,Assessing,,Assessing,Investigating,-7813137.975158057,5540224.432222431
-LIVERMORE FALLS,9,Assessing,Assessing,,Assessing,Investigating,-7813176.480563609,5539813.039118313
-LIVERMORE FALLS,16,Assessing,Assessing,,Assessing,Investigating,-7813134.69118175,5539581.420229269
-LIVERMORE FALLS,18,Assessing,Assessing,,Assessing,Investigating,-7813063.736149883,5539512.213331793
-LIVERMORE FALLS,3,Assessing,Assessing,,Assessing,Investigating,-7811781.202094473,5539804.489397891
-LIVERMORE FALLS,10,Assessing,Assessing,,Assessing,Investigating,-7813188.247035799,5539178.293140995
-LIVERMORE FALLS,36,Assessing,Assessing,,Assessing,Investigating,-7813788.181142637,5539460.698652884
-LIVERMORE,52,Assessing,Assessing,,Assessing,Investigating,-7816616.8761752695,5534184.446178405
-LIVERMORE,65,Assessing,Assessing,,Assessing,Investigating,-7815974.618388447,5532359.617461688
