@@ -1,14 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WISCASSET; WOOLWICH; DRESDEN,395,Assessing,Assessing,,Investigating,Investigating,-7755912.769390257,5466047.514113914
+SEARSPORT,9,Assessing,Assessing,,Investigating,Investigating,-7673770.108436939,5534826.735281272
 SABATTUS,95,Assessing,Assessing,,Investigating,Investigating,-7804351.796915565,5484042.439789033
-MECHANIC FALLS,11,Assessing,Assessing,,Investigating,Investigating,-7835700.865384216,5483176.343576549
-SABATTUS,34,Assessing,Assessing,,Investigating,Investigating,-7801916.642939413,5484290.730645091
-WINTERPORT,7,Assessing,Assessing,,Investigating,Investigating,-7680889.214746296,5566595.158301636
-NEW GLOUCESTER,13,Assessing,Assessing,,Investigating,Investigating,-7830831.7664854145,5456634.360699936
-LILY BAY,14,Assessing,Assessing,,Investigating,Investigating,-7737686.986815893,5716025.207348363
-TURNER; LIVERMORE; SUMNER; HARTFORD; BUCKFIELD; CANTON,1079,Assessing,Assessing,,Investigating,Investigating,-7816560.10301956,5516965.850663415
-TURNER,13,Assessing,Assessing,,Investigating,Investigating,-7815896.841219417,5516895.2785350885
-FARMINGTON; VIENNA; CHESTERVILLE; WILTON; NEW SHARON,30,Assessing,Assessing,,Investigating,Investigating,-7801073.387141813,5562462.766057414
 GREENVILLE,52,Assessing,Assessing,,Investigating,Investigating,-7740429.874590076,5693790.210333675
 AVON; PHILLIPS,58,Assessing,Assessing,,Investigating,Investigating,-7829986.924712363,5591171.814826945
 "ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
@@ -334,6 +326,7 @@ VASSALBORO,58,Assessing,Assessing,,Assessing,Investigating,-7752463.108606529,55
 VASSALBORO,10,Assessing,Assessing,,Assessing,Investigating,-7749538.522927412,5530857.5042720325
 VASSALBORO,6,Assessing,Assessing,,Assessing,Investigating,-7752686.148292252,5530619.8630837845
 WISCASSET,213,Assessing,Assessing,,Assessing,Investigating,-7755837.068745829,5465961.546799485
+"WISCASSET,WOOLWICH,DRESDEN",403,12/18/2023 9:45:00 PM,12/18/2023 9:45:00 PM,,Assessing,Investigating,-7755912.7659864435,5466047.516897542
 WISCASSET,8,Assessing,Assessing,,Assessing,Investigating,-7760708.042343294,5468358.922813666
 WISCASSET,37,Assessing,Assessing,,Assessing,Investigating,-7757525.885621726,5468361.182852712
 WISCASSET,49,Assessing,Assessing,,Assessing,Investigating,-7755164.866036629,5466046.294328786
@@ -861,6 +854,7 @@ GRAY,42,Assessing,Assessing,,Assessing,Investigating,-7828328.321159307,5452005.
 GRAY,3,Assessing,Assessing,,Assessing,Investigating,-7828550.848771775,5451000.031881406
 GRAY,44,Assessing,Assessing,,Assessing,Investigating,-7828766.574870172,5448329.742043046
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831301.29741011,5451265.096513925
+NEW GLOUCESTER,13,12/19/2023 1:30:00 AM,12/19/2023 1:30:00 AM,,Assessing,Investigating,-7830831.762881382,5456634.362924558
 GRAY,8,Assessing,Assessing,,Assessing,Investigating,-7831984.175670243,5455099.860716282
 GRAY,34,Assessing,Assessing,,Assessing,Investigating,-7832013.775506301,5455677.908575341
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831901.298291699,5455621.345037256
@@ -999,3 +993,9 @@ HARRISON,403,Assessing,Assessing,,Assessing,Investigating,-7865304.570575108,547
 HARRISON,27,Assessing,Assessing,,Assessing,Investigating,-7866216.80038689,5477672.077401768
 "HARRISON,OTISFIELD",57,Assessing,Assessing,,Assessing,Investigating,-7862952.790433272,5481202.7012815215
 HARRISON,9,Assessing,Assessing,,Assessing,Investigating,-7862699.215764627,5478677.272299417
+HARRISON,10,Assessing,Assessing,,Assessing,Investigating,-7865785.86036347,5483095.159977589
+HARRISON,10,Assessing,Assessing,,Assessing,Investigating,-7865815.582736707,5483102.307688499
+HARRISON,36,Assessing,Assessing,,Assessing,Investigating,-7866100.7943218555,5482965.895299252
+HARRISON,4,Assessing,Assessing,,Assessing,Investigating,-7863448.618596871,5485216.402285162
+HARRISON,3,Assessing,Assessing,,Assessing,Investigating,-7863386.691571568,5488046.97906293
+OTISFIELD,83,Assessing,Assessing,,Assessing,Investigating,-7857535.371808265,5487507.887839532
