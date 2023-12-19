@@ -1,7 +1,14 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WINDHAM,25,Assessing,Assessing,,Investigating,Investigating,-7838720.472036246,5433531.531938583
-LISBON,16,Assessing,Assessing,,Investigating,Investigating,-7803867.446200599,5470493.324446478
-HARPSWELL,26,Assessing,Assessing,,Investigating,Investigating,-7795542.174728336,5426685.573913653
+NEW VINEYARD; STRONG,24,Assessing,Assessing,,Investigating,Investigating,-7805121.328681499,5593831.74237236
+CAPE ELIZABETH,6,Assessing,Assessing,,Investigating,Investigating,-7817632.122010164,5398818.530709819
+NEWBURGH,57,Assessing,Assessing,,Investigating,Investigating,-7688496.901105221,5581622.696593306
+ABBOT,94,Assessing,Assessing,,Investigating,Investigating,-7739915.389140246,5655905.876536994
+OLD ORCHARD BEACH,108,Assessing,Assessing,,Investigating,Investigating,-7834535.498593775,5391592.083680892
+PITTSFIELD; PALMYRA,204,Assessing,Assessing,,Investigating,Investigating,-7723301.565301579,5588470.184615631
+RICHMOND,21,Assessing,Assessing,,Investigating,Investigating,-7772293.776197785,5482098.551337965
+LEVANT,115,Assessing,Assessing,,Investigating,Investigating,-7678571.416145695,5598530.622837004
+WATERBORO,57,Assessing,Assessing,,Investigating,Investigating,-7871385.863485918,5401998.331664516
+SOUTH BERWICK,52,Assessing,Assessing,,Investigating,Investigating,-7882049.563052831,5344015.316178033
 "ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 "ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
@@ -103,6 +110,7 @@ HARPSWELL,85,Assessing,Assessing,,Assessing,Investigating,-7788346.92417796,5438
 HARPSWELL,45,Assessing,Assessing,,Assessing,Investigating,-7787698.944585761,5435843.431965951
 HARPSWELL,14,Assessing,Assessing,,Assessing,Investigating,-7788192.713243806,5434563.09560682
 HARPSWELL,4,Assessing,Assessing,,Assessing,Investigating,-7794361.059808366,5429678.684043364
+HARPSWELL,26,Assessing,Assessing,,Assessing,Investigating,-7795542.170723851,5426685.569617451
 HARPSWELL,16,Assessing,Assessing,,Assessing,Investigating,-7796051.212579755,5427402.418078179
 BRUNSWICK,7,Assessing,Assessing,,Assessing,Investigating,-7789428.070185966,5450374.105256867
 BRUNSWICK,11,Assessing,Assessing,,Assessing,Investigating,-7789397.435090969,5450198.889876453
@@ -264,10 +272,9 @@ LISBON,180,Assessing,Assessing,,Assessing,Investigating,-7804869.942562867,54683
 LISBON,177,Assessing,Assessing,,Assessing,Investigating,-7802742.048253977,5468461.479362689
 LISBON,67,Assessing,Assessing,,Assessing,Investigating,-7804998.360722846,5471499.159056326
 LISBON,21,Assessing,Assessing,,Assessing,Investigating,-7802877.134478639,5471605.126643285
-"LISBON,BOWDOIN,SABATTUS,TOPSHAM",718,Assessing,Assessing,,Assessing,Investigating,-7797912.140428316,5465174.991883573
+LISBON,16,Assessing,Assessing,,Assessing,Investigating,-7803867.443797909,5470493.326117468
+"LISBON,BOWDOIN,SABATTUS,TOPSHAM",862,Assessing,Assessing,,Assessing,Investigating,-7797912.140428316,5465174.991883573
 LISBON,25,Assessing,Assessing,,Assessing,Investigating,-7797220.2007241845,5466893.25559621
-"BOWDOIN,SABATTUS",139,Assessing,Assessing,,Assessing,Investigating,-7795023.80042506,5472854.746775348
-BOWDOIN,5,Assessing,Assessing,,Assessing,Investigating,-7794935.301453325,5472414.100274936
 LISBON,84,Assessing,Assessing,,Assessing,Investigating,-7796171.214918491,5471537.934700565
 LISBON,659,Assessing,Assessing,,Assessing,Investigating,-7799256.000536263,5465541.132523104
 LISBON,57,Assessing,Assessing,,Assessing,Investigating,-7799840.717207673,5469257.759626965
@@ -709,7 +716,6 @@ BETHEL,10,Assessing,Assessing,,Assessing,Investigating,-7884701.769211883,553119
 "BETHEL,GILEAD",197,Assessing,Assessing,,Assessing,Investigating,-7885370.688044893,5531524.294937005
 FRYEBURG,45,Assessing,Assessing,,Assessing,Investigating,-7897564.769725104,5477395.061992141
 FRYEBURG,10,Assessing,Assessing,,Assessing,Investigating,-7903018.033277352,5471697.978856422
-FRYEBURG,776,Assessing,Assessing,,Assessing,Tree,-7898095.340682142,5475093.167803281
 BRIDGTON,91,Assessing,Assessing,,Assessing,Investigating,-7869377.928868031,5475279.888953642
 BRIDGTON,13,Assessing,Assessing,,Assessing,Investigating,-7868062.689099627,5472076.799870157
 "NAPLES,BRIDGTON",346,Assessing,Assessing,,Assessing,Investigating,-7864814.096905694,5463845.866344097
@@ -751,6 +757,7 @@ SABATTUS,39,Assessing,Assessing,,Assessing,Investigating,-7802914.793837077,5475
 SABATTUS,13,Assessing,Assessing,,Assessing,Investigating,-7803131.967055471,5475691.748537197
 SABATTUS,73,Assessing,Assessing,,Assessing,Investigating,-7803504.54224135,5476247.791995685
 SABATTUS,4,Assessing,Assessing,,Assessing,Investigating,-7803797.557462414,5476737.135199105
+LEWISTON,62,12/18/2023 11:15:00 PM,12/18/2023 11:15:00 PM,,Assessing,Investigating,-7808829.7772698,5475239.006143666
 LEWISTON,31,Assessing,Assessing,,Assessing,Investigating,-7808688.056417891,5475135.149888485
 SABATTUS,23,Assessing,Assessing,,Assessing,Investigating,-7805164.393791499,5475588.212481373
 "LISBON,LEWISTON",48,Assessing,Assessing,,Assessing,Investigating,-7807547.28766415,5473399.605901163
@@ -992,10 +999,3 @@ HARRISON,4,Assessing,Assessing,,Assessing,Investigating,-7863448.618596871,54852
 HARRISON,3,Assessing,Assessing,,Assessing,Investigating,-7863386.691571568,5488046.97906293
 OTISFIELD,83,Assessing,Assessing,,Assessing,Investigating,-7857535.371808265,5487507.887839532
 OTISFIELD,24,Assessing,Assessing,,Assessing,Investigating,-7858312.938469002,5487654.373651333
-OTISFIELD,49,Assessing,Assessing,,Assessing,Investigating,-7859007.661088511,5482257.0575792845
-HARRISON,23,Assessing,Assessing,,Assessing,Investigating,-7858634.262180511,5483457.194362682
-HARRISON,26,Assessing,Assessing,,Assessing,Investigating,-7861551.400522571,5482448.653483043
-"HARRISON,WATERFORD",27,Assessing,Assessing,,Assessing,Investigating,-7863690.849866948,5489198.783739616
-WATERFORD,30,Assessing,Assessing,,Assessing,Investigating,-7864721.701672215,5489960.480925842
-LEWISTON,1331,Assessing,Assessing,,Assessing,Investigating,-7815820.674653408,5479578.70177029
-LEWISTON,18,Assessing,Assessing,,Assessing,Investigating,-7815635.461313062,5479940.36475901
