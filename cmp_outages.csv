@@ -1,13 +1,13 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-HARMONY,5,Assessing,Assessing,,Investigating,Investigating,-7738090.59694438,5622945.240174796
-CHESTERVILLE,20,Assessing,Assessing,,Investigating,Investigating,-7801426.609963338,5561118.664967038
-GRAY; RAYMOND; NEW GLOUCESTER,227,Assessing,Assessing,,Investigating,Investigating,-7832832.810489486,5453437.203923465
-HERMON; GLENBURN; KENDUSKEAG; LEVANT; CARMEL,896,Assessing,Assessing,,Investigating,Investigating,-7671171.922952287,5591666.149332792
-CHESTERVILLE,78,Assessing,Assessing,,Investigating,Investigating,-7800574.12142999,5561735.541055876
+GRAY,34,Assessing,Assessing,,Investigating,Investigating,-7832013.778409551,5455677.91205095
+BRIDGTON,2,Assessing,Assessing,,Investigating,Investigating,-7867070.600088057,5467219.508832655
+JAY,6,Assessing,Assessing,,Investigating,Investigating,-7817037.627993329,5544278.239515285
+GREENWOOD,4,Assessing,Assessing,,Investigating,Investigating,-7870705.7111773975,5526886.943658123
 "ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 "ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
+"HERMON,GLENBURN,KENDUSKEAG,LEVANT,CARMEL",896,Assessing,Assessing,,Assessing,Investigating,-7671171.92795789,5591666.147498321
 "HERMON,KENDUSKEAG,GLENBURN,LEVANT,CARMEL",1682,Assessing,Assessing,,Assessing,Tree,-7673211.490281976,5591381.093152322
 LEVANT,32,Assessing,Assessing,,Assessing,Investigating,-7672285.779678884,5600385.107544161
 HERMON,82,Assessing,Assessing,,Assessing,Investigating,-7671437.7366221,5592020.614519198
@@ -854,6 +854,7 @@ GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831301.29741011,5451265.0
 GRAY,8,Assessing,Assessing,,Assessing,Investigating,-7831984.175670243,5455099.860716282
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831901.298291699,5455621.345037256
 GRAY,58,Assessing,Assessing,,Assessing,Investigating,-7831867.345883071,5453095.091996879
+"GRAY,RAYMOND,NEW GLOUCESTER",227,Assessing,Assessing,,Assessing,Investigating,-7832832.808687467,5453437.19808587
 "GRAY,NEW GLOUCESTER",45,Assessing,Assessing,,Assessing,Investigating,-7834756.865907321,5456387.494534342
 "RAYMOND,NEW GLOUCESTER",63,Assessing,Assessing,,Assessing,Investigating,-7835250.512228419,5456793.38991097
 "RAYMOND,NEW GLOUCESTER",185,Assessing,Assessing,,Assessing,Investigating,-7835600.311417302,5458821.450321907
@@ -998,4 +999,3 @@ OTISFIELD,49,Assessing,Assessing,,Assessing,Investigating,-7859007.661088511,548
 HARRISON,23,Assessing,Assessing,,Assessing,Investigating,-7858634.262180511,5483457.194362682
 HARRISON,26,Assessing,Assessing,,Assessing,Investigating,-7861551.400522571,5482448.653483043
 "HARRISON,WATERFORD",27,Assessing,Assessing,,Assessing,Investigating,-7863690.849866948,5489198.783739616
-WATERFORD,30,Assessing,Assessing,,Assessing,Investigating,-7864721.701672215,5489960.480925842
