@@ -1,8 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-FRANKFORT,38,Assessing,Assessing,,Investigating,Investigating,-7666968.001898578,5557675.31951491
-CARMEL; ETNA; NEWBURGH; DIXMONT,255,Assessing,Assessing,,Investigating,Investigating,-7688829.169468914,5582911.760907581
-POLAND,12,Assessing,Assessing,,Investigating,Investigating,-7838362.191252488,5465900.010642885
-SEARSMONT; MONTVILLE,18,Assessing,Assessing,,Investigating,Investigating,-7705851.493109912,5528551.084166901
+WINDHAM,25,Assessing,Assessing,,Investigating,Investigating,-7838720.472036246,5433531.531938583
+LISBON,16,Assessing,Assessing,,Investigating,Investigating,-7803867.446200599,5470493.324446478
+HARPSWELL,26,Assessing,Assessing,,Investigating,Investigating,-7795542.174728336,5426685.573913653
 "ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 "ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
@@ -400,7 +399,6 @@ CHINA,19,Assessing,Assessing,,Assessing,Investigating,-7739407.413978477,5524759
 VASSALBORO,12,Assessing,Assessing,,Assessing,Investigating,-7749959.666784349,5524685.175309449
 VASSALBORO,22,Assessing,Assessing,,Assessing,Investigating,-7751500.70702908,5524579.743679069
 "CHINA,VASSALBORO",120,Assessing,Assessing,,Assessing,Investigating,-7747159.859190262,5525687.0782591365
-"WASHINGTON,APPLETON,MONTVILLE,SEARSMONT,LIBERTY,UNION",685,Assessing,Assessing,,Assessing,Investigating,-7723528.323149653,5502377.426188338
 WASHINGTON,5,Assessing,Assessing,,Assessing,Investigating,-7721970.696336798,5509252.1213701395
 "LIBERTY,APPLETON,MONTVILLE,SEARSMONT",1029,Assessing,Assessing,,Assessing,Investigating,-7720856.054230993,5515890.005770539
 MONTVILLE,63,Assessing,Assessing,,Assessing,Investigating,-7716803.523854258,5528968.656092745
@@ -439,8 +437,9 @@ BOWDOIN,3,Assessing,Assessing,,Assessing,Investigating,-7788972.261422791,546772
 TOPSHAM,5,Assessing,Assessing,,Assessing,Investigating,-7790252.33532414,5463995.1776389
 TOPSHAM,8,Assessing,Assessing,,Assessing,Investigating,-7790633.771629752,5463572.764692269
 TOPSHAM,54,Assessing,Assessing,,Assessing,Investigating,-7790773.143552111,5462350.629028308
-"TOPSHAM,BOWDOIN,BOWDOINHAM",1059,Assessing,Assessing,,Assessing,Investigating,-7787635.848651901,5460902.254072298
 BOWDOIN,12,Assessing,Assessing,,Assessing,Tree,-7786995.305184199,5464910.438791498
+BOWDOIN,518,Assessing,Assessing,,Assessing,Tree,-7786124.909204034,5470335.919689303
+BOWDOIN,61,Assessing,Assessing,,Assessing,Tree,-7786618.588862455,5466578.6462821
 TOPSHAM,283,Assessing,Assessing,,Assessing,Investigating,-7785609.733681691,5453549.06216239
 TOPSHAM,4,Assessing,Assessing,,Assessing,Investigating,-7782128.361397973,5454974.85417261
 "TOPSHAM,BOWDOINHAM,RICHMOND",1177,Assessing,Assessing,,Assessing,Investigating,-7784172.320844491,5457283.846327018
@@ -999,3 +998,4 @@ HARRISON,26,Assessing,Assessing,,Assessing,Investigating,-7861551.400522571,5482
 "HARRISON,WATERFORD",27,Assessing,Assessing,,Assessing,Investigating,-7863690.849866948,5489198.783739616
 WATERFORD,30,Assessing,Assessing,,Assessing,Investigating,-7864721.701672215,5489960.480925842
 LEWISTON,1331,Assessing,Assessing,,Assessing,Investigating,-7815820.674653408,5479578.70177029
+LEWISTON,18,Assessing,Assessing,,Assessing,Investigating,-7815635.461313062,5479940.36475901
