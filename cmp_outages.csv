@@ -1,8 +1,8 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-DIXFIELD,23,Assessing,Assessing,,Investigating,Investigating,-7842366.163369831,5550838.598859905
-GEORGETOWN,923,Assessing,Assessing,,Investigating,Investigating,-7767049.813951585,5442518.450069328
-ARROWSIC; GEORGETOWN,217,Assessing,Assessing,,Investigating,Investigating,-7769816.283524837,5450999.782876549
-WESTPORT,13,Assessing,Assessing,,Investigating,Investigating,-7759859.185475476,5449020.985883053
+FAYETTE,51,Assessing,Assessing,,Investigating,Investigating,-7797339.425792796,5530875.186023944
+LEBANON,14,Assessing,Assessing,,Investigating,Investigating,-7897220.761318814,5373882.554028453
+SOUTH THOMASTON,5,Assessing,Assessing,,Investigating,Investigating,-7695051.328174426,5470706.963223472
+BOWDOIN,7,Assessing,Assessing,,Investigating,Investigating,-7783317.841282247,5476791.3836268345
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -525,6 +525,7 @@ WINTHROP,27,Assessing,Assessing,,Assessing,Investigating,-7789742.993031909,5513
 WINTHROP,25,Assessing,Assessing,,Assessing,Investigating,-7789305.006520173,5513230.719928829
 WOOLWICH,11,Assessing,Assessing,,Assessing,Investigating,-7763088.977022694,5458537.023944455
 WOOLWICH,159,Assessing,Assessing,,Assessing,Investigating,-7765665.299632564,5456883.108623927
+"ARROWSIC,GEORGETOWN",1140,Assessing,Assessing,,Assessing,Investigating,-7769816.2810220355,5450999.784682941
 ARROWSIC,43,Assessing,Assessing,,Assessing,Investigating,-7768941.153945561,5448299.374400967
 ARROWSIC,2,Assessing,Assessing,,Assessing,Investigating,-7766938.071059031,5448426.406464774
 ARROWSIC,11,Assessing,Assessing,,Assessing,Investigating,-7766948.156549413,5447127.685646043
@@ -639,6 +640,7 @@ SIDNEY,7,Assessing,Assessing,,Assessing,Investigating,-7770947.242496839,5527590
 "AUGUSTA,BELGRADE,MANCHESTER,SIDNEY",248,Assessing,Assessing,,Assessing,Investigating,-7770410.181574503,5525762.192994004
 "SIDNEY,MANCHESTER",14,Assessing,Assessing,,Assessing,Investigating,-7773426.104903168,5526719.127908783
 WISCASSET,150,Assessing,Assessing,,Assessing,Investigating,-7756757.8590408,5464320.37497573
+WESTPORT,13,Assessing,Assessing,,Assessing,Investigating,-7759859.186676818,5449020.980881802
 WESTPORT,21,Assessing,Assessing,,Assessing,Investigating,-7758826.998976058,5447874.500330447
 WESTPORT,46,Assessing,Assessing,,Assessing,Investigating,-7758819.729838499,5447842.2188170925
 WESTPORT,9,Assessing,Assessing,,Assessing,Investigating,-7759628.399117608,5448791.401474426
@@ -997,5 +999,3 @@ HEBRON,37,Assessing,Assessing,,Assessing,Investigating,-7835057.80700115,5497894
 "HEBRON,TURNER,BUCKFIELD,MINOT",102,Assessing,Assessing,,Assessing,Investigating,-7833313.608727568,5493650.483264907
 "HEBRON,MINOT,TURNER,BUCKFIELD",103,Assessing,Assessing,,Assessing,Investigating,-7829122.986461422,5497926.682218053
 BUCKFIELD,26,Assessing,Assessing,,Assessing,Investigating,-7829767.0698919995,5502579.015043355
-HEBRON,17,Assessing,Assessing,,Assessing,Investigating,-7829768.216475566,5501476.079584308
-HEBRON,73,Assessing,Assessing,,Assessing,Investigating,-7830104.88005956,5501078.640909746
