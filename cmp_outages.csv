@@ -1,12 +1,17 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-SKOWHEGAN,13,Assessing,Assessing,,Investigating,Investigating,-7756980.891418333,5579616.728369291
-WINTHROP,94,Assessing,Assessing,,Investigating,Investigating,-7783598.037552915,5512642.01103865
-BINGHAM,31,Assessing,Assessing,,Investigating,Investigating,-7776682.422745717,5626697.609692728
-WINDHAM,36,Assessing,Assessing,,Investigating,Investigating,-7842010.702542922,5433658.422981198
-AUGUSTA,5,Assessing,Assessing,,Investigating,Investigating,-7758607.142353676,5512353.598954771
-MINOT,10,Assessing,Assessing,,Investigating,Investigating,-7828800.748226135,5484374.517115713
-HARTFORD,28,Assessing,Assessing,,Investigating,Investigating,-7833283.625662495,5525228.202153981
-POLAND,97,Assessing,Assessing,,Investigating,Investigating,-7828434.1134904055,5478196.989812393
+HOPE,4,Assessing,Assessing,,Investigating,Investigating,-7702411.816403037,5498127.918084935
+SKOWHEGAN; FAIRFIELD,229,Assessing,Assessing,,Investigating,Investigating,-7760343.309336488,5583415.570356804
+SKOWHEGAN,15,Assessing,Assessing,,Investigating,Investigating,-7761870.199240373,5584682.4845637465
+LIMERICK; LIMINGTON,69,Assessing,Assessing,,Investigating,Investigating,-7877475.479814526,5418862.437072085
+NORTH BERWICK; SANFORD,157,Assessing,Assessing,,Investigating,Investigating,-7877277.200347074,5371112.808755673
+AUGUSTA; MANCHESTER,26,Assessing,Assessing,,Investigating,Investigating,-7772066.223660077,5520671.546729383
+MANCHESTER,48,Assessing,Assessing,,Investigating,Investigating,-7776768.574790143,5515823.628268925
+SKOWHEGAN,42,Assessing,Assessing,,Investigating,Investigating,-7760964.533076378,5584749.475942867
+WINTHROP,103,Assessing,Assessing,,Investigating,Investigating,-7789843.618578959,5512796.311448623
+LINCOLNVILLE,44,Assessing,Assessing,,Investigating,Investigating,-7690916.657344106,5516019.272038529
+MONMOUTH,10,Assessing,Assessing,,Investigating,Investigating,-7791953.71886801,5506629.043664363
+LITCHFIELD,10,Assessing,Assessing,,Investigating,Investigating,-7788421.267903358,5486032.131158878
+WINTHROP; MONMOUTH,18,Assessing,Assessing,,Investigating,Investigating,-7791791.667256473,5507001.663660095
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -74,6 +79,7 @@ CHELSEA,3,Assessing,Assessing,,Assessing,Investigating,-7759625.360115549,550593
 AUGUSTA,51,Assessing,Assessing,,Assessing,Investigating,-7757651.554203636,5508930.953444083
 AUGUSTA,22,Assessing,Assessing,,Assessing,Investigating,-7758628.015320288,5514001.173746204
 AUGUSTA,27,Assessing,Assessing,,Assessing,Investigating,-7758278.427668213,5513969.420859588
+AUGUSTA,5,Assessing,Assessing,,Assessing,Investigating,-7758607.142954353,5512353.594058722
 AUGUSTA,31,Assessing,Assessing,,Assessing,Investigating,-7761238.27932646,5511403.359127206
 AUGUSTA,289,Assessing,Assessing,,Assessing,Investigating,-7767355.2964293435,5515626.752907358
 AUGUSTA,30,Assessing,Assessing,,Assessing,Investigating,-7769084.433242104,5516786.130674928
@@ -123,8 +129,6 @@ GARDINER,199,Assessing,Assessing,,Assessing,Investigating,-7767249.888028047,550
 GARDINER,20,Assessing,Assessing,,Assessing,Investigating,-7766946.364343092,5500721.501448242
 "GARDINER,FARMINGDALE",73,Assessing,Assessing,,Assessing,Investigating,-7767751.771970896,5502205.300669084
 BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7787084.2827917505,5450879.052024906
-HARPSWELL,2,Assessing,Assessing,,Assessing,Investigating,-7785998.405687439,5441489.494691998
-BRUNSWICK,372,Assessing,Assessing,,Assessing,Investigating,-7788747.607530024,5446921.5357787255
 BRUNSWICK,23,Assessing,Assessing,,Assessing,Investigating,-7789552.146885822,5451058.3593711285
 BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7789041.301711159,5451161.88188076
 BRUNSWICK,20,Assessing,Assessing,,Assessing,Investigating,-7793936.587525368,5451524.497764277
@@ -167,7 +171,6 @@ HARPSWELL,170,Assessing,Assessing,,Assessing,Investigating,-7780512.681396444,54
 HARPSWELL,64,Assessing,Assessing,,Assessing,Investigating,-7780986.145424116,5439542.749010054
 HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7781692.979702238,5439149.110041111
 BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7782975.34687083,5444512.72904662
-BRUNSWICK,14,Assessing,Assessing,,Assessing,Tree,-7784690.657705853,5441822.757197257
 BRUNSWICK,14,Assessing,Assessing,,Assessing,Tree,-7783631.374872965,5443892.770620804
 BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7782594.71216258,5446122.323880497
 BRUNSWICK,19,Assessing,Assessing,,Assessing,Investigating,-7780893.772515634,5449764.952172548
@@ -267,7 +270,6 @@ DURHAM,48,Assessing,Assessing,,Assessing,Investigating,-7799763.283423052,546026
 FREEPORT,9,Assessing,Assessing,,Assessing,Investigating,-7802408.791083348,5452396.361083948
 FREEPORT,364,Assessing,Assessing,,Assessing,Investigating,-7802602.219820567,5451156.921984793
 FREEPORT,21,Assessing,Assessing,,Assessing,Investigating,-7802899.543064327,5448146.610883138
-BRUNSWICK,106,Assessing,Assessing,,Assessing,Investigating,-7799085.971093798,5455528.2378812535
 DURHAM,21,Assessing,Assessing,,Assessing,Investigating,-7808734.955319694,5457564.894147372
 DURHAM,12,Assessing,Assessing,,Assessing,Investigating,-7809376.233509896,5455901.120806227
 DURHAM,71,Assessing,Assessing,,Assessing,Investigating,-7812743.002498933,5462602.608183595
@@ -498,13 +500,13 @@ WEST GARDINER,329,Assessing,Assessing,,Assessing,Investigating,-7778678.98222950
 WEST GARDINER,8,Assessing,Assessing,,Assessing,Investigating,-7773123.994900781,5497875.277463563
 WINTHROP,38,Assessing,Assessing,,Assessing,Investigating,-7783190.048722608,5515157.871103089
 WINTHROP,115,Assessing,Assessing,,Assessing,Investigating,-7784585.872702425,5510609.641313451
+WINTHROP,94,Assessing,Assessing,,Assessing,Investigating,-7783598.0346496655,5512642.014116262
 WINTHROP,33,Assessing,Assessing,,Assessing,Investigating,-7784015.115458144,5513915.701062339
 WINTHROP,19,Assessing,Assessing,,Assessing,Investigating,-7783983.689978335,5514137.987670476
 "WINTHROP,READFIELD",108,Assessing,Assessing,,Assessing,Investigating,-7784309.065625853,5515067.190780703
 WINTHROP,167,Assessing,Assessing,,Assessing,Investigating,-7788017.039983269,5513162.879524663
 WINTHROP,6,Assessing,Assessing,,Assessing,Investigating,-7787576.270456037,5513590.013265065
 WINTHROP,4,Assessing,Assessing,,Assessing,Investigating,-7788792.057390203,5513448.540500626
-"WINTHROP,WAYNE,LEEDS,MONMOUTH",257,Assessing,Assessing,,Assessing,Investigating,-7788774.424450697,5512991.655188711
 "WINTHROP,MONMOUTH",55,Assessing,Assessing,,Assessing,Investigating,-7788570.264500232,5512425.1770310365
 "WINTHROP,MONMOUTH",126,Assessing,Assessing,,Assessing,Investigating,-7788739.30313352,5510150.083175191
 WINTHROP,74,Assessing,Assessing,,Assessing,Investigating,-7787965.799621342,5511705.405362484
@@ -993,9 +995,7 @@ SWEDEN,22,Assessing,Assessing,,Assessing,Investigating,-7879769.970622808,548576
 SWEDEN,7,Assessing,Assessing,,Assessing,Investigating,-7887677.1721793115,5486356.4973606
 SWEDEN,111,Assessing,Assessing,,Assessing,Investigating,-7891156.017634328,5484732.468170474
 POLAND,28,Assessing,Assessing,,Assessing,Investigating,-7828655.344451313,5477552.558530154
+POLAND,97,Assessing,Assessing,,Assessing,Investigating,-7828434.108084355,5478196.9840983935
+MINOT,10,Assessing,Assessing,,Assessing,Investigating,-7828800.749928042,5484374.523809784
 MINOT,13,Assessing,Assessing,,Assessing,Investigating,-7828980.196913141,5484180.530671562
 MINOT,5,Assessing,Assessing,,Assessing,Investigating,-7829941.830430778,5484260.065732536
-"POLAND,MECHANIC FALLS",162,Assessing,Assessing,,Assessing,Investigating,-7833120.769950796,5478284.510260178
-POLAND,130,Assessing,Assessing,,Assessing,Investigating,-7836029.837658041,5474780.802285926
-POLAND,8,Assessing,Assessing,,Assessing,Investigating,-7838302.981669273,5472600.457136675
-POLAND,13,Assessing,Assessing,,Assessing,Investigating,-7836924.356543013,5471491.695064427
