@@ -1,9 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-MONROE,13,Assessing,Assessing,,Investigating,Investigating,-7681964.174228682,5563843.572752213
-WOOLWICH,159,Assessing,Assessing,,Investigating,Investigating,-7765665.2959284205,5456883.1066773385
-WOOLWICH,21,Assessing,Assessing,,Investigating,Investigating,-7769899.849974778,5459077.431951308
-"ACTON,LEBANON",1,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
-"ACTON,LEBANON",26,Assessing,Assessing,,Assessing,Investigating,-7897969.226901841,5384843.930235341
+READFIELD,20,Assessing,Assessing,,Investigating,Investigating,-7787263.479496669,5529257.0772043085
+MONSON,6,Assessing,Assessing,,Investigating,Investigating,-7737113.376777995,5665743.68069121
+"ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
 HERMON,29,Assessing,Assessing,,Assessing,Investigating,-7670760.290743335,5591379.681081254
@@ -416,14 +414,11 @@ BOWDOINHAM,11,Assessing,Assessing,,Assessing,Investigating,-7783007.729722381,54
 BOWDOIN,61,Assessing,Assessing,,Assessing,Investigating,-7786618.588862455,5466578.6462821
 TOPSHAM,287,Assessing,Assessing,,Assessing,Investigating,-7785609.733681691,5453549.06216239
 BOWDOINHAM,2,Assessing,Assessing,,Assessing,Investigating,-7780133.093059574,5464355.329425908
-BOWDOINHAM,267,12/19/2023 9:30:00 PM,12/19/2023 9:30:00 PM,,Assessing,Investigating,-7780197.892200116,5466977.779548751
 BOWDOINHAM,36,Assessing,Assessing,,Assessing,Investigating,-7779504.371726368,5467224.437456623
 BOWDOINHAM,81,Assessing,Assessing,,Assessing,Investigating,-7779403.304785196,5467294.770755486
 BOWDOINHAM,14,Assessing,Assessing,,Assessing,Investigating,-7776404.079349279,5467003.519187607
 BOWDOINHAM,102,Assessing,Assessing,,Assessing,Investigating,-7777596.455876255,5469097.572295059
 BOWDOINHAM,8,Assessing,Assessing,,Assessing,Investigating,-7779031.464221702,5467692.371873951
-"BOWDOINHAM,RICHMOND",33,Assessing,Assessing,,Assessing,Investigating,-7781388.532082975,5471735.129391415
-"BOWDOINHAM,RICHMOND",202,Assessing,Assessing,,Assessing,Investigating,-7781630.407054186,5473283.658542968
 BOWDOINHAM,16,Assessing,Assessing,,Assessing,Investigating,-7781238.551284315,5471316.014480227
 BOWDOINHAM,4,Assessing,Assessing,,Assessing,Investigating,-7780426.141617962,5469235.528100831
 "TOPSHAM,BOWDOINHAM",179,Assessing,Assessing,,Assessing,Investigating,-7784508.14949381,5459506.921265129
@@ -527,6 +522,7 @@ WINTHROP,84,Assessing,Assessing,,Assessing,Investigating,-7790143.765483714,5515
 WINTHROP,27,Assessing,Assessing,,Assessing,Investigating,-7789742.993031909,5513396.737220663
 WINTHROP,25,Assessing,Assessing,,Assessing,Investigating,-7789305.006520173,5513230.719928829
 WOOLWICH,11,Assessing,Assessing,,Assessing,Investigating,-7763088.977022694,5458537.023944455
+WOOLWICH,159,Assessing,Assessing,,Assessing,Investigating,-7765665.299632564,5456883.108623927
 ARROWSIC,43,Assessing,Assessing,,Assessing,Investigating,-7768941.153945561,5448299.374400967
 ARROWSIC,2,Assessing,Assessing,,Assessing,Investigating,-7766938.071059031,5448426.406464774
 ARROWSIC,11,Assessing,Assessing,,Assessing,Investigating,-7766948.156549413,5447127.685646043
@@ -535,7 +531,9 @@ GEORGETOWN,149,Assessing,Assessing,,Assessing,Investigating,-7760556.77029913,54
 GEORGETOWN,51,Assessing,Assessing,,Assessing,Investigating,-7760461.580937723,5438643.464076753
 GEORGETOWN,6,Assessing,Assessing,,Assessing,Investigating,-7766876.6337819835,5429670.328958416
 ARROWSIC,28,Assessing,Assessing,,Assessing,Investigating,-7769737.1439306205,5447861.649413649
+WOOLWICH,21,Assessing,Assessing,,Assessing,Investigating,-7769899.848473094,5459077.430838703
 WOOLWICH,236,Assessing,Assessing,,Assessing,Investigating,-7771086.536532011,5458328.499628893
+WOOLWICH,32,Assessing,Assessing,,Assessing,Investigating,-7771022.372001892,5457597.766303053
 WEST BATH,347,Assessing,Assessing,,Assessing,Investigating,-7777741.126630488,5450285.377061917
 WEST BATH,4,Assessing,Assessing,,Assessing,Investigating,-7777317.210870497,5447473.492815696
 WEST BATH,7,Assessing,Assessing,,Assessing,Investigating,-7777265.569759945,5449574.562551263
@@ -999,3 +997,5 @@ BUCKFIELD,26,Assessing,Assessing,,Assessing,Investigating,-7829767.0698919995,55
 HEBRON,17,Assessing,Assessing,,Assessing,Investigating,-7829768.216475566,5501476.079584308
 HEBRON,73,Assessing,Assessing,,Assessing,Investigating,-7830104.88005956,5501078.640909746
 "HEBRON,MINOT",134,Assessing,Assessing,,Assessing,Investigating,-7830839.944940932,5497194.774063918
+MINOT,108,Assessing,Assessing,,Assessing,Investigating,-7831239.615258931,5489770.729560004
+MINOT,83,Assessing,Assessing,,Assessing,Investigating,-7835425.907177396,5486784.723003307
