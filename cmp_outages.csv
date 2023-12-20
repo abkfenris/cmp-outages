@@ -1,7 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WOOLWICH; WISCASSET,485,Assessing,Assessing,,Investigating,Investigating,-7767627.684458939,5455075.764621982
-PROSPECT; STOCKTON SPRINGS,118,Assessing,Assessing,,Investigating,Investigating,-7665609.833873385,5551709.881989514
-WOOLWICH,14,Assessing,Assessing,,Investigating,Investigating,-7770335.442806869,5452789.065292175
+PARSONSFIELD,5,Assessing,Assessing,,Investigating,Investigating,-7901682.812641019,5420976.357991951
+WOOLWICH; GEORGETOWN; ARROWSIC; WISCASSET,353,Assessing,Assessing,,Investigating,Investigating,-7768232.375190663,5456286.123108365
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -999,3 +998,4 @@ MECHANIC FALLS,15,Assessing,Assessing,,Assessing,Investigating,-7835514.49524888
 "MINOT,HEBRON",228,Assessing,Assessing,,Assessing,Investigating,-7833336.284512377,5491925.086399832
 HEBRON,37,Assessing,Assessing,,Assessing,Investigating,-7835057.80700115,5497894.643511501
 "HEBRON,TURNER,BUCKFIELD,MINOT",102,Assessing,Assessing,,Assessing,Investigating,-7833313.608727568,5493650.483264907
+"HEBRON,MINOT,TURNER,BUCKFIELD",103,Assessing,Assessing,,Assessing,Investigating,-7829122.986461422,5497926.682218053
