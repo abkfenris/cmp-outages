@@ -1,8 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-FAYETTE,51,Assessing,Assessing,,Investigating,Investigating,-7797339.425792796,5530875.186023944
-LEBANON,14,Assessing,Assessing,,Investigating,Investigating,-7897220.761318814,5373882.554028453
-SOUTH THOMASTON,5,Assessing,Assessing,,Investigating,Investigating,-7695051.328174426,5470706.963223472
-BOWDOIN,7,Assessing,Assessing,,Investigating,Investigating,-7783317.841282247,5476791.3836268345
+WOOLWICH; WISCASSET,485,Assessing,Assessing,,Investigating,Investigating,-7767627.684458939,5455075.764621982
+PROSPECT; STOCKTON SPRINGS,118,Assessing,Assessing,,Investigating,Investigating,-7665609.833873385,5551709.881989514
+WOOLWICH,14,Assessing,Assessing,,Investigating,Investigating,-7770335.442806869,5452789.065292175
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -421,6 +420,7 @@ BOWDOINHAM,81,Assessing,Assessing,,Assessing,Investigating,-7779403.304785196,54
 BOWDOINHAM,14,Assessing,Assessing,,Assessing,Investigating,-7776404.079349279,5467003.519187607
 BOWDOINHAM,102,Assessing,Assessing,,Assessing,Investigating,-7777596.455876255,5469097.572295059
 BOWDOINHAM,8,Assessing,Assessing,,Assessing,Investigating,-7779031.464221702,5467692.371873951
+BOWDOIN,7,Assessing,Assessing,,Assessing,Investigating,-7783317.843484712,5476791.380839948
 BOWDOINHAM,16,Assessing,Assessing,,Assessing,Investigating,-7781238.551284315,5471316.014480227
 BOWDOINHAM,4,Assessing,Assessing,,Assessing,Investigating,-7780426.141617962,5469235.528100831
 "TOPSHAM,BOWDOINHAM",179,Assessing,Assessing,,Assessing,Investigating,-7784508.14949381,5459506.921265129
@@ -534,6 +534,7 @@ GEORGETOWN,149,Assessing,Assessing,,Assessing,Investigating,-7760556.77029913,54
 GEORGETOWN,51,Assessing,Assessing,,Assessing,Investigating,-7760461.580937723,5438643.464076753
 GEORGETOWN,6,Assessing,Assessing,,Assessing,Investigating,-7766876.6337819835,5429670.328958416
 ARROWSIC,28,Assessing,Assessing,,Assessing,Investigating,-7769737.1439306205,5447861.649413649
+WOOLWICH,5,Assessing,Assessing,,Assessing,Investigating,-7768197.740117815,5460363.023687442
 WOOLWICH,21,Assessing,Assessing,,Assessing,Investigating,-7769899.848473094,5459077.430838703
 WOOLWICH,236,Assessing,Assessing,,Assessing,Investigating,-7771086.536532011,5458328.499628893
 WOOLWICH,32,Assessing,Assessing,,Assessing,Investigating,-7771022.372001892,5457597.766303053
@@ -557,6 +558,7 @@ READFIELD,20,Assessing,Assessing,,Assessing,Investigating,-7787263.48500283,5529
 READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7789619.52861749,5526267.419514919
 READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7794253.30257763,5526453.256688087
 READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7792108.387514563,5527105.017929075
+FAYETTE,51,Assessing,Assessing,,Assessing,Investigating,-7797339.423990783,5530875.179155549
 FAYETTE,21,Assessing,Assessing,,Assessing,Investigating,-7799406.682519874,5531820.087026581
 READFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7794298.732034437,5528762.852765004
 "READFIELD,FAYETTE",63,Assessing,Assessing,,Assessing,Investigating,-7794298.487160314,5528758.598711975
@@ -997,5 +999,3 @@ MECHANIC FALLS,15,Assessing,Assessing,,Assessing,Investigating,-7835514.49524888
 "MINOT,HEBRON",228,Assessing,Assessing,,Assessing,Investigating,-7833336.284512377,5491925.086399832
 HEBRON,37,Assessing,Assessing,,Assessing,Investigating,-7835057.80700115,5497894.643511501
 "HEBRON,TURNER,BUCKFIELD,MINOT",102,Assessing,Assessing,,Assessing,Investigating,-7833313.608727568,5493650.483264907
-"HEBRON,MINOT,TURNER,BUCKFIELD",103,Assessing,Assessing,,Assessing,Investigating,-7829122.986461422,5497926.682218053
-BUCKFIELD,26,Assessing,Assessing,,Assessing,Investigating,-7829767.0698919995,5502579.015043355
