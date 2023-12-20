@@ -1,7 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PARSONSFIELD; NEWFIELD,351,Assessing,Assessing,,Investigating,Investigating,-7885783.816428763,5419878.705064948
-STANDISH,38,Assessing,Assessing,,Investigating,Investigating,-7861224.513683323,5427516.414560944
-FAYETTE; MOUNT VERNON,33,Assessing,Assessing,,Investigating,Investigating,-7795212.098018132,5529065.434736944
+LEBANON,95,Assessing,Assessing,,Investigating,Investigating,-7893336.124193145,5373961.500300584
+WOOLWICH,80,Assessing,Assessing,,Investigating,Investigating,-7769339.767780863,5457308.173748006
+AUBURN; MINOT,40,Assessing,Assessing,,Investigating,Investigating,-7824514.746485752,5490134.694529249
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -535,6 +535,7 @@ GEORGETOWN,51,Assessing,Assessing,,Assessing,Investigating,-7760461.580937723,54
 GEORGETOWN,6,Assessing,Assessing,,Assessing,Investigating,-7766876.6337819835,5429670.328958416
 ARROWSIC,28,Assessing,Assessing,,Assessing,Investigating,-7769737.1439306205,5447861.649413649
 WOOLWICH,5,Assessing,Assessing,,Assessing,Investigating,-7768197.740117815,5460363.023687442
+WOOLWICH,9,Assessing,Assessing,,Assessing,Investigating,-7764988.421489368,5460517.954668099
 WOOLWICH,21,Assessing,Assessing,,Assessing,Investigating,-7769899.848473094,5459077.430838703
 WOOLWICH,236,Assessing,Assessing,,Assessing,Investigating,-7771086.536532011,5458328.499628893
 WOOLWICH,32,Assessing,Assessing,,Assessing,Investigating,-7771022.372001892,5457597.766303053
@@ -560,6 +561,7 @@ READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7794253.30257763,55264
 READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7792108.387514563,5527105.017929075
 FAYETTE,51,Assessing,Assessing,,Assessing,Investigating,-7797339.423990783,5530875.179155549
 FAYETTE,21,Assessing,Assessing,,Assessing,Investigating,-7799406.682519874,5531820.087026581
+"FAYETTE,MOUNT VERNON",33,Assessing,Assessing,,Assessing,Investigating,-7795212.097317343,5529065.427449484
 READFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7794298.732034437,5528762.852765004
 "READFIELD,FAYETTE",63,Assessing,Assessing,,Assessing,Investigating,-7794298.487160314,5528758.598711975
 MOUNT VERNON,10,Assessing,Assessing,,Assessing,Investigating,-7792623.139963284,5531988.890426741
@@ -997,5 +999,3 @@ MECHANIC FALLS,11,Assessing,Assessing,,Assessing,Investigating,-7835522.32100956
 MINOT,18,Assessing,Assessing,,Assessing,Investigating,-7834073.497798816,5483102.230159645
 MINOT,61,Assessing,Assessing,,Assessing,Investigating,-7832326.149198553,5483189.865229071
 MECHANIC FALLS,15,Assessing,Assessing,,Assessing,Investigating,-7835514.49524888,5483580.945795645
-"MINOT,HEBRON",228,Assessing,Assessing,,Assessing,Investigating,-7833336.284512377,5491925.086399832
-HEBRON,37,Assessing,Assessing,,Assessing,Investigating,-7835057.80700115,5497894.643511501
