@@ -1,7 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-LEBANON,95,Assessing,Assessing,,Investigating,Investigating,-7893336.124193145,5373961.500300584
-WOOLWICH,80,Assessing,Assessing,,Investigating,Investigating,-7769339.767780863,5457308.173748006
-AUBURN; MINOT,40,Assessing,Assessing,,Investigating,Investigating,-7824514.746485752,5490134.694529249
+NEWFIELD,30,Assessing,Assessing,,Investigating,Investigating,-7887790.647811615,5411275.738757282
+SUMNER,6,Assessing,Assessing,,Investigating,Investigating,-7839894.324325931,5528697.479781413
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -537,6 +536,7 @@ ARROWSIC,28,Assessing,Assessing,,Assessing,Investigating,-7769737.1439306205,544
 WOOLWICH,5,Assessing,Assessing,,Assessing,Investigating,-7768197.740117815,5460363.023687442
 WOOLWICH,9,Assessing,Assessing,,Assessing,Investigating,-7764988.421489368,5460517.954668099
 WOOLWICH,21,Assessing,Assessing,,Assessing,Investigating,-7769899.848473094,5459077.430838703
+WOOLWICH,80,Assessing,Assessing,,Assessing,Investigating,-7769339.766779744,5457308.167212702
 WOOLWICH,236,Assessing,Assessing,,Assessing,Investigating,-7771086.536532011,5458328.499628893
 WOOLWICH,32,Assessing,Assessing,,Assessing,Investigating,-7771022.372001892,5457597.766303053
 WEST BATH,347,Assessing,Assessing,,Assessing,Investigating,-7777741.126630488,5450285.377061917
@@ -844,6 +844,7 @@ AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7824837.776106969,548766
 "AUBURN,MINOT",224,Assessing,Assessing,,Assessing,Investigating,-7824320.708166127,5484117.231873077
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7822930.761866178,5492634.502127862
 "AUBURN,MINOT",79,Assessing,Assessing,,Assessing,Investigating,-7823581.101500373,5491940.4978407705
+"MINOT,AUBURN",40,Assessing,Assessing,,Assessing,Investigating,-7824514.749188778,5490134.688249608
 AUBURN,6,Assessing,Assessing,,Assessing,Investigating,-7823653.403440056,5489501.136979625
 AUBURN,1,Assessing,Assessing,,Assessing,Investigating,-7820460.3151809815,5484245.225600674
 AUBURN,35,Assessing,Assessing,,Assessing,Investigating,-7819791.351898218,5481830.128762984
@@ -998,4 +999,3 @@ MECHANIC FALLS,25,Assessing,Assessing,,Assessing,Investigating,-7835504.84384444
 MECHANIC FALLS,11,Assessing,Assessing,,Assessing,Investigating,-7835522.321009564,5483671.981166999
 MINOT,18,Assessing,Assessing,,Assessing,Investigating,-7834073.497798816,5483102.230159645
 MINOT,61,Assessing,Assessing,,Assessing,Investigating,-7832326.149198553,5483189.865229071
-MECHANIC FALLS,15,Assessing,Assessing,,Assessing,Investigating,-7835514.49524888,5483580.945795645
