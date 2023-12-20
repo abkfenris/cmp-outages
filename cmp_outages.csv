@@ -1,6 +1,8 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-NEWFIELD,30,Assessing,Assessing,,Investigating,Investigating,-7887790.647811615,5411275.738757282
-SUMNER,6,Assessing,Assessing,,Investigating,Investigating,-7839894.324325931,5528697.479781413
+POLAND,28,Assessing,Assessing,,Investigating,Investigating,-7828655.343750529,5477552.566055387
+ALBION; FREEDOM,18,Assessing,Assessing,,Investigating,Investigating,-7724888.608545183,5544815.009174978
+KNOX,22,Assessing,Assessing,,Investigating,Investigating,-7704689.6037122905,5544273.965714683
+MINOT,13,Assessing,Assessing,,Investigating,Investigating,-7828980.193909781,5484180.533181788
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
@@ -403,6 +405,7 @@ BOWDOIN,3,Assessing,Assessing,,Assessing,Investigating,-7788972.261422791,546772
 TOPSHAM,5,Assessing,Assessing,,Assessing,Investigating,-7790252.33532414,5463995.1776389
 TOPSHAM,8,Assessing,Assessing,,Assessing,Investigating,-7790633.771629752,5463572.764692269
 TOPSHAM,54,Assessing,Assessing,,Assessing,Investigating,-7790773.143552111,5462350.629028308
+BOWDOIN,6,Assessing,Assessing,,Assessing,Investigating,-7786995.305184199,5464910.438791498
 BOWDOIN,6,Assessing,Assessing,,Assessing,Investigating,-7787303.34842865,5465008.453841571
 "BOWDOIN,BOWDOINHAM",64,Assessing,Assessing,,Assessing,Investigating,-7786399.122476931,5467158.066971725
 BOWDOIN,141,Assessing,Assessing,,Assessing,Investigating,-7789284.000504618,5471961.782986636
@@ -449,6 +452,7 @@ APPLETON,4,Assessing,Assessing,,Assessing,Investigating,-7704788.232323835,55123
 SEARSMONT,3,Assessing,Assessing,,Assessing,Investigating,-7702415.735690552,5514617.86362534
 "APPLETON,SEARSMONT",5,Assessing,Assessing,,Assessing,Investigating,-7708573.896552552,5511305.841703489
 "APPLETON,SEARSMONT",108,Assessing,Assessing,,Assessing,Investigating,-7708272.487835236,5511928.633420105
+"APPLETON,UNION",15,Assessing,Assessing,,Assessing,Investigating,-7711619.230405347,5506300.056125158
 APPLETON,16,Assessing,Assessing,,Assessing,Investigating,-7715271.9902519025,5510067.072539466
 APPLETON,8,Assessing,Assessing,,Assessing,Investigating,-7713590.776487445,5508533.019457791
 APPLETON,11,Assessing,Assessing,,Assessing,Investigating,-7712972.4635060495,5508107.987784556
@@ -536,9 +540,8 @@ ARROWSIC,28,Assessing,Assessing,,Assessing,Investigating,-7769737.1439306205,544
 WOOLWICH,5,Assessing,Assessing,,Assessing,Investigating,-7768197.740117815,5460363.023687442
 WOOLWICH,9,Assessing,Assessing,,Assessing,Investigating,-7764988.421489368,5460517.954668099
 WOOLWICH,21,Assessing,Assessing,,Assessing,Investigating,-7769899.848473094,5459077.430838703
-WOOLWICH,80,Assessing,Assessing,,Assessing,Investigating,-7769339.766779744,5457308.167212702
+WOOLWICH,11,Assessing,Assessing,,Assessing,Investigating,-7769941.114669263,5456622.736647728
 WOOLWICH,236,Assessing,Assessing,,Assessing,Investigating,-7771086.536532011,5458328.499628893
-WOOLWICH,32,Assessing,Assessing,,Assessing,Investigating,-7771022.372001892,5457597.766303053
 WEST BATH,347,Assessing,Assessing,,Assessing,Investigating,-7777741.126630488,5450285.377061917
 WEST BATH,4,Assessing,Assessing,,Assessing,Investigating,-7777317.210870497,5447473.492815696
 WEST BATH,7,Assessing,Assessing,,Assessing,Investigating,-7777265.569759945,5449574.562551263
@@ -553,37 +556,57 @@ MANCHESTER,19,Assessing,Assessing,,Assessing,Investigating,-7778406.872911925,55
 READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7780209.146599053,5523182.877801517
 READFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7778973.589232528,5523497.7263452485
 "MANCHESTER,BELGRADE",88,Assessing,Assessing,,Assessing,Investigating,-7778691.194000193,5526462.97790219
+"READFIELD,MOUNT VERNON",133,Assessing,Assessing,,Assessing,Investigating,-7788633.872407226,5525740.742725391
 "READFIELD,MOUNT VERNON",118,Assessing,Assessing,,Assessing,Investigating,-7788303.654238663,5528065.038603053
 MOUNT VERNON,32,Assessing,Assessing,,Assessing,Investigating,-7784395.182430833,5530865.281805277
 READFIELD,20,Assessing,Assessing,,Assessing,Investigating,-7787263.48500283,5529257.072018896
+READFIELD,115,Assessing,Assessing,,Assessing,Investigating,-7788966.8401538525,5525708.543951702
 READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7789619.52861749,5526267.419514919
 READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7794253.30257763,5526453.256688087
 READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7792108.387514563,5527105.017929075
+"READFIELD,FAYETTE,MOUNT VERNON",153,Assessing,Assessing,,Assessing,Investigating,-7793555.373869007,5528565.842555785
 FAYETTE,51,Assessing,Assessing,,Assessing,Investigating,-7797339.423990783,5530875.179155549
 FAYETTE,21,Assessing,Assessing,,Assessing,Investigating,-7799406.682519874,5531820.087026581
 "FAYETTE,MOUNT VERNON",33,Assessing,Assessing,,Assessing,Investigating,-7795212.097317343,5529065.427449484
 READFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7794298.732034437,5528762.852765004
 "READFIELD,FAYETTE",63,Assessing,Assessing,,Assessing,Investigating,-7794298.487160314,5528758.598711975
 MOUNT VERNON,10,Assessing,Assessing,,Assessing,Investigating,-7792623.139963284,5531988.890426741
-"MOUNT VERNON,FAYETTE,ROME,VIENNA,CHESTERVILLE",928,Assessing,Assessing,,Assessing,Investigating,-7792696.087625835,5532333.911499995
 MOUNT VERNON,14,Assessing,Assessing,,Assessing,Investigating,-7790698.359133374,5534355.273648995
+MOUNT VERNON,21,Assessing,Assessing,,Assessing,Investigating,-7793558.613295437,5534997.76088962
+FAYETTE,15,Assessing,Assessing,,Assessing,Investigating,-7794017.761697228,5537315.263854551
+MOUNT VERNON,4,Assessing,Assessing,,Assessing,Investigating,-7793905.896667945,5537863.683360952
+MOUNT VERNON,16,Assessing,Assessing,,Assessing,Investigating,-7791798.351539314,5540989.306604561
+MOUNT VERNON,3,Assessing,Assessing,,Assessing,Investigating,-7791596.963491904,5541293.536121564
 MOUNT VERNON,211,Assessing,Assessing,,Assessing,Investigating,-7790692.85997725,5543306.728040672
 ROME,7,Assessing,Assessing,,Assessing,Investigating,-7783310.318360579,5547100.9986855155
 ROME,61,Assessing,Assessing,,Assessing,Investigating,-7782392.166319054,5547123.998327147
 MOUNT VERNON,150,Assessing,Assessing,,Assessing,Investigating,-7787051.688503497,5543592.726504229
+"MOUNT VERNON,VIENNA",119,Assessing,Assessing,,Assessing,Investigating,-7791002.639865818,5543345.840779289
+"MOUNT VERNON,VIENNA",97,Assessing,Assessing,,Assessing,Investigating,-7791188.432054164,5543130.566436222
 VIENNA,56,Assessing,Assessing,,Assessing,Investigating,-7792515.761156182,5544381.828942207
 VIENNA,2,Assessing,Assessing,,Assessing,Investigating,-7793287.19415048,5544243.311624567
 MOUNT VERNON,38,Assessing,Assessing,,Assessing,Investigating,-7793522.078195573,5543773.095661997
+MOUNT VERNON,11,Assessing,Assessing,,Assessing,Investigating,-7793778.502654466,5538191.331359317
+MOUNT VERNON,4,Assessing,Assessing,,Assessing,Investigating,-7793995.998734295,5537448.1230922425
+"MOUNT VERNON,CHESTERVILLE,FAYETTE",162,Assessing,Assessing,,Assessing,Investigating,-7794131.107183837,5535842.5561015485
 MOUNT VERNON,14,Assessing,Assessing,,Assessing,Investigating,-7794400.277711542,5535893.301808164
 FAYETTE,39,Assessing,Assessing,,Assessing,Investigating,-7796664.126517093,5540490.378019482
 CHESTERVILLE,47,Assessing,Assessing,,Assessing,Investigating,-7797779.00238458,5541737.953765169
 FAYETTE,37,Assessing,Assessing,,Assessing,Investigating,-7796651.013036973,5537096.716436497
 FAYETTE,1,Assessing,Assessing,,Assessing,Investigating,-7796588.139852476,5536984.060091165
+MOUNT VERNON,6,Assessing,Assessing,,Assessing,Investigating,-7793710.976260851,5535544.9023528965
+MOUNT VERNON,8,Assessing,Assessing,,Assessing,Investigating,-7793662.5522517385,5535400.765206579
 MOUNT VERNON,10,Assessing,Assessing,,Assessing,Investigating,-7792769.491699326,5532776.223974653
+"READFIELD,MOUNT VERNON",45,Assessing,Assessing,,Assessing,Investigating,-7792544.258958553,5531636.930458778
+"MOUNT VERNON,READFIELD",39,Assessing,Assessing,,Assessing,Investigating,-7792518.154535491,5530476.27128711
 MOUNT VERNON,11,Assessing,Assessing,,Assessing,Investigating,-7793884.445454006,5533255.257695524
+READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7792436.312415884,5529767.790950672
+READFIELD,13,Assessing,Assessing,,Assessing,Investigating,-7790928.835043705,5526442.834548229
 READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7790815.823530967,5525508.593429399
 READFIELD,68,Assessing,Assessing,,Assessing,Investigating,-7789868.951037827,5525387.263743586
 READFIELD,15,Assessing,Assessing,,Assessing,Investigating,-7790672.588684191,5523233.397328894
+READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7787909.917262847,5525593.45822102
+READFIELD,9,Assessing,Assessing,,Assessing,Investigating,-7787671.660141705,5525836.467364314
 "MOUNT VERNON,BELGRADE",134,Assessing,Assessing,,Assessing,Investigating,-7783176.167182674,5529802.949418555
 BELGRADE,13,Assessing,Assessing,,Assessing,Investigating,-7781436.265819349,5534922.64782198
 BELGRADE,82,Assessing,Assessing,,Assessing,Investigating,-7781273.093753494,5535904.498977821
@@ -591,7 +614,6 @@ READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7785220.449490628,5526
 READFIELD,77,Assessing,Assessing,,Assessing,Investigating,-7785902.904777256,5524389.92616977
 READFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7786133.52534953,5521856.294709264
 READFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7785717.324025608,5523490.126385672
-READFIELD,24,Assessing,Assessing,,Assessing,Investigating,-7784944.777885177,5523548.839504707
 READFIELD,6,Assessing,Assessing,,Assessing,Investigating,-7783203.919150106,5521818.02146822
 "READFIELD,BELGRADE,MOUNT VERNON",140,Assessing,Assessing,,Assessing,Investigating,-7782220.622981834,5522846.643440023
 MOUNT VERNON,13,Assessing,Assessing,,Assessing,Investigating,-7780003.183229719,5531334.13020723
@@ -653,12 +675,6 @@ WISCASSET,52,Assessing,Assessing,,Assessing,Investigating,-7759645.174997668,546
 WISCASSET,14,Assessing,Assessing,,Assessing,Investigating,-7758314.127833394,5463565.167859843
 WISCASSET,108,Assessing,Assessing,,Assessing,Investigating,-7758156.900122056,5463633.2607318945
 WISCASSET,19,Assessing,Assessing,,Assessing,Investigating,-7759831.846570454,5461762.694113347
-"ROXBURY,BYRON",71,Assessing,Assessing,,Assessing,Investigating,-7866360.102008425,5566818.445041133
-"ROXBURY,BYRON",65,Assessing,Assessing,,Assessing,Investigating,-7865807.58998908,5567987.351893559
-ROXBURY,14,Assessing,Assessing,,Assessing,Investigating,-7865837.156387712,5567781.665355845
-ROXBURY,29,Assessing,Assessing,,Assessing,Investigating,-7866949.95052477,5566356.088060257
-"ANDOVER,RUMFORD",111,Assessing,Assessing,,Assessing,Investigating,-7874147.924523954,5564005.7202118
-"ANDOVER,RUMFORD",76,Assessing,Assessing,,Assessing,Investigating,-7871951.457349967,5559924.245392068
 "BETHEL,ALBANY,MASON,GILEAD,GREENWOOD",1500,Assessing,Assessing,,Assessing,Investigating,-7880053.234227254,5529461.857948831
 BETHEL,76,Assessing,Assessing,,Assessing,Investigating,-7877721.235630213,5530299.609661671
 BETHEL,17,Assessing,Assessing,,Assessing,Investigating,-7874135.924290084,5530482.287458475
@@ -977,25 +993,9 @@ SWEDEN,42,Assessing,Assessing,,Assessing,Investigating,-7877108.388467628,548400
 SWEDEN,22,Assessing,Assessing,,Assessing,Investigating,-7879769.970622808,5485765.222732462
 SWEDEN,7,Assessing,Assessing,,Assessing,Investigating,-7887677.1721793115,5486356.4973606
 SWEDEN,111,Assessing,Assessing,,Assessing,Investigating,-7891156.017634328,5484732.468170474
-MINOT,26,Assessing,Assessing,,Assessing,Investigating,-7828134.4025737215,5478867.351959014
-POLAND,178,Assessing,Assessing,,Assessing,Investigating,-7828154.106131218,5478637.366113407
-MINOT,248,Assessing,Assessing,,Assessing,Investigating,-7829429.482473802,5479323.063298604
 MINOT,5,Assessing,Assessing,,Assessing,Investigating,-7829941.830430778,5484260.065732536
 "POLAND,MECHANIC FALLS",162,Assessing,Assessing,,Assessing,Investigating,-7833120.769950796,5478284.510260178
 POLAND,130,Assessing,Assessing,,Assessing,Investigating,-7836029.837658041,5474780.802285926
 POLAND,8,Assessing,Assessing,,Assessing,Investigating,-7838302.981669273,5472600.457136675
 POLAND,13,Assessing,Assessing,,Assessing,Investigating,-7836924.356543013,5471491.695064427
 POLAND,108,Assessing,Assessing,,Assessing,Investigating,-7836120.295923145,5467568.664268116
-POLAND,84,Assessing,Assessing,,Assessing,Investigating,-7835606.1556597445,5475060.232944729
-POLAND,32,Assessing,Assessing,,Assessing,Investigating,-7832705.214249622,5477954.958986063
-POLAND,86,Assessing,Assessing,,Assessing,Investigating,-7832742.695608793,5478001.634116399
-POLAND,22,Assessing,Assessing,,Assessing,Investigating,-7832366.758559418,5475605.083636478
-POLAND,56,Assessing,Assessing,,Assessing,Investigating,-7832629.906645196,5475086.490961685
-MECHANIC FALLS,11,Assessing,Assessing,,Assessing,Investigating,-7835700.866285228,5483176.344692076
-MECHANIC FALLS,45,Assessing,Assessing,,Assessing,Investigating,-7835253.295143805,5481801.122823564
-"MECHANIC FALLS,OXFORD",79,Assessing,Assessing,,Assessing,Investigating,-7836662.087841686,5483162.079976864
-OXFORD,19,Assessing,Assessing,,Assessing,Investigating,-7837812.463449988,5486685.389243877
-MECHANIC FALLS,25,Assessing,Assessing,,Assessing,Investigating,-7835504.84384444,5483706.745740733
-MECHANIC FALLS,11,Assessing,Assessing,,Assessing,Investigating,-7835522.321009564,5483671.981166999
-MINOT,18,Assessing,Assessing,,Assessing,Investigating,-7834073.497798816,5483102.230159645
-MINOT,61,Assessing,Assessing,,Assessing,Investigating,-7832326.149198553,5483189.865229071
