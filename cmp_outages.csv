@@ -1,7 +1,11 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+LITCHFIELD; MONMOUTH,41,Assessing,Assessing,,Investigating,Investigating,-7790190.633150549,5491959.473501817
+SUMNER,4,Assessing,Assessing,,Investigating,Investigating,-7839687.710228132,5527465.765344197
+POLAND,22,Assessing,Assessing,,Investigating,Investigating,-7827956.601130755,5477935.9635349065
+WOOLWICH,79,Assessing,Assessing,,Investigating,Investigating,-7766683.428695134,5460794.915855369
 POLAND,28,Assessing,Assessing,,Investigating,Investigating,-7828655.343750529,5477552.566055387
 ALBION; FREEDOM,18,Assessing,Assessing,,Investigating,Investigating,-7724888.608545183,5544815.009174978
-KNOX,22,Assessing,Assessing,,Investigating,Investigating,-7704689.6037122905,5544273.965714683
+RAYMOND,2,Assessing,Assessing,,Investigating,Investigating,-7848561.521172595,5452294.044722464
 MINOT,13,Assessing,Assessing,,Investigating,Investigating,-7828980.193909781,5484180.533181788
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,21,Assessing,Assessing,,Assessing,Investigating,-7900874.142360779,5405625.568924602
@@ -478,9 +482,6 @@ WALDOBORO,2,Assessing,Assessing,,Assessing,Investigating,-7728454.722694683,5485
 WARREN,10,Assessing,Assessing,,Assessing,Investigating,-7706719.658893435,5488923.917475008
 "UNION,WARREN",22,Assessing,Assessing,,Assessing,Investigating,-7708105.742369077,5493926.795406036
 WARREN,227,Assessing,Assessing,,Assessing,Investigating,-7709408.369718283,5483088.632223226
-WARREN,64,Assessing,Assessing,,Assessing,Investigating,-7710131.857339281,5483394.985860392
-WARREN,12,Assessing,Assessing,,Assessing,Investigating,-7711947.255518854,5482504.71584173
-WARREN,30,Assessing,Assessing,,Assessing,Investigating,-7711935.912120286,5482527.754938136
 WARREN,10,Assessing,Assessing,,Assessing,Investigating,-7709578.543822688,5483330.095298863
 GARDINER,53,Assessing,Assessing,,Assessing,Investigating,-7767723.218506216,5499895.841680899
 "FARMINGDALE,WEST GARDINER",133,Assessing,Assessing,,Assessing,Investigating,-7769492.864467657,5503084.762666764
@@ -596,7 +597,6 @@ FAYETTE,37,Assessing,Assessing,,Assessing,Investigating,-7796651.013036973,55370
 FAYETTE,1,Assessing,Assessing,,Assessing,Investigating,-7796588.139852476,5536984.060091165
 MOUNT VERNON,6,Assessing,Assessing,,Assessing,Investigating,-7793710.976260851,5535544.9023528965
 MOUNT VERNON,8,Assessing,Assessing,,Assessing,Investigating,-7793662.5522517385,5535400.765206579
-MOUNT VERNON,10,Assessing,Assessing,,Assessing,Investigating,-7792769.491699326,5532776.223974653
 "READFIELD,MOUNT VERNON",45,Assessing,Assessing,,Assessing,Investigating,-7792544.258958553,5531636.930458778
 "MOUNT VERNON,READFIELD",39,Assessing,Assessing,,Assessing,Investigating,-7792518.154535491,5530476.27128711
 MOUNT VERNON,11,Assessing,Assessing,,Assessing,Investigating,-7793884.445454006,5533255.257695524
@@ -711,8 +711,8 @@ BRIDGTON,61,Assessing,Assessing,,Assessing,Investigating,-7875173.700246711,5476
 BRIDGTON,60,Assessing,Assessing,,Assessing,Investigating,-7872673.531288396,5477002.277398613
 BRIDGTON,54,Assessing,Assessing,,Assessing,Investigating,-7873426.25133415,5478978.813403169
 WOODSTOCK,5,Assessing,Assessing,,Assessing,Investigating,-7862823.448338978,5529224.736233134
-"PARIS,SUMNER,WEST PARIS,BUCKFIELD",301,Assessing,Assessing,,Assessing,Investigating,-7848736.133745724,5503154.5172861125
 WEST PARIS,15,Assessing,Assessing,,Assessing,Investigating,-7850863.516081474,5511277.659849838
+WEST PARIS,6,Assessing,Assessing,,Assessing,Investigating,-7850970.494039838,5512967.372639703
 "PARIS,SUMNER,WEST PARIS",46,Assessing,Assessing,,Assessing,Investigating,-7848274.558627302,5507204.008277098
 PARIS,15,Assessing,Assessing,,Assessing,Investigating,-7847056.077777387,5510126.305776835
 "PARIS,SUMNER,WEST PARIS",87,Assessing,Assessing,,Assessing,Investigating,-7846219.4227691535,5510607.044108371
