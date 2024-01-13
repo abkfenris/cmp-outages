@@ -1,17 +1,12 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WELLS,14,Assessing,Assessing,,Investigating,Investigating,-7853247.353710635,5362113.925142821
 PHIPPSBURG,202,1/13/2024 5:30:00 PM,1/13/2024 5:30:00 PM,,Assessing,Tree,-7776247.219049249,5428929.674688833
 BRISTOL,1,Assessing,Assessing,,Assessing,Investigating,-7736909.983485784,5447039.529330733
 HARPSWELL,4,Assessing,Assessing,,Assessing,Investigating,-7789655.729643371,5428755.560462681
 HARPSWELL,7,1/13/2024 8:00:00 PM,1/13/2024 8:00:00 PM,,Assessing,Tree,-7781878.2710298905,5434484.80695497
 BREMEN,3,Assessing,Assessing,,Assessing,Investigating,-7730854.648433955,5468101.352173732
-GEORGETOWN,3,Assessing,Assessing,,Assessing,Investigating,-7760166.606623513,5438638.896694877
-GEORGETOWN,1,Assessing,Assessing,,Assessing,Investigating,-7761844.057675732,5441949.406578258
 WESTPORT,2,Assessing,Assessing,,Assessing,Investigating,-7755669.265795854,5460776.998454187
 WESTPORT,12,1/13/2024 8:00:00 PM,1/13/2024 8:00:00 PM,,Assessing,Tree,-7755896.624716813,5458451.866171108
 BIDDEFORD,207,Assessing,Assessing,,Assessing,Investigating,-7833541.613271288,5378607.458748747
-BIDDEFORD,133,Assessing,Assessing,,Assessing,Investigating,-7835985.933308544,5381770.486561122
-BIDDEFORD,21,Assessing,Assessing,,Assessing,Investigating,-7838455.500509187,5384116.353230306
 KENNEBUNKPORT,10,Assessing,Assessing,,Assessing,Investigating,-7842014.584989195,5366435.838059
 KENNEBUNKPORT,2292,Assessing,Assessing,,Assessing,Investigating,-7844405.88347054,5367465.537989163
 WELLS,9,Assessing,Assessing,,Crew Assigned,Investigating,-7858061.801629428,5353815.057105866
@@ -19,7 +14,6 @@ WELLS,44,Assessing,Assessing,,Assessing,Investigating,-7858062.3360276725,535381
 "WELLS,OGUNQUIT",89,Assessing,Assessing,,Assessing,Investigating,-7857434.249204778,5353575.382757953
 WELLS,198,Assessing,Assessing,,Assessing,Investigating,-7857352.028561427,5353747.156829885
 WELLS,64,Assessing,Assessing,,Crew Assigned,Investigating,-7856889.273522123,5354869.339578147
-OLD ORCHARD BEACH,1,Assessing,Assessing,,Assessing,Investigating,-7832462.715880536,5393242.19780736
 OLD ORCHARD BEACH,46,Assessing,Assessing,,Assessing,Investigating,-7835195.030518442,5388748.295460446
 YORK,129,Assessing,Assessing,,Assessing,Investigating,-7861323.963714419,5337942.47435742
 YORK,18,Assessing,Assessing,,Assessing,Investigating,-7861693.7782097915,5337803.578367785
@@ -40,8 +34,8 @@ YORK,10,Assessing,Assessing,,Assessing,Investigating,-7859213.234821664,5337252.
 YORK,8,Assessing,Assessing,,Crew Assigned,Investigating,-7860314.696672593,5337767.007831761
 YORK,16,Assessing,Assessing,,Assessing,Investigating,-7862311.734892322,5337269.94687875
 YORK,81,Assessing,Assessing,,Assessing,Investigating,-7862254.038002514,5337340.7184088165
-WELLS,249,Assessing,Assessing,,Crew Assigned,Investigating,-7857794.067209403,5357311.631395668
-WELLS,968,Assessing,Assessing,,Assessing,Investigating,-7858024.287033053,5356411.9348337045
+WELLS,474,Assessing,Assessing,,Assessing,Investigating,-7858024.287033053,5356411.9348337045
+WELLS,486,Assessing,Assessing,,Assessing,Investigating,-7857327.471570666,5356160.570807474
 WELLS,8,Assessing,Assessing,,Crew Assigned,Investigating,-7856213.653186996,5356312.342676301
 FRENCHTOWN,123,1/13/2024 6:00:00 PM,1/13/2024 6:00:00 PM,,Assessing,Tree,-7737586.104681605,5716783.609938279
 BIDDEFORD,5,Assessing,Assessing,,Assessing,Investigating,-7840694.992648236,5385331.145745698
