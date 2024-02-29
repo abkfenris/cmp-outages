@@ -1,7 +1,5 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-GORHAM,2,Assessing,Assessing,,Investigating,Investigating,-7840646.734624935,5412117.033683925
-GORHAM,9,Assessing,Assessing,,Investigating,Investigating,-7840434.731794621,5413020.645340921
-GORHAM,12,Assessing,Assessing,,Investigating,Investigating,-7840238.683524922,5412249.652486862
+NEW PORTLAND,12,Assessing,Assessing,,Investigating,Investigating,-7803174.293838935,5603186.832130139
 YORK,29,Assessing,Assessing,,Investigating,Investigating,-7874499.74747838,5338960.899518695
 "ACTON,LEBANON",170,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 ACTON,10,Assessing,Assessing,,Assessing,Investigating,-7899329.473153543,5388063.748844251
@@ -15,9 +13,10 @@ HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7781878.2710298905,543
 "ROXBURY,RUMFORD",39,Assessing,Assessing,,Assessing,Investigating,-7862463.819646281,5562500.655568571
 BRIDGTON,7,Assessing,Assessing,,Assessing,Investigating,-7869694.577145536,5473172.947842408
 NAPLES,4,Assessing,Assessing,,Assessing,Investigating,-7862485.048210976,5462561.68886703
+BRIDGTON,2,Assessing,Assessing,,Assessing,Investigating,-7873325.75212854,5476610.4237112
 DENMARK,24,Assessing,Assessing,,Assessing,Investigating,-7882705.788475976,5462370.291351693
-AUBURN,1133,2/29/2024 3:00:00 AM,2/29/2024 3:00:00 AM,,Assessing,Investigating,-7822104.236898197,5476025.246588119
 HANOVER,9,Assessing,Assessing,,Assessing,Investigating,-7874805.343983786,5540902.035800823
+BRIDGTON,26,Assessing,Assessing,,Assessing,Investigating,-7883233.298105959,5475570.070984139
 NAPLES,47,Assessing,Assessing,,Assessing,Investigating,-7856082.63021101,5457546.216168598
 LIVERMORE,13,2/29/2024 4:15:00 AM,2/29/2024 4:15:00 AM,,Assessing,Investigating,-7819576.8837080095,5526402.142937393
 SOUTH BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7879750.378490046,5348418.116420559
@@ -44,11 +43,13 @@ FALMOUTH,874,Assessing,Assessing,,Assessing,Investigating,-7824517.799303286,542
 CORNISH,5,Assessing,Assessing,,Assessing,Investigating,-7885575.549280421,5423681.071239641
 LIMERICK,23,Assessing,Assessing,,Assessing,Investigating,-7882417.003490524,5419918.446488341
 NEWFIELD,226,Assessing,Assessing,,Assessing,Investigating,-7896785.332970859,5404576.785848639
+"ACTON,WATERBORO",46,Assessing,Assessing,,Assessing,Investigating,-7899107.5688388385,5403353.440364185
 SHAPLEIGH,13,Assessing,Assessing,,Assessing,Investigating,-7885103.387710809,5405471.388814303
 DAYTON,14,Assessing,Assessing,,Assessing,Investigating,-7857864.398843394,5393770.961417284
+GORHAM,270,Assessing,Assessing,,Assessing,Investigating,-7841034.283273118,5414475.140293682
+GORHAM,12,Assessing,Assessing,,Assessing,Investigating,-7840238.682924251,5412249.655392648
 STANDISH,198,Assessing,Assessing,,Assessing,Investigating,-7864800.649451702,5424186.482649427
 YORK,19,Assessing,Assessing,,Assessing,Investigating,-7859676.156948018,5345388.117649628
-SANFORD,2,Assessing,Assessing,,Assessing,Investigating,-7881306.146221725,5386178.752176987
 SANFORD,131,Assessing,Assessing,,Assessing,Investigating,-7877115.5017307,5382077.294380239
 STANDISH,9,Assessing,Assessing,,Assessing,Investigating,-7851800.826169819,5432134.775232685
 "YORK,ELIOT",119,Assessing,Assessing,,Assessing,Investigating,-7874492.00190746,5338898.089395353
@@ -71,13 +72,15 @@ ELIOT,21,Assessing,Assessing,,Assessing,Investigating,-7877081.560434516,5333184
 ELIOT,60,Assessing,Assessing,,Assessing,Investigating,-7882138.348545325,5332978.317413125
 KITTERY,32,Assessing,Assessing,,Assessing,Investigating,-7870290.492653687,5327443.097345437
 SOUTH PORTLAND,16,Assessing,Assessing,,Assessing,Investigating,-7820632.09227989,5409595.808707161
+"CAPE ELIZABETH,SOUTH PORTLAND",51,Assessing,Assessing,,Assessing,Investigating,-7817545.113807292,5409046.206299081
 BALDWIN,45,Assessing,Assessing,,Assessing,Investigating,-7867590.3938804,5437509.661115368
 BALDWIN,24,Assessing,Assessing,,Assessing,Investigating,-7878283.844352493,5437177.110041651
 CORNISH,31,Assessing,Assessing,,Assessing,Investigating,-7881129.827338434,5433840.647226328
-"SCARBOROUGH,WESTBROOK",43,Assessing,Assessing,,Assessing,Investigating,-7832780.967252656,5408759.6206439305
+"SCARBOROUGH,WESTBROOK",18,Assessing,Assessing,,Assessing,Investigating,-7832807.194112783,5408838.260562568
 LEBANON,36,Assessing,Assessing,,Assessing,Investigating,-7885815.554058013,5371875.099390208
+"LEBANON,ACTON",115,Assessing,Assessing,,Assessing,Investigating,-7890939.222939679,5378860.304908752
 DOVER-FOXCROFT,8,Assessing,Assessing,,Assessing,Investigating,-7710995.429380262,5649895.795158576
-ABBOT,11,Assessing,Assessing,,Assessing,Investigating,-7731676.765167064,5650799.258097467
+ABBOT,11,2/29/2024 3:00:00 AM,2/29/2024 3:00:00 AM,,Assessing,Investigating,-7731676.765167064,5650799.258097467
 "LONG POND TWP,JACKMAN",89,2/29/2024 3:15:00 AM,2/29/2024 3:15:00 AM,,Assessing,Investigating,-7807251.289103329,5719831.814807378
 JACKMAN,32,2/29/2024 2:15:00 AM,2/29/2024 2:15:00 AM,,Assessing,Investigating,-7815968.484722003,5721026.612602904
 "BLANCHARD,SHIRLEY",31,Assessing,Assessing,,Assessing,Investigating,-7746035.020269454,5664085.347335913
