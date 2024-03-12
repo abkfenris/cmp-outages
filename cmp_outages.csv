@@ -1,5 +1,4 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PARIS,17,Assessing,Assessing,,Investigating,Investigating,-7848054.606798343,5504272.768986433
 BRISTOL,28,Assessing,Assessing,,Assessing,Investigating,-7735229.42645652,5465956.67174185
 NOBLEBORO,18,Assessing,Assessing,,Assessing,Investigating,-7738614.084471743,5478363.575786052
 WISCASSET,62,Assessing,Assessing,,Assessing,Investigating,-7755394.150713411,5471025.130888581
@@ -8,6 +7,7 @@ RUMFORD,9,Assessing,Assessing,,Assessing,Investigating,-7864117.325893073,555714
 "BETHEL,ALBANY,MASON",115,Assessing,Assessing,,Assessing,Investigating,-7888189.33092447,5527785.2765999
 "ALBANY,MASON,BETHEL",101,Assessing,Assessing,,Assessing,Investigating,-7886685.282190535,5522242.041320912
 BRIDGTON,18,Assessing,Assessing,,Assessing,Investigating,-7875914.241959223,5476965.353422074
+PARIS,17,Assessing,Assessing,,Assessing,Investigating,-7848054.602493523,5504272.776673424
 BROWNFIELD,14,Assessing,Assessing,,Assessing,Investigating,-7898822.26815394,5455197.369260834
 BROWNFIELD,57,Assessing,Assessing,,Assessing,Investigating,-7897752.9441803275,5452769.441663555
 BROWNFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7892066.021053738,5456476.003422565
@@ -19,15 +19,13 @@ LIVERMORE FALLS,5,Assessing,Assessing,,Assessing,Investigating,-7808439.26850786
 LOVELL,41,Assessing,Assessing,,Assessing,Investigating,-7888470.991534418,5495294.912391737
 LOVELL,9,Assessing,Assessing,,Assessing,Investigating,-7888390.763521752,5495224.612137332
 LOVELL,82,Assessing,Assessing,,Assessing,Investigating,-7894454.202645824,5494546.789746075
-"POLAND,RAYMOND",106,Assessing,Assessing,,Assessing,Investigating,-7840503.556541703,5470089.658119174
 POLAND,8,Assessing,Assessing,,Assessing,Investigating,-7837990.741626643,5464584.323120451
 WATERFORD,20,Assessing,Assessing,,Assessing,Investigating,-7878221.34959163,5501162.502125846
 RAYMOND,145,Assessing,Assessing,,Assessing,Investigating,-7843961.2066692365,5457886.091155725
 GREENE,55,Assessing,Assessing,,Assessing,Investigating,-7808056.463069557,5497447.402315306
 NAPLES,39,Assessing,Assessing,,Assessing,Investigating,-7856180.825137055,5457945.390149211
 "WAYNE,LEEDS",30,Assessing,Assessing,,Assessing,Investigating,-7804247.633207657,5518617.542180606
-ISLESBORO,2,Assessing,Assessing,,Assessing,Investigating,-7666509.633870387,5522848.138311629
-WILTON,21,Assessing,Assessing,,Assessing,Investigating,-7818220.489168177,5556979.648403084
+ISLESBORO,2,Assessing,Assessing,,Crew Assigned,Investigating,-7666509.633870387,5522848.138311629
 "NEW PORTLAND,HIGHLAND PLT,LEXINGTON",247,Assessing,Assessing,,Assessing,Investigating,-7795337.020064319,5610236.864500546
 FARMINGTON,3,Assessing,Assessing,,Assessing,Investigating,-7807952.969311641,5565814.94368403
 TEMPLE,1,Assessing,Assessing,,Assessing,Investigating,-7818551.7537081195,5570762.5026757475
