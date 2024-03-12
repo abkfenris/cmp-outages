@@ -1,11 +1,11 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-HERMON,26,3/14/2024 12:00:00 AM,3/14/2024 12:00:00 AM,,Assessing,Investigating,-7667207.072830754,5597765.999527693
+GREENE,13,Assessing,Assessing,,Investigating,Investigating,-7808926.893388155,5498893.424178726
+GREENE,55,Assessing,Assessing,,Investigating,Investigating,-7808056.458264178,5497447.397287578
 NOBLEBORO,18,Assessing,Assessing,,Assessing,Investigating,-7738614.084471743,5478363.575786052
 WISCASSET,62,Assessing,Assessing,,Assessing,Investigating,-7755394.150713411,5471025.130888581
 BOWDOIN,1,Assessing,Assessing,,Assessing,Investigating,-7787886.81840442,5473348.32314152
 GEORGETOWN,2,Assessing,Assessing,,Assessing,Investigating,-7761304.547811886,5434281.931997683
 SIDNEY,4,3/12/2024 3:30:00 AM,3/12/2024 3:30:00 AM,,Crew Assigned,Investigating,-7770095.2030662475,5530611.789586592
-"ANDOVER,RUMFORD,HANOVER",129,Assessing,Assessing,,Assessing,Investigating,-7875269.891429634,5561699.750519292
 RUMFORD,9,Assessing,Assessing,,Assessing,Investigating,-7864117.325893073,5557140.587828211
 "BETHEL,ALBANY,MASON",180,Assessing,Assessing,,Assessing,Investigating,-7888189.33092447,5527785.2765999
 BETHEL,36,Assessing,Assessing,,Assessing,Investigating,-7886164.217875886,5521199.957403661
@@ -20,12 +20,10 @@ LIVERMORE FALLS,5,Assessing,Assessing,,Assessing,Investigating,-7808439.26850786
 LIVERMORE FALLS,17,Assessing,Assessing,,Assessing,Investigating,-7812335.172346263,5539059.65176692
 "GREENWOOD,BETHEL",39,Assessing,Assessing,,Assessing,Investigating,-7870530.074457767,5527969.181543027
 LOVELL,41,Assessing,Assessing,,Assessing,Investigating,-7888470.991534418,5495294.912391737
-"LOVELL,STONEHAM,STOW",363,Assessing,Assessing,,Assessing,Investigating,-7891761.673546543,5489434.527446119
+LOVELL,82,Assessing,Assessing,,Assessing,Investigating,-7894454.202645824,5494546.789746075
 POLAND,8,Assessing,Assessing,,Assessing,Investigating,-7837990.741626643,5464584.323120451
-"OXFORD,OTISFIELD",819,Assessing,Assessing,,Assessing,Investigating,-7848092.673713023,5485814.946557543
 WATERFORD,20,Assessing,Assessing,,Assessing,Investigating,-7878221.34959163,5501162.502125846
 RAYMOND,145,Assessing,Assessing,,Assessing,Investigating,-7843961.2066692365,5457886.091155725
-JAY,4,Assessing,Assessing,,Assessing,Investigating,-7820695.900611255,5544335.281644809
 BUCKFIELD,23,Assessing,Assessing,,Assessing,Investigating,-7829884.567626917,5505575.513113388
 WALES,4,Assessing,Assessing,,Assessing,Investigating,-7801737.078122411,5497077.888455273
 NAPLES,39,Assessing,Assessing,,Assessing,Investigating,-7856180.825137055,5457945.390149211
@@ -35,6 +33,7 @@ HOLLIS,1,Assessing,Assessing,,Assessing,Investigating,-7860422.665440142,5414585
 "NORTH YARMOUTH,POWNAL",83,Assessing,Assessing,,Assessing,Investigating,-7811767.531991235,5441243.171321394
 PORTER,3,3/12/2024 3:15:00 AM,3/12/2024 3:15:00 AM,,Crew Assigned,Tree,-7900307.648589322,5441791.670024987
 ISLESBORO,2,Assessing,Assessing,,Assessing,Investigating,-7666509.633870387,5522848.138311629
+"CARMEL,NEWBURGH",74,Assessing,Assessing,,Assessing,Investigating,-7688790.797712976,5582786.06128494
 WILTON,21,Assessing,Assessing,,Assessing,Investigating,-7818220.489168177,5556979.648403084
 "NEW PORTLAND,HIGHLAND PLT,LEXINGTON",247,Assessing,Assessing,,Assessing,Investigating,-7795337.020064319,5610236.864500546
 FARMINGTON,3,Assessing,Assessing,,Assessing,Investigating,-7807952.969311641,5565814.94368403
