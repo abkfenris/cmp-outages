@@ -1,11 +1,12 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
+PARIS,17,Assessing,Assessing,,Investigating,Investigating,-7848054.606798343,5504272.768986433
 BRISTOL,28,Assessing,Assessing,,Assessing,Investigating,-7735229.42645652,5465956.67174185
 NOBLEBORO,18,Assessing,Assessing,,Assessing,Investigating,-7738614.084471743,5478363.575786052
 WISCASSET,62,Assessing,Assessing,,Assessing,Investigating,-7755394.150713411,5471025.130888581
 GEORGETOWN,2,Assessing,Assessing,,Assessing,Investigating,-7761304.547811886,5434281.931997683
 RUMFORD,9,Assessing,Assessing,,Assessing,Investigating,-7864117.325893073,5557140.587828211
-"BETHEL,ALBANY,MASON",180,Assessing,Assessing,,Assessing,Investigating,-7888189.33092447,5527785.2765999
-BETHEL,36,Assessing,Assessing,,Assessing,Investigating,-7886164.217875886,5521199.957403661
+"BETHEL,ALBANY,MASON",115,Assessing,Assessing,,Assessing,Investigating,-7888189.33092447,5527785.2765999
+"ALBANY,MASON,BETHEL",101,Assessing,Assessing,,Assessing,Investigating,-7886685.282190535,5522242.041320912
 BRIDGTON,18,Assessing,Assessing,,Assessing,Investigating,-7875914.241959223,5476965.353422074
 BROWNFIELD,14,Assessing,Assessing,,Assessing,Investigating,-7898822.26815394,5455197.369260834
 BROWNFIELD,57,Assessing,Assessing,,Assessing,Investigating,-7897752.9441803275,5452769.441663555
@@ -18,7 +19,8 @@ LIVERMORE FALLS,5,Assessing,Assessing,,Assessing,Investigating,-7808439.26850786
 LOVELL,41,Assessing,Assessing,,Assessing,Investigating,-7888470.991534418,5495294.912391737
 LOVELL,9,Assessing,Assessing,,Assessing,Investigating,-7888390.763521752,5495224.612137332
 LOVELL,82,Assessing,Assessing,,Assessing,Investigating,-7894454.202645824,5494546.789746075
-"POLAND,RAYMOND",114,Assessing,Assessing,,Assessing,Investigating,-7840503.556541703,5470089.658119174
+"POLAND,RAYMOND",106,Assessing,Assessing,,Assessing,Investigating,-7840503.556541703,5470089.658119174
+POLAND,8,Assessing,Assessing,,Assessing,Investigating,-7837990.741626643,5464584.323120451
 WATERFORD,20,Assessing,Assessing,,Assessing,Investigating,-7878221.34959163,5501162.502125846
 RAYMOND,145,Assessing,Assessing,,Assessing,Investigating,-7843961.2066692365,5457886.091155725
 GREENE,55,Assessing,Assessing,,Assessing,Investigating,-7808056.463069557,5497447.402315306
