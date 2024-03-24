@@ -1,32 +1,21 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-OLD ORCHARD BEACH,66,Assessing,Assessing,,Investigating,Investigating,-7838318.0491368165,5390657.083391975
-OLD ORCHARD BEACH,78,Assessing,Assessing,,Investigating,Investigating,-7837799.556200737,5389522.419969819
-OLD ORCHARD BEACH,31,Assessing,Assessing,,Investigating,Investigating,-7834283.842973443,5392570.651562289
-BIDDEFORD,1178,Assessing,Assessing,,Investigating,Investigating,-7841983.871306222,5387030.948952062
-WALDOBORO; NOBLEBORO; JEFFERSON,386,Assessing,Assessing,,Investigating,Investigating,-7726859.642754252,5484461.836482436
-WALDOBORO,35,Assessing,Assessing,,Investigating,Investigating,-7720261.242758785,5482672.7273370605
-HOLLIS,5,Assessing,Assessing,,Investigating,Investigating,-7855418.840419798,5404826.510775745
-UNION,67,Assessing,Assessing,,Investigating,Investigating,-7710386.661984846,5495853.603949812
-WASHINGTON,22,Assessing,Assessing,,Investigating,Investigating,-7723417.713225422,5508266.756330885
-WASHINGTON,12,Assessing,Assessing,,Investigating,Investigating,-7721460.1735230135,5510346.42777469
-DAMARISCOTTA,107,Assessing,Assessing,,Investigating,Investigating,-7738188.82891189,5471086.891224292
-SEARSPORT,15,Assessing,Assessing,,Investigating,Investigating,-7675758.788800311,5537415.224344254
-PROSPECT; STOCKTON SPRINGS; SEARSPORT; LINCOLNVILLE,72,Assessing,Assessing,,Investigating,Investigating,-7671818.840155179,5550713.58022733
-BELFAST,7,Assessing,Assessing,,Investigating,Investigating,-7682252.626141273,5530589.901795443
-SCARBOROUGH,59,Assessing,Assessing,,Investigating,Investigating,-7827395.611320796,5405938.921163184
-OLD ORCHARD BEACH,24,Assessing,Assessing,,Investigating,Investigating,-7837727.217319699,5389664.832439776
-WALDOBORO,9,Assessing,Assessing,,Investigating,Investigating,-7722254.059252423,5485819.107296703
-WASHINGTON,94,Assessing,Assessing,,Investigating,Investigating,-7723638.8436738085,5503198.685443852
-LIBERTY,125,Assessing,Assessing,,Investigating,Investigating,-7720387.657976531,5524731.381227009
-SCARBOROUGH,7,Assessing,Assessing,,Investigating,Investigating,-7825955.98640725,5402002.793460578
-PORTLAND; GORHAM,85,Assessing,Assessing,,Investigating,Investigating,-7820606.154042875,5413370.127645874
-SACO,13,Assessing,Assessing,,Investigating,Investigating,-7843122.950468518,5390612.2552667055
-SCARBOROUGH,132,Assessing,Assessing,,Investigating,Investigating,-7829577.070293593,5402210.840274228
-LYMAN,6,Assessing,Assessing,,Investigating,Investigating,-7856387.460758956,5387594.984518204
-FREEPORT; POWNAL; DURHAM; BRUNSWICK; PROUT RD,278,Assessing,Assessing,,Investigating,Investigating,-7803350.856895574,5443435.205493702
-YARMOUTH,43,Assessing,Assessing,,Investigating,Investigating,-7807841.948227123,5429178.950349735
-BRUNSWICK,8,Assessing,Assessing,,Investigating,Investigating,-7782594.710861119,5446122.325269296
-FREEPORT,79,Assessing,Assessing,,Investigating,Investigating,-7799469.585537766,5442403.474186104
+WISCASSET; WESTPORT,180,Assessing,Assessing,,Investigating,Investigating,-7757884.3373969,5458687.130954911
+SOUTH PORTLAND; SCARBOROUGH,10,Assessing,Assessing,,Investigating,Investigating,-7827184.343913768,5405999.82431983
+SACO,9,Assessing,Assessing,,Investigating,Investigating,-7836521.028430236,5384901.578619452
+WISCASSET,3,Assessing,Assessing,,Investigating,Investigating,-7757777.821455748,5475084.875145846
+GORHAM,5,Assessing,Assessing,,Investigating,Investigating,-7836997.648591093,5414172.754940408
+PORTLAND,33,Assessing,Assessing,,Investigating,Investigating,-7820566.487237167,5416766.956624291
+NEWCASTLE,34,Assessing,Assessing,,Investigating,Investigating,-7740458.651204566,5478275.868667942
+BUCKSPORT,125,Assessing,Assessing,,Investigating,Investigating,-7652220.808492329,5557850.008057733
+PORTLAND,60,Assessing,Assessing,,Investigating,Investigating,-7827734.886127979,5415095.444919334
+NORTHPORT,18,Assessing,Assessing,,Investigating,Investigating,-7678898.78212132,5524728.230898881
+SCARBOROUGH,26,Assessing,Assessing,,Investigating,Investigating,-7827959.805918409,5402771.010101583
+BERWICK; NORTH BERWICK,437,Assessing,Assessing,,Investigating,Investigating,-7879256.3090953315,5352780.4469204275
+LYMAN; ARUNDEL,208,Assessing,Assessing,,Investigating,Investigating,-7857470.024053562,5389053.034162565
+BUCKSPORT,145,Assessing,Assessing,,Investigating,Investigating,-7657364.881615884,5563704.077623144
+BELFAST; WALDO; MORRILL; KNOX; BROOKS,32,Assessing,Assessing,,Investigating,Investigating,-7686840.597927364,5535215.41230721
+OLD ORCHARD BEACH,44,Assessing,Assessing,,Investigating,Investigating,-7837119.652670714,5391071.636316714
+BRUNSWICK,40,Assessing,Assessing,,Investigating,Investigating,-7782594.173559627,5450700.429163721
 ACTON,46,Assessing,Assessing,,Assessing,Investigating,-7896555.246696711,5384190.626893526
 BATH,18,Assessing,Assessing,,Assessing,Investigating,-7772111.29922071,5451618.692486412
 BATH,89,Assessing,Assessing,,Assessing,Investigating,-7772370.0948340325,5451739.527683045
@@ -119,6 +108,7 @@ HOPE,15,Assessing,Assessing,,Assessing,Investigating,-7698402.245017501,5501062.
 CAMDEN,1,Assessing,Assessing,,Assessing,Investigating,-7698266.368408027,5501115.506749373
 CAMDEN,3,Assessing,Assessing,,Assessing,Investigating,-7696355.791979482,5499553.22515485
 HOPE,17,Assessing,Assessing,,Assessing,Investigating,-7696760.16005647,5505373.096501692
+HOPE,4,3/24/2024 12:30:00 AM,3/24/2024 12:30:00 AM,,Assessing,Investigating,-7698117.467518292,5506230.495153684
 HOPE,49,Assessing,Assessing,,Assessing,Investigating,-7699731.28843864,5505787.446813417
 HOPE,32,Assessing,Assessing,,Assessing,Investigating,-7698473.567460669,5504938.140673662
 HOPE,11,Assessing,Assessing,,Assessing,Investigating,-7699011.340780516,5504685.25870029
@@ -149,6 +139,7 @@ BRUNSWICK,2,Assessing,Assessing,,Assessing,Investigating,-7783291.560962276,5450
 BRUNSWICK,47,Assessing,Assessing,,Assessing,Investigating,-7783488.206901051,5451060.8779215645
 BRUNSWICK,12,Assessing,Assessing,,Assessing,Investigating,-7782594.3558637155,5450696.781612147
 BRUNSWICK,109,Assessing,Assessing,,Assessing,Investigating,-7782222.470850462,5449773.850682477
+BRUNSWICK,28,3/24/2024 12:15:00 AM,3/24/2024 12:15:00 AM,,Assessing,Investigating,-7781925.592905197,5449255.803019189
 BRUNSWICK,9,Assessing,Assessing,,Assessing,Investigating,-7784053.843512952,5443397.439029373
 BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7782713.300718628,5444204.906038375
 HARPSWELL,47,Assessing,Assessing,,Assessing,Investigating,-7782656.627975327,5442776.212812399
@@ -185,6 +176,8 @@ HARPSWELL,23,Assessing,Assessing,,Assessing,Investigating,-7780951.513955307,543
 HARPSWELL,27,Assessing,Assessing,,Assessing,Investigating,-7781680.745706679,5438747.78816937
 HARPSWELL,5,Assessing,Assessing,,Assessing,Investigating,-7782431.896195365,5442189.157638352
 BRUNSWICK,44,Assessing,Assessing,,Assessing,Investigating,-7783363.039279944,5446551.333084951
+BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7782594.71216258,5446122.323880497
+BRUNSWICK,18,3/24/2024 12:00:00 AM,3/24/2024 12:00:00 AM,,Assessing,Investigating,-7781956.595411502,5448793.39414666
 BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7781952.8327993825,5448799.295065124
 BRUNSWICK,154,Assessing,Assessing,,Assessing,Investigating,-7781780.922150967,5448679.765147258
 BRUNSWICK,62,Assessing,Assessing,,Assessing,Investigating,-7782035.031117743,5449519.982970211
@@ -192,6 +185,7 @@ YARMOUTH,20,Assessing,Assessing,,Assessing,Investigating,-7808610.411096463,5427
 YARMOUTH,90,Assessing,Assessing,,Assessing,Investigating,-7807488.900601721,5428057.995688117
 YARMOUTH,13,Assessing,Assessing,,Assessing,Investigating,-7808104.130031175,5428523.726637062
 YARMOUTH,50,Assessing,Assessing,,Assessing,Investigating,-7807710.782591435,5429315.940752789
+YARMOUTH,43,Assessing,Assessing,,Assessing,Investigating,-7807841.950329478,5429178.952290484
 YARMOUTH,6,Assessing,Assessing,,Assessing,Investigating,-7807970.446476757,5429854.187771192
 YARMOUTH,15,Assessing,Assessing,,Assessing,Investigating,-7808309.436565206,5428221.014979027
 YARMOUTH,19,Assessing,Assessing,,Assessing,Investigating,-7808317.429312826,5427069.615125913
@@ -202,6 +196,7 @@ WALDOBORO,5,Assessing,Assessing,,Assessing,Investigating,-7728426.714640567,5481
 NOBLEBORO,14,Assessing,Assessing,,Assessing,Investigating,-7731369.612419491,5478123.607339558
 NOBLEBORO,4,Assessing,Assessing,,Assessing,Investigating,-7732945.874093472,5479861.657667095
 NOBLEBORO,147,Assessing,Assessing,,Assessing,Investigating,-7735143.053664973,5477795.115547249
+DAMARISCOTTA,107,Assessing,Assessing,,Assessing,Investigating,-7738188.832916375,5471086.883843634
 DAMARISCOTTA,12,Assessing,Assessing,,Assessing,Investigating,-7739384.081358363,5470665.305662511
 NOBLEBORO,14,Assessing,Assessing,,Assessing,Investigating,-7734277.12168211,5475063.424165742
 NOBLEBORO,77,Assessing,Assessing,,Assessing,Investigating,-7738706.14573135,5475867.574808901
@@ -238,6 +233,7 @@ FREEPORT,5,Assessing,Assessing,,Assessing,Investigating,-7801643.169094288,54434
 FREEPORT,82,Assessing,Assessing,,Assessing,Investigating,-7798119.5620300975,5440216.413931504
 FREEPORT,96,Assessing,Assessing,,Assessing,Investigating,-7798280.084730068,5440083.862235545
 FREEPORT,145,Assessing,Assessing,,Assessing,Investigating,-7799089.143745475,5437698.335713398
+FREEPORT,79,Assessing,Assessing,,Assessing,Investigating,-7799469.58924191,5442403.475435515
 FREEPORT,21,Assessing,Assessing,,Assessing,Investigating,-7803156.134510156,5436933.879507658
 FREEPORT,15,Assessing,Assessing,,Assessing,Investigating,-7801077.098296327,5439879.53672843
 FREEPORT,10,Assessing,Assessing,,Assessing,Investigating,-7799951.992176403,5441550.3396514235
@@ -247,6 +243,7 @@ FREEPORT,107,Assessing,Assessing,,Assessing,Investigating,-7799533.9875337165,54
 FREEPORT,13,Assessing,Assessing,,Assessing,Investigating,-7801048.255407645,5443390.352975199
 FREEPORT,4,Assessing,Assessing,,Assessing,Investigating,-7801232.756350491,5443265.49003724
 FREEPORT,3,Assessing,Assessing,,Assessing,Investigating,-7801903.767926254,5443487.8609082475
+"FREEPORT,POWNAL,DURHAM,BRUNSWICK,PROUT RD",278,Assessing,Assessing,,Assessing,Investigating,-7803350.854592997,5443435.200912005
 "FREEPORT,BRUNSWICK,PROUT RD",197,Assessing,Assessing,,Assessing,Investigating,-7802180.719764884,5445850.0723685995
 FREEPORT,39,Assessing,Assessing,,Assessing,Investigating,-7802507.242096079,5445395.370199488
 FREEPORT,16,Assessing,Assessing,,Assessing,Investigating,-7803093.661974173,5444856.5850068275
@@ -303,15 +300,19 @@ RICHMOND,100,Assessing,Assessing,,Assessing,Investigating,-7767437.750834382,548
 "ALNA,PITTSTON,WHITEFIELD,JEFFERSON,NEWCASTLE,WISCASSET",787,Assessing,Assessing,,Assessing,Investigating,-7750403.898387263,5474125.773727706
 ALNA,17,Assessing,Assessing,,Assessing,Investigating,-7749949.948605158,5474596.259950929
 PALERMO,1,Assessing,Assessing,,Assessing,Investigating,-7726168.019904837,5519229.329332928
+"WASHINGTON,APPLETON,SEARSMONT,MONTVILLE,LIBERTY,UNION",2044,3/24/2024 12:00:00 AM,3/24/2024 12:00:00 AM,,Assessing,Investigating,-7723491.988474161,5503061.423159461
 WASHINGTON,32,Assessing,Assessing,,Assessing,Investigating,-7723557.26615041,5503503.562357748
 WASHINGTON,50,Assessing,Assessing,,Assessing,Investigating,-7721719.002874105,5507868.948306848
 MONTVILLE,11,Assessing,Assessing,,Assessing,Investigating,-7716932.509749792,5529987.830208862
 "MONTVILLE,LIBERTY",42,Assessing,Assessing,,Assessing,Investigating,-7713442.910856647,5526120.827413917
 APPLETON,2,Assessing,Assessing,,Assessing,Investigating,-7709791.820779348,5518357.68169416
 "APPLETON,WASHINGTON,UNION,LIBERTY",300,Assessing,Assessing,,Assessing,Investigating,-7719517.225855913,5513401.575346563
+WASHINGTON,12,Assessing,Assessing,,Assessing,Investigating,-7721460.17392346,5510346.431830523
+WASHINGTON,22,Assessing,Assessing,,Assessing,Investigating,-7723417.716128671,5508266.760106142
 WASHINGTON,89,Assessing,Assessing,,Assessing,Investigating,-7724289.637116033,5507839.906408335
 WASHINGTON,48,Assessing,Assessing,,Assessing,Investigating,-7725697.127355848,5511270.039008159
 WASHINGTON,28,Assessing,Assessing,,Assessing,Investigating,-7726356.11647286,5512641.065232878
+WASHINGTON,94,Assessing,Assessing,,Assessing,Investigating,-7723638.841171007,5503198.679434738
 WASHINGTON,9,Assessing,Assessing,,Assessing,Investigating,-7725286.83714923,5503676.691301282
 WASHINGTON,39,Assessing,Assessing,,Assessing,Investigating,-7726717.392810042,5504487.120071912
 "WASHINGTON,NOBLEBORO,JEFFERSON,WALDOBORO,SOMERVILLE PLT",945,Assessing,Assessing,,Assessing,Investigating,-7723528.812897916,5502359.744221637
@@ -360,6 +361,7 @@ UNION,31,Assessing,Assessing,,Assessing,Investigating,-7704175.151399561,5496759
 UNION,7,Assessing,Assessing,,Assessing,Investigating,-7704953.8757563,5497156.200128518
 HOPE,180,Assessing,Assessing,,Assessing,Investigating,-7706276.718636137,5500023.74568833
 UNION,11,Assessing,Assessing,,Assessing,Investigating,-7709749.563874108,5498255.959109896
+UNION,67,Assessing,Assessing,,Assessing,Investigating,-7710386.656478685,5495853.606742506
 UNION,20,Assessing,Assessing,,Assessing,Investigating,-7710374.422483118,5495797.415954841
 "UNION,WARREN",48,Assessing,Assessing,,Assessing,Investigating,-7711550.969289229,5497784.302559316
 "UNION,WARREN",61,Assessing,Assessing,,Assessing,Investigating,-7712758.49637677,5495526.853962387
@@ -368,6 +370,8 @@ UNION,8,Assessing,Assessing,,Assessing,Investigating,-7719764.911732243,5498892.
 UNION,14,Assessing,Assessing,,Assessing,Investigating,-7719765.312480868,5498890.862287774
 UNION,1,Assessing,Assessing,,Assessing,Investigating,-7714969.568600642,5504222.532876898
 UNION,35,Assessing,Assessing,,Assessing,Investigating,-7715521.123248237,5503122.817587674
+UNION,4,3/24/2024 12:30:00 AM,3/24/2024 12:30:00 AM,,Assessing,Investigating,-7715443.656026182,5503032.520906443
+WALDOBORO,9,Assessing,Assessing,,Assessing,Investigating,-7722254.060053318,5485819.1031122515
 WALDOBORO,138,Assessing,Assessing,,Assessing,Investigating,-7722502.013128771,5487439.943218232
 "WALDOBORO,WARREN,UNION",52,Assessing,Assessing,,Assessing,Investigating,-7722327.319364745,5486790.912043898
 WALDOBORO,12,Assessing,Assessing,,Assessing,Investigating,-7720772.542342137,5488818.94411014
@@ -377,9 +381,11 @@ WALDOBORO,5,Assessing,Assessing,,Assessing,Investigating,-7719741.178363506,5494
 "WALDOBORO,WARREN",45,Assessing,Assessing,,Assessing,Investigating,-7718546.352895024,5491810.487433456
 WALDOBORO,15,Assessing,Assessing,,Assessing,Investigating,-7716568.216735543,5489727.656276078
 WALDOBORO,5,Assessing,Assessing,,Assessing,Investigating,-7721742.046070217,5482084.302382376
+WALDOBORO,35,Assessing,Assessing,,Assessing,Investigating,-7720261.240756542,5482672.734727055
 WALDOBORO,41,Assessing,Assessing,,Assessing,Investigating,-7727217.172797578,5490679.567042331
 "WALDOBORO,JEFFERSON",63,Assessing,Assessing,,Assessing,Investigating,-7727245.347738514,5490549.760846102
 WALDOBORO,4,Assessing,Assessing,,Assessing,Investigating,-7727351.134663556,5490157.342973775
+"WALDOBORO,NOBLEBORO,JEFFERSON",386,Assessing,Assessing,,Assessing,Investigating,-7726859.6479600845,5484461.829788306
 NOBLEBORO,29,Assessing,Assessing,,Assessing,Investigating,-7733507.603431309,5487602.778371666
 NOBLEBORO,7,Assessing,Assessing,,Assessing,Investigating,-7730113.171574581,5487140.589935601
 "WARREN,UNION",50,Assessing,Assessing,,Assessing,Investigating,-7708167.97003093,5490286.988426751
@@ -475,14 +481,13 @@ WISCASSET,108,Assessing,Assessing,,Assessing,Investigating,-7758156.900122056,54
 WISCASSET,19,Assessing,Assessing,,Assessing,Investigating,-7759831.846570454,5461762.694113347
 WISCASSET,16,Assessing,Assessing,,Assessing,Investigating,-7760916.0650179535,5460634.854392185
 WISCASSET,14,Assessing,Assessing,,Assessing,Investigating,-7760126.7207725905,5460458.948420799
-"BERWICK,NORTH BERWICK",437,Assessing,Assessing,,Assessing,Investigating,-7879256.3090953315,5352780.4469204275
 BERWICK,144,Assessing,Assessing,,Assessing,Investigating,-7886032.560289469,5357680.176418924
 BERWICK,9,Assessing,Assessing,,Assessing,Investigating,-7883673.755984309,5357531.59416842
 "BERWICK,NORTH BERWICK",98,Assessing,Assessing,,Assessing,Investigating,-7881473.737735003,5359546.482335885
 BERWICK,14,Assessing,Assessing,,Assessing,Investigating,-7883057.836382231,5360892.452234582
 BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7884448.762278799,5356815.131940555
-"YORK,SOUTH BERWICK,NORTH BERWICK",1677,Assessing,Assessing,,Assessing,Investigating,-7878627.37632543,5353034.65504595
-BERWICK,92,Assessing,Assessing,,Assessing,Investigating,-7879755.777433991,5351830.331172952
+"YORK,SOUTH BERWICK,NORTH BERWICK",744,Assessing,Assessing,,Assessing,Tree,-7878627.37632543,5353034.65504595
+"SOUTH BERWICK,YORK",1025,Assessing,Assessing,,Assessing,Investigating,-7880989.976680144,5348475.32702941
 BERWICK,101,Assessing,Assessing,,Assessing,Investigating,-7887696.853511928,5352509.506041123
 BERWICK,2,Assessing,Assessing,,Assessing,Investigating,-7891629.2033504415,5356460.140862688
 BERWICK,116,Assessing,Assessing,,Assessing,Investigating,-7893251.484541789,5361925.455601477
@@ -521,18 +526,12 @@ DAYTON,27,Assessing,Assessing,,Assessing,Investigating,-7857725.327357361,539094
 LYMAN,183,Assessing,Assessing,,Assessing,Investigating,-7857937.891916514,5391108.133255944
 LYMAN,8,Assessing,Assessing,,Assessing,Investigating,-7856459.41330751,5387934.306634774
 LYMAN,14,Assessing,Assessing,,Assessing,Investigating,-7856423.345731021,5387765.597224223
+LYMAN,6,Assessing,Assessing,,Assessing,Investigating,-7856387.456354023,5387594.987968268
 ARUNDEL,49,Assessing,Assessing,,Assessing,Investigating,-7857336.009728863,5385019.812064615
 ARUNDEL,60,Assessing,Assessing,,Assessing,Investigating,-7857313.256056858,5384003.517112984
 DAYTON,7,Assessing,Assessing,,Assessing,Investigating,-7852047.988860459,5392118.57530503
 BIDDEFORD,1317,Assessing,Assessing,,Assessing,Investigating,-7848192.282421754,5387739.847585723
 BIDDEFORD,16,Assessing,Assessing,,Assessing,Investigating,-7845499.9203094095,5387448.672917559
-PORTLAND,97,Assessing,Assessing,,Assessing,Investigating,-7824008.82432225,5416403.794006048
-PORTLAND,484,Assessing,Assessing,,Assessing,Investigating,-7824759.12886392,5416575.73571196
-PORTLAND,20,Assessing,Assessing,,Assessing,Investigating,-7824653.52003826,5416299.291278344
-PORTLAND,444,Assessing,Assessing,,Assessing,Investigating,-7824033.258976051,5414896.030666094
-PORTLAND,17,Assessing,Assessing,,Assessing,Investigating,-7823978.790400242,5415334.0245887665
-PORTLAND,117,Assessing,Assessing,,Assessing,Investigating,-7824475.998808984,5416024.48662342
-PORTLAND,27,Assessing,Assessing,,Assessing,Investigating,-7824750.579493182,5416531.680229769
 "PORTLAND,FALMOUTH",702,Assessing,Assessing,,Assessing,Investigating,-7825041.902620001,5417372.497755124
 PORTLAND,151,Assessing,Assessing,,Assessing,Investigating,-7824976.257532449,5417738.805219394
 PORTLAND,161,Assessing,Assessing,,Assessing,Investigating,-7823629.035661118,5420092.209275818
@@ -587,6 +586,7 @@ PORTLAND,137,Assessing,Assessing,,Assessing,Investigating,-7827349.299676409,541
 PORTLAND,26,Assessing,Assessing,,Assessing,Investigating,-7827983.130529558,5414816.492801454
 "SANFORD,ACTON,SHAPLEIGH",17,Assessing,Assessing,,Assessing,Investigating,-7882498.511536146,5385267.632433347
 "SANFORD,ACTON,SHAPLEIGH",203,Assessing,Assessing,,Assessing,Investigating,-7882530.827612946,5384283.078815479
+ACTON,83,3/24/2024 4:30:00 AM,3/24/2024 4:30:00 AM,,Assessing,Investigating,-7894998.944566793,5387012.227308621
 CAPE ELIZABETH,17,Assessing,Assessing,,Assessing,Investigating,-7819653.627420115,5402578.727796252
 CAPE ELIZABETH,21,Assessing,Assessing,,Assessing,Investigating,-7819638.7661834415,5402448.175600738
 CAPE ELIZABETH,42,Assessing,Assessing,,Assessing,Investigating,-7821542.407448294,5398913.241396061
@@ -708,6 +708,7 @@ YARMOUTH,3,Assessing,Assessing,,Assessing,Investigating,-7814375.803366715,54331
 YARMOUTH,61,Assessing,Assessing,,Assessing,Investigating,-7814533.35383938,5432886.188490723
 "YARMOUTH,CUMBERLAND,FREEPORT,NORTH YARMOUTH",2939,3/23/2024 9:30:00 PM,3/23/2024 9:30:00 PM,,Assessing,Investigating,-7814527.075410878,5432464.754192045
 "CUMBERLAND,NORTH YARMOUTH",131,Assessing,Assessing,,Assessing,Investigating,-7818758.440587398,5435085.74670227
+CUMBERLAND,19,3/24/2024 12:15:00 AM,3/24/2024 12:15:00 AM,,Assessing,Investigating,-7819634.346836124,5435660.626123754
 NORTH YARMOUTH,11,Assessing,Assessing,,Assessing,Investigating,-7820864.727807848,5440389.973289618
 NORTH YARMOUTH,2,Assessing,Assessing,,Assessing,Investigating,-7820741.307843183,5440962.3747779485
 NORTH YARMOUTH,13,Assessing,Assessing,,Assessing,Investigating,-7821551.268467921,5441157.093319139
@@ -745,6 +746,7 @@ SACO,41,Assessing,Assessing,,Assessing,Investigating,-7840609.18759225,5388266.4
 SACO,26,Assessing,Assessing,,Assessing,Investigating,-7841657.950748692,5388049.922096653
 SACO,84,Assessing,Assessing,,Assessing,Investigating,-7842269.673652711,5387977.336254013
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7842188.900229476,5387910.812393262
+BIDDEFORD,1178,Assessing,Assessing,,Assessing,Investigating,-7841983.872007004,5387030.947296133
 BIDDEFORD,67,Assessing,Assessing,,Assessing,Investigating,-7841544.872461206,5386749.169931479
 BIDDEFORD,113,Assessing,Assessing,,Assessing,Investigating,-7842501.195934421,5386625.929603069
 BIDDEFORD,644,Assessing,Assessing,,Assessing,Investigating,-7835918.77422612,5381761.177936381
@@ -806,6 +808,7 @@ ARUNDEL,2,Assessing,Assessing,,Assessing,Investigating,-7848437.608356203,537599
 KENNEBUNKPORT,21,Assessing,Assessing,,Assessing,Investigating,-7845837.697039541,5374564.787725814
 SACO,24,Assessing,Assessing,,Assessing,Investigating,-7842671.392263705,5390641.781872925
 SACO,16,Assessing,Assessing,,Assessing,Investigating,-7843082.829154007,5390603.559936758
+SACO,13,Assessing,Assessing,,Assessing,Investigating,-7843122.9486665,5390612.248088238
 SACO,148,Assessing,Assessing,,Assessing,Investigating,-7843351.520945781,5390680.679438025
 SACO,71,Assessing,Assessing,,Assessing,Investigating,-7843967.841296485,5392111.282868839
 SACO,16,Assessing,Assessing,,Assessing,Investigating,-7844151.395980018,5392534.027904862
@@ -948,6 +951,7 @@ SCARBOROUGH,193,Assessing,Assessing,,Assessing,Investigating,-7831735.242998167,
 SCARBOROUGH,64,Assessing,Assessing,,Assessing,Investigating,-7831866.199299507,5403265.409268159
 SOUTH PORTLAND,260,Assessing,Assessing,,Assessing,Investigating,-7828547.253246704,5408382.610906884
 OLD ORCHARD BEACH,14,Assessing,Assessing,,Assessing,Investigating,-7834528.716601551,5391694.974184191
+OLD ORCHARD BEACH,31,Assessing,Assessing,,Assessing,Investigating,-7834283.847078033,5392570.645624991
 OLD ORCHARD BEACH,110,Assessing,Assessing,,Assessing,Investigating,-7834364.075090699,5392673.790431963
 OLD ORCHARD BEACH,55,Assessing,Assessing,,Assessing,Investigating,-7835123.5968507575,5393823.492460585
 OLD ORCHARD BEACH,42,Assessing,Assessing,,Assessing,Investigating,-7835069.651360528,5393902.389290016
@@ -970,18 +974,22 @@ OLD ORCHARD BEACH,29,Assessing,Assessing,,Assessing,Investigating,-7836644.46601
 OLD ORCHARD BEACH,15,Assessing,Assessing,,Assessing,Investigating,-7837442.225981112,5389792.953536629
 OLD ORCHARD BEACH,32,Assessing,Assessing,,Assessing,Investigating,-7837815.4580022935,5389618.531337992
 OLD ORCHARD BEACH,148,Assessing,Assessing,,Assessing,Investigating,-7837771.074916858,5389522.557448925
+OLD ORCHARD BEACH,78,Assessing,Assessing,,Assessing,Investigating,-7837799.5615066765,5389522.419417695
 "OLD ORCHARD BEACH,SACO",37,Assessing,Assessing,,Assessing,Investigating,-7838222.375232973,5389147.804020993
 SACO,120,Assessing,Assessing,,Assessing,Investigating,-7838627.489144903,5388872.561638551
 OLD ORCHARD BEACH,96,Assessing,Assessing,,Assessing,Investigating,-7838314.714704027,5390215.669527116
 OLD ORCHARD BEACH,73,Assessing,Assessing,,Assessing,Investigating,-7837385.208151493,5391214.731134777
 OLD ORCHARD BEACH,21,Assessing,Assessing,,Assessing,Investigating,-7837161.867829221,5391202.941535719
+OLD ORCHARD BEACH,66,Assessing,Assessing,,Assessing,Investigating,-7838318.054342643,5390657.086014888
 OLD ORCHARD BEACH,22,Assessing,Assessing,,Assessing,Investigating,-7838288.554718768,5390672.559153341
 OLD ORCHARD BEACH,146,Assessing,Assessing,,Assessing,Investigating,-7838255.403707286,5389838.861969674
 OLD ORCHARD BEACH,62,Assessing,Assessing,,Assessing,Investigating,-7838272.101700146,5389826.444816507
 OLD ORCHARD BEACH,29,Assessing,Assessing,,Assessing,Investigating,-7838184.916198795,5389584.227386222
 OLD ORCHARD BEACH,24,Assessing,Assessing,,Assessing,Investigating,-7838058.40166987,5389566.653425461
+OLD ORCHARD BEACH,24,Assessing,Assessing,,Assessing,Investigating,-7837727.215017119,5389664.837961111
 OLD ORCHARD BEACH,33,Assessing,Assessing,,Assessing,Investigating,-7836834.4883384695,5389819.59921158
 OLD ORCHARD BEACH,68,Assessing,Assessing,,Assessing,Investigating,-7836065.94968429,5390263.851816501
+OLD ORCHARD BEACH,41,3/24/2024 1:00:00 AM,3/24/2024 1:00:00 AM,,Assessing,Investigating,-7836666.985924927,5391393.005971078
 OLD ORCHARD BEACH,21,Assessing,Assessing,,Assessing,Investigating,-7835444.152402334,5390565.430235505
 OLD ORCHARD BEACH,74,Assessing,Assessing,,Assessing,Investigating,-7834928.476019293,5390674.876985734
 OLD ORCHARD BEACH,14,Assessing,Assessing,,Assessing,Investigating,-7835368.410611847,5391213.134650144
@@ -991,11 +999,3 @@ OLD ORCHARD BEACH,412,Assessing,Assessing,,Assessing,Investigating,-7834946.8994
 OLD ORCHARD BEACH,30,Assessing,Assessing,,Assessing,Investigating,-7835192.1585033145,5390340.922383194
 OLD ORCHARD BEACH,12,Assessing,Assessing,,Assessing,Investigating,-7835665.711630728,5389823.190762073
 OLD ORCHARD BEACH,35,Assessing,Assessing,,Assessing,Investigating,-7835827.80388777,5390012.490315907
-OLD ORCHARD BEACH,100,Assessing,Assessing,,Assessing,Investigating,-7835444.965112138,5390013.610774733
-OLD ORCHARD BEACH,76,Assessing,Assessing,,Assessing,Investigating,-7834832.696697444,5390674.846338988
-"SCARBOROUGH,SOUTH PORTLAND",131,Assessing,Assessing,,Assessing,Investigating,-7825192.195067535,5403439.028233978
-SCARBOROUGH,22,Assessing,Assessing,,Assessing,Investigating,-7825624.014475405,5403820.017654946
-SCARBOROUGH,161,Assessing,Assessing,,Assessing,Investigating,-7827066.169621465,5403574.620854386
-SOUTH PORTLAND,89,Assessing,Assessing,,Assessing,Investigating,-7824242.1165853925,5404184.727638241
-SOUTH PORTLAND,34,Assessing,Assessing,,Assessing,Investigating,-7824208.531487963,5404301.514688744
-SOUTH PORTLAND,113,Assessing,Assessing,,Assessing,Investigating,-7824183.406661528,5404411.646723287
