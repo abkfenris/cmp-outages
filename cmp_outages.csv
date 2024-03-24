@@ -1,16 +1,15 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 BELMONT,13,Assessing,Assessing,,Investigating,Investigating,-7695761.130174817,5524511.990858668
-PITTSTON; WHITEFIELD,114,Assessing,Assessing,,Investigating,Investigating,-7755960.243235691,5492312.836409064
-SOUTH PORTLAND; CAPE ELIZABETH,99,Assessing,Assessing,,Investigating,Investigating,-7817615.817257518,5409356.159882117
+UNION,15,Assessing,Assessing,,Investigating,Investigating,-7711260.771722438,5494919.260057326
 ALFRED; SANFORD,53,Assessing,Assessing,,Investigating,Investigating,-7872409.77542223,5382124.907934681
-BIDDEFORD,546,Assessing,Assessing,,Investigating,Investigating,-7843132.497155728,5385848.832440029
-NORTH BERWICK,60,Assessing,Assessing,,Investigating,Investigating,-7879623.30213217,5357451.668090623
-BELMONT; MORRILL; MONTVILLE; MONTIVLLE; SEARSMONT,36,Assessing,Assessing,,Investigating,Investigating,-7697048.731002319,5527259.111674519
+PENOBSCOT,8,Assessing,Assessing,,Investigating,Investigating,-7646248.418194471,5541237.596409582
+ORLAND,47,Assessing,Assessing,,Investigating,Investigating,-7646084.738760637,5553478.365009716
 UNION,11,Assessing,Assessing,,Investigating,Investigating,-7709749.5627728775,5498255.953243694
-ORLAND,22,Assessing,Assessing,,Investigating,Investigating,-7640800.096774781,5548856.998127802
-BELFAST,154,Assessing,Assessing,,Investigating,Investigating,-7681949.78301819,5531071.27180948
-SOUTH PORTLAND; PEAKS ISLAND; GREAT DIAMOND ISLAND; LITTLE DIAMOND ISLAND; CUSHING ISLAND; HOUSE ISLAND,1159,Assessing,Assessing,,Investigating,Investigating,-7818081.405868919,5410434.953434147
-BIDDEFORD,30,Assessing,Assessing,,Investigating,Investigating,-7844977.46013213,5386364.607440785
+ORLAND,24,Assessing,Assessing,,Investigating,Investigating,-7642915.293268874,5548129.361787321
+PENOBSCOT; ORLAND,29,Assessing,Assessing,,Investigating,Investigating,-7639863.206956921,5548939.383041053
+ORLAND,29,Assessing,Assessing,,Investigating,Investigating,-7645179.13346479,5551533.388969337
+SANFORD,46,Assessing,Assessing,,Investigating,Investigating,-7880710.399802872,5383932.147374162
+OLD ORCHARD BEACH,140,Assessing,Assessing,,Investigating,Investigating,-7834072.271826379,5390783.5726564545
 ACTON,58,Assessing,Assessing,,Assessing,Investigating,-7897106.222496308,5384668.143761767
 BATH,18,Assessing,Assessing,,Assessing,Investigating,-7772111.29922071,5451618.692486412
 BATH,89,Assessing,Assessing,,Assessing,Investigating,-7772370.0948340325,5451739.527683045
@@ -243,9 +242,8 @@ FREEPORT,5,Assessing,Assessing,,Assessing,Investigating,-7806660.761526798,54365
 FREEPORT,10,Assessing,Assessing,,Assessing,Investigating,-7807735.139358049,5437170.183056749
 FREEPORT,77,Assessing,Assessing,,Assessing,Investigating,-7807775.804281116,5437118.129968924
 SOMERVILLE PLT,1,Assessing,Assessing,,Assessing,Investigating,-7732769.677647253,5505217.063354355
-WHITEFIELD,5,Assessing,Assessing,,Assessing,Investigating,-7749179.562082351,5490766.793592082
+WHITEFIELD,5,Assessing,Assessing,,Assessing,Tree,-7749179.562082351,5490766.793592082
 TOPSHAM,5,Assessing,Assessing,,Assessing,Investigating,-7796197.631090541,5466179.73148746
-FREEPORT,21,Assessing,Assessing,,Assessing,Investigating,-7802899.543064327,5448146.610883138
 FREEPORT,120,Assessing,Assessing,,Assessing,Investigating,-7802694.748603549,5447173.710189586
 TOPSHAM,63,Assessing,Assessing,,Assessing,Investigating,-7794055.732704547,5459667.853776924
 WEST GARDINER,33,Assessing,Assessing,,Assessing,Investigating,-7784037.45726908,5506180.971149088
@@ -391,7 +389,8 @@ DRESDEN,6,Assessing,Assessing,,Assessing,Investigating,-7763875.649577189,548522
 DRESDEN,167,Assessing,Assessing,,Assessing,Investigating,-7765686.739734068,5484289.032877903
 DRESDEN,5,Assessing,Assessing,,Assessing,Investigating,-7765878.120178285,5478786.716770506
 PITTSTON,43,Assessing,Assessing,,Assessing,Investigating,-7758879.452696302,5490391.823443155
-"PITTSTON,WHITEFIELD",374,3/24/2024 11:30:00 AM,3/24/2024 11:30:00 AM,,Assessing,Investigating,-7757365.051172759,5491263.989366063
+"PITTSTON,WHITEFIELD",114,Assessing,Assessing,,Assessing,Investigating,-7755960.243736251,5492312.8308258355
+"PITTSTON,WHITEFIELD",315,Assessing,Assessing,,Assessing,Investigating,-7757365.051172759,5491263.989366063
 WHITEFIELD,59,Assessing,Assessing,,Assessing,Investigating,-7754325.940086151,5499853.730430266
 ROCKPORT,13,Assessing,Assessing,,Assessing,Investigating,-7692660.0406053,5494155.520057174
 BRUNSWICK,412,Assessing,Assessing,,Assessing,Investigating,-7788404.120106958,5452715.013091356
@@ -742,6 +741,8 @@ ARUNDEL,151,Assessing,Assessing,,Assessing,Investigating,-7851240.4216150325,538
 ARUNDEL,6,Assessing,Assessing,,Assessing,Investigating,-7856601.423583423,5385043.713148077
 ARUNDEL,30,Assessing,Assessing,,Assessing,Investigating,-7853649.397585755,5384572.635274861
 ARUNDEL,293,Assessing,Assessing,,Assessing,Investigating,-7851148.672004314,5384320.400339912
+BIDDEFORD,30,Assessing,Assessing,,Assessing,Investigating,-7844977.464537063,5386364.601645447
+BIDDEFORD,546,Assessing,Assessing,,Assessing,Investigating,-7843132.499858753,5385848.825817156
 BIDDEFORD,102,Assessing,Assessing,,Assessing,Investigating,-7842713.660281388,5387841.434765607
 "SACO,BIDDEFORD",105,Assessing,Assessing,,Assessing,Investigating,-7842438.9238228025,5388287.955858232
 SACO,2,Assessing,Assessing,,Assessing,Investigating,-7843085.8792685075,5389931.631147538
@@ -929,6 +930,7 @@ GORHAM,90,Assessing,Assessing,,Assessing,Investigating,-7845571.276089899,541680
 "NORTH BERWICK,WELLS",59,Assessing,Assessing,,Assessing,Investigating,-7873093.305912516,5358980.900234808
 NORTH BERWICK,52,Assessing,Assessing,,Assessing,Investigating,-7875692.437956809,5358424.637784521
 "BERWICK,NORTH BERWICK",51,Assessing,Assessing,,Assessing,Investigating,-7879834.0239284085,5357242.390320208
+NORTH BERWICK,60,Assessing,Assessing,,Assessing,Investigating,-7879623.30723789,5357451.6752435025
 "NORTH BERWICK,SOUTH BERWICK",21,Assessing,Assessing,,Assessing,Investigating,-7875082.507259111,5356847.05140992
 "NORTH BERWICK,SOUTH BERWICK",130,Assessing,Assessing,,Assessing,Investigating,-7875177.418308966,5355898.615474799
 NORTH BERWICK,495,Assessing,Assessing,,Assessing,Investigating,-7874698.432800172,5359227.475758957
@@ -997,5 +999,3 @@ DAYTON,10,Assessing,Assessing,,Assessing,Investigating,-7857722.655666485,540133
 DAYTON,2,Assessing,Assessing,,Assessing,Investigating,-7854885.689574665,5401195.8360506045
 HOLLIS,21,Assessing,Assessing,,Assessing,Investigating,-7855372.589943888,5405391.347837311
 HOLLIS,5,Assessing,Assessing,,Assessing,Investigating,-7855418.843222936,5404826.5138174575
-BUXTON,35,Assessing,Assessing,,Assessing,Investigating,-7852409.643621268,5405183.960752082
-BUXTON,21,Assessing,Assessing,,Assessing,Investigating,-7850385.409957128,5402053.026237169
