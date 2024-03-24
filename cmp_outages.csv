@@ -1,14 +1,13 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-UNION,7,Assessing,Assessing,,Investigating,Investigating,-7704953.877758542,5497156.192587171
+BELFAST; WALDO,73,Assessing,Assessing,,Investigating,Investigating,-7687266.454960547,5535259.1958690435
 ORLAND,10,Assessing,Assessing,,Investigating,Investigating,-7647040.794734393,5551811.470884437
-BRUNSWICK; HARPSWELL,2883,Assessing,Assessing,,Investigating,Investigating,-7782464.956104863,5446679.043236395
-NEWCASTLE,10,Assessing,Assessing,,Investigating,Investigating,-7748618.758480855,5466541.3658726225
-ORLAND,82,Assessing,Assessing,,Investigating,Investigating,-7639780.922642291,5553729.831470962
+OLD ORCHARD BEACH,387,Assessing,Assessing,,Investigating,Investigating,-7838365.009006874,5390309.563111121
+WALDOBORO,12,Assessing,Assessing,,Investigating,Investigating,-7722878.2625278095,5489646.603665757
+HOPE,8,Assessing,Assessing,,Investigating,Investigating,-7703894.106679083,5499409.981620745
+ORLAND,3,Assessing,Assessing,,Investigating,Investigating,-7649754.472909375,5549051.476805836
 SOUTH BRISTOL,7,Assessing,Assessing,,Investigating,Investigating,-7741941.499204965,5455862.6957173105
-UNION; HOPE,20,Assessing,Assessing,,Investigating,Investigating,-7704172.219317187,5496762.1535042105
-BIDDEFORD,36,Assessing,Assessing,,Investigating,Investigating,-7842136.204638463,5383519.596038562
 UNION; ROCKPORT,14,Assessing,Assessing,,Investigating,Investigating,-7704082.833252381,5496703.772068597
-APPLETON,16,Assessing,Assessing,,Investigating,Investigating,-7715271.988750219,5510067.071420652
+HOPE,40,Assessing,Assessing,,Investigating,Investigating,-7703769.6378402375,5500541.63998469
 ACTON,58,Assessing,Assessing,,Assessing,Investigating,-7897106.222496308,5384668.143761767
 BATH,18,Assessing,Assessing,,Assessing,Investigating,-7772111.29922071,5451618.692486412
 BATH,89,Assessing,Assessing,,Assessing,Investigating,-7772370.0948340325,5451739.527683045
@@ -128,6 +127,7 @@ BRUNSWICK,12,Assessing,Assessing,,Assessing,Investigating,-7782594.3558637155,54
 BRUNSWICK,40,Assessing,Assessing,,Assessing,Investigating,-7782594.177764335,5450700.427913182
 BRUNSWICK,109,Assessing,Assessing,,Assessing,Investigating,-7782222.470850462,5449773.850682477
 BRUNSWICK,28,Assessing,Assessing,,Assessing,Investigating,-7781925.592905197,5449255.803019189
+"BRUNSWICK,HARPSWELL",2900,Assessing,Assessing,,Assessing,Investigating,-7782464.958107106,5446679.036014202
 HARPSWELL,13,Assessing,Assessing,,Assessing,Investigating,-7789267.814685111,5429521.866511112
 HARPSWELL,6,Assessing,Assessing,,Assessing,Investigating,-7790051.8377736155,5428270.983310926
 HARPSWELL,52,Assessing,Assessing,,Assessing,Investigating,-7791497.633094735,5425930.578055245
@@ -135,9 +135,7 @@ HARPSWELL,6,Assessing,Assessing,,Assessing,Investigating,-7791430.062151251,5424
 HARPSWELL,11,Assessing,Assessing,,Assessing,Investigating,-7790601.911963885,5427282.394897804
 HARPSWELL,66,Assessing,Assessing,,Assessing,Investigating,-7789515.778772894,5428385.871414986
 HARPSWELL,89,Assessing,Assessing,,Assessing,Investigating,-7788538.415946807,5430470.781671255
-BRUNSWICK,9,Assessing,Assessing,,Assessing,Investigating,-7782615.20600477,5445700.715942278
 BRUNSWICK,44,Assessing,Assessing,,Assessing,Investigating,-7783363.039279944,5446551.333084951
-BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7782594.71216258,5446122.323880497
 BRUNSWICK,18,Assessing,Assessing,,Assessing,Investigating,-7781956.595411502,5448793.39414666
 BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7781952.8327993825,5448799.295065124
 BRUNSWICK,154,Assessing,Assessing,,Assessing,Investigating,-7781780.922150967,5448679.765147258
@@ -178,6 +176,7 @@ NEWCASTLE,235,Assessing,Assessing,,Assessing,Investigating,-7740812.911587613,54
 JEFFERSON,71,Assessing,Assessing,,Assessing,Investigating,-7740776.6660118615,5493818.334174529
 NEWCASTLE,36,Assessing,Assessing,,Assessing,Investigating,-7749193.52150948,5465975.273996983
 EDGECOMB,20,Assessing,Assessing,,Assessing,Investigating,-7749151.5541283535,5465858.476492946
+NEWCASTLE,10,Assessing,Assessing,,Assessing,Investigating,-7748618.756778948,5466541.361836149
 "EDGECOMB,NEWCASTLE,BOOTHBAY",1113,Assessing,Assessing,,Assessing,Investigating,-7751230.846328748,5465820.91647658
 EDGECOMB,10,Assessing,Assessing,,Assessing,Investigating,-7751055.161955776,5465894.133111468
 FREEPORT,16,Assessing,Assessing,,Assessing,Investigating,-7807188.582905769,5442103.441022928
@@ -219,7 +218,6 @@ FREEPORT,10,Assessing,Assessing,,Assessing,Investigating,-7804177.412898296,5446
 FREEPORT,3,Assessing,Assessing,,Assessing,Investigating,-7807991.329955141,5444886.277393488
 FREEPORT,26,Assessing,Assessing,,Assessing,Investigating,-7803619.223623446,5443973.841119398
 FREEPORT,7,Assessing,Assessing,,Assessing,Investigating,-7803564.58796059,5443996.335975292
-WHITEFIELD,5,Assessing,Assessing,,Assessing,Tree,-7749179.562082351,5490766.793592082
 TOPSHAM,5,Assessing,Assessing,,Assessing,Investigating,-7796197.631090541,5466179.73148746
 FREEPORT,120,Assessing,Assessing,,Assessing,Investigating,-7802694.748603549,5447173.710189586
 TOPSHAM,63,Assessing,Assessing,,Assessing,Investigating,-7794055.732704547,5459667.853776924
@@ -290,8 +288,11 @@ TOPSHAM,16,Assessing,Assessing,,Assessing,Investigating,-7786248.106519448,54553
 TOPSHAM,67,Assessing,Assessing,,Assessing,Investigating,-7786246.993273205,5455383.655247479
 TOPSHAM,270,Assessing,Assessing,,Assessing,Investigating,-7787238.204301903,5457159.629480295
 TOPSHAM,25,Assessing,Assessing,,Assessing,Investigating,-7791655.617753454,5455282.295725489
+APPLETON,16,Assessing,Assessing,,Assessing,Investigating,-7715271.9902519025,5510067.072539466
 "APPLETON,SEARSMONT,HOPE",447,Assessing,Assessing,,Assessing,Investigating,-7711458.173407243,5506447.122894501
 HOPE,11,Assessing,Assessing,,Assessing,Investigating,-7703049.867180259,5502447.750282305
+"UNION,HOPE",20,Assessing,Assessing,,Assessing,Investigating,-7704172.223622007,5496762.1479182625
+UNION,7,Assessing,Assessing,,Assessing,Investigating,-7704953.8757563,5497156.200128518
 "UNION,HOPE",59,Assessing,Assessing,,Assessing,Investigating,-7710391.387574989,5498365.994979362
 UNION,15,Assessing,Assessing,,Assessing,Investigating,-7711260.770521089,5494919.259917708
 "UNION,WARREN",48,Assessing,Assessing,,Assessing,Investigating,-7711550.969289229,5497784.302559316
@@ -604,11 +605,12 @@ SACO,291,3/24/2024 7:00:00 PM,3/24/2024 7:00:00 PM,,Crew Assigned,Investigating,
 SACO,84,Assessing,Assessing,,Assessing,Investigating,-7842269.673652711,5387977.336254013
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7842188.900229476,5387910.812393262
 BIDDEFORD,98,Assessing,Assessing,,Assessing,Investigating,-7842181.775753856,5387059.119390661
-BIDDEFORD,1363,Assessing,Assessing,,Assessing,Investigating,-7841983.872007004,5387030.947296133
+BIDDEFORD,1245,Assessing,Assessing,,Assessing,Investigating,-7841983.872007004,5387030.947296133
 BIDDEFORD,113,Assessing,Assessing,,Assessing,Investigating,-7842501.195934421,5386625.929603069
 BIDDEFORD,644,Assessing,Assessing,,Assessing,Investigating,-7835918.77422612,5381761.177936381
 BIDDEFORD,21,Assessing,Assessing,,Assessing,Investigating,-7834621.189722218,5379179.051497684
 BIDDEFORD,133,Assessing,Assessing,,Assessing,Investigating,-7835964.838193246,5381855.70652747
+BIDDEFORD,118,Assessing,Assessing,,Assessing,Investigating,-7835278.74283167,5381786.880217389
 BIDDEFORD,32,Assessing,Assessing,,Assessing,Investigating,-7842580.29948829,5386935.1997421775
 BIDDEFORD,709,Assessing,Assessing,,Assessing,Investigating,-7842481.73725105,5386865.9214586
 BIDDEFORD,38,Assessing,Assessing,,Assessing,Investigating,-7842686.041863459,5386671.162623334
@@ -725,6 +727,7 @@ SACO,35,Assessing,Assessing,,Assessing,Investigating,-7843412.023075959,5388624.
 SACO,217,Assessing,Assessing,,Assessing,Investigating,-7844260.845305001,5388709.927858163
 BIDDEFORD,46,Assessing,Assessing,,Assessing,Investigating,-7845329.623767938,5385080.731038638
 KENNEBUNKPORT,22,Assessing,Assessing,,Assessing,Investigating,-7843072.198052826,5377740.708510746
+BIDDEFORD,36,Assessing,Assessing,,Assessing,Investigating,-7842136.20153499,5383519.592452075
 GORHAM,18,Assessing,Assessing,,Assessing,Investigating,-7840513.363720524,5416863.318286322
 GORHAM,99,Assessing,Assessing,,Assessing,Investigating,-7839035.742271076,5417260.840950092
 GORHAM,61,Assessing,Assessing,,Assessing,Investigating,-7840365.386765106,5417683.105339793
@@ -773,9 +776,7 @@ OLD ORCHARD BEACH,153,Assessing,Assessing,,Assessing,Investigating,-7834702.8648
 SACO,33,Assessing,Assessing,,Assessing,Investigating,-7836602.96605676,5385062.444474157
 SACO,477,Assessing,Assessing,,Assessing,Investigating,-7836307.179032747,5384353.396181773
 OLD ORCHARD BEACH,28,Assessing,Assessing,,Assessing,Investigating,-7835011.932245839,5389843.574103934
-"OLD ORCHARD BEACH,SACO",1937,Assessing,Assessing,,Assessing,Investigating,-7836002.831525551,5390303.499852215
 OLD ORCHARD BEACH,840,Assessing,Assessing,,Assessing,Investigating,-7838245.974952098,5389646.31224736
-OLD ORCHARD BEACH,387,Assessing,Assessing,,Assessing,Investigating,-7838365.008906761,5390309.562973081
 OLD ORCHARD BEACH,29,Assessing,Assessing,,Assessing,Investigating,-7838184.916198795,5389584.227386222
 OLD ORCHARD BEACH,24,Assessing,Assessing,,Assessing,Investigating,-7838058.40166987,5389566.653425461
 OLD ORCHARD BEACH,86,Assessing,Assessing,,Assessing,Investigating,-7836907.113139584,5390728.587771639
@@ -998,4 +999,3 @@ SOUTH PORTLAND,24,Assessing,Assessing,,Assessing,Investigating,-7818352.64761528
 "CAPE ELIZABETH,SOUTH PORTLAND",52,Assessing,Assessing,,Assessing,Investigating,-7817760.683931077,5408983.560686326
 CAPE ELIZABETH,5,Assessing,Assessing,,Assessing,Investigating,-7817775.945916375,5408875.404304111
 SOUTH PORTLAND,26,Assessing,Assessing,,Assessing,Investigating,-7818383.972882908,5409128.863094225
-SOUTH PORTLAND,24,Assessing,Assessing,,Assessing,Investigating,-7818358.8258315995,5409169.822442272
