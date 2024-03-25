@@ -1,6 +1,5 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-SOUTH PORTLAND,34,Assessing,Assessing,,Investigating,Investigating,-7820650.519108133,5407046.445643583
-SCARBOROUGH,107,Assessing,Assessing,,Investigating,Investigating,-7835561.152480138,5405368.259860847
+WOOLWICH,39,Assessing,Assessing,,Investigating,Investigating,-7768310.106708586,5460114.916088399
 BATH,18,Assessing,Assessing,,Assessing,Investigating,-7772111.29922071,5451618.692486412
 BATH,89,Assessing,Assessing,,Assessing,Investigating,-7772370.0948340325,5451739.527683045
 BATH,72,Assessing,Assessing,,Assessing,Investigating,-7772352.361582231,5451282.402033191
@@ -248,7 +247,6 @@ BOWDOINHAM,269,Assessing,Assessing,,Assessing,Investigating,-7780197.892200116,5
 "BOWDOINHAM,RICHMOND",608,Assessing,Assessing,,Assessing,Investigating,-7780798.605479212,5466878.4744414715
 "TOPSHAM,BOWDOINHAM",179,Assessing,Assessing,,Assessing,Tree,-7784508.14949381,5459506.921265129
 TOPSHAM,37,Assessing,Assessing,,Assessing,Tree,-7784745.449243209,5456283.975040766
-TOPSHAM,216,Assessing,Assessing,,Assessing,Tree,-7785208.4269317575,5455762.592292216
 TOPSHAM,16,Assessing,Assessing,,Assessing,Investigating,-7786248.106519448,5455387.751746842
 TOPSHAM,67,Assessing,Assessing,,Assessing,Investigating,-7786246.993273205,5455383.655247479
 TOPSHAM,25,Assessing,Assessing,,Assessing,Investigating,-7791655.617753454,5455282.295725489
@@ -417,6 +415,8 @@ CAPE ELIZABETH,9,Assessing,Assessing,,Assessing,Investigating,-7819138.1179239,5
 CAPE ELIZABETH,6,Assessing,Assessing,,Assessing,Investigating,-7819721.966423421,5402777.556487226
 "CAPE ELIZABETH,SOUTH PORTLAND",198,Assessing,Assessing,,Assessing,Investigating,-7820251.279472266,5405121.371999298
 CAPE ELIZABETH,337,Assessing,Assessing,,Assessing,Investigating,-7819866.971151526,5406440.377082365
+CAPE ELIZABETH,19,Assessing,Assessing,,Assessing,Investigating,-7819897.283485204,5406774.359589676
+SOUTH PORTLAND,34,Assessing,Assessing,,Assessing,Investigating,-7820650.515704319,5407046.444260652
 SOUTH PORTLAND,46,Assessing,Assessing,,Assessing,Investigating,-7820477.202385664,5407332.669234851
 "CAPE ELIZABETH,SOUTH PORTLAND",819,Assessing,Assessing,,Assessing,Investigating,-7819856.006176593,5406587.315547524
 CAPE ELIZABETH,7,Assessing,Assessing,,Assessing,Investigating,-7818264.582729491,5408260.804717045
@@ -480,10 +480,8 @@ SACO,13,Assessing,Assessing,,Assessing,Investigating,-7839193.13686924,5387046.2
 SACO,17,Assessing,Assessing,,Assessing,Investigating,-7837731.812463817,5385620.366695893
 SACO,84,Assessing,Assessing,,Assessing,Investigating,-7842269.673652711,5387977.336254013
 SACO,12,Assessing,Assessing,,Assessing,Investigating,-7842188.900229476,5387910.812393262
-BIDDEFORD,48,Assessing,Assessing,,Assessing,Investigating,-7841544.872461206,5386749.169931479
 BIDDEFORD,19,Assessing,Assessing,,Assessing,Investigating,-7841388.123485797,5386665.347364691
 BIDDEFORD,13,Assessing,Assessing,,Assessing,Investigating,-7834652.982513223,5379165.069370538
-BIDDEFORD,33,Assessing,Assessing,,Assessing,Investigating,-7841891.13168722,5386856.024701782
 BIDDEFORD,32,Assessing,Assessing,,Assessing,Investigating,-7842580.29948829,5386935.1997421775
 BIDDEFORD,709,Assessing,Assessing,,Assessing,Investigating,-7842481.73725105,5386865.9214586
 BIDDEFORD,38,Assessing,Assessing,,Assessing,Investigating,-7842686.041863459,5386671.162623334
@@ -657,7 +655,7 @@ PORTLAND,967,Assessing,Assessing,,Assessing,Investigating,-7820521.941669846,541
 PORTLAND,35,Assessing,Assessing,,Assessing,Investigating,-7820436.882448801,5413774.345206383
 PORTLAND,44,Assessing,Assessing,,Assessing,Investigating,-7820717.073613747,5413719.807926606
 PORTLAND,124,Assessing,Assessing,,Assessing,Investigating,-7828244.56439632,5419128.270564831
-"WESTBROOK,WINDHAM",484,Assessing,Assessing,,Assessing,Investigating,-7829975.337540902,5420477.751371775
+FALMOUTH,29,Assessing,Assessing,,Assessing,Investigating,-7827687.59959223,5424076.176249791
 "WESTBROOK,WINDHAM",2767,Assessing,Assessing,,Assessing,Investigating,-7830186.844616232,5418671.004659714
 WINDHAM,35,Assessing,Assessing,,Assessing,Investigating,-7834433.583002563,5419742.454209563
 WESTBROOK,116,Assessing,Assessing,,Assessing,Investigating,-7832307.581112178,5419781.505120987
@@ -818,6 +816,7 @@ SOUTH PORTLAND,51,Assessing,Assessing,,Assessing,Investigating,-7817648.80788946
 "SOUTH PORTLAND,CAPE ELIZABETH",165,Assessing,Assessing,,Assessing,Investigating,-7817615.812752479,5409356.165000235
 CAPE ELIZABETH,15,Assessing,Assessing,,Assessing,Investigating,-7817393.452126947,5408892.538182067
 SOUTH PORTLAND,9,Assessing,Assessing,,Assessing,Investigating,-7817268.82991641,5409256.448635685
+SCARBOROUGH,107,Assessing,Assessing,,Assessing,Investigating,-7835561.14917644,5405368.25502148
 SCARBOROUGH,24,Assessing,Assessing,,Assessing,Investigating,-7835909.089384252,5402785.6413676655
 SCARBOROUGH,18,Assessing,Assessing,,Assessing,Investigating,-7834060.328756499,5402594.143883397
 SCARBOROUGH,29,Assessing,Assessing,,Assessing,Investigating,-7830706.9626715835,5401399.153329122
@@ -843,7 +842,7 @@ LEBANON,28,Assessing,Assessing,,Assessing,Investigating,-7887423.508511038,53766
 LEBANON,35,Assessing,Assessing,,Assessing,Investigating,-7894553.477380677,5375277.471027165
 LEBANON,22,Assessing,Assessing,,Assessing,Investigating,-7894550.4717159355,5375280.398034771
 LEBANON,18,Assessing,Assessing,,Assessing,Investigating,-7895603.042034375,5374163.77703981
-LEBANON,4,3/24/2024 10:45:00 PM,3/24/2024 10:45:00 PM,,Assessing,Investigating,-7895224.032545508,5376044.110644193
+LEBANON,4,Assessing,Assessing,,Assessing,Investigating,-7895224.032545508,5376044.110644193
 LEBANON,78,Assessing,Assessing,,Assessing,Investigating,-7893613.172740033,5373285.981205409
 LEBANON,8,Assessing,Assessing,,Assessing,Investigating,-7887303.784383748,5373752.425908607
 LEBANON,53,Assessing,Assessing,,Assessing,Investigating,-7886979.844643685,5371153.547739174
@@ -999,3 +998,4 @@ SEARSPORT,17,Assessing,Assessing,,Assessing,Investigating,-7676083.7001280375,55
 SEARSPORT,1,Assessing,Assessing,,Assessing,Investigating,-7675617.34936344,5543302.763634728
 SEARSPORT,36,Assessing,Assessing,,Assessing,Investigating,-7675075.546332462,5541160.199342998
 SEARSPORT,44,Assessing,Assessing,,Assessing,Investigating,-7672376.839016863,5536728.728718729
+SEARSPORT,54,Assessing,Assessing,,Assessing,Investigating,-7672221.281174893,5537020.9934319975
