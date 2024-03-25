@@ -4,7 +4,7 @@ WALDOBORO,67,Assessing,Assessing,,Investigating,Investigating,-7719348.061481862
 UNION,59,Assessing,Assessing,,Investigating,Investigating,-7714035.132029109,5498952.010816013
 NORTH YARMOUTH,14,Assessing,Assessing,,Investigating,Investigating,-7819795.069660132,5439818.550005731
 WESTBROOK,25,Assessing,Assessing,,Investigating,Investigating,-7829495.466340606,5418362.72794576
-SCARBOROUGH,10,Assessing,Assessing,,Investigating,Investigating,-7825135.840680626,5400638.894657506
+WARREN,34,Assessing,Assessing,,Investigating,Investigating,-7710519.633742428,5486466.855194235
 HOPE,20,Assessing,Assessing,,Investigating,Investigating,-7707798.13771561,5502678.449940637
 SCARBOROUGH,26,Assessing,Assessing,,Investigating,Investigating,-7825942.65478293,5397426.366500963
 SEARSPORT,7,Assessing,Assessing,,Investigating,Investigating,-7671419.120682151,5536749.70904376
@@ -31,6 +31,7 @@ OLD ORCHARD BEACH,22,Assessing,Assessing,,Investigating,Investigating,-7835404.5
 HOPE,6,Assessing,Assessing,,Investigating,Investigating,-7695395.179705097,5504326.175361873
 DRESDEN,2,Assessing,Assessing,,Investigating,Investigating,-7766922.44516635,5479631.23331172
 SEARSMONT,53,Assessing,Assessing,,Investigating,Investigating,-7697036.254435201,5521024.076801827
+SCARBOROUGH,11,Assessing,Assessing,,Investigating,Investigating,-7825180.013230364,5400818.571517732
 WESTBROOK,12,Assessing,Assessing,,Investigating,Investigating,-7827812.239722827,5423234.101622352
 FREEPORT,68,Assessing,Assessing,,Investigating,Investigating,-7805508.820165688,5442393.704323735
 HOPE,22,Assessing,Assessing,,Investigating,Investigating,-7703802.564100121,5500090.944347851
@@ -307,6 +308,7 @@ HOPE,11,Assessing,Assessing,,Assessing,Tree,-7703049.867180259,5502447.750282305
 HOPE,40,Assessing,Assessing,,Assessing,Tree,-7703769.636739007,5500541.639844981
 HOPE,8,Assessing,Assessing,,Assessing,Tree,-7703894.103075046,5499409.981481059
 UNION,33,Assessing,Assessing,,Assessing,Tree,-7705766.574846655,5497027.435734026
+"HOPE,UNION",5,Assessing,Assessing,,Assessing,Investigating,-7706408.454109741,5500039.636672121
 "UNION,HOPE",59,Assessing,Assessing,,Assessing,Tree,-7710391.387574989,5498365.994979362
 UNION,3,Assessing,Assessing,,Assessing,Tree,-7720449.960722442,5499240.412476447
 UNION,5,Assessing,Assessing,,Assessing,Tree,-7720408.471977133,5499364.874616194
@@ -363,7 +365,7 @@ BRUNSWICK,34,Assessing,Assessing,,Assessing,Investigating,-7788172.564487926,545
 BRUNSWICK,65,Assessing,Assessing,,Assessing,Investigating,-7788278.195538473,5453027.5718124695
 BRUNSWICK,72,Assessing,Assessing,,Assessing,Investigating,-7789273.870464361,5452030.89836293
 BRUNSWICK,19,Assessing,Assessing,,Assessing,Investigating,-7788689.732540842,5451533.32071401
-"WISCASSET,WESTPORT",825,Assessing,Assessing,,Assessing,Investigating,-7757884.334393533,5458687.1302595595
+"WISCASSET,WESTPORT",738,Assessing,Assessing,,Assessing,Investigating,-7757884.334393533,5458687.1302595595
 WISCASSET,30,Assessing,Assessing,,Assessing,Investigating,-7759456.243494954,5457694.9456485165
 WISCASSET,224,Assessing,Assessing,,Assessing,Investigating,-7757600.614378154,5462257.128667626
 WESTPORT,111,Assessing,Assessing,,Assessing,Investigating,-7759770.732154843,5450404.912283381
@@ -372,6 +374,7 @@ WESTPORT,12,Assessing,Assessing,,Assessing,Investigating,-7761188.307985157,5446
 WESTPORT,8,Assessing,Assessing,,Assessing,Investigating,-7760266.22634457,5445948.996247825
 WESTPORT,45,Assessing,Assessing,,Assessing,Investigating,-7759997.122691729,5445264.303530888
 WESTPORT,17,Assessing,Assessing,,Assessing,Investigating,-7755712.112661535,5461279.160461454
+WISCASSET,87,Assessing,Assessing,,Assessing,Investigating,-7759912.79809307,5460350.047086792
 WISCASSET,53,Assessing,Assessing,,Assessing,Investigating,-7759645.174997668,5462215.050741222
 WISCASSET,14,Assessing,Assessing,,Assessing,Investigating,-7758314.127833394,5463565.167859843
 WISCASSET,108,Assessing,Assessing,,Assessing,Investigating,-7758156.900122056,5463633.2607318945
@@ -996,6 +999,3 @@ ORLAND,15,Assessing,Assessing,,Assessing,Investigating,-7651980.058180138,555174
 CASTINE,103,Assessing,Assessing,,Assessing,Investigating,-7658993.430924186,5528287.38970507
 CASTINE,22,Assessing,Assessing,,Assessing,Investigating,-7657610.330788299,5534835.419579845
 "PENOBSCOT,CASTINE",25,Assessing,Assessing,,Assessing,Investigating,-7656612.09549616,5535121.775949692
-"PENOBSCOT,CASTINE",64,Assessing,Assessing,,Assessing,Investigating,-7652088.906332123,5538208.942481342
-PENOBSCOT,6,Assessing,Assessing,,Assessing,Investigating,-7652733.635385457,5536231.655447235
-CASTINE,1,Assessing,Assessing,,Assessing,Investigating,-7655308.855961633,5531991.758682638
