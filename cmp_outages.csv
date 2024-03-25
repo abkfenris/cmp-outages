@@ -9,15 +9,11 @@ SCARBOROUGH,26,Assessing,Assessing,,Investigating,Investigating,-7825942.6547829
 SEARSPORT,7,Assessing,Assessing,,Investigating,Investigating,-7671419.120682151,5536749.70904376
 OLD ORCHARD BEACH,131,Assessing,Assessing,,Investigating,Investigating,-7835098.438787119,5390395.5096082585
 WALDOBORO,1,Assessing,Assessing,,Investigating,Investigating,-7722723.260207719,5488894.909575557
-PORTLAND,611,Assessing,Assessing,,Investigating,Investigating,-7825225.359694263,5415069.026969654
 BELFAST,27,Assessing,Assessing,,Investigating,Investigating,-7679320.804561799,5540169.216928912
 OLD ORCHARD BEACH,19,Assessing,Assessing,,Investigating,Investigating,-7835487.971756687,5390069.240338962
 SOUTH PORTLAND,32,Assessing,Assessing,,Investigating,Investigating,-7820612.578434776,5407128.4029079005
-SOUTH PORTLAND,13,Assessing,Assessing,,Investigating,Investigating,-7821312.264510712,5407833.357513887
-BELFAST,27,Assessing,Assessing,,Investigating,Investigating,-7685559.000320276,5527130.039823231
 WALDOBORO,5,Assessing,Assessing,,Investigating,Investigating,-7717813.2105658855,5492965.910429462
 LINCOLNVILLE,28,Assessing,Assessing,,Investigating,Investigating,-7687072.716376465,5512404.824455938
-LEBANON,45,Assessing,Assessing,,Investigating,Investigating,-7889102.355626108,5374966.657924731
 OLD ORCHARD BEACH,73,Assessing,Assessing,,Investigating,Investigating,-7837385.213056984,5391214.733205628
 LINCOLNVILLE,35,Assessing,Assessing,,Investigating,Investigating,-7691510.596139381,5515393.436019735
 SCARBOROUGH,6,Assessing,Assessing,,Investigating,Investigating,-7828826.241865442,5403718.118401032
@@ -25,18 +21,15 @@ BERWICK,126,Assessing,Assessing,,Investigating,Investigating,-7888673.136228865,
 BELMONT,10,Assessing,Assessing,,Investigating,Investigating,-7695525.199057561,5523647.825828981
 BOWDOINHAM,17,Assessing,Assessing,,Investigating,Investigating,-7780113.057830783,5462258.824309845
 WARREN; UNION,130,Assessing,Assessing,,Investigating,Investigating,-7708167.975336868,5490286.990101346
-SEARSMONT,3,Assessing,Assessing,,Investigating,Investigating,-7696211.181392609,5520842.231497854
+BELFAST; NORTHPORT; BELMONT,84,Assessing,Assessing,,Investigating,Investigating,-7687135.508770519,5526252.910162053
 WESTBROOK,124,Assessing,Assessing,,Investigating,Investigating,-7829956.35999615,5419359.649498744
 TOPSHAM,25,Assessing,Assessing,,Investigating,Investigating,-7785309.469645815,5456515.8763649035
 NORTHPORT,15,Assessing,Assessing,,Investigating,Investigating,-7686890.433116245,5520417.942077273
 BUXTON; GORHAM,41,Assessing,Assessing,,Investigating,Investigating,-7845069.458621465,5412283.404072546
-SACO,56,Assessing,Assessing,,Investigating,Investigating,-7841094.47835957,5388301.321445409
-SCARBOROUGH,6,Assessing,Assessing,,Investigating,Investigating,-7827191.080555221,5405380.703827777
 OLD ORCHARD BEACH,22,Assessing,Assessing,,Investigating,Investigating,-7835404.562082253,5391045.261629394
 HOPE,6,Assessing,Assessing,,Investigating,Investigating,-7695395.179705097,5504326.175361873
 DRESDEN,2,Assessing,Assessing,,Investigating,Investigating,-7766922.44516635,5479631.23331172
-ALFRED,17,Assessing,Assessing,,Investigating,Investigating,-7871991.902326809,5384735.640974097
-FREEPORT,2,Assessing,Assessing,,Investigating,Investigating,-7805508.104864933,5442390.769591051
+SEARSMONT,9,Assessing,Assessing,,Investigating,Investigating,-7696640.476174238,5520540.085934737
 WESTBROOK,12,Assessing,Assessing,,Investigating,Investigating,-7827812.239722827,5423234.101622352
 FREEPORT,68,Assessing,Assessing,,Investigating,Investigating,-7805508.820165688,5442393.704323735
 HOPE,22,Assessing,Assessing,,Investigating,Investigating,-7703802.564100121,5500090.944347851
@@ -57,6 +50,7 @@ HOPE,17,Assessing,Assessing,,Investigating,Investigating,-7696760.15515098,55053
 HOPE,2,Assessing,Assessing,,Investigating,Investigating,-7703124.404722623,5499664.410799443
 JEFFERSON,44,Assessing,Assessing,,Investigating,Investigating,-7736294.10112539,5487085.438878678
 SEARSMONT,15,Assessing,Assessing,,Investigating,Investigating,-7701500.531048548,5521014.348921691
+NORTH YARMOUTH,16,Assessing,Assessing,,Investigating,Investigating,-7817719.533965021,5442072.342907969
 BATH,18,Assessing,Assessing,,Assessing,Investigating,-7772111.29922071,5451618.692486412
 BATH,89,Assessing,Assessing,,Assessing,Investigating,-7772370.0948340325,5451739.527683045
 BATH,72,Assessing,Assessing,,Assessing,Investigating,-7772352.361582231,5451282.402033191
@@ -301,7 +295,6 @@ TOPSHAM,92,Assessing,Assessing,,Assessing,Investigating,-7785994.0308899935,5454
 TOPSHAM,290,Assessing,Assessing,,Assessing,Investigating,-7785783.915372464,5453565.769309432
 BOWDOINHAM,269,Assessing,Assessing,,Assessing,Investigating,-7780197.892200116,5466977.779548751
 "BOWDOINHAM,RICHMOND",608,Assessing,Assessing,,Assessing,Investigating,-7780798.605479212,5466878.4744414715
-"TOPSHAM,BOWDOINHAM",179,Assessing,Assessing,,Assessing,Tree,-7784508.14949381,5459506.921265129
 TOPSHAM,25,Assessing,Assessing,,Assessing,Investigating,-7791655.617753454,5455282.295725489
 APPLETON,16,Assessing,Assessing,,Assessing,Tree,-7715271.9902519025,5510067.072539466
 "APPLETON,SEARSMONT",6,Assessing,Assessing,,Assessing,Investigating,-7703353.435415079,5513351.25026058
@@ -569,7 +562,6 @@ SANFORD,24,Assessing,Assessing,,Crew Assigned,Investigating,-7877597.648778731,5
 SANFORD,73,Assessing,Assessing,,Crew Assigned,Investigating,-7877047.006852895,5376693.744206418
 "SANFORD,LEBANON",19,Assessing,Assessing,,Crew Assigned,Investigating,-7884637.6936814,5376967.690284027
 "SANFORD,LEBANON",54,Assessing,Assessing,,Assessing,Investigating,-7882692.741870726,5375741.502292167
-SANFORD,15,Assessing,Assessing,,Crew Assigned,Investigating,-7876853.745102618,5376007.328244683
 SANFORD,137,Assessing,Assessing,,Crew Assigned,Investigating,-7876396.700656136,5375873.732342635
 SANFORD,16,Assessing,Assessing,,Crew Assigned,Investigating,-7877518.556237186,5377027.176831761
 SANFORD,18,Assessing,Assessing,,Crew Assigned,Investigating,-7878064.400191848,5377879.343812155
@@ -746,7 +738,6 @@ SANFORD,41,Assessing,Assessing,,Assessing,Investigating,-7868456.348188255,53697
 WELLS,265,Assessing,Assessing,,Assessing,Investigating,-7868305.744091838,5369629.991544219
 WELLS,30,Assessing,Assessing,,Assessing,Investigating,-7866885.385246028,5369308.065676338
 SANFORD,130,Assessing,Assessing,,Assessing,Investigating,-7874179.127354512,5374196.123961578
-SANFORD,8,Assessing,Assessing,,Assessing,Investigating,-7878573.007861689,5380336.035037049
 SANFORD,27,Assessing,Assessing,,Assessing,Investigating,-7883266.4935672,5379968.1231062
 ALFRED,75,Assessing,Assessing,,Assessing,Investigating,-7875521.974328291,5383543.65850919
 PORTLAND,8,Assessing,Assessing,,Assessing,Investigating,-7824765.941590548,5413485.32004409
@@ -788,6 +779,7 @@ ALFRED,11,Assessing,Assessing,,Assessing,Investigating,-7872338.693348148,538765
 ALFRED,30,Assessing,Assessing,,Assessing,Investigating,-7873816.63765902,5390578.431765703
 "ALFRED,SHAPLEIGH",221,Assessing,Assessing,,Crew Assigned,Investigating,-7873491.172911759,5388232.908772128
 ALFRED,6,Assessing,Assessing,,Assessing,Investigating,-7872290.158014406,5385622.391865575
+ALFRED,17,Assessing,Assessing,,Assessing,Investigating,-7871991.899723896,5384735.641387975
 "ALFRED,LYMAN",179,Assessing,Assessing,,Assessing,Investigating,-7871645.840822141,5384320.8758665705
 "ALFRED,LYMAN",243,Assessing,Assessing,,Assessing,Investigating,-7870511.272609706,5384675.767790182
 "ALFRED,LYMAN",81,Assessing,Assessing,,Assessing,Investigating,-7871111.429365794,5384699.223205416
@@ -899,6 +891,7 @@ LEBANON,22,Assessing,Assessing,,Assessing,Investigating,-7894550.4717159355,5375
 LEBANON,18,Assessing,Assessing,,Assessing,Investigating,-7895603.042034375,5374163.77703981
 LEBANON,4,Assessing,Assessing,,Assessing,Investigating,-7895224.032545508,5376044.110644193
 LEBANON,78,Assessing,Assessing,,Assessing,Investigating,-7893613.172740033,5373285.981205409
+LEBANON,45,Assessing,Assessing,,Assessing,Investigating,-7889102.351121063,5374966.658613814
 LEBANON,8,Assessing,Assessing,,Assessing,Investigating,-7887303.784383748,5373752.425908607
 LEBANON,53,Assessing,Assessing,,Assessing,Investigating,-7886979.844643685,5371153.547739174
 "LEBANON,NORTH BERWICK",13,Assessing,Assessing,,Assessing,Investigating,-7886568.140654378,5370181.33470828
@@ -999,3 +992,10 @@ ORLAND,15,Assessing,Assessing,,Assessing,Investigating,-7651980.058180138,555174
 CASTINE,103,Assessing,Assessing,,Assessing,Investigating,-7658993.430924186,5528287.38970507
 CASTINE,22,Assessing,Assessing,,Assessing,Investigating,-7657610.330788299,5534835.419579845
 "PENOBSCOT,CASTINE",25,Assessing,Assessing,,Assessing,Investigating,-7656612.09549616,5535121.775949692
+"PENOBSCOT,CASTINE",64,Assessing,Assessing,,Assessing,Investigating,-7652088.906332123,5538208.942481342
+PENOBSCOT,6,Assessing,Assessing,,Assessing,Investigating,-7652733.635385457,5536231.655447235
+CASTINE,1,Assessing,Assessing,,Assessing,Investigating,-7655308.855961633,5531991.758682638
+PENOBSCOT,7,Assessing,Assessing,,Assessing,Investigating,-7654500.620868578,5532640.954157541
+PENOBSCOT,31,Assessing,Assessing,,Assessing,Investigating,-7652883.616184111,5535005.619928785
+PENOBSCOT,75,Assessing,Assessing,,Assessing,Investigating,-7652083.095427004,5538250.6539815655
+BUCKSPORT,57,Assessing,Assessing,,Assessing,Investigating,-7657325.063440725,5556302.190080755
