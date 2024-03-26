@@ -1,8 +1,4 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-FALMOUTH,11,Assessing,Assessing,,Investigating,Investigating,-7818808.312717632,5420759.198856986
-HARPSWELL,2,Assessing,Assessing,,Investigating,Investigating,-7784174.818240248,5435800.081334838
-PORTLAND,77,Assessing,Assessing,,Investigating,Investigating,-7826003.541043128,5414342.992630954
-BRUNSWICK,11,Assessing,Assessing,,Investigating,Investigating,-7792609.187644113,5441273.386878273
 BATH,18,Assessing,Assessing,,Assessing,Tree,-7772111.29922071,5451618.692486412
 WEST BATH,76,Assessing,Assessing,,Assessing,Investigating,-7775267.028757904,5442093.222398901
 PHIPPSBURG,93,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7774817.7544097975,5439015.370129273
@@ -60,6 +56,7 @@ BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7787084.2827917505,545
 BRUNSWICK,114,Assessing,Assessing,,Assessing,Investigating,-7788888.025923875,5449583.893372992
 BRUNSWICK,490,Assessing,Assessing,,Assessing,Investigating,-7789531.708605828,5448533.529241392
 BRUNSWICK,11,Assessing,Assessing,,Assessing,Investigating,-7788856.544781752,5447275.644453829
+BRUNSWICK,11,Assessing,Assessing,,Assessing,Investigating,-7792609.191648599,5441273.392291734
 BRUNSWICK,168,Assessing,Assessing,,Assessing,Investigating,-7792621.848617667,5441283.023546497
 BRUNSWICK,14,Assessing,Assessing,,Assessing,Investigating,-7794242.860788385,5439525.357580334
 BRUNSWICK,24,Assessing,Assessing,,Assessing,Investigating,-7789948.377453127,5444762.783866799
@@ -113,6 +110,7 @@ HARPSWELL,79,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigatin
 HARPSWELL,95,Assessing,Assessing,,Assessing,Investigating,-7785358.78615405,5433079.348457706
 HARPSWELL,12,Assessing,Assessing,,Assessing,Investigating,-7783902.371044418,5436193.859946
 HARPSWELL,25,Assessing,Assessing,,Assessing,Investigating,-7783910.096592922,5436195.063153849
+HARPSWELL,2,Assessing,Assessing,,Assessing,Investigating,-7784174.814335875,5435800.086328909
 HARPSWELL,72,Assessing,Assessing,,Assessing,Investigating,-7784224.607577798,5435623.543935669
 HARPSWELL,30,Assessing,Assessing,,Assessing,Investigating,-7782775.294618799,5440150.51597808
 HARPSWELL,26,Assessing,Assessing,,Assessing,Investigating,-7782571.301655271,5439646.296393986
@@ -292,6 +290,7 @@ WISCASSET,35,Assessing,Assessing,,Assessing,Investigating,-7759645.174997668,546
 WISCASSET,18,Assessing,Assessing,,Assessing,Investigating,-7759671.03444648,5462960.786836055
 WISCASSET,108,Assessing,Assessing,,Assessing,Investigating,-7758156.900122056,5463633.2607318945
 WISCASSET,16,Assessing,Assessing,,Assessing,Investigating,-7760916.0650179535,5460634.854392185
+BERWICK,774,Assessing,Assessing,,Assessing,Investigating,-7888555.460694911,5355077.990093318
 BERWICK,13,Assessing,Assessing,,Assessing,Investigating,-7886353.461027474,5364513.793010114
 LYMAN,26,Assessing,Assessing,,Assessing,Investigating,-7863817.442383179,5391152.05261463
 PORTLAND,19,Assessing,Assessing,,Assessing,Investigating,-7823661.9528108025,5420103.650907148
@@ -337,6 +336,7 @@ YARMOUTH,28,Assessing,Assessing,,Assessing,Investigating,-7812066.157693054,5433
 FALMOUTH,1,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Tree,-7819042.962100031,5418347.061223079
 FALMOUTH,3,Assessing,Assessing,,Assessing,Investigating,-7818774.804506273,5420027.117108162
 FALMOUTH,10,Assessing,Assessing,,Assessing,Investigating,-7818811.439818322,5420759.110495084
+FALMOUTH,11,Assessing,Assessing,,Assessing,Investigating,-7818808.311716515,5420759.202873434
 FALMOUTH,15,Assessing,Assessing,,Assessing,Investigating,-7818752.295708405,5420688.00755226
 "KENNEBUNK,KENNEBUNKPORT",15,Assessing,Assessing,,Assessing,Investigating,-7845920.630080399,5367684.74584851
 ARUNDEL,71,Assessing,Assessing,,Assessing,Investigating,-7848455.230183272,5369976.005470149
@@ -373,6 +373,7 @@ WELLS,41,Assessing,Assessing,,Assessing,Investigating,-7864858.157129693,5369441
 SANFORD,13,Assessing,Assessing,,Assessing,Investigating,-7874308.3247868605,5374253.2176911505
 SANFORD,130,Assessing,Assessing,,Assessing,Investigating,-7874179.127354512,5374196.123961578
 PORTLAND,20,Assessing,Assessing,,Assessing,Investigating,-7823977.220743061,5412053.238446604
+PORTLAND,77,Assessing,Assessing,,Assessing,Investigating,-7826003.536037525,5414342.988755697
 PORTLAND,88,Assessing,Assessing,,Assessing,Investigating,-7823495.185119765,5413346.15038179
 NORTH BERWICK,95,3/26/2024 12:00:00 PM,3/26/2024 12:00:00 PM,,Assessing,Investigating,-7874900.600119951,5358160.477055146
 NORTH BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7881812.63882382,5362992.243620532
@@ -380,7 +381,6 @@ NORTH BERWICK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7874094.903068
 WELLS,64,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7872598.735657103,5363440.585849425
 WELLS,13,Assessing,Assessing,,Crew Assigned,Investigating,-7872301.367963584,5362548.759080528
 NORTH BERWICK,8,Assessing,Assessing,,Crew Assigned,Investigating,-7874107.916235972,5363045.1209369
-SOUTH BERWICK,16,Assessing,Assessing,,Assessing,Investigating,-7867560.827381663,5351523.970505549
 "NORTH BERWICK,SOUTH BERWICK",24,Assessing,Assessing,,Crew Assigned,Investigating,-7871740.417898122,5357241.365557424
 WELLS,7,Assessing,Assessing,,Assessing,Investigating,-7864873.2409155,5366035.362063839
 WELLS,7,Assessing,Assessing,,Assessing,Investigating,-7862218.616148898,5363122.838246838
@@ -412,7 +412,6 @@ DAYTON,10,Assessing,Assessing,,Assessing,Investigating,-7857722.655666485,540133
 DAYTON,10,Assessing,Assessing,,Assessing,Investigating,-7855815.474538878,5400269.669321625
 WELLS,26,Assessing,Assessing,,Assessing,Investigating,-7854181.092901472,5364811.259710344
 CAPE ELIZABETH,45,Assessing,Assessing,,Assessing,Investigating,-7817813.204526183,5408896.060374961
-PEAKS ISLAND,4,Assessing,Assessing,,Assessing,Investigating,-7812530.237515415,5412906.204330882
 LEBANON,62,Assessing,Assessing,,Assessing,Investigating,-7895789.802706911,5365362.133274889
 LEBANON,5,Assessing,Assessing,,Assessing,Investigating,-7889491.3904380025,5375470.381656763
 LEBANON,73,Assessing,Assessing,,Crew Assigned,Investigating,-7893336.12078933,5373961.500851782
@@ -442,7 +441,6 @@ NORTHPORT,5,Assessing,Assessing,,Assessing,Investigating,-7678354.183560837,5521
 SEARSMONT,2,Assessing,Assessing,,Assessing,Tree,-7696624.439321496,5519825.870304435
 SEARSMONT,3,Assessing,Assessing,,Assessing,Tree,-7698518.774268226,5524354.290198483
 SEARSMONT,53,Assessing,Assessing,,Assessing,Tree,-7702709.396534378,5521946.263931274
-SEARSMONT,10,Assessing,Assessing,,Assessing,Tree,-7701001.276849609,5517460.359740163
 SEARSMONT,3,Assessing,Assessing,,Assessing,Tree,-7700553.204747376,5522883.83085987
 MONTVILLE,27,Assessing,Assessing,,Assessing,Tree,-7708906.407788127,5533961.452237609
 "MORRILL,MONTVILLE",29,Assessing,Assessing,,Assessing,Tree,-7704990.7558423625,5535855.983291404
