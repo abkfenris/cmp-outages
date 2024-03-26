@@ -1,5 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-BRUNSWICK,18,Assessing,Assessing,,Investigating,Investigating,-7781956.594110048,5448793.40164835
+FALMOUTH,11,Assessing,Assessing,,Investigating,Investigating,-7818808.312717632,5420759.198856986
+HARPSWELL,2,Assessing,Assessing,,Investigating,Investigating,-7784174.818240248,5435800.081334838
 PORTLAND,77,Assessing,Assessing,,Investigating,Investigating,-7826003.541043128,5414342.992630954
 BRUNSWICK,11,Assessing,Assessing,,Investigating,Investigating,-7792609.187644113,5441273.386878273
 BATH,18,Assessing,Assessing,,Assessing,Tree,-7772111.29922071,5451618.692486412
@@ -139,6 +140,7 @@ HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7781066.028350473,5438
 HARPSWELL,71,Assessing,Assessing,,Assessing,Investigating,-7780986.145424116,5439542.749010054
 BRUNSWICK,9,Assessing,Assessing,,Assessing,Investigating,-7782615.20600477,5445700.715942278
 BRUNSWICK,44,Assessing,Assessing,,Assessing,Investigating,-7783363.039279944,5446551.333084951
+BRUNSWICK,18,Assessing,Assessing,,Assessing,Investigating,-7781956.595411502,5448793.39414666
 BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7781952.8327993825,5448799.295065124
 BRUNSWICK,20,Assessing,Assessing,,Assessing,Investigating,-7780890.232552758,5449762.634876823
 BRUNSWICK,16,Assessing,Assessing,,Assessing,Investigating,-7781215.775287326,5450043.004943689
@@ -259,6 +261,7 @@ GEORGETOWN,5,Assessing,Assessing,,Assessing,Tree,-7766096.51796755,5437852.22192
 GEORGETOWN,2,Assessing,Assessing,,Assessing,Tree,-7763608.7165543,5436215.333060867
 GEORGETOWN,13,Assessing,Assessing,,Assessing,Investigating,-7765272.442041192,5437219.243276624
 ARROWSIC,43,Assessing,Assessing,,Assessing,Tree,-7767192.825648557,5448273.625279464
+ARROWSIC,13,Assessing,Assessing,,Assessing,Investigating,-7769668.560053185,5449948.053863588
 WOOLWICH,38,Assessing,Assessing,,Assessing,Investigating,-7762764.625421564,5453645.178640665
 WOOLWICH,31,Assessing,Assessing,,Assessing,Investigating,-7762779.553332877,5460524.852796881
 WOOLWICH,12,Assessing,Assessing,,Assessing,Investigating,-7761815.426323866,5459653.811101933
@@ -371,7 +374,7 @@ SANFORD,13,Assessing,Assessing,,Assessing,Investigating,-7874308.3247868605,5374
 SANFORD,130,Assessing,Assessing,,Assessing,Investigating,-7874179.127354512,5374196.123961578
 PORTLAND,20,Assessing,Assessing,,Assessing,Investigating,-7823977.220743061,5412053.238446604
 PORTLAND,88,Assessing,Assessing,,Assessing,Investigating,-7823495.185119765,5413346.15038179
-NORTH BERWICK,95,3/25/2024 10:00:00 PM,3/25/2024 10:00:00 PM,,Assessing,Investigating,-7874900.600119951,5358160.477055146
+NORTH BERWICK,95,3/26/2024 12:00:00 PM,3/26/2024 12:00:00 PM,,Assessing,Investigating,-7874900.600119951,5358160.477055146
 NORTH BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7881812.63882382,5362992.243620532
 NORTH BERWICK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7874094.90306815,5362216.243754079
 WELLS,64,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7872598.735657103,5363440.585849425
@@ -438,8 +441,6 @@ LINCOLNVILLE,5,Assessing,Assessing,,Assessing,Tree,-7687305.79570123,5519229.516
 NORTHPORT,5,Assessing,Assessing,,Assessing,Investigating,-7678354.183560837,5521576.3650668
 SEARSMONT,2,Assessing,Assessing,,Assessing,Tree,-7696624.439321496,5519825.870304435
 SEARSMONT,3,Assessing,Assessing,,Assessing,Tree,-7698518.774268226,5524354.290198483
-SEARSMONT,13,Assessing,Assessing,,Assessing,Tree,-7698986.171404212,5523936.105975221
-SEARSMONT,13,Assessing,Assessing,,Assessing,Tree,-7703884.5295578,5517656.398734946
 SEARSMONT,53,Assessing,Assessing,,Assessing,Tree,-7702709.396534378,5521946.263931274
 SEARSMONT,10,Assessing,Assessing,,Assessing,Tree,-7701001.276849609,5517460.359740163
 SEARSMONT,3,Assessing,Assessing,,Assessing,Tree,-7700553.204747376,5522883.83085987
