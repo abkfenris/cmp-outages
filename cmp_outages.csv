@@ -1,38 +1,21 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-FREEPORT,12,Assessing,Assessing,,Investigating,Investigating,-7804374.009581925,5445325.107205784
 BRUNSWICK,24,Assessing,Assessing,,Investigating,Investigating,-7789948.381858059,5444762.786643992
-WESTPORT,17,Assessing,Assessing,,Investigating,Investigating,-7755712.113762765,5461279.162687204
-PORTLAND,88,Assessing,Assessing,,Investigating,Investigating,-7823495.183117522,5413346.154533402
-FREEPORT,15,Assessing,Assessing,,Investigating,Investigating,-7806056.29534645,5446996.338322498
-HARPSWELL,30,Assessing,Assessing,,Investigating,Investigating,-7782775.292516446,5440150.512785911
-POWNAL,41,Assessing,Assessing,,Investigating,Investigating,-7806202.582109753,5450104.979098821
-FREEPORT,16,Assessing,Assessing,,Investigating,Investigating,-7804924.923412152,5447852.131704116
-FREEPORT,7,Assessing,Assessing,,Investigating,Investigating,-7804882.696240195,5449131.789464492
+BRUNSWICK,168,Assessing,Assessing,,Investigating,Investigating,-7792621.846615424,5441283.027016672
+WESTPORT,7,Assessing,Assessing,,Investigating,Investigating,-7758915.371906702,5453880.934375999
+WESTPORT,71,Assessing,Assessing,,Investigating,Investigating,-7755801.326133131,5461207.982930214
 FREEPORT,21,Assessing,Assessing,,Investigating,Investigating,-7802899.54156265,5448146.6154671805
 HARPSWELL,11,Assessing,Assessing,,Investigating,Investigating,-7782618.56216188,5440845.124509352
-DURHAM,157,Assessing,Assessing,,Investigating,Investigating,-7805575.143712752,5452249.588983883
-FREEPORT; POWNAL,69,Assessing,Assessing,,Investigating,Investigating,-7806443.468574365,5445156.819429487
-FREEPORT,6,Assessing,Assessing,,Investigating,Investigating,-7805339.084051592,5446559.303502754
-DURHAM; FREEPORT,26,Assessing,Assessing,,Investigating,Investigating,-7805445.099432388,5451289.416629273
-BRUNSWICK,19,Assessing,Assessing,,Investigating,Investigating,-7794426.426284023,5439246.589168279
-BRUNSWICK,40,Assessing,Assessing,,Investigating,Investigating,-7789706.825143128,5450480.7806638
+BRUNSWICK,11,Assessing,Assessing,,Investigating,Investigating,-7788856.548586014,5447275.643203756
 BRUNSWICK,39,Assessing,Assessing,,Investigating,Investigating,-7789358.337322281,5450032.070161284
-BRUNSWICK,67,Assessing,Assessing,,Investigating,Investigating,-7788497.301220199,5448537.4575188495
-BRUNSWICK,19,Assessing,Assessing,,Investigating,Investigating,-7788526.664691659,5448900.658590378
-FREEPORT,16,Assessing,Assessing,,Investigating,Investigating,-7803093.6618740605,5444856.583479353
-FREEPORT; BRUNSWICK; PROUT RD,197,Assessing,Assessing,,Investigating,Investigating,-7802180.716260964,5445850.078479135
 BRUNSWICK,44,Assessing,Assessing,,Investigating,Investigating,-7788147.874147886,5443846.886054715
 BRUNSWICK,6,Assessing,Assessing,,Investigating,Investigating,-7788574.953048908,5446882.732764671
 BRUNSWICK,255,Assessing,Assessing,,Investigating,Investigating,-7789531.706103027,5448533.522295576
-FREEPORT,13,Assessing,Assessing,,Investigating,Investigating,-7806454.8448096905,5447296.674232847
 PHIPPSBURG,25,Assessing,Assessing,,Investigating,Investigating,-7770484.573053356,5446003.086213459
 BRUNSWICK,114,Assessing,Assessing,,Investigating,Investigating,-7788888.0263243215,5449583.89184473
-BRUNSWICK,34,Assessing,Assessing,,Investigating,Investigating,-7789110.815229297,5448168.906880506
+BRUNSWICK,120,Assessing,Assessing,,Investigating,Investigating,-7789110.815229297,5448168.906880506
 BRUNSWICK,86,Assessing,Assessing,,Investigating,Investigating,-7788972.549345109,5447738.275274965
-FREEPORT,81,Assessing,Assessing,,Investigating,Investigating,-7804877.796254817,5449128.1314208675
-BRUNSWICK,40,Assessing,Assessing,,Investigating,Investigating,-7794718.318347756,5438791.903277974
-HARPSWELL,5,Assessing,Assessing,,Investigating,Investigating,-7794148.284513304,5428004.940205067
-POWNAL,42,Assessing,Assessing,,Investigating,Investigating,-7807516.493991628,5447990.32941294
+FALMOUTH,3,Assessing,Assessing,,Investigating,Investigating,-7818774.806007956,5420027.120847316
+WESTPORT,2,Assessing,Assessing,,Investigating,Investigating,-7761788.638936245,5448389.1512752995
 BATH,18,Assessing,Assessing,,Assessing,Tree,-7772111.29922071,5451618.692486412
 WEST BATH,76,Assessing,Assessing,,Assessing,Investigating,-7775267.028757904,5442093.222398901
 PHIPPSBURG,93,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7774817.7544097975,5439015.370129273
@@ -72,6 +55,7 @@ HARPSWELL,27,Assessing,Assessing,,Assessing,Investigating,-7793349.466262099,542
 HARPSWELL,102,Assessing,Assessing,,Assessing,Investigating,-7795150.025630095,5428889.213111503
 HARPSWELL,24,Assessing,Assessing,,Assessing,Investigating,-7794541.942901143,5428064.0373308705
 HARPSWELL,95,Assessing,Assessing,,Assessing,Investigating,-7794391.171717678,5427792.149583991
+HARPSWELL,5,Assessing,Assessing,,Assessing,Tree,-7794148.283812522,5428004.946026562
 HARPSWELL,7,Assessing,Assessing,,Assessing,Investigating,-7793787.987071967,5428807.797421089
 HARPSWELL,20,Assessing,Assessing,,Assessing,Investigating,-7793291.836147043,5429065.148872552
 HARPSWELL,6,Assessing,Assessing,,Assessing,Investigating,-7792242.405042853,5431786.320973097
@@ -92,6 +76,7 @@ BRUNSWICK,21,Assessing,Assessing,,Assessing,Investigating,-7789846.831876142,544
 BRUNSWICK,14,Assessing,Assessing,,Assessing,Investigating,-7794242.860788385,5439525.357580334
 BRUNSWICK,58,Assessing,Assessing,,Assessing,Investigating,-7788450.673922446,5447957.891916594
 BRUNSWICK,63,Assessing,Assessing,,Assessing,Investigating,-7788101.175270007,5448627.245329432
+BRUNSWICK,40,Assessing,Assessing,,Assessing,Investigating,-7789706.825343352,5450480.787194252
 BRUNSWICK,21,Assessing,Assessing,,Assessing,Investigating,-7797482.347088566,5454087.568465054
 BRUNSWICK,38,Assessing,Assessing,,Assessing,Tree,-7796883.114266798,5455149.495944717
 BRUNSWICK,52,Assessing,Assessing,,Assessing,Investigating,-7790505.76533084,5452193.029161996
@@ -127,12 +112,13 @@ HARPSWELL,10,Assessing,Assessing,,Assessing,Investigating,-7785485.556869767,543
 HARPSWELL,62,Assessing,Assessing,,Assessing,Investigating,-7786531.436898644,5436840.637136749
 HARPSWELL,19,Assessing,Assessing,,Assessing,Investigating,-7785669.968712865,5435610.401728735
 HARPSWELL,13,Assessing,Assessing,,Assessing,Investigating,-7789267.814685111,5429521.866511112
-HARPSWELL,7,3/25/2024 11:15:00 PM,3/25/2024 11:15:00 PM,,Assessing,Investigating,-7788015.192114641,5431889.503615669
+HARPSWELL,7,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7788015.192114641,5431889.503615669
 HARPSWELL,79,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7785327.238237176,5433099.087149211
 HARPSWELL,95,Assessing,Assessing,,Assessing,Investigating,-7785358.78615405,5433079.348457706
 HARPSWELL,12,Assessing,Assessing,,Assessing,Investigating,-7783902.371044418,5436193.859946
 HARPSWELL,25,Assessing,Assessing,,Assessing,Investigating,-7783910.096592922,5436195.063153849
 HARPSWELL,72,Assessing,Assessing,,Assessing,Investigating,-7784224.607577798,5435623.543935669
+HARPSWELL,30,Assessing,Assessing,,Assessing,Investigating,-7782775.294618799,5440150.51597808
 HARPSWELL,26,Assessing,Assessing,,Assessing,Investigating,-7782571.301655271,5439646.296393986
 HARPSWELL,11,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigating,-7782571.27933028,5440582.488131613
 HARPSWELL,32,Assessing,Assessing,,Assessing,Investigating,-7782165.386246094,5442068.077282995
@@ -214,8 +200,7 @@ FREEPORT,82,Assessing,Assessing,,Assessing,Investigating,-7798119.5620300975,544
 FREEPORT,60,Assessing,Assessing,,Assessing,Investigating,-7799071.154507106,5437124.841028551
 FREEPORT,21,Assessing,Assessing,,Assessing,Investigating,-7803156.134510156,5436933.879507658
 FREEPORT,5,Assessing,Assessing,,Assessing,Investigating,-7799017.977176809,5446093.137193493
-"FREEPORT,POWNAL,DURHAM,BRUNSWICK,PROUT RD",373,Assessing,Assessing,,Assessing,Investigating,-7803350.854592997,5443435.200912005
-"FREEPORT,BRUNSWICK,PROUT RD",81,Assessing,Assessing,,Assessing,Investigating,-7803017.129898986,5444928.090848385
+"FREEPORT,POWNAL,DURHAM,BRUNSWICK,PROUT RD",1349,Assessing,Assessing,,Assessing,Investigating,-7803350.854592997,5443435.200912005
 FREEPORT,16,Assessing,Assessing,,Assessing,Investigating,-7807672.978470947,5445409.838970263
 FREEPORT,33,Assessing,Assessing,,Assessing,Investigating,-7808631.528336529,5439061.724519238
 FREEPORT,2,Assessing,Assessing,,Assessing,Investigating,-7808802.804574738,5439936.173447324
@@ -348,7 +333,7 @@ YARMOUTH,48,Assessing,Assessing,,Assessing,Investigating,-7812411.103348565,5436
 YARMOUTH,13,Assessing,Assessing,,Assessing,Investigating,-7813079.688207696,5436071.16159407
 YARMOUTH,28,Assessing,Assessing,,Assessing,Investigating,-7812066.157693054,5433397.101192412
 FALMOUTH,1,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Tree,-7819042.962100031,5418347.061223079
-FALMOUTH,15,3/25/2024 11:30:00 PM,3/25/2024 11:30:00 PM,,Assessing,Investigating,-7818752.295708405,5420688.00755226
+FALMOUTH,15,Assessing,Assessing,,Assessing,Investigating,-7818752.295708405,5420688.00755226
 "KENNEBUNK,KENNEBUNKPORT",15,Assessing,Assessing,,Assessing,Investigating,-7845920.630080399,5367684.74584851
 ARUNDEL,71,Assessing,Assessing,,Assessing,Investigating,-7848455.230183272,5369976.005470149
 SACO,7,Assessing,Assessing,,Assessing,Investigating,-7839259.037943365,5390884.333845424
@@ -387,6 +372,7 @@ WELLS,41,Assessing,Assessing,,Assessing,Investigating,-7864858.157129693,5369441
 SANFORD,13,Assessing,Assessing,,Assessing,Investigating,-7874308.3247868605,5374253.2176911505
 SANFORD,130,Assessing,Assessing,,Assessing,Investigating,-7874179.127354512,5374196.123961578
 PORTLAND,20,Assessing,Assessing,,Assessing,Investigating,-7823977.220743061,5412053.238446604
+PORTLAND,88,Assessing,Assessing,,Assessing,Investigating,-7823495.185119765,5413346.15038179
 NORTH BERWICK,95,3/25/2024 10:00:00 PM,3/25/2024 10:00:00 PM,,Assessing,Investigating,-7874900.600119951,5358160.477055146
 NORTH BERWICK,46,Assessing,Assessing,,Assessing,Investigating,-7881812.63882382,5362992.243620532
 NORTH BERWICK,2,Assessing,Assessing,,Crew Assigned,Investigating,-7874094.90306815,5362216.243754079
