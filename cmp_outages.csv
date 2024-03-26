@@ -1,19 +1,10 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-BRUNSWICK,24,Assessing,Assessing,,Investigating,Investigating,-7789948.381858059,5444762.786643992
 BRUNSWICK,168,Assessing,Assessing,,Investigating,Investigating,-7792621.846615424,5441283.027016672
 WESTPORT,7,Assessing,Assessing,,Investigating,Investigating,-7758915.371906702,5453880.934375999
 WESTPORT,71,Assessing,Assessing,,Investigating,Investigating,-7755801.326133131,5461207.982930214
-FREEPORT,21,Assessing,Assessing,,Investigating,Investigating,-7802899.54156265,5448146.6154671805
-HARPSWELL,11,Assessing,Assessing,,Investigating,Investigating,-7782618.56216188,5440845.124509352
 BRUNSWICK,11,Assessing,Assessing,,Investigating,Investigating,-7788856.548586014,5447275.643203756
-BRUNSWICK,39,Assessing,Assessing,,Investigating,Investigating,-7789358.337322281,5450032.070161284
-BRUNSWICK,44,Assessing,Assessing,,Investigating,Investigating,-7788147.874147886,5443846.886054715
-BRUNSWICK,6,Assessing,Assessing,,Investigating,Investigating,-7788574.953048908,5446882.732764671
-BRUNSWICK,255,Assessing,Assessing,,Investigating,Investigating,-7789531.706103027,5448533.522295576
-PHIPPSBURG,25,Assessing,Assessing,,Investigating,Investigating,-7770484.573053356,5446003.086213459
-BRUNSWICK,114,Assessing,Assessing,,Investigating,Investigating,-7788888.0263243215,5449583.89184473
-BRUNSWICK,120,Assessing,Assessing,,Investigating,Investigating,-7789110.815229297,5448168.906880506
-BRUNSWICK,86,Assessing,Assessing,,Investigating,Investigating,-7788972.549345109,5447738.275274965
+WESTPORT,27,Assessing,Assessing,,Investigating,Investigating,-7759525.125205804,5452600.675766631
+BRUNSWICK,18,Assessing,Assessing,,Investigating,Investigating,-7787346.851328741,5450774.729010684
 FALMOUTH,3,Assessing,Assessing,,Investigating,Investigating,-7818774.806007956,5420027.120847316
 WESTPORT,2,Assessing,Assessing,,Investigating,Investigating,-7761788.638936245,5448389.1512752995
 BATH,18,Assessing,Assessing,,Assessing,Tree,-7772111.29922071,5451618.692486412
@@ -25,6 +16,7 @@ PHIPPSBURG,14,Assessing,Assessing,,Assessing,Investigating,-7775376.889943953,54
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7775213.205704739,5438579.583242603
 "PHIPPSBURG,WEST BATH",98,Assessing,Assessing,,Assessing,Investigating,-7774659.079578455,5439424.049088777
 WEST BATH,31,Assessing,Assessing,,Assessing,Investigating,-7775444.70576157,5440633.0173777165
+PHIPPSBURG,25,Assessing,Assessing,,Assessing,Investigating,-7770484.576357052,5446003.09121308
 PHIPPSBURG,6,Assessing,Assessing,,Assessing,Investigating,-7770189.557492978,5443088.202358328
 BATH,3,Assessing,Assessing,,Assessing,Investigating,-7772983.743493868,5446308.99765259
 BATH,3,Assessing,Assessing,,Assessing,Investigating,-7772392.826281151,5449029.523443818
@@ -69,13 +61,21 @@ HARPSWELL,80,3/26/2024 10:00:00 PM,3/26/2024 10:00:00 PM,,Assessing,Investigatin
 HARPSWELL,5,Assessing,Assessing,,Assessing,Investigating,-7787506.784869166,5437350.180076456
 BRUNSWICK,7,Assessing,Assessing,,Assessing,Investigating,-7785797.618813024,5444193.357389483
 BRUNSWICK,8,Assessing,Assessing,,Assessing,Investigating,-7787084.2827917505,5450879.052024906
+BRUNSWICK,114,Assessing,Assessing,,Assessing,Investigating,-7788888.025923875,5449583.893372992
+BRUNSWICK,255,Assessing,Assessing,,Assessing,Investigating,-7789531.708605828,5448533.529241392
 BRUNSWICK,12,Assessing,Assessing,,Assessing,Investigating,-7790369.465747862,5447344.265423167
 BRUNSWICK,99,Assessing,Assessing,,Assessing,Investigating,-7789974.626638247,5447862.050991506
 BRUNSWICK,103,Assessing,Assessing,,Assessing,Investigating,-7789850.561050827,5448027.707171853
 BRUNSWICK,21,Assessing,Assessing,,Assessing,Investigating,-7789846.831876142,5448025.714665466
 BRUNSWICK,14,Assessing,Assessing,,Assessing,Investigating,-7794242.860788385,5439525.357580334
+BRUNSWICK,24,Assessing,Assessing,,Assessing,Investigating,-7789948.377453127,5444762.783866799
+BRUNSWICK,6,Assessing,Assessing,,Assessing,Investigating,-7788574.951046672,5446882.740264802
+BRUNSWICK,44,Assessing,Assessing,,Assessing,Investigating,-7788147.873747439,5443846.886054715
+BRUNSWICK,86,Assessing,Assessing,,Assessing,Investigating,-7788972.550846793,5447738.270413317
 BRUNSWICK,58,Assessing,Assessing,,Assessing,Investigating,-7788450.673922446,5447957.891916594
+BRUNSWICK,120,Assessing,Assessing,,Assessing,Investigating,-7789110.809623023,5448168.899657144
 BRUNSWICK,63,Assessing,Assessing,,Assessing,Investigating,-7788101.175270007,5448627.245329432
+BRUNSWICK,39,Assessing,Assessing,,Assessing,Investigating,-7789358.339624858,5450032.066826749
 BRUNSWICK,40,Assessing,Assessing,,Assessing,Investigating,-7789706.825343352,5450480.787194252
 BRUNSWICK,21,Assessing,Assessing,,Assessing,Investigating,-7797482.347088566,5454087.568465054
 BRUNSWICK,38,Assessing,Assessing,,Assessing,Tree,-7796883.114266798,5455149.495944717
@@ -108,6 +108,7 @@ BRUNSWICK,40,Assessing,Assessing,,Assessing,Investigating,-7782594.177764335,545
 BRUNSWICK,109,Assessing,Assessing,,Assessing,Investigating,-7782222.470850462,5449773.850682477
 BRUNSWICK,61,Assessing,Assessing,,Assessing,Investigating,-7783197.139760795,5444556.100160888
 HARPSWELL,47,Assessing,Assessing,,Assessing,Investigating,-7782656.627975327,5442776.212812399
+HARPSWELL,11,Assessing,Assessing,,Assessing,Investigating,-7782618.556755829,5440845.1228437545
 HARPSWELL,10,Assessing,Assessing,,Assessing,Investigating,-7785485.556869767,5434909.387499801
 HARPSWELL,62,Assessing,Assessing,,Assessing,Investigating,-7786531.436898644,5436840.637136749
 HARPSWELL,19,Assessing,Assessing,,Assessing,Investigating,-7785669.968712865,5435610.401728735
@@ -208,6 +209,7 @@ FREEPORT,10,Assessing,Assessing,,Assessing,Investigating,-7807735.139358049,5437
 FREEPORT,68,Assessing,Assessing,,Assessing,Investigating,-7805508.816261315,5442393.704184913
 FREEPORT,34,Assessing,Assessing,,Assessing,Investigating,-7805034.884710268,5442072.67718379
 TOPSHAM,5,Assessing,Assessing,,Assessing,Investigating,-7796197.631090541,5466179.73148746
+FREEPORT,21,Assessing,Assessing,,Assessing,Investigating,-7802899.543064327,5448146.610883138
 WISCASSET,7,Assessing,Assessing,,Assessing,Investigating,-7757026.907131438,5473656.039740443
 WISCASSET,17,Assessing,Assessing,,Assessing,Tree,-7758147.682903681,5475927.28433563
 WISCASSET,5,Assessing,Assessing,,Assessing,Tree,-7758335.846246455,5476331.441716861
