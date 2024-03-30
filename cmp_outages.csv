@@ -1,5 +1,5 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-CORNVILLE,16,Assessing,Assessing,,Investigating,Investigating,-7749091.742270912,5597342.523374513
+ROCKLAND,20,Assessing,Assessing,,Investigating,Investigating,-7695701.753404441,5488988.239885196
 AUGUSTA,13,Assessing,Assessing,,Assessing,Investigating,-7764028.869702166,5520070.329309009
 AUGUSTA,49,Assessing,Assessing,,Assessing,Investigating,-7754030.6428104,5517980.021613483
 "AUGUSTA,WINDSOR,VASSALBORO",165,Assessing,Assessing,,Assessing,Investigating,-7754461.248859946,5518532.711188885
@@ -53,7 +53,6 @@ WHITEFIELD,117,Assessing,Assessing,,Assessing,Investigating,-7748570.633306273,5
 "LISBON,TOPSHAM",33,Assessing,Assessing,,Assessing,Investigating,-7797188.74190706,5466782.172928718
 DURHAM,42,Assessing,Assessing,,Assessing,Investigating,-7800139.509896429,5459747.903623559
 DURHAM,49,Assessing,Assessing,,Assessing,Investigating,-7799763.283423052,5460269.218771174
-"DURHAM,FREEPORT",576,Assessing,Assessing,,Assessing,Investigating,-7800662.199430463,5456404.315010179
 DURHAM,16,Assessing,Assessing,,Assessing,Investigating,-7797199.506457625,5460334.750542229
 WINTHROP,38,Assessing,Assessing,,Assessing,Investigating,-7780904.180967556,5515310.075311825
 MANCHESTER,15,Assessing,Assessing,,Assessing,Investigating,-7775743.7878743205,5520192.662562743
@@ -146,6 +145,7 @@ BRUNSWICK,64,Assessing,Assessing,,Assessing,Investigating,-7786621.427540261,545
 WESTPORT,111,Assessing,Assessing,,Assessing,Investigating,-7759770.732154843,5450404.912283381
 WESTPORT,143,Assessing,Assessing,,Assessing,Investigating,-7759852.685599073,5450639.507002374
 WESTPORT,71,Assessing,Assessing,,Assessing,Investigating,-7755801.324030776,5461207.97597481
+FRYEBURG,11,3/30/2024 2:30:00 AM,3/30/2024 2:30:00 AM,,Assessing,Investigating,-7903520.685380129,5479428.237769066
 WEST PARIS,3,3/29/2024 10:15:00 PM,3/29/2024 10:15:00 PM,,Assessing,Investigating,-7851374.294381266,5510734.569288211
 PARIS,22,3/29/2024 11:30:00 PM,3/29/2024 11:30:00 PM,,Assessing,Investigating,-7848018.423592413,5504114.1979757985
 GREENE,55,3/30/2024 1:30:00 AM,3/30/2024 1:30:00 AM,,Assessing,Investigating,-7812341.1724632,5503329.069250118
@@ -195,6 +195,7 @@ STRONG,1,Assessing,Assessing,,Assessing,Investigating,-7817323.34304209,5589064.
 "KINGFIELD,FREEMAN,SALEM,STRONG",397,Assessing,Assessing,,Assessing,Investigating,-7810613.549645307,5614023.604765808
 TEMPLE,1,Assessing,Assessing,,Assessing,Investigating,-7818551.7537081195,5570762.5026757475
 FARMINGTON,6,Assessing,Assessing,,Assessing,Investigating,-7808951.037616838,5570608.100110801
+FREEDOM,32,Assessing,Assessing,,Assessing,Investigating,-7718692.4597569285,5537862.373156235
 UNITY,21,Assessing,Assessing,,Assessing,Investigating,-7716102.389156627,5566735.025616714
 UNITY,28,Assessing,Assessing,,Assessing,Investigating,-7718344.85352299,5561720.003442144
 "THORNDIKE,UNITY",7,Assessing,Assessing,,Assessing,Investigating,-7712354.495610971,5554362.45520377
@@ -202,6 +203,7 @@ UNITY,28,Assessing,Assessing,,Assessing,Investigating,-7718344.85352299,5561720.
 THORNDIKE,1,Assessing,Assessing,,Assessing,Investigating,-7708480.343623069,5554718.248829957
 "WINSLOW,BENTON",50,Assessing,Assessing,,Assessing,Investigating,-7740708.082034321,5551456.370534015
 VASSALBORO,40,Assessing,Assessing,,Assessing,Investigating,-7753404.236969309,5539140.415116624
+CORNVILLE,16,Assessing,Assessing,,Assessing,Investigating,-7749091.742170801,5597342.521538891
 SKOWHEGAN,40,Assessing,Assessing,,Assessing,Investigating,-7762184.973620115,5577510.66043234
 "EMBDEN,CONCORD",88,3/29/2024 9:15:00 PM,3/29/2024 9:15:00 PM,,Assessing,Investigating,-7779823.034859444,5614950.802825607
 "SOLON,MADISON",95,Assessing,Assessing,,Assessing,Investigating,-7774367.400252878,5611140.4166959
