@@ -1,13 +1,16 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 ACTON,66,Assessing,Assessing,,Investigating,Investigating,-7893530.054291621,5393074.281514786
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
-"WESTPORT,WISCASSET",678,4/4/2024 2:00:00 AM,4/4/2024 2:00:00 AM,,Repairs in Progress,Investigating,-7757847.843843546,5461338.2491833605
+"WESTPORT,WISCASSET",678,Assessing,Assessing,,Repairs in Progress,Investigating,-7757847.843843546,5461338.2491833605
 NAPLES,6,Assessing,Assessing,,Assessing,Investigating,-7863031.393126448,5462958.837561128
 NEW GLOUCESTER,41,Assessing,Assessing,,Assessing,Investigating,-7826450.038482577,5464893.138622902
 "WATERFORD,BRIDGTON",54,Assessing,Assessing,,Assessing,Investigating,-7871222.993758528,5488058.009038658
 WATERFORD,233,Assessing,Assessing,,Assessing,Investigating,-7871895.39689209,5491990.488023402
+HARRISON,27,Assessing,Assessing,,Assessing,Investigating,-7866216.80038689,5477672.077401768
 OTISFIELD,51,Assessing,Assessing,,Assessing,Investigating,-7858985.553039269,5482305.22754189
+STOW,6,Assessing,Assessing,,Assessing,Investigating,-7899741.98975254,5493056.238308427
 POLAND,229,Assessing,Assessing,,Crew Assigned,Investigating,-7837217.371764084,5471829.345667689
+MINOT,2,Assessing,Assessing,,Assessing,Investigating,-7832796.429462102,5490781.489107703
 MECHANIC FALLS,1,Assessing,Assessing,,Assessing,Investigating,-7840300.287088117,5479375.433362595
 AUBURN,54,Assessing,Assessing,,Assessing,Investigating,-7817652.85992559,5473467.508507025
 OXFORD,46,Assessing,Assessing,,Assessing,Investigating,-7845829.403755475,5488144.527959924
@@ -20,6 +23,7 @@ RAYMOND,5,Assessing,Assessing,,Assessing,Investigating,-7841625.979758203,546443
 JAY,19,Assessing,Assessing,,Assessing,Investigating,-7821288.220494217,5545788.022835013
 "HARTFORD,SUMNER,BUCKFIELD",52,Assessing,Assessing,,Assessing,Investigating,-7831253.30758705,5516199.498646629
 GREENE,193,Assessing,Assessing,,Assessing,Investigating,-7805852.181247315,5493230.9392563235
+BRIDGTON,68,Assessing,Assessing,,Assessing,Investigating,-7878382.985437731,5479026.904116273
 NAPLES,16,Assessing,Assessing,,Assessing,Investigating,-7859224.678432418,5457863.469551236
 ACTON,1,Assessing,Assessing,,Assessing,Investigating,-7888706.421090191,5383727.614552996
 "SHAPLEIGH,ACTON",42,Assessing,Assessing,,Assessing,Investigating,-7890292.913116728,5395457.630055033
@@ -27,6 +31,7 @@ ACTON,1,Assessing,Assessing,,Assessing,Investigating,-7888706.421090191,5383727.
 LIMERICK,37,Assessing,Assessing,,Assessing,Investigating,-7879663.415637947,5419745.94966031
 LIMERICK,49,Assessing,Assessing,,Assessing,Investigating,-7876481.025154682,5415753.261048193
 WATERBORO,3,Assessing,Assessing,,Assessing,Investigating,-7872237.949168295,5411433.288859714
+PARSONSFIELD,1,Assessing,Assessing,,Assessing,Investigating,-7894440.732966952,5427205.154291941
 "PARSONSFIELD,CORNISH",216,Assessing,Assessing,,Assessing,Investigating,-7890521.95291938,5426417.682657051
 SOUTH BERWICK,42,Assessing,Assessing,,Assessing,Investigating,-7868034.4918337,5352240.74382938
 SANFORD,5,Assessing,Assessing,,Assessing,Investigating,-7874815.496349029,5369722.5128142275
@@ -34,9 +39,11 @@ YORK,239,Assessing,Assessing,,Assessing,Investigating,-7864474.3386573205,534337
 "LIMINGTON,CORNISH",131,Assessing,Assessing,,Assessing,Investigating,-7876357.638627454,5431436.446015404
 PORTER,15,Assessing,Assessing,,Assessing,Investigating,-7891733.999566417,5436157.546949043
 PORTER,26,Assessing,Assessing,,Assessing,Investigating,-7896164.54872296,5433983.395857132
+HIRAM,40,Assessing,Assessing,,Assessing,Investigating,-7891169.086564577,5439065.721057643
 HIRAM,4,Assessing,Assessing,,Assessing,Investigating,-7880353.997221704,5438705.339321883
 LEBANON,6,Assessing,Assessing,,Assessing,Investigating,-7889491.3904380025,5375470.381656763
 NORTH BERWICK,3,Assessing,Assessing,,Assessing,Investigating,-7886355.153121721,5369034.743711399
 LEBANON,53,Assessing,Assessing,,Assessing,Investigating,-7886979.844643685,5371153.547739174
 DOVER-FOXCROFT,1,4/4/2024 2:30:00 AM,4/4/2024 2:30:00 AM,,Crew Assigned,Tree,-7703308.072733021,5659752.846942192
 "NEW PORTLAND,HIGHLAND PLT,EMBDEN,LEXINGTON",510,4/4/2024 6:00:00 AM,4/4/2024 6:00:00 AM,,Assessing,Investigating,-7795228.550335966,5606386.063044075
+WINDHAM,5,Assessing,Assessing,,Assessing,Investigating,-7844581.400956688,5443268.948186237
