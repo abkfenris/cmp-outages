@@ -1,6 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,5432998.435367004
-WESTPORT,12,Assessing,Assessing,,Crew Assigned,Investigating,-7761188.307985157,5446449.623087884
+"WESTPORT,WISCASSET",666,Assessing,Assessing,,Assessing,Investigating,-7757847.843843546,5461338.2491833605
+WESTPORT,12,4/4/2024 12:45:00 AM,4/4/2024 12:45:00 AM,,Repairs in Progress,Investigating,-7761188.307985157,5446449.623087884
 POLAND,229,Assessing,Assessing,,Crew Assigned,Investigating,-7837217.371764084,5471829.345667689
 MECHANIC FALLS,1,Assessing,Assessing,,Assessing,Investigating,-7840300.287088117,5479375.433362595
 OXFORD,33,Assessing,Assessing,,Assessing,Investigating,-7846658.477977261,5484303.888700094
@@ -10,7 +11,7 @@ CASCO,250,Assessing,Assessing,,Assessing,Investigating,-7847533.838715311,545682
 GREENE,193,Assessing,Assessing,,Assessing,Investigating,-7805852.181247315,5493230.9392563235
 NAPLES,16,Assessing,Assessing,,Assessing,Investigating,-7859224.678432418,5457863.469551236
 ACTON,1,Assessing,Assessing,,Assessing,Investigating,-7888706.421090191,5383727.614552996
-SHAPLEIGH,31,Assessing,Assessing,,Assessing,Investigating,-7885789.405185191,5391308.4505389035
+"SHAPLEIGH,ACTON",42,Assessing,Assessing,,Assessing,Investigating,-7890292.913116728,5395457.630055033
 "SHAPLEIGH,ACTON",35,Assessing,Assessing,,Assessing,Investigating,-7888236.652799784,5386420.2667083265
 LIMERICK,37,Assessing,Assessing,,Assessing,Investigating,-7879663.415637947,5419745.94966031
 LIMERICK,49,Assessing,Assessing,,Assessing,Investigating,-7876481.025154682,5415753.261048193
