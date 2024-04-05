@@ -1,9 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-LIBERTY,9,Assessing,Assessing,,Investigating,Investigating,-7717433.414796803,5522235.095687283
-WASHINGTON,2,Assessing,Assessing,,Investigating,Investigating,-7723057.350611129,5503597.213849992
-LITCHFIELD,17,Assessing,Assessing,,Investigating,Investigating,-7787573.475627313,5496943.423057422
+GORHAM,8,Assessing,Assessing,,Investigating,Investigating,-7846692.920935043,5421869.951692384
 LINCOLNVILLE,14,Assessing,Assessing,,Investigating,Investigating,-7685467.148795464,5511041.152366147
-BRIDGTON,22,Assessing,Assessing,,Investigating,Investigating,-7867706.182201682,5471719.923887668
+TURNER,123,Assessing,Assessing,,Investigating,Investigating,-7817142.051692288,5511609.727714261
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -504,6 +502,7 @@ CHINA,13,Assessing,Assessing,,Assessing,Investigating,-7748435.992380112,5525288
 WASHINGTON,9,Assessing,Assessing,,Assessing,Investigating,-7725286.83714923,5503676.691301282
 WASHINGTON,5,Assessing,Assessing,,Assessing,Investigating,-7726764.480923663,5504327.869582873
 WASHINGTON,2,Assessing,Assessing,,Assessing,Investigating,-7726936.4472343875,5503908.301611266
+LIBERTY,9,Assessing,Assessing,,Assessing,Investigating,-7717433.413995902,5522235.096387473
 LIBERTY,7,Assessing,Assessing,,Assessing,Investigating,-7715265.689598522,5522591.847876707
 MONTVILLE,5,Assessing,Assessing,,Assessing,Investigating,-7711819.883830366,5527930.446424183
 LIBERTY,26,Assessing,Assessing,,Assessing,Investigating,-7717084.42741671,5523911.841067621
@@ -517,6 +516,7 @@ WASHINGTON,3,Assessing,Assessing,,Assessing,Investigating,-7727157.060203476,550
 WASHINGTON,25,Assessing,Assessing,,Assessing,Investigating,-7725193.607081178,5509519.622166077
 WASHINGTON,9,Assessing,Assessing,,Assessing,Investigating,-7725016.531150403,5508229.5234018145
 WASHINGTON,19,Assessing,Assessing,,Assessing,Investigating,-7724781.891879323,5508161.0049402
+WASHINGTON,2,4/5/2024 12:45:00 AM,4/5/2024 12:45:00 AM,,Assessing,Investigating,-7723057.352613365,5503597.220418383
 WASHINGTON,3,Assessing,Assessing,,Assessing,Investigating,-7720517.654102991,5504220.543636736
 WALDOBORO,2,Assessing,Assessing,,Assessing,Investigating,-7723653.780194764,5496437.676304117
 WALDOBORO,65,Assessing,Assessing,,Assessing,Investigating,-7722907.204927889,5493953.728659511
@@ -851,6 +851,7 @@ BRIDGTON,419,Assessing,Assessing,,Assessing,Investigating,-7870305.776763754,547
 "BRIDGTON,DENMARK",628,Assessing,Assessing,,Assessing,Investigating,-7870414.458028914,5472401.974050986
 BRIDGTON,2,Assessing,Assessing,,Assessing,Investigating,-7875819.820757735,5472693.536286149
 BRIDGTON,30,Assessing,Assessing,,Assessing,Investigating,-7873638.73800611,5468459.219298958
+BRIDGTON,22,Assessing,Assessing,,Assessing,Investigating,-7867706.17729619,5471719.922216464
 BRIDGTON,8,Assessing,Assessing,,Assessing,Investigating,-7872620.209196034,5474282.424261366
 BRIDGTON,19,Assessing,Assessing,,Assessing,Investigating,-7872614.075529597,5474406.222276637
 BRIDGTON,200,Assessing,Assessing,,Assessing,Investigating,-7872668.64431759,5474296.876603614
@@ -998,4 +999,3 @@ GRAY,12,Assessing,Assessing,,Assessing,Investigating,-7831668.317777543,5453236.
 GRAY,174,Assessing,Assessing,,Assessing,Investigating,-7836792.342757851,5453407.879906638
 GRAY,22,Assessing,Assessing,,Assessing,Investigating,-7830958.166185797,5450592.893486603
 GRAY,48,Assessing,Assessing,,Assessing,Investigating,-7830783.227647759,5450255.45091344
-GRAY,83,Assessing,Assessing,,Assessing,Investigating,-7833831.155304229,5443946.853501939
