@@ -1,11 +1,14 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-STANDISH,16,Assessing,Assessing,,Investigating,Investigating,-7845791.084157925,5434066.5389868645
-FAIRFIELD,40,Assessing,Assessing,,Investigating,Investigating,-7761667.335040456,5571467.35040356
+SOUTH PORTLAND,12,Assessing,Assessing,,Investigating,Investigating,-7824968.514063885,5407877.868056243
+LEWISTON,23,Assessing,Assessing,,Investigating,Investigating,-7814293.461387534,5481974.466485576
+MONMOUTH,9,Assessing,Assessing,,Investigating,Investigating,-7788181.734353291,5503137.483774783
+AUBURN; DURHAM,34,Assessing,Assessing,,Investigating,Investigating,-7816986.070176022,5478709.384328988
+LEWISTON,294,Assessing,Assessing,,Investigating,Investigating,-7813711.71464086,5481488.991397752
 LITCHFIELD,84,Assessing,Assessing,,Investigating,Investigating,-7786345.008898528,5489304.19317995
-LITCHFIELD,29,Assessing,Assessing,,Investigating,Investigating,-7788487.519970408,5491374.818780323
-BIDDEFORD,78,Assessing,Assessing,,Investigating,Investigating,-7844260.925294548,5384700.896653212
+TURNER,114,Assessing,Assessing,,Investigating,Investigating,-7816693.47832891,5507435.289261883
+LEWISTON,566,Assessing,Assessing,,Investigating,Investigating,-7815551.132309469,5482691.187419945
 TURNER,22,Assessing,Assessing,,Investigating,Investigating,-7817913.136496798,5506701.494968295
-MANCHESTER,2,Assessing,Assessing,,Investigating,Investigating,-7776180.974991169,5520147.862335158
+RAYMOND,62,Assessing,Assessing,,Investigating,Investigating,-7844105.942596424,5458424.617980799
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -408,6 +411,7 @@ WINTHROP,13,Assessing,Assessing,,Assessing,Investigating,-7781292.986522808,5515
 WINTHROP,46,Assessing,Assessing,,Assessing,Investigating,-7782172.165635398,5515794.556584895
 WINTHROP,46,Assessing,Assessing,,Assessing,Investigating,-7781990.258396127,5515266.150250062
 MANCHESTER,75,Assessing,Assessing,,Assessing,Investigating,-7778250.212936146,5515690.768220791
+MANCHESTER,2,Assessing,Assessing,,Assessing,Investigating,-7776180.972888813,5520147.857714947
 MANCHESTER,48,Assessing,Assessing,,Assessing,Investigating,-7776768.5727879,5515823.623790841
 MANCHESTER,1,Assessing,Assessing,,Assessing,Investigating,-7775194.470631429,5514043.085811623
 MANCHESTER,5,Assessing,Assessing,,Assessing,Investigating,-7778444.9663563045,5513917.614624265
@@ -822,7 +826,6 @@ WESTPORT,15,Assessing,Assessing,,Assessing,Investigating,-7756396.2153924275,545
 WESTPORT,5,Assessing,Assessing,,Assessing,Investigating,-7755663.210016604,5460438.60958963
 WISCASSET,39,Assessing,Assessing,,Assessing,Investigating,-7759025.492783463,5459507.7100006305
 WISCASSET,87,Assessing,Assessing,,Assessing,Investigating,-7759912.79809307,5460350.047086792
-"ROXBURY,RUMFORD",39,Assessing,Assessing,,Assessing,Investigating,-7862463.819646281,5562500.655568571
 FRYEBURG,54,Assessing,Assessing,,Assessing,Investigating,-7898024.007226643,5475115.646051476
 FRYEBURG,2,Assessing,Assessing,,Assessing,Investigating,-7897597.564437728,5476918.1723050345
 FRYEBURG,128,Assessing,Assessing,,Assessing,Investigating,-7897627.03072428,5477353.115964043
@@ -996,6 +999,3 @@ NEW GLOUCESTER,414,Assessing,Assessing,,Assessing,Investigating,-7826814.3203843
 NEW GLOUCESTER,2,Assessing,Assessing,,Assessing,Investigating,-7827513.941187258,5458544.307194318
 NEW GLOUCESTER,20,Assessing,Assessing,,Assessing,Investigating,-7826953.414095302,5454662.631260963
 NEW GLOUCESTER,150,Assessing,Assessing,,Assessing,Investigating,-7826810.446547753,5454245.299540264
-GRAY,44,Assessing,Assessing,,Assessing,Investigating,-7827714.282863291,5452633.664706722
-NEW GLOUCESTER,2,Assessing,Assessing,,Assessing,Investigating,-7828643.589091565,5454800.092137363
-NEW GLOUCESTER,6,Assessing,Assessing,,Assessing,Investigating,-7828639.303293756,5455335.781100232
