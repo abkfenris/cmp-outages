@@ -1,6 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PORTLAND,5,Assessing,Assessing,,Investigating,Investigating,-7829358.417919327,5416991.8511672625
-WINTERPORT; HAMPDEN,94,Assessing,Assessing,,Investigating,Investigating,-7672441.734465226,5570265.866310183
+LIVERMORE,44,Assessing,Assessing,,Investigating,Investigating,-7819958.247031925,5524746.7943176525
+LIVERMORE,4,Assessing,Assessing,,Investigating,Investigating,-7812733.551118419,5524250.280876977
+PALERMO; LIBERTY,52,Assessing,Assessing,,Investigating,Investigating,-7721697.812952672,5532636.2169926185
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -235,6 +236,7 @@ NEWCASTLE,7,Assessing,Assessing,,Assessing,Investigating,-7745491.959230178,5470
 NEWCASTLE,10,Assessing,Assessing,,Assessing,Investigating,-7743038.13255054,5472793.833639807
 NEWCASTLE,8,Assessing,Assessing,,Assessing,Investigating,-7740475.379731611,5473236.403455493
 DAMARISCOTTA,30,Assessing,Assessing,,Assessing,Investigating,-7739974.319611007,5468524.051078492
+NEWCASTLE,17,Assessing,Assessing,,Assessing,Investigating,-7740997.23443108,5476193.3327646535
 NEWCASTLE,4,Assessing,Assessing,,Assessing,Investigating,-7743666.519909873,5479510.490457279
 NEWCASTLE,8,Assessing,Assessing,,Assessing,Investigating,-7743458.93132116,5480324.889620776
 JEFFERSON,4,Assessing,Assessing,,Assessing,Investigating,-7742493.579841388,5489988.178243245
@@ -471,7 +473,6 @@ BOWDOINHAM,1,Assessing,Assessing,,Assessing,Investigating,-7774591.08566146,5467
 ALNA,2,Assessing,Assessing,,Assessing,Investigating,-7749896.203539294,5477392.768650584
 "ALNA,WHITEFIELD,JEFFERSON,NEWCASTLE",35,Assessing,Assessing,,Assessing,Investigating,-7749857.75379605,5478188.739920094
 "ALNA,WHITEFIELD,JEFFERSON,NEWCASTLE",173,Assessing,Assessing,,Assessing,Investigating,-7749353.042387948,5480959.232552734
-"ALNA,WISCASSET",87,Assessing,Assessing,,Assessing,Investigating,-7752872.29677946,5475988.016810061
 "ALNA,PITTSTON,WHITEFIELD",60,Assessing,Assessing,,Assessing,Investigating,-7752766.05344348,5476138.98211995
 "ALNA,PITTSTON,WHITEFIELD",82,Assessing,Assessing,,Assessing,Investigating,-7750533.874991869,5482459.242672573
 NEWCASTLE,30,Assessing,Assessing,,Assessing,Investigating,-7748829.295269982,5473175.286512397
@@ -494,6 +495,7 @@ PALERMO,14,Assessing,Assessing,,Assessing,Investigating,-7728931.20349954,552355
 PALERMO,8,Assessing,Assessing,,Assessing,Investigating,-7729543.215827554,5524000.693515278
 PALERMO,21,Assessing,Assessing,,Assessing,Investigating,-7731725.1446263,5522482.531860673
 PALERMO,54,Assessing,Assessing,,Assessing,Investigating,-7731642.089148383,5518658.168001258
+PALERMO,1,Assessing,Assessing,,Assessing,Investigating,-7731841.573664845,5525052.941883385
 VASSALBORO,12,Assessing,Assessing,,Assessing,Investigating,-7750361.218508517,5524046.809964083
 "VASSALBORO,WINDSOR",41,Assessing,Assessing,,Assessing,Investigating,-7749523.216492354,5522490.115435982
 VASSALBORO,18,Assessing,Assessing,,Assessing,Investigating,-7749825.337607175,5522767.768513058
@@ -505,6 +507,7 @@ LIBERTY,9,Assessing,Assessing,,Assessing,Investigating,-7717433.413995902,552223
 LIBERTY,7,Assessing,Assessing,,Assessing,Investigating,-7715265.689598522,5522591.847876707
 MONTVILLE,5,Assessing,Assessing,,Assessing,Investigating,-7711819.883830366,5527930.446424183
 LIBERTY,26,Assessing,Assessing,,Assessing,Investigating,-7717084.42741671,5523911.841067621
+LIBERTY,1,Assessing,Assessing,,Assessing,Investigating,-7717111.823185389,5522653.560717737
 LIBERTY,3,Assessing,Assessing,,Assessing,Investigating,-7717545.546124195,5522151.710966275
 APPLETON,4,Assessing,Assessing,,Assessing,Investigating,-7717897.783242265,5514017.198048456
 WASHINGTON,2,Assessing,Assessing,,Assessing,Investigating,-7718901.77377721,5509054.163644228
@@ -597,7 +600,6 @@ TOPSHAM,52,Assessing,Assessing,,Assessing,Investigating,-7789873.303610388,54601
 TOPSHAM,36,Assessing,Assessing,,Assessing,Investigating,-7788838.666868003,5456349.695013743
 TOPSHAM,16,Assessing,Assessing,,Assessing,Investigating,-7786248.106519448,5455387.751746842
 TOPSHAM,67,Assessing,Assessing,,Assessing,Investigating,-7786246.993273205,5455383.655247479
-TOPSHAM,159,Assessing,Assessing,,Assessing,Investigating,-7785208.4269317575,5455762.592292216
 TOPSHAM,57,Assessing,Assessing,,Assessing,Investigating,-7784713.444815285,5455278.400293556
 TOPSHAM,6,Assessing,Assessing,,Assessing,Investigating,-7785202.482477138,5455785.950707891
 TOPSHAM,4,Assessing,Assessing,,Assessing,Investigating,-7784954.38473974,5456084.251994581
@@ -611,7 +613,6 @@ TOPSHAM,2,Assessing,Assessing,,Assessing,Investigating,-7784967.253245616,546057
 TOPSHAM,24,Assessing,Assessing,,Assessing,Investigating,-7784832.734856628,5461538.194830529
 TOPSHAM,34,Assessing,Assessing,,Assessing,Investigating,-7785066.939941647,5462297.149274283
 TOPSHAM,10,Assessing,Assessing,,Assessing,Investigating,-7784436.192540322,5459495.569795834
-TOPSHAM,146,Assessing,Assessing,,Assessing,Investigating,-7785770.701680164,5454860.855038221
 TOPSHAM,39,Assessing,Assessing,,Assessing,Investigating,-7786216.591939896,5453619.136423084
 TOPSHAM,253,Assessing,Assessing,,Assessing,Investigating,-7785609.733681691,5453549.06216239
 TOPSHAM,37,Assessing,Assessing,,Assessing,Investigating,-7784149.177436193,5453458.55691024
@@ -707,7 +708,10 @@ WINTHROP,32,Assessing,Assessing,,Assessing,Investigating,-7788469.041684566,5512
 WINTHROP,3,Assessing,Assessing,,Assessing,Investigating,-7790422.487203665,5511518.110636232
 WINTHROP,6,Assessing,Assessing,,Assessing,Investigating,-7792902.81905499,5511960.690306195
 WINTHROP,14,Assessing,Assessing,,Assessing,Investigating,-7791262.325976021,5511554.956510835
-"WINTHROP,MONMOUTH",211,Assessing,Assessing,,Assessing,Investigating,-7790614.346383816,5511270.847738822
+WINTHROP,58,Assessing,Assessing,,Assessing,Investigating,-7790439.340970914,5510324.348974558
+WINTHROP,5,Assessing,Assessing,,Assessing,Investigating,-7790439.129434105,5510142.69654929
+"WINTHROP,MONMOUTH",99,Assessing,Assessing,,Assessing,Investigating,-7791233.9172733985,5508330.848292976
+WINTHROP,2,Assessing,Assessing,,Assessing,Investigating,-7791044.195385879,5508762.156204332
 "MONMOUTH,WINTHROP,WAYNE",34,Assessing,Assessing,,Assessing,Investigating,-7795712.812451747,5508596.191951478
 WINTHROP,25,Assessing,Assessing,,Assessing,Investigating,-7794607.409889321,5508991.625353861
 "MONMOUTH,WINTHROP,WAYNE",209,Assessing,Assessing,,Assessing,Investigating,-7795413.763776424,5508875.786211022
@@ -995,7 +999,3 @@ GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7831825.845925208,5453696.
 GRAY,12,Assessing,Assessing,,Assessing,Investigating,-7831668.317777543,5453236.362154505
 "GRAY,RAYMOND,NEW GLOUCESTER",725,Assessing,Assessing,,Assessing,Investigating,-7832057.3459820375,5452925.851890285
 GRAY,174,Assessing,Assessing,,Assessing,Investigating,-7836792.342757851,5453407.879906638
-GRAY,22,Assessing,Assessing,,Assessing,Investigating,-7830958.166185797,5450592.893486603
-GRAY,48,Assessing,Assessing,,Assessing,Investigating,-7830783.227647759,5450255.45091344
-GRAY,83,Assessing,Assessing,,Assessing,Investigating,-7833831.155304229,5443946.853501939
-GRAY,228,Assessing,Assessing,,Assessing,Investigating,-7834241.501173161,5443703.258876381
