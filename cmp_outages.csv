@@ -1,14 +1,11 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-PORTLAND,1496,Assessing,Assessing,,Investigating,Investigating,-7824495.607360121,5413666.61835265
-CANTON; HARTFORD,398,Assessing,Assessing,,Investigating,Investigating,-7831284.022571482,5540653.866143664
-LEWISTON,31,Assessing,Assessing,,Investigating,Investigating,-7808667.418814762,5481043.002089186
-SOUTH PORTLAND,32,Assessing,Assessing,,Investigating,Investigating,-7826190.526767598,5408359.899967989
-WINTHROP,41,Assessing,Assessing,,Investigating,Investigating,-7788645.817979909,5509413.604695925
-WINDHAM,201,Assessing,Assessing,,Investigating,Investigating,-7834362.926805233,5419626.016891345
-PORTLAND,2948,Assessing,Assessing,,Investigating,Investigating,-7819709.222757299,5413335.534987007
-DOVER-FOXCROFT,11,Assessing,Assessing,,Investigating,Investigating,-7704866.178381925,5655844.727215973
-CAPE ELIZABETH,57,Assessing,Assessing,,Investigating,Investigating,-7817413.284929126,5408614.475220081
-GORHAM; BUXTON,1092,Assessing,Assessing,,Investigating,Investigating,-7844077.398041721,5421727.5469553135
+STANDISH,16,Assessing,Assessing,,Investigating,Investigating,-7845791.084157925,5434066.5389868645
+FAIRFIELD,40,Assessing,Assessing,,Investigating,Investigating,-7761667.335040456,5571467.35040356
+LITCHFIELD,84,Assessing,Assessing,,Investigating,Investigating,-7786345.008898528,5489304.19317995
+LITCHFIELD,29,Assessing,Assessing,,Investigating,Investigating,-7788487.519970408,5491374.818780323
+BIDDEFORD,78,Assessing,Assessing,,Investigating,Investigating,-7844260.925294548,5384700.896653212
+TURNER,22,Assessing,Assessing,,Investigating,Investigating,-7817913.136496798,5506701.494968295
+MANCHESTER,2,Assessing,Assessing,,Investigating,Investigating,-7776180.974991169,5520147.862335158
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -703,6 +700,7 @@ READFIELD,1,Assessing,Assessing,,Assessing,Investigating,-7784045.795103017,5520
 WINTHROP,16,Assessing,Assessing,,Assessing,Investigating,-7788741.362538958,5510152.695774049
 WINTHROP,11,Assessing,Assessing,,Assessing,Investigating,-7787980.905632036,5507930.25074013
 WINTHROP,28,Assessing,Assessing,,Assessing,Investigating,-7788289.516712161,5509237.66043919
+WINTHROP,41,Assessing,Assessing,,Assessing,Investigating,-7788645.81697879,5509413.603717027
 WINTHROP,141,Assessing,Assessing,,Assessing,Investigating,-7787965.799621342,5511705.405362484
 WINTHROP,32,Assessing,Assessing,,Assessing,Investigating,-7788469.041684566,5512215.562451926
 WINTHROP,3,Assessing,Assessing,,Assessing,Investigating,-7790422.487203665,5511518.110636232
@@ -898,10 +896,9 @@ LEWISTON,169,Assessing,Assessing,,Assessing,Investigating,-7810569.589533382,547
 LEWISTON,151,Assessing,Assessing,,Assessing,Investigating,-7810685.617923414,5479171.998999702
 LEWISTON,35,Assessing,Assessing,,Assessing,Investigating,-7810233.794321498,5479852.26494351
 LEWISTON,8,Assessing,Assessing,,Assessing,Investigating,-7809870.280579618,5480400.283544909
-"LEWISTON,SABATTUS",559,Assessing,Assessing,,Assessing,Investigating,-7809218.972461234,5479863.161139382
+"LEWISTON,SABATTUS",565,Assessing,Assessing,,Assessing,Investigating,-7809218.972461234,5479863.161139382
 LEWISTON,7,Assessing,Assessing,,Assessing,Investigating,-7809071.229267508,5479746.620465607
 LEWISTON,114,Assessing,Assessing,,Assessing,Investigating,-7808945.705347536,5479669.371922124
-LEWISTON,6,Assessing,Assessing,,Assessing,Investigating,-7808268.782654461,5479069.167642657
 SABATTUS,39,Assessing,Assessing,,Assessing,Investigating,-7802914.793837077,5475559.784144608
 LEWISTON,102,Assessing,Assessing,,Assessing,Investigating,-7808942.900107159,5479079.272627734
 LEWISTON,11,Assessing,Assessing,,Assessing,Investigating,-7810455.264450151,5479560.24238007
@@ -915,7 +912,6 @@ SABATTUS,23,Assessing,Assessing,,Assessing,Investigating,-7805164.393791499,5475
 AUBURN,445,Assessing,Assessing,,Assessing,Investigating,-7815112.627016971,5486332.223357418
 AUBURN,5,Assessing,Assessing,,Assessing,Investigating,-7815775.456733408,5486881.12615159
 AUBURN,13,Assessing,Assessing,,Assessing,Investigating,-7816015.494948435,5485092.876877372
-LEWISTON,1,Assessing,Assessing,,Assessing,Investigating,-7814818.031126394,5484860.470493922
 LEWISTON,4,Assessing,Assessing,,Assessing,Investigating,-7814757.094910275,5483486.965247826
 LEWISTON,29,Assessing,Assessing,,Assessing,Investigating,-7814737.3133654725,5483932.22230236
 "AUBURN,TURNER,MINOT",826,Assessing,Assessing,,Assessing,Investigating,-7817445.493986123,5486145.028763482
@@ -999,3 +995,7 @@ GRAY,16,Assessing,Assessing,,Assessing,Investigating,-7828775.513776985,5449585.
 NEW GLOUCESTER,414,Assessing,Assessing,,Assessing,Investigating,-7826814.320384389,5454809.443832033
 NEW GLOUCESTER,2,Assessing,Assessing,,Assessing,Investigating,-7827513.941187258,5458544.307194318
 NEW GLOUCESTER,20,Assessing,Assessing,,Assessing,Investigating,-7826953.414095302,5454662.631260963
+NEW GLOUCESTER,150,Assessing,Assessing,,Assessing,Investigating,-7826810.446547753,5454245.299540264
+GRAY,44,Assessing,Assessing,,Assessing,Investigating,-7827714.282863291,5452633.664706722
+NEW GLOUCESTER,2,Assessing,Assessing,,Assessing,Investigating,-7828643.589091565,5454800.092137363
+NEW GLOUCESTER,6,Assessing,Assessing,,Assessing,Investigating,-7828639.303293756,5455335.781100232
