@@ -1,6 +1,4 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-AUGUSTA,13,Assessing,Assessing,,Investigating,Investigating,-7754287.7420246545,5518630.825038454
-HARTFORD,78,Assessing,Assessing,,Investigating,Investigating,-7831486.145841951,5530713.871305707
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -12,6 +10,7 @@ FRYEBURG,47,Assessing,Assessing,,Assessing,Investigating,-7903672.881358607,5482
 AUGUSTA,31,Assessing,Assessing,,Assessing,Investigating,-7763758.663915519,5519722.829884084
 AUGUSTA,1,Assessing,Assessing,,Assessing,Investigating,-7764043.007328779,5516210.858344788
 AUGUSTA,15,Assessing,Assessing,,Assessing,Investigating,-7753006.2140955655,5514969.2764269095
+AUGUSTA,13,Assessing,Assessing,,Assessing,Investigating,-7754287.746329475,5518630.819579102
 WINDSOR,24,Assessing,Assessing,,Assessing,Investigating,-7750318.549742216,5520145.257794746
 WEST BATH,3,Assessing,Assessing,,Assessing,Investigating,-7774348.030669254,5444143.39524069
 WEST BATH,28,Assessing,Assessing,,Assessing,Investigating,-7775267.028757904,5442093.222398901
@@ -730,7 +729,7 @@ WINTHROP,6,Assessing,Assessing,,Assessing,Investigating,-7788109.078917885,55146
 "WINTHROP,READFIELD",407,Assessing,Assessing,,Assessing,Investigating,-7790048.297910852,5515693.304459841
 WINTHROP,8,Assessing,Assessing,,Assessing,Investigating,-7791260.700656532,5515977.37972759
 WINTHROP,1,Assessing,Assessing,,Assessing,Investigating,-7791414.789153621,5516327.911137072
-WAYNE,20,Assessing,Assessing,,Assessing,Investigating,-7802335.542884358,5520492.259606226
+"WINTHROP,READFIELD",6,Assessing,Assessing,,Assessing,Investigating,-7793179.114058309,5520128.055218105
 "WAYNE,READFIELD",67,Assessing,Assessing,,Assessing,Investigating,-7795982.606377327,5523523.220563225
 WAYNE,2,Assessing,Assessing,,Assessing,Investigating,-7794863.912235402,5520493.754092062
 WINTHROP,40,Assessing,Assessing,,Assessing,Investigating,-7791337.410931203,5516009.684117326
@@ -906,7 +905,6 @@ AUBURN,5,Assessing,Assessing,,Assessing,Investigating,-7815775.456733408,5486881
 AUBURN,13,Assessing,Assessing,,Assessing,Investigating,-7816015.494948435,5485092.876877372
 LEWISTON,4,Assessing,Assessing,,Assessing,Investigating,-7814757.094910275,5483486.965247826
 LEWISTON,29,Assessing,Assessing,,Assessing,Investigating,-7814737.3133654725,5483932.22230236
-"AUBURN,TURNER,MINOT",826,Assessing,Assessing,,Assessing,Investigating,-7817445.493986123,5486145.028763482
 AUBURN,14,Assessing,Assessing,,Assessing,Investigating,-7818678.012250472,5493186.732097788
 TURNER,85,Assessing,Assessing,,Assessing,Investigating,-7819739.36570135,5497500.885596881
 TURNER,7,Assessing,Assessing,,Assessing,Investigating,-7821652.513508466,5502568.946408518
@@ -999,3 +997,5 @@ GRAY,6,Assessing,Assessing,,Assessing,Investigating,-7831790.947357395,5453872.7
 "GRAY,NEW GLOUCESTER",254,Assessing,Assessing,,Assessing,Investigating,-7831646.098403672,5454679.216713511
 GRAY,9,Assessing,Assessing,,Assessing,Investigating,-7831899.684184758,5455622.720952566
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831901.298291699,5455621.345037256
+GRAY,34,Assessing,Assessing,,Assessing,Investigating,-7832013.775506301,5455677.908575341
+GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7831825.845925208,5453696.722470043
