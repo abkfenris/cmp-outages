@@ -1,7 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-LIVERMORE,44,Assessing,Assessing,,Investigating,Investigating,-7819958.247031925,5524746.7943176525
 LIVERMORE,4,Assessing,Assessing,,Investigating,Investigating,-7812733.551118419,5524250.280876977
-PALERMO; LIBERTY,52,Assessing,Assessing,,Investigating,Investigating,-7721697.812952672,5532636.2169926185
+WINDSOR,55,Assessing,Assessing,,Investigating,Investigating,-7750536.9285101835,5513486.336001191
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -486,6 +485,7 @@ WINDSOR,5,Assessing,Assessing,,Assessing,Investigating,-7742354.719992275,551616
 WINDSOR,12,Assessing,Assessing,,Assessing,Investigating,-7742947.295861804,5516709.844642874
 CHINA,22,Assessing,Assessing,,Assessing,Investigating,-7736296.835686642,5534896.014556899
 CHINA,3,Assessing,Assessing,,Assessing,Investigating,-7737809.778877632,5538113.103480947
+"PALERMO,LIBERTY",52,Assessing,Assessing,,Assessing,Investigating,-7721697.807646733,5532636.215029836
 PALERMO,20,Assessing,Assessing,,Assessing,Investigating,-7728079.698467181,5533098.793724463
 "PALERMO,CHINA",8,Assessing,Assessing,,Assessing,Investigating,-7733478.382018882,5527463.938754662
 "CHINA,PALERMO",15,Assessing,Assessing,,Assessing,Investigating,-7734015.509715974,5527740.527896673
