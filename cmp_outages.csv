@@ -1,6 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-LIVERMORE,4,Assessing,Assessing,,Investigating,Investigating,-7812733.551118419,5524250.280876977
-WINDSOR,55,Assessing,Assessing,,Investigating,Investigating,-7750536.9285101835,5513486.336001191
+AUGUSTA,13,Assessing,Assessing,,Investigating,Investigating,-7754287.7420246545,5518630.825038454
+HARTFORD,78,Assessing,Assessing,,Investigating,Investigating,-7831486.145841951,5530713.871305707
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -133,7 +133,11 @@ HARPSWELL,57,Assessing,Assessing,,Assessing,Investigating,-7787423.117105811,543
 HARPSWELL,5,Assessing,Assessing,,Assessing,Investigating,-7787506.784869166,5437350.180076456
 HARPSWELL,18,Assessing,Assessing,,Assessing,Investigating,-7787505.682735367,5440257.527075236
 "BRUNSWICK,SIDNEY",2280,Assessing,Assessing,,Assessing,Investigating,-7789534.012985508,5450595.8908616025
-"BRUNSWICK,FREEPORT",378,Assessing,Assessing,,Assessing,Investigating,-7791035.2230416285,5451869.095048536
+"BRUNSWICK,FREEPORT",75,Assessing,Assessing,,Assessing,Investigating,-7791035.2230416285,5451869.095048536
+BRUNSWICK,11,Assessing,Assessing,,Assessing,Investigating,-7794220.941950953,5451380.163584924
+BRUNSWICK,17,Assessing,Assessing,,Assessing,Investigating,-7794522.550992529,5451213.22628519
+BRUNSWICK,20,Assessing,Assessing,,Assessing,Investigating,-7794039.012586913,5451546.083934813
+BRUNSWICK,238,Assessing,Assessing,,Assessing,Investigating,-7794031.220163546,5451650.0909415195
 "BRUNSWICK,FREEPORT",192,Assessing,Assessing,,Assessing,Investigating,-7794168.1431444,5451608.494139849
 BRUNSWICK,447,Assessing,Assessing,,Assessing,Investigating,-7790339.309288683,5452075.448516607
 BRUNSWICK,153,Assessing,Assessing,,Assessing,Investigating,-7793264.273391434,5454863.173619032
@@ -312,6 +316,8 @@ SOMERVILLE PLT,20,Assessing,Assessing,,Assessing,Investigating,-7735478.51500309
 "SOMERVILLE PLT,CHINA,PALERMO",28,Assessing,Assessing,,Assessing,Investigating,-7735103.234688913,5515528.116780826
 "SOMERVILLE PLT,WINDSOR",24,Assessing,Assessing,,Assessing,Investigating,-7737303.397700276,5513120.691422145
 SOMERVILLE PLT,40,Assessing,Assessing,,Assessing,Investigating,-7737286.3323962195,5513127.816188146
+WINDSOR,55,Assessing,Assessing,,Assessing,Investigating,-7750536.925106376,5513486.343136313
+WINDSOR,3,Assessing,Assessing,,Assessing,Investigating,-7745479.725234618,5515307.041160357
 CHINA,2,Assessing,Assessing,,Assessing,Investigating,-7744882.785579969,5521739.529177882
 WHITEFIELD,7,Assessing,Assessing,,Assessing,Investigating,-7750694.264142339,5506110.991290402
 JEFFERSON,4,Assessing,Assessing,,Assessing,Investigating,-7736522.19086448,5499782.245723997
@@ -599,7 +605,6 @@ TOPSHAM,54,Assessing,Assessing,,Assessing,Investigating,-7790773.143552111,54623
 TOPSHAM,52,Assessing,Assessing,,Assessing,Investigating,-7789873.303610388,5460193.634123497
 TOPSHAM,36,Assessing,Assessing,,Assessing,Investigating,-7788838.666868003,5456349.695013743
 TOPSHAM,16,Assessing,Assessing,,Assessing,Investigating,-7786248.106519448,5455387.751746842
-TOPSHAM,67,Assessing,Assessing,,Assessing,Investigating,-7786246.993273205,5455383.655247479
 TOPSHAM,57,Assessing,Assessing,,Assessing,Investigating,-7784713.444815285,5455278.400293556
 TOPSHAM,6,Assessing,Assessing,,Assessing,Investigating,-7785202.482477138,5455785.950707891
 TOPSHAM,4,Assessing,Assessing,,Assessing,Investigating,-7784954.38473974,5456084.251994581
@@ -994,8 +999,3 @@ GRAY,6,Assessing,Assessing,,Assessing,Investigating,-7831790.947357395,5453872.7
 "GRAY,NEW GLOUCESTER",254,Assessing,Assessing,,Assessing,Investigating,-7831646.098403672,5454679.216713511
 GRAY,9,Assessing,Assessing,,Assessing,Investigating,-7831899.684184758,5455622.720952566
 GRAY,20,Assessing,Assessing,,Assessing,Investigating,-7831901.298291699,5455621.345037256
-GRAY,34,Assessing,Assessing,,Assessing,Investigating,-7832013.775506301,5455677.908575341
-GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7831825.845925208,5453696.722470043
-GRAY,12,Assessing,Assessing,,Assessing,Investigating,-7831668.317777543,5453236.362154505
-"GRAY,RAYMOND,NEW GLOUCESTER",725,Assessing,Assessing,,Assessing,Investigating,-7832057.3459820375,5452925.851890285
-GRAY,174,Assessing,Assessing,,Assessing,Investigating,-7836792.342757851,5453407.879906638
