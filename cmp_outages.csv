@@ -1,10 +1,6 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-HARTFORD,23,Assessing,Assessing,,Investigating,Investigating,-7833077.856210251,5531355.1042790115
 PORTLAND,5,Assessing,Assessing,,Investigating,Investigating,-7829358.417919327,5416991.8511672625
-LIVERMORE,17,Assessing,Assessing,,Investigating,Investigating,-7812735.1222772775,5524244.697289228
 WINTERPORT; HAMPDEN,94,Assessing,Assessing,,Investigating,Investigating,-7672441.734465226,5570265.866310183
-WINTERPORT,44,Assessing,Assessing,,Investigating,Investigating,-7671194.590928357,5569448.204095363
-SACO; SCARBOROUGH,233,Assessing,Assessing,,Investigating,Investigating,-7846729.780197792,5395585.086979756
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -606,7 +602,6 @@ TOPSHAM,57,Assessing,Assessing,,Assessing,Investigating,-7784713.444815285,54552
 TOPSHAM,6,Assessing,Assessing,,Assessing,Investigating,-7785202.482477138,5455785.950707891
 TOPSHAM,4,Assessing,Assessing,,Assessing,Investigating,-7784954.38473974,5456084.251994581
 TOPSHAM,37,Assessing,Assessing,,Assessing,Investigating,-7784745.449243209,5456283.975040766
-"TOPSHAM,BOWDOINHAM,RICHMOND",806,Assessing,Assessing,,Assessing,Investigating,-7784172.320844491,5457283.846327018
 BOWDOINHAM,154,Assessing,Assessing,,Assessing,Investigating,-7779504.371726368,5467224.437456623
 BOWDOINHAM,103,Assessing,Assessing,,Assessing,Investigating,-7777596.455876255,5469097.572295059
 BOWDOINHAM,16,Assessing,Assessing,,Assessing,Investigating,-7781890.24893877,5476517.87818874
@@ -999,3 +994,8 @@ GRAY,34,Assessing,Assessing,,Assessing,Investigating,-7832013.775506301,5455677.
 GRAY,21,Assessing,Assessing,,Assessing,Investigating,-7831825.845925208,5453696.722470043
 GRAY,12,Assessing,Assessing,,Assessing,Investigating,-7831668.317777543,5453236.362154505
 "GRAY,RAYMOND,NEW GLOUCESTER",725,Assessing,Assessing,,Assessing,Investigating,-7832057.3459820375,5452925.851890285
+GRAY,174,Assessing,Assessing,,Assessing,Investigating,-7836792.342757851,5453407.879906638
+GRAY,22,Assessing,Assessing,,Assessing,Investigating,-7830958.166185797,5450592.893486603
+GRAY,48,Assessing,Assessing,,Assessing,Investigating,-7830783.227647759,5450255.45091344
+GRAY,83,Assessing,Assessing,,Assessing,Investigating,-7833831.155304229,5443946.853501939
+GRAY,228,Assessing,Assessing,,Assessing,Investigating,-7834241.501173161,5443703.258876381
