@@ -1,8 +1,23 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WINDHAM,4,Assessing,Assessing,,Investigating,Investigating,-7839049.765369483,5424172.866407814
-WINDHAM,13,Assessing,Assessing,,Investigating,Investigating,-7835197.607603399,5431031.700481895
-WINDHAM,11,Assessing,Assessing,,Investigating,Investigating,-7834018.274578209,5432559.563150582
-OLD ORCHARD BEACH,33,Assessing,Assessing,,Investigating,Investigating,-7834661.146752825,5394254.26673668
+NORWAY,21,Assessing,Assessing,,Investigating,Investigating,-7852267.629040536,5497879.110725507
+ELIOT,3,Assessing,Assessing,,Investigating,Investigating,-7877861.76464791,5336498.0815222375
+NORWAY,7,Assessing,Assessing,,Investigating,Investigating,-7857509.660625429,5499396.67764974
+NORWAY,26,Assessing,Assessing,,Investigating,Investigating,-7851122.469671651,5499183.977802959
+ARUNDEL,14,Assessing,Assessing,,Investigating,Investigating,-7849677.140472333,5383354.197366014
+NORWAY,7,Assessing,Assessing,,Investigating,Investigating,-7851928.788119083,5497850.392864445
+NORWAY,32,Assessing,Assessing,,Investigating,Investigating,-7856060.456187911,5501064.732342317
+NORWAY,17,Assessing,Assessing,,Investigating,Investigating,-7853842.326363281,5500903.876791383
+NORWAY; WATERFORD; OTISFIELD,137,Assessing,Assessing,,Investigating,Investigating,-7856469.286560293,5498363.234341748
+NORWAY,18,Assessing,Assessing,,Investigating,Investigating,-7852535.260845692,5497954.579776268
+NORWAY,139,Assessing,Assessing,,Investigating,Investigating,-7852985.715415021,5498376.740034129
+NORWAY,69,Assessing,Assessing,,Investigating,Investigating,-7856639.178548883,5498508.482024406
+NORWAY,13,Assessing,Assessing,,Investigating,Investigating,-7852110.278291461,5498326.775427038
+DRESDEN; PITTSTON,57,Assessing,Assessing,,Investigating,Investigating,-7759122.378243602,5482091.618845624
+POLAND,5,Assessing,Assessing,,Investigating,Investigating,-7829133.575315302,5478121.053900743
+NORWAY,25,Assessing,Assessing,,Investigating,Investigating,-7858822.683111648,5501212.173873983
+GREENWOOD,3,Assessing,Assessing,,Investigating,Investigating,-7864022.253762897,5509460.032627844
+DRESDEN; PITTSTON; ALNA,23,Assessing,Assessing,,Investigating,Investigating,-7761519.971471706,5482026.950692658
+NORWAY,3,Assessing,Assessing,,Investigating,Investigating,-7856079.945605686,5501138.856937799
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -12,7 +27,6 @@ PARSONSFIELD,35,Assessing,Assessing,,Assessing,Investigating,-7902346.409416152,
 FRYEBURG,27,Assessing,Assessing,,Assessing,Investigating,-7903901.487075316,5482161.230246738
 FRYEBURG,47,Assessing,Assessing,,Assessing,Investigating,-7903672.881358607,5482527.274317301
 STOW,5,Assessing,Assessing,,Assessing,Investigating,-7904259.612985694,5500487.377523889
-AUGUSTA,1,Assessing,Assessing,,Assessing,Investigating,-7764043.007328779,5516210.858344788
 AUGUSTA,13,Assessing,Assessing,,Assessing,Investigating,-7754287.746329475,5518630.819579102
 WINDSOR,24,Assessing,Assessing,,Assessing,Investigating,-7750318.549742216,5520145.257794746
 WEST BATH,3,Assessing,Assessing,,Assessing,Investigating,-7774348.030669254,5444143.39524069
@@ -34,7 +48,6 @@ PHIPPSBURG,2,Assessing,Assessing,,Assessing,Investigating,-7771519.380086374,544
 PHIPPSBURG,110,Assessing,Assessing,,Assessing,Investigating,-7771760.987958581,5444011.12675726
 BATH,24,Assessing,Assessing,,Assessing,Investigating,-7772041.112348776,5454734.1050831005
 BATH,9,Assessing,Assessing,,Assessing,Investigating,-7771556.805783235,5454094.662763567
-CHELSEA,13,Assessing,Assessing,,Assessing,Investigating,-7760897.597143764,5504245.71993266
 CHELSEA,1,Assessing,Assessing,,Assessing,Investigating,-7758667.60053466,5504502.335076208
 CHELSEA,3,Assessing,Assessing,,Assessing,Investigating,-7759625.360115549,5505933.47956377
 CHELSEA,4,Assessing,Assessing,,Assessing,Investigating,-7759001.436553286,5506726.69795134
@@ -245,12 +258,8 @@ FREEPORT,86,Assessing,Assessing,,Assessing,Investigating,-7803802.143796668,5443
 FREEPORT,60,Assessing,Assessing,,Assessing,Investigating,-7807188.582905769,5442103.441022928
 FREEPORT,42,Assessing,Assessing,,Assessing,Investigating,-7808871.321677423,5443128.988737489
 FREEPORT,72,Assessing,Assessing,,Assessing,Investigating,-7809074.880555006,5443381.13644796
-FREEPORT,4,Assessing,Assessing,,Assessing,Investigating,-7801232.756350491,5443265.49003724
 FREEPORT,17,Assessing,Assessing,,Assessing,Investigating,-7798302.871839501,5446314.974057929
-FREEPORT,8,Assessing,Assessing,,Assessing,Investigating,-7798137.250732021,5446353.581768806
-FREEPORT,2,Assessing,Assessing,,Assessing,Investigating,-7797338.711493165,5446684.286828883
 FREEPORT,37,Assessing,Assessing,,Assessing,Investigating,-7801696.234999851,5438961.007577748
-FREEPORT,10,Assessing,Assessing,,Assessing,Investigating,-7799951.992176403,5441550.3396514235
 "FREEPORT,PROUT RD",65,Assessing,Assessing,,Assessing,Investigating,-7801472.850227819,5446910.508731501
 FREEPORT,32,Assessing,Assessing,,Assessing,Investigating,-7800561.388475857,5448614.084547394
 DURHAM,137,Assessing,Assessing,,Assessing,Tree,-7805575.140409056,5452249.587038264
@@ -371,12 +380,13 @@ WISCASSET,25,Assessing,Assessing,,Assessing,Investigating,-7753823.388195555,546
 WISCASSET,4,Assessing,Assessing,,Assessing,Investigating,-7754145.624728934,5469451.746962258
 WISCASSET,12,Assessing,Assessing,,Assessing,Investigating,-7753718.091118881,5468827.410428412
 WISCASSET,54,Assessing,Assessing,,Assessing,Investigating,-7753454.965257989,5469093.0208071275
-"WISCASSET,PITTSTON,DRESDEN,ALNA",344,Assessing,Assessing,,Assessing,Investigating,-7756728.915939931,5472965.252367061
 WISCASSET,28,Assessing,Assessing,,Assessing,Investigating,-7757415.512362429,5474426.158411671
 WISCASSET,28,Assessing,Assessing,,Assessing,Investigating,-7759033.563418277,5471910.554640829
+WISCASSET,37,Assessing,Assessing,,Assessing,Investigating,-7758470.175423629,5476617.117268719
 WISCASSET,6,Assessing,Assessing,,Assessing,Investigating,-7758226.942332044,5477292.28149989
 DRESDEN,6,Assessing,Assessing,,Assessing,Investigating,-7760684.70972318,5480463.820279286
-"DRESDEN,PITTSTON,ALNA",144,Assessing,Assessing,,Assessing,Investigating,-7761557.187433772,5481983.996346129
+DRESDEN,22,Assessing,Assessing,,Assessing,Investigating,-7760214.440572074,5482508.452322009
+"DRESDEN,ALNA",40,Assessing,Assessing,,Assessing,Investigating,-7759122.975211889,5482089.573481139
 WISCASSET,63,Assessing,Assessing,,Assessing,Investigating,-7755394.150713411,5471025.130888581
 THOMASTON,5,Assessing,Assessing,,Assessing,Investigating,-7697095.855156288,5479720.721128594
 RICHMOND,76,Assessing,Assessing,,Assessing,Investigating,-7772375.059692031,5482096.162428559
@@ -728,10 +738,8 @@ FRYEBURG,20,Assessing,Assessing,,Assessing,Investigating,-7899744.316357099,5471
 FRYEBURG,1,4/5/2024 8:00:00 PM,4/5/2024 8:00:00 PM,,Assessing,Investigating,-7899476.258975525,5471096.453364221
 FRYEBURG,2,4/5/2024 8:00:00 PM,4/5/2024 8:00:00 PM,,Assessing,Investigating,-7898943.383738927,5472452.353313519
 BRIDGTON,2,Assessing,Assessing,,Assessing,Investigating,-7870521.814511024,5476004.408421747
-"BRIDGTON,SWEDEN,HARRISON",37,Assessing,Assessing,,Assessing,Investigating,-7870393.051264735,5476689.16504299
-BRIDGTON,44,Assessing,Assessing,,Assessing,Investigating,-7869916.214261125,5480984.747974314
+BRIDGTON,118,Assessing,Assessing,,Assessing,Investigating,-7869916.214261125,5480984.747974314
 BRIDGTON,64,Assessing,Assessing,,Assessing,Investigating,-7870378.835750928,5481318.469719138
-BRIDGTON,67,Assessing,Assessing,,Assessing,Investigating,-7870441.475273848,5481549.31347962
 BRIDGTON,7,Assessing,Assessing,,Assessing,Investigating,-7870649.408948876,5482035.730505842
 BRIDGTON,4,Assessing,Assessing,,Assessing,Investigating,-7869631.347662175,5481609.8351864
 "BRIDGTON,HARRISON",83,Assessing,Assessing,,Assessing,Investigating,-7869628.152785617,5481611.742002039
@@ -898,9 +906,7 @@ SEBAGO,119,Assessing,Assessing,,Assessing,Investigating,-7871001.423417689,54509
 SEBAGO,40,Assessing,Assessing,,Assessing,Investigating,-7872210.453287542,5458073.68416422
 "SEBAGO,BRIDGTON",43,Assessing,Assessing,,Assessing,Investigating,-7872137.249638422,5458260.86353393
 DENMARK,36,Assessing,Assessing,,Assessing,Investigating,-7877072.755077204,5460826.354991975
-FRYEBURG,16,Assessing,Assessing,,Assessing,Investigating,-7901375.547667811,5468209.1226137355
 FRYEBURG,35,Assessing,Assessing,,Assessing,Investigating,-7902264.044110855,5466998.999639378
-FRYEBURG,37,Assessing,Assessing,,Assessing,Investigating,-7900983.714122826,5467710.6989550255
 FRYEBURG,36,Assessing,Assessing,,Assessing,Investigating,-7898472.012454007,5466571.619587007
 FRYEBURG,55,Assessing,Assessing,,Assessing,Investigating,-7897640.533840581,5465881.3034602385
 "GRAY,NEW GLOUCESTER,DURHAM,POWNAL",6,Assessing,Assessing,,Assessing,Investigating,-7829152.797834289,5447670.634941432
@@ -979,8 +985,6 @@ AUBURN,58,Assessing,Assessing,,Assessing,Investigating,-7822105.639568441,548090
 AUBURN,14,Assessing,Assessing,,Assessing,Investigating,-7821962.749807974,5479278.132777212
 AUBURN,16,Assessing,Assessing,,Assessing,Investigating,-7821793.277088745,5476885.01393001
 AUBURN,17,Assessing,Assessing,,Assessing,Investigating,-7821493.315591545,5477187.441445454
-"AUBURN,MINOT",1003,Assessing,Assessing,,Assessing,Investigating,-7820908.175746406,5478071.957133011
-AUBURN,104,Assessing,Assessing,,Assessing,Investigating,-7822584.480315179,5485128.034433842
 AUBURN,10,Assessing,Assessing,,Assessing,Investigating,-7822456.340466758,5483857.822612199
 AUBURN,16,Assessing,Assessing,,Assessing,Investigating,-7822457.186513885,5483727.756492891
 AUBURN,16,Assessing,Assessing,,Assessing,Investigating,-7824711.417352432,5483567.037017634
@@ -995,7 +999,3 @@ AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7824837.776106969,548766
 "AUBURN,MINOT",58,Assessing,Assessing,,Assessing,Investigating,-7823624.493776623,5489768.308926411
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7822930.761866178,5492634.502127862
 "AUBURN,MINOT",79,Assessing,Assessing,,Assessing,Investigating,-7823536.440103386,5491933.063660014
-AUBURN,8,Assessing,Assessing,,Assessing,Investigating,-7823539.122906697,5491349.219410182
-AUBURN,52,Assessing,Assessing,,Assessing,Investigating,-7819390.189810225,5481946.912874713
-"POLAND,NEW GLOUCESTER",21,Assessing,Assessing,,Assessing,Investigating,-7827981.449647866,5471969.355713936
-NEW GLOUCESTER,13,Assessing,Assessing,,Assessing,Investigating,-7827752.008996474,5470417.564380144
