@@ -1,7 +1,7 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-BUXTON; SACO; HOLLIS,361,Assessing,Assessing,,Investigating,Investigating,-7853599.950331148,5405713.306259775
-GORHAM,14,Assessing,Assessing,,Investigating,Investigating,-7843308.068802506,5414307.675671901
-WINDHAM; SOUTH PORTLAND,819,Assessing,Assessing,,Investigating,Investigating,-7838725.102219583,5423589.807056783
+WINDHAM,4,Assessing,Assessing,,Investigating,Investigating,-7839049.765369483,5424172.866407814
+WINDHAM,13,Assessing,Assessing,,Investigating,Investigating,-7835197.607603399,5431031.700481895
+WINDHAM,11,Assessing,Assessing,,Investigating,Investigating,-7834018.274578209,5432559.563150582
 OLD ORCHARD BEACH,33,Assessing,Assessing,,Investigating,Investigating,-7834661.146752825,5394254.26673668
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
@@ -459,7 +459,6 @@ JEFFERSON,10,Assessing,Assessing,,Assessing,Investigating,-7731361.96475818,5495
 SOUTH THOMASTON,8,Assessing,Assessing,,Assessing,Investigating,-7700653.904377358,5473019.413860042
 ST GEORGE,5,Assessing,Assessing,,Assessing,Investigating,-7701505.765608464,5469993.493339859
 ST GEORGE,17,Assessing,Assessing,,Assessing,Investigating,-7701297.420072376,5466319.686272189
-ST GEORGE,10,Assessing,Assessing,,Assessing,Investigating,-7699878.26357255,5467064.1771715935
 ST GEORGE,18,Assessing,Assessing,,Assessing,Investigating,-7710406.426810931,5457451.110257592
 ST GEORGE,19,Assessing,Assessing,,Assessing,Investigating,-7711492.415239865,5457828.864630862
 ST GEORGE,45,Assessing,Assessing,,Assessing,Investigating,-7709300.868474116,5453538.16629789
@@ -507,7 +506,6 @@ WALDOBORO,11,Assessing,Assessing,,Assessing,Investigating,-7717814.73897689,5492
 WALDOBORO,5,Assessing,Assessing,,Assessing,Investigating,-7719741.178363506,5494630.063350758
 "WALDOBORO,WARREN",5,Assessing,Assessing,,Assessing,Investigating,-7718091.980139409,5492351.601537764
 WARREN,13,Assessing,Assessing,,Assessing,Investigating,-7716602.447455728,5491459.110286739
-"WALDOBORO,WARREN",60,Assessing,Assessing,,Assessing,Investigating,-7718546.352895024,5491810.487433456
 WALDOBORO,23,Assessing,Assessing,,Assessing,Investigating,-7722951.075940069,5480314.721369745
 FRIENDSHIP,31,Assessing,Assessing,,Assessing,Investigating,-7716851.658339256,5462177.026067842
 WALDOBORO,207,Assessing,Assessing,,Assessing,Investigating,-7725505.034414011,5475644.852765819
@@ -999,3 +997,5 @@ AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7822930.761866178,549263
 "AUBURN,MINOT",79,Assessing,Assessing,,Assessing,Investigating,-7823536.440103386,5491933.063660014
 AUBURN,8,Assessing,Assessing,,Assessing,Investigating,-7823539.122906697,5491349.219410182
 AUBURN,52,Assessing,Assessing,,Assessing,Investigating,-7819390.189810225,5481946.912874713
+"POLAND,NEW GLOUCESTER",21,Assessing,Assessing,,Assessing,Investigating,-7827981.449647866,5471969.355713936
+NEW GLOUCESTER,13,Assessing,Assessing,,Assessing,Investigating,-7827752.008996474,5470417.564380144
