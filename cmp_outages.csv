@@ -2,8 +2,9 @@ BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
 NORWAY,21,Assessing,Assessing,,Investigating,Investigating,-7852267.629040536,5497879.110725507
 ELIOT,3,Assessing,Assessing,,Investigating,Investigating,-7877861.76464791,5336498.0815222375
 NORWAY,7,Assessing,Assessing,,Investigating,Investigating,-7857509.660625429,5499396.67764974
+BATH,14,Assessing,Assessing,,Investigating,Investigating,-7774799.828742595,5460129.991111162
+OLD ORCHARD BEACH,33,Assessing,Assessing,,Investigating,Investigating,-7834661.146752825,5394254.26673668
 NORWAY,26,Assessing,Assessing,,Investigating,Investigating,-7851122.469671651,5499183.977802959
-ARUNDEL,14,Assessing,Assessing,,Investigating,Investigating,-7849677.140472333,5383354.197366014
 NORWAY,7,Assessing,Assessing,,Investigating,Investigating,-7851928.788119083,5497850.392864445
 NORWAY,32,Assessing,Assessing,,Investigating,Investigating,-7856060.456187911,5501064.732342317
 NORWAY,17,Assessing,Assessing,,Investigating,Investigating,-7853842.326363281,5500903.876791383
@@ -12,11 +13,10 @@ NORWAY,18,Assessing,Assessing,,Investigating,Investigating,-7852535.260845692,54
 NORWAY,139,Assessing,Assessing,,Investigating,Investigating,-7852985.715415021,5498376.740034129
 NORWAY,69,Assessing,Assessing,,Investigating,Investigating,-7856639.178548883,5498508.482024406
 NORWAY,13,Assessing,Assessing,,Investigating,Investigating,-7852110.278291461,5498326.775427038
-DRESDEN; PITTSTON,57,Assessing,Assessing,,Investigating,Investigating,-7759122.378243602,5482091.618845624
 POLAND,5,Assessing,Assessing,,Investigating,Investigating,-7829133.575315302,5478121.053900743
 NORWAY,25,Assessing,Assessing,,Investigating,Investigating,-7858822.683111648,5501212.173873983
 GREENWOOD,3,Assessing,Assessing,,Investigating,Investigating,-7864022.253762897,5509460.032627844
-DRESDEN; PITTSTON; ALNA,23,Assessing,Assessing,,Investigating,Investigating,-7761519.971471706,5482026.950692658
+SABATTUS,33,Assessing,Assessing,,Investigating,Investigating,-7799407.995489698,5479488.035163618
 NORWAY,3,Assessing,Assessing,,Investigating,Investigating,-7856079.945605686,5501138.856937799
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
@@ -490,6 +490,7 @@ BOWDOIN,29,Assessing,Assessing,,Assessing,Investigating,-7786800.00625336,548132
 BOWDOIN,4,Assessing,Assessing,,Assessing,Investigating,-7786528.075035149,5481287.062759307
 BOWDOIN,44,Assessing,Assessing,,Assessing,Investigating,-7783775.667203564,5475728.27991391
 BOWDOIN,2,Assessing,Assessing,,Assessing,Investigating,-7783721.654938582,5476687.5846165065
+TOPSHAM,12,Assessing,Assessing,,Assessing,Investigating,-7787269.140033456,5463762.299604476
 TOPSHAM,8,Assessing,Assessing,,Assessing,Investigating,-7790633.771629752,5463572.764692269
 TOPSHAM,8,Assessing,Assessing,,Assessing,Investigating,-7790786.8469926715,5462760.98051656
 BOWDOINHAM,5,Assessing,Assessing,,Assessing,Investigating,-7780142.477365003,5464937.30237252
@@ -995,7 +996,6 @@ AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7825013.471592385,5482976
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7824292.655662256,5484186.392321104
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7824837.776106969,5487660.454601522
 "AUBURN,MINOT",29,Assessing,Assessing,,Assessing,Investigating,-7824904.211579332,5487493.181952088
-"AUBURN,MINOT",174,Assessing,Assessing,,Assessing,Investigating,-7822584.769739182,5485130.1436572075
-"AUBURN,MINOT",58,Assessing,Assessing,,Assessing,Investigating,-7823624.493776623,5489768.308926411
-AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7822930.761866178,5492634.502127862
-"AUBURN,MINOT",79,Assessing,Assessing,,Assessing,Investigating,-7823536.440103386,5491933.063660014
+AUBURN,52,Assessing,Assessing,,Assessing,Investigating,-7819390.189810225,5481946.912874713
+"POLAND,NEW GLOUCESTER",21,Assessing,Assessing,,Assessing,Investigating,-7827981.449647866,5471969.355713936
+NEW GLOUCESTER,13,Assessing,Assessing,,Assessing,Investigating,-7827752.008996474,5470417.564380144
