@@ -1,6 +1,5 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-RICHMOND,5,Assessing,Assessing,,Investigating,Investigating,-7779877.424847276,5482334.4288828485
-LIMINGTON,37,Assessing,Assessing,,Investigating,Investigating,-7871386.591400793,5424142.213623506
+NORTH YARMOUTH,11,Assessing,Assessing,,Investigating,Investigating,-7815489.053614377,5440705.222026885
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -382,6 +381,7 @@ ROCKLAND,26,Assessing,Assessing,,Assessing,Investigating,-7693369.001063614,5481
 THOMASTON,5,Assessing,Assessing,,Assessing,Investigating,-7697095.855156288,5479720.721128594
 RICHMOND,76,Assessing,Assessing,,Assessing,Investigating,-7772375.059692031,5482096.162428559
 BOWDOINHAM,33,Assessing,Assessing,,Assessing,Investigating,-7773506.744776895,5476848.911726716
+RICHMOND,5,Assessing,Assessing,,Assessing,Investigating,-7779877.4256481705,5482334.436551431
 RICHMOND,2,Assessing,Assessing,,Assessing,Investigating,-7778267.16691558,5487135.0211625835
 RICHMOND,7,Assessing,Assessing,,Assessing,Investigating,-7778864.173344975,5486871.741713693
 RICHMOND,15,Assessing,Assessing,,Assessing,Investigating,-7779444.147907749,5485476.733881904
@@ -531,7 +531,7 @@ WEST GARDINER,81,Assessing,Assessing,,Assessing,Investigating,-7778626.450521959
 WEST GARDINER,31,Assessing,Assessing,,Assessing,Investigating,-7778928.449199717,5499056.71257926
 WEST GARDINER,4,Assessing,Assessing,,Assessing,Investigating,-7777145.578533646,5497238.953946123
 WEST GARDINER,15,Assessing,Assessing,,Assessing,Investigating,-7772852.1750072,5496665.547505821
-LITCHFIELD,9,4/5/2024 11:45:00 PM,4/5/2024 11:45:00 PM,,Assessing,Investigating,-7783971.144233783,5485884.709138402
+LITCHFIELD,9,Assessing,Assessing,,Assessing,Investigating,-7783971.144233783,5485884.709138402
 "LITCHFIELD,BOWDOIN",48,Assessing,Assessing,,Assessing,Investigating,-7782490.160820728,5482799.064887336
 BOWDOIN,14,Assessing,Assessing,,Assessing,Investigating,-7783933.406888044,5482791.281586418
 LITCHFIELD,13,Assessing,Assessing,,Assessing,Investigating,-7776532.809258252,5492731.5256569125
@@ -867,6 +867,7 @@ GREENE,8,Assessing,Assessing,,Assessing,Investigating,-7811742.551926863,5492123
 GREENE,10,Assessing,Assessing,,Assessing,Investigating,-7809946.990754178,5489514.09265716
 "GREENE,LEWISTON",170,Assessing,Assessing,,Assessing,Investigating,-7809968.4420682285,5489382.891158277
 GREENE,20,Assessing,Assessing,,Assessing,Investigating,-7808609.487162149,5490219.395636562
+DENMARK,6,Assessing,Assessing,,Assessing,Investigating,-7882248.04274443,5460945.006621519
 BROWNFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7889966.067924103,5459796.141105388
 BROWNFIELD,22,Assessing,Assessing,,Assessing,Investigating,-7894360.0040935865,5453849.887330936
 "BROWNFIELD,FRYEBURG",66,Assessing,Assessing,,Assessing,Investigating,-7895441.740062034,5455348.193988951
@@ -998,4 +999,3 @@ MINOT,15,Assessing,Assessing,,Assessing,Investigating,-7826425.514829139,5485850
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7825013.471592385,5482976.795197679
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7824292.655662256,5484186.392321104
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7824837.776106969,5487660.454601522
-"AUBURN,MINOT",29,Assessing,Assessing,,Assessing,Investigating,-7824904.211579332,5487493.181952088
