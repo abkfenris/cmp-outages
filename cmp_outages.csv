@@ -1,5 +1,4 @@
 BgName,NumOut,EtrMin,EtrMax,Desc,Status,Cause,x,y
-WEST BATH,41,Assessing,Assessing,,Investigating,Investigating,-7777735.854027981,5448155.985958249
 "ACTON,LEBANON",131,Assessing,Assessing,,Assessing,Investigating,-7899462.511085206,5387238.864128128
 "ACTON,LEBANON",27,Assessing,Assessing,,Assessing,Investigating,-7897881.184240928,5384931.249417061
 ACTON,12,Assessing,Assessing,,Assessing,Investigating,-7899388.33885179,5387060.423577151
@@ -475,8 +474,7 @@ TOPSHAM,24,Assessing,Assessing,,Assessing,Investigating,-7791081.954956496,54573
 TOPSHAM,2,Assessing,Assessing,,Assessing,Investigating,-7791482.682858431,5455083.877414308
 TOPSHAM,2,Assessing,Assessing,,Assessing,Investigating,-7787987.952220463,5462124.630249324
 BOWDOIN,13,Assessing,Assessing,,Assessing,Investigating,-7787389.097822321,5470436.8880705
-BOWDOIN,13,Assessing,Assessing,,Assessing,Investigating,-7789283.54409368,5471145.710553712
-BOWDOIN,151,Assessing,Assessing,,Assessing,Investigating,-7789284.000504618,5471961.782986636
+BOWDOIN,2,Assessing,Assessing,,Assessing,Investigating,-7791465.951628359,5478553.029018523
 BOWDOIN,101,Assessing,Assessing,,Assessing,Investigating,-7786872.608829595,5470601.867829422
 BOWDOIN,20,Assessing,Assessing,,Assessing,Investigating,-7786796.789151915,5481327.305873663
 BOWDOIN,29,Assessing,Assessing,,Assessing,Investigating,-7786800.00625336,5481324.531129786
@@ -545,7 +543,6 @@ WINTHROP,16,Assessing,Assessing,,Assessing,Investigating,-7788741.362538958,5510
 WINTHROP,11,Assessing,Assessing,,Assessing,Investigating,-7787980.905632036,5507930.25074013
 MONMOUTH,9,Assessing,Assessing,,Assessing,Investigating,-7788142.875552123,5507210.413310288
 WINTHROP,28,Assessing,Assessing,,Assessing,Investigating,-7788289.516712161,5509237.66043919
-WINTHROP,41,Assessing,Assessing,,Assessing,Investigating,-7788645.81697879,5509413.603717027
 WINTHROP,22,Assessing,Assessing,,Assessing,Investigating,-7786322.590401745,5511604.074084215
 WINTHROP,32,Assessing,Assessing,,Assessing,Investigating,-7788469.041684566,5512215.562451926
 WINTHROP,3,Assessing,Assessing,,Assessing,Investigating,-7790422.487203665,5511518.110636232
@@ -607,6 +604,7 @@ WOOLWICH,94,Assessing,Assessing,,Assessing,Investigating,-7770321.493390947,5465
 WOOLWICH,245,Assessing,Assessing,,Assessing,Investigating,-7768977.677832877,5457693.677746657
 WEST BATH,14,Assessing,Assessing,,Assessing,Investigating,-7775888.469740996,5450553.495436808
 WEST BATH,15,Assessing,Assessing,,Assessing,Investigating,-7776986.369404175,5450928.648911743
+WEST BATH,41,Assessing,Assessing,,Assessing,Investigating,-7777735.850123607,5448155.9866528
 WEST BATH,4,Assessing,Assessing,,Assessing,Investigating,-7777265.057686699,5451830.974050003
 WEST BATH,11,Assessing,Assessing,,Assessing,Investigating,-7776226.936643748,5450578.076836619
 WEST BATH,6,Assessing,Assessing,,Assessing,Investigating,-7774601.91698678,5450556.724562411
@@ -622,8 +620,6 @@ WEST BATH,21,Assessing,Assessing,,Assessing,Investigating,-7776121.183156141,544
 WEST BATH,4,Assessing,Assessing,,Assessing,Investigating,-7775370.032667449,5448077.72125172
 MANCHESTER,19,Assessing,Assessing,,Assessing,Investigating,-7778406.872911925,5519074.538110386
 READFIELD,4,Assessing,Assessing,,Assessing,Investigating,-7780209.146599053,5523182.877801517
-READFIELD,11,Assessing,Assessing,,Assessing,Investigating,-7779783.627844565,5523643.482002293
-READFIELD,3,Assessing,Assessing,,Assessing,Investigating,-7778973.589232528,5523497.7263452485
 READFIELD,1,Assessing,Assessing,,Assessing,Investigating,-7790619.110817448,5526953.084077023
 READFIELD,32,Assessing,Assessing,,Assessing,Investigating,-7793891.068968817,5526044.058260506
 MOUNT VERNON,11,Assessing,Assessing,,Assessing,Investigating,-7793884.445454006,5533255.257695524
@@ -702,6 +698,7 @@ FRYEBURG,1,4/5/2024 8:00:00 PM,4/5/2024 8:00:00 PM,,Assessing,Investigating,-789
 FRYEBURG,1,Assessing,Assessing,,Assessing,Investigating,-7897034.521629508,5479311.966197307
 FRYEBURG,11,Assessing,Assessing,,Assessing,Investigating,-7903520.685380129,5479428.237769066
 FRYEBURG,7,Assessing,Assessing,,Assessing,Investigating,-7901995.3634315245,5479744.5126204165
+FRYEBURG,2,Assessing,Assessing,,Assessing,Investigating,-7897932.157503843,5475210.532217015
 FRYEBURG,1,4/5/2024 8:00:00 PM,4/5/2024 8:00:00 PM,,Assessing,Investigating,-7898325.504943591,5474701.318362538
 FRYEBURG,1,4/5/2024 8:00:00 PM,4/5/2024 8:00:00 PM,,Assessing,Investigating,-7898742.952963152,5473396.539229589
 FRYEBURG,2,4/5/2024 8:00:00 PM,4/5/2024 8:00:00 PM,,Assessing,Investigating,-7898824.79508276,5473141.07290239
@@ -999,3 +996,6 @@ MINOT,15,Assessing,Assessing,,Assessing,Investigating,-7826425.514829139,5485850
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7825013.471592385,5482976.795197679
 AUBURN,3,Assessing,Assessing,,Assessing,Investigating,-7824292.655662256,5484186.392321104
 AUBURN,12,Assessing,Assessing,,Assessing,Investigating,-7824837.776106969,5487660.454601522
+"AUBURN,MINOT",29,Assessing,Assessing,,Assessing,Investigating,-7824904.211579332,5487493.181952088
+"AUBURN,MINOT",174,Assessing,Assessing,,Assessing,Investigating,-7822584.769739182,5485130.1436572075
+"AUBURN,MINOT",58,Assessing,Assessing,,Assessing,Investigating,-7823624.493776623,5489768.308926411
